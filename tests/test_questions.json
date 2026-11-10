@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What is the approved indication of this medicine?",
+    "expected_answer": "The answer must be supported by a retrieved official source."
+  },
+  {
+    "question": "What is the standard adult posology?",
+    "expected_answer": "The answer must cite the source and include relevant limitations."
+  },
+  {
+    "question": "What are the important contraindications?",
+    "expected_answer": "The answer must be grounded in the official product information."
+  }
+]
+
