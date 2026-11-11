@@ -7,22 +7,36 @@ medicine names, and answer questions with retrieval-augmented generation.
 ## Project structure
 
 ```text
-DawaCheck/
-├── .env
-├── .gitignore
+pharmeazor/
 ├── README.md
+├── .gitignore            # must contain: .env, venv/, __pycache__/
+├── .env.example          # GROQ_API_KEY=your_key_here  (no real key)
+├── requirements.txt
+├── config.py
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── vector_db/
+│   ├── raw/              # original PDFs / HTML, never edited
+│   ├── text/             # converted text files
+│   ├── medicaments_40.xlsx
+│   └── provenance.csv    # source, url, date, language, authority level
+├── cache/
+│   └── llm_cache.json    # saved LLM answers (replay the test set)
 ├── src/
-│   ├── 1_scraper.py
-│   ├── 2_extractor.py
-│   ├── 3_normalizer.py
-│   ├── 4_rag_pipeline.py
-│   └── app.py
-└── tests/
-    └── test_questions.json
+│   ├── llm.py            # Groq call + cache + retry
+│   ├── collect/          # downloading + PDF to text
+│   ├── extract/          # sections: indications, contraindications...
+│   ├── normalize/        # brand / DCI / ATC matching
+│   ├── search/           # BM25 + embeddings
+│   ├── reconcile/        # conflicts between sources
+│   └── verify/           # number checker
+├── app/
+│   └── app.py            # Streamlit interface
+├── tests/
+│   ├── test_questions.csv  # question, expected answer, reference passage
+│   └── run_eval.py         # one-click evaluation
+├── notebooks/            # Colab notebooks (embeddings)
+└── reports/
+    ├── week1.md ...      # copies of weekly reports
+    └── sources_terms.md  # terms of use + robots.txt of each site
 ```
 
 ## Setup
