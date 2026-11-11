@@ -60,6 +60,22 @@ pharmeazor/
 4. Put source PDFs and HTML files in `data/raw/`. Generated files belong in
    `data/processed/`, and local vector indexes belong in `data/vector_db/`.
 
+## Libraries (all installed by `requirements.txt`)
+
+| Library | Used for |
+|---|---|
+| `requests` | Calling the Groq API and downloading documents |
+| `python-dotenv` | Reading the key from `.env` |
+| `pandas`, `openpyxl` | Reading the teacher's Excel list and CSV files |
+| `beautifulsoup4` | Parsing saved web pages (HTML) |
+| `pymupdf` | Reading PDFs (notices, RCP, ANSM table) |
+| `rank_bm25` | Keyword search (BM25) |
+| `rapidfuzz` | Matching drug names with typos |
+| `streamlit` | The web interface |
+
+Embeddings (E5 or BGE-M3) will be computed in Google Colab, so nothing more to install locally for now.
+
+
 ## Safety
 
 This project is for information retrieval and evaluation only. It is not a
