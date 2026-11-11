@@ -1,0 +1,9 @@
+requests
+python-dotenv
+pandas
+openpyxl
+beautifulsoup4
+pymupdf
+rank_bm25
+rapidfuzz
+streamlit

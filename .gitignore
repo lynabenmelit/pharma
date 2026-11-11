@@ -5,3 +5,8 @@ __pycache__/
 .venv/
 venv/
 
+
+.env
+.venv/
+venv/
+__pycache__/
