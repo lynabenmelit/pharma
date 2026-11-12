@@ -60,6 +60,15 @@ pharmeazor/
 4. Put source PDFs and HTML files in `data/raw/`. Generated files belong in
    `data/processed/`, and local vector indexes belong in `data/vector_db/`.
 
+### Run the extraction
+
+```powershell
+python src/extract/extractor.py
+```
+
+The command recursively extracts PDFs, text, and HTML files from `data/raw/`
+into matching `.txt` files under `data/text/`.
+
 ## Libraries (all installed by `requirements.txt`)
 
 | Library | Used for |
