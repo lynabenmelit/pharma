@@ -15,7 +15,10 @@ pharmeazor/
 ├── config.py
 ├── data/
 │   ├── raw/              # original PDFs / HTML, never edited
-│   ├── text/             # converted text files
+│   │   ├── dailyMed/     # DailyMed PDFs
+│   │   ├── anpp/         # ANPP PDFs
+│   │   └── nomenclature/ # extracted Excel subsets
+│   ├── text/             # text extracted from PDFs and HTML
 │   ├── medicaments_40.xlsx
 │   └── provenance.csv    # source, url, date, language, authority level
 ├── cache/
@@ -57,17 +60,29 @@ pharmeazor/
    GEMINI_API_KEY=your_key_here
    ```
 
-4. Put source PDFs and HTML files in `data/raw/`. Generated files belong in
-   `data/processed/`, and local vector indexes belong in `data/vector_db/`.
+4. Put source PDFs and HTML files in `data/raw/`. Generated text files belong
+   in `data/text/`, and local vector indexes belong in `data/vector_db/`.
 
-### Run the extraction
+### Add and extract sources
+
+For a new PDF:
+
+1. Copy it into the appropriate subfolder under `data/raw/`.
+2. Add its source URL and local paths as a row in `data/provenance.csv`.
+3. Run the extractor from the project root:
 
 ```powershell
-python src/extract/extractor.py
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe src\extract\extractor.py
 ```
 
 The command recursively extracts PDFs, text, and HTML files from `data/raw/`
-into matching `.txt` files under `data/text/`.
+into matching `.txt` files under `data/text/`. It is safe to run again after
+adding more documents.
+
+Excel files such as nomenclature subsets are stored in `data/raw/` and
+registered in `data/provenance.csv`; the PDF extractor does not convert Excel
+files into text.
 
 ## Libraries (all installed by `requirements.txt`)
 
