@@ -23,13 +23,12 @@ def main() -> None:
         st.info(pipeline.answer_question(question, documents))
         if documents:
             st.subheader("Sources utilisées")
+            displayed_urls = set()
             for document in documents:
-                source_path = (pipeline.ROOT / document.source).resolve()
-                source_uri = source_path.as_uri()
-                st.markdown(
-                    f"- [{document.title}]({source_uri})  \n"
-                    f"  Lien : `{source_uri}`"
-                )
+                official_url = getattr(document, "official_url", "")
+                if official_url and official_url not in displayed_urls:
+                    st.markdown(f"- [{official_url}]({official_url})")
+                    displayed_urls.add(official_url)
 
 
 if __name__ == "__main__":
