@@ -2,21 +2,11 @@
 
 from __future__ import annotations
 
-import importlib.util
-import sys
-from pathlib import Path
-
-
 def load_pipeline():
-    """Load the numbered pipeline module without requiring package renaming."""
-    module_path = Path(__file__).with_name("4_rag_pipeline.py")
-    spec = importlib.util.spec_from_file_location("rag_pipeline", module_path)
-    if spec is None or spec.loader is None:
-        raise ImportError(f"Could not load pipeline from {module_path}")
-    module = importlib.util.module_from_spec(spec)
-    sys.modules[spec.name] = module
-    spec.loader.exec_module(module)
-    return module
+    """Load the local retrieval pipeline."""
+    from src.search import rag_pipeline
+
+    return rag_pipeline
 
 
 def main() -> None:
@@ -29,7 +19,17 @@ def main() -> None:
     question = st.text_area("Ask a question about a medicine")
     if st.button("Search") and question.strip():
         pipeline = load_pipeline()
-        st.info(pipeline.answer_question(question, []))
+        documents = pipeline.retrieve_documents(question)
+        st.info(pipeline.answer_question(question, documents))
+        if documents:
+            st.subheader("Sources utilisées")
+            for document in documents:
+                source_path = (pipeline.ROOT / document.source).resolve()
+                source_uri = source_path.as_uri()
+                st.markdown(
+                    f"- [{document.title}]({source_uri})  \n"
+                    f"  Lien : `{source_uri}`"
+                )
 
 
 if __name__ == "__main__":

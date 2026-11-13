@@ -51,13 +51,16 @@ pharmeazor/
    .\.venv\Scripts\Activate.ps1
    ```
 
-2. Install the dependencies used by your chosen implementation (for example,
-   Streamlit, Gemini, a PDF parser, and a vector database).
+2. Install the project dependencies:
 
-3. Add your Gemini API key to `.env`:
+   ```powershell
+   .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+   ```
+
+3. Add your Groq API key to `.env`:
 
    ```text
-   GEMINI_API_KEY=your_key_here
+   GROQ_API_KEY=your_key_here
    ```
 
 4. Put source PDFs and HTML files in `data/raw/`. Generated text files belong
@@ -145,7 +148,48 @@ dosages. The flags should be reviewed before any later retrieval step.
 | `rapidfuzz` | Matching drug names with typos |
 | `streamlit` | The web interface |
 
-Embeddings (E5 or BGE-M3) will be computed in Google Colab, so nothing more to install locally for now.
+The Streamlit app currently uses local lexical retrieval over `data/text_clean/`
+(falling back to `data/text/`). It sends the top matching excerpts, not the
+whole corpus, to the Groq LLM. Set `GROQ_API_KEY` in `.env` before asking a
+question.
+
+## Current question-answering workflow
+
+Run the Streamlit application from the repository root:
+
+```powershell
+.\.venv\Scripts\python.exe -m streamlit run app\app.py
+```
+
+For each question, DawaCheck:
+
+1. searches the local cleaned text files;
+2. selects the most relevant excerpts;
+3. sends only those excerpts and the question to Groq;
+4. instructs the model to answer only from the provided sources;
+5. displays clickable links to the exact local source files used.
+
+The expected answer is never sent to the model. It is used only by the
+evaluation script to compare required facts with the model answer.
+
+## Evaluation and comparison
+
+Configure `QID` in `tests/run_eval.py`, then run:
+
+```powershell
+.\.venv\Scripts\python.exe tests\run_eval.py
+```
+
+The evaluator writes:
+
+| Output | Purpose |
+|---|---|
+| `tests/results_week1.csv` | Semicolon-separated comparison data |
+| `tests/results_week1.xlsx` | Excel comparison with separate columns |
+
+The comparison includes the expected answer, LLM answer, matched facts,
+missing facts, factual coverage percentage, and verdict (`correct`,
+`partial`, or `wrong`).
 
 
 ## Safety
