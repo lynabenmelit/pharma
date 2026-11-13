@@ -110,7 +110,13 @@ Run both preparation scripts from the project root:
 - removing empty rows and trimming missing text cells;
 - removing rows without a drug name or DCI;
 - creating normalized DCI names without accents;
+- creating canonical medicine keys from DCI, dosage, and pharmaceutical form;
 - reporting missing values and duplicate rows.
+
+`src/normalize/normalizer.py` resolves a query against the nomenclature table.
+It supports exact DCI, brand, and ATC matches, typo-tolerant matching, and
+explicit `ambiguous` or `unknown` results instead of silently choosing a
+medicine.
 
 The scripts create the following Week 1 outputs:
 

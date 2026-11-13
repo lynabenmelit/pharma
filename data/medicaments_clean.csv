@@ -1,41 +1,41 @@
-n,classe,dci_nom_de_la_substance,code_atc_indicatif,present_dans_la_nomenclature_algerienne,remarques,dci_nom_de_la_substance_norm,dci_missing
-1,Antalgiques et anti-inflammatoires,paracétamol,N02BE01,,,paracetamol,0
-2,Antalgiques et anti-inflammatoires,ibuprofène,M01AE01,,,ibuprofene,0
-3,Antalgiques et anti-inflammatoires,diclofénac,M01AB05,,,diclofenac,0
-4,Antalgiques et anti-inflammatoires,kétoprofène,M01AE03,,,ketoprofene,0
-5,Antalgiques et anti-inflammatoires,naproxène,M01AE02,,,naproxene,0
-6,Antalgiques et anti-inflammatoires,acide acétylsalicylique,N02BA01,,,acide acetylsalicylique,0
-7,Antalgiques et anti-inflammatoires,méloxicam,M01AC06,,,meloxicam,0
-8,Antalgiques et anti-inflammatoires,piroxicam,M01AC01,,,piroxicam,0
-9,Antalgiques et anti-inflammatoires,célécoxib,M01AH01,,,celecoxib,0
-10,Antalgiques et anti-inflammatoires,tramadol,N02AX02,,,tramadol,0
-11,Antalgiques et anti-inflammatoires,paracétamol + codéine,N02AA59,,,paracetamol codeine,0
-12,Antalgiques et anti-inflammatoires,néfopam,N02BG06,,,nefopam,0
-13,Antibiotiques,amoxicilline,J01CA04,,,amoxicilline,0
-14,Antibiotiques,amoxicilline + acide clavulanique,J01CR02,,,amoxicilline acide clavulanique,0
-15,Antibiotiques,céfixime,J01DD08,,,cefixime,0
-16,Antibiotiques,céfuroxime,J01DC02,,,cefuroxime,0
-17,Antibiotiques,ceftriaxone,J01DD04,,,ceftriaxone,0
-18,Antibiotiques,azithromycine,J01FA10,,,azithromycine,0
-19,Antibiotiques,clarithromycine,J01FA09,,,clarithromycine,0
-20,Antibiotiques,ciprofloxacine,J01MA02,,,ciprofloxacine,0
-21,Antibiotiques,lévofloxacine,J01MA12,,,levofloxacine,0
-22,Antibiotiques,doxycycline,J01AA02,,,doxycycline,0
-23,Antibiotiques,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,,,cotrimoxazole sulfamethoxazole trimethoprime,0
-24,Antibiotiques,métronidazole,J01XD01,,,metronidazole,0
-25,Antibiotiques,gentamicine,J01GB03,,,gentamicine,0
-26,Antibiotiques,clindamycine,J01FF01,,,clindamycine,0
-27,Antihypertenseurs,amlodipine,C08CA01,,,amlodipine,0
-28,Antihypertenseurs,nifédipine,C08CA05,,,nifedipine,0
-29,Antihypertenseurs,périndopril,C09AA04,,,perindopril,0
-30,Antihypertenseurs,ramipril,C09AA05,,,ramipril,0
-31,Antihypertenseurs,énalapril,C09AA02,,,enalapril,0
-32,Antihypertenseurs,losartan,C09CA01,,,losartan,0
-33,Antihypertenseurs,valsartan,C09CA03,,,valsartan,0
-34,Antihypertenseurs,bisoprolol,C07AB07,,,bisoprolol,0
-35,Antihypertenseurs,aténolol,C07AB03,,,atenolol,0
-36,Antihypertenseurs,nébivolol,C07AB12,,,nebivolol,0
-37,Antihypertenseurs,hydrochlorothiazide,C03AA03,,,hydrochlorothiazide,0
-38,Antihypertenseurs,indapamide,C03BA11,,,indapamide,0
-39,Antihypertenseurs,spironolactone,C03DA01,,,spironolactone,0
-40,Antihypertenseurs,méthyldopa,C02AB01,,,methyldopa,0
+n,classe,dci_nom_de_la_substance,code_atc_indicatif,present_dans_la_nomenclature_algerienne,remarques,dci_nom_de_la_substance_norm,dci_missing,atc_norm,canonical_key
+1,Antalgiques et anti-inflammatoires,paracétamol,N02BE01,,,paracetamol,0,n02be01,paracetamol||
+2,Antalgiques et anti-inflammatoires,ibuprofène,M01AE01,,,ibuprofene,0,m01ae01,ibuprofene||
+3,Antalgiques et anti-inflammatoires,diclofénac,M01AB05,,,diclofenac,0,m01ab05,diclofenac||
+4,Antalgiques et anti-inflammatoires,kétoprofène,M01AE03,,,ketoprofene,0,m01ae03,ketoprofene||
+5,Antalgiques et anti-inflammatoires,naproxène,M01AE02,,,naproxene,0,m01ae02,naproxene||
+6,Antalgiques et anti-inflammatoires,acide acétylsalicylique,N02BA01,,,acide acetylsalicylique,0,n02ba01,acide acetylsalicylique||
+7,Antalgiques et anti-inflammatoires,méloxicam,M01AC06,,,meloxicam,0,m01ac06,meloxicam||
+8,Antalgiques et anti-inflammatoires,piroxicam,M01AC01,,,piroxicam,0,m01ac01,piroxicam||
+9,Antalgiques et anti-inflammatoires,célécoxib,M01AH01,,,celecoxib,0,m01ah01,celecoxib||
+10,Antalgiques et anti-inflammatoires,tramadol,N02AX02,,,tramadol,0,n02ax02,tramadol||
+11,Antalgiques et anti-inflammatoires,paracétamol + codéine,N02AA59,,,paracetamol codeine,0,n02aa59,paracetamol codeine||
+12,Antalgiques et anti-inflammatoires,néfopam,N02BG06,,,nefopam,0,n02bg06,nefopam||
+13,Antibiotiques,amoxicilline,J01CA04,,,amoxicilline,0,j01ca04,amoxicilline||
+14,Antibiotiques,amoxicilline + acide clavulanique,J01CR02,,,amoxicilline acide clavulanique,0,j01cr02,amoxicilline acide clavulanique||
+15,Antibiotiques,céfixime,J01DD08,,,cefixime,0,j01dd08,cefixime||
+16,Antibiotiques,céfuroxime,J01DC02,,,cefuroxime,0,j01dc02,cefuroxime||
+17,Antibiotiques,ceftriaxone,J01DD04,,,ceftriaxone,0,j01dd04,ceftriaxone||
+18,Antibiotiques,azithromycine,J01FA10,,,azithromycine,0,j01fa10,azithromycine||
+19,Antibiotiques,clarithromycine,J01FA09,,,clarithromycine,0,j01fa09,clarithromycine||
+20,Antibiotiques,ciprofloxacine,J01MA02,,,ciprofloxacine,0,j01ma02,ciprofloxacine||
+21,Antibiotiques,lévofloxacine,J01MA12,,,levofloxacine,0,j01ma12,levofloxacine||
+22,Antibiotiques,doxycycline,J01AA02,,,doxycycline,0,j01aa02,doxycycline||
+23,Antibiotiques,cotrimoxazole (sulfaméthoxazole + triméthoprime),J01EE01,,,cotrimoxazole sulfamethoxazole trimethoprime,0,j01ee01,cotrimoxazole sulfamethoxazole trimethoprime||
+24,Antibiotiques,métronidazole,J01XD01,,,metronidazole,0,j01xd01,metronidazole||
+25,Antibiotiques,gentamicine,J01GB03,,,gentamicine,0,j01gb03,gentamicine||
+26,Antibiotiques,clindamycine,J01FF01,,,clindamycine,0,j01ff01,clindamycine||
+27,Antihypertenseurs,amlodipine,C08CA01,,,amlodipine,0,c08ca01,amlodipine||
+28,Antihypertenseurs,nifédipine,C08CA05,,,nifedipine,0,c08ca05,nifedipine||
+29,Antihypertenseurs,périndopril,C09AA04,,,perindopril,0,c09aa04,perindopril||
+30,Antihypertenseurs,ramipril,C09AA05,,,ramipril,0,c09aa05,ramipril||
+31,Antihypertenseurs,énalapril,C09AA02,,,enalapril,0,c09aa02,enalapril||
+32,Antihypertenseurs,losartan,C09CA01,,,losartan,0,c09ca01,losartan||
+33,Antihypertenseurs,valsartan,C09CA03,,,valsartan,0,c09ca03,valsartan||
+34,Antihypertenseurs,bisoprolol,C07AB07,,,bisoprolol,0,c07ab07,bisoprolol||
+35,Antihypertenseurs,aténolol,C07AB03,,,atenolol,0,c07ab03,atenolol||
+36,Antihypertenseurs,nébivolol,C07AB12,,,nebivolol,0,c07ab12,nebivolol||
+37,Antihypertenseurs,hydrochlorothiazide,C03AA03,,,hydrochlorothiazide,0,c03aa03,hydrochlorothiazide||
+38,Antihypertenseurs,indapamide,C03BA11,,,indapamide,0,c03ba11,indapamide||
+39,Antihypertenseurs,spironolactone,C03DA01,,,spironolactone,0,c03da01,spironolactone||
+40,Antihypertenseurs,méthyldopa,C02AB01,,,methyldopa,0,c02ab01,methyldopa||

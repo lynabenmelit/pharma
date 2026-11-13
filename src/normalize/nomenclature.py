@@ -12,6 +12,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 import pandas as pd
 
 from src import prep_config as config
+from src.normalize.normalizer import MedicineRecord
 from src.normalize.units import dose_to_mg, norm_name
 
 
@@ -39,6 +40,8 @@ def clean_nomenclature(df: pd.DataFrame):
     name_c = _find(df.columns, "nom", "denomination", "marque", "name")
     dci_c = _find(df.columns, "dci", "inn", "substance")
     dose_c = _find(df.columns, "dosage", "dose")
+    atc_c = _find(df.columns, "atc", "code_atc")
+    form_c = _find(df.columns, "forme", "form", "pharmaceutical_form")
 
     # missing values: report them, and drop rows that have neither a brand nor a DCI
     rep["missing_per_column"] = {c: int(n) for c, n in df.isna().sum().items() if n}
@@ -67,6 +70,18 @@ def clean_nomenclature(df: pd.DataFrame):
         rng = v.max() - v.min() if len(v) else 0
         df["dosage_scaled"] = (df["dosage_mg"] - v.min()) / rng if rng else 0.0
         rep["dose_outliers"] = int(df["dose_outlier"].sum())
+
+    if form_c:
+        df["form_norm"] = df[form_c].map(norm_name)
+    if atc_c:
+        df["atc_norm"] = df[atc_c].map(norm_name)
+    if dci_c:
+        def canonical_key(row):
+            dosage = row.get("dosage_mg")
+            form = row.get("form_norm", "")
+            return MedicineRecord(str(row[dci_c]), dosage_mg=None if pd.isna(dosage) else float(dosage), form=str(form)).canonical_key
+
+        df["canonical_key"] = df.apply(canonical_key, axis=1)
 
     n = len(df)
     df = df.drop_duplicates(subset=[c for c in df.columns if c != "dci_missing"])
