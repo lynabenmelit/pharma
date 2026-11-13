@@ -84,6 +84,48 @@ Excel files such as nomenclature subsets are stored in `data/raw/` and
 registered in `data/provenance.csv`; the PDF extractor does not convert Excel
 files into text.
 
+### Week 1: prepare and clean the collected data
+
+The Week 1 preparation step works only on the collected corpus. It does not
+build embeddings, a vector database, a knowledge graph, or an LLM agent.
+
+Run both preparation scripts from the project root:
+
+```powershell
+.\.venv\Scripts\python.exe src\extract\prepare.py
+.\.venv\Scripts\python.exe src\normalize\nomenclature.py
+```
+
+`src/extract/prepare.py` cleans extracted text by:
+
+- normalizing Unicode characters and whitespace;
+- removing control characters, URLs, repeated headers, and footers;
+- detecting very short, low-quality, or duplicate documents;
+- filling missing metadata from `data/provenance.csv` or from the document;
+- normalizing drug names and converting detected mass doses to mg;
+- flagging unusual document lengths and dose values for review.
+
+`src/normalize/nomenclature.py` prepares `data/medicaments_40.xlsx` by:
+
+- removing empty rows and trimming missing text cells;
+- removing rows without a drug name or DCI;
+- creating normalized DCI names without accents;
+- reporting missing values and duplicate rows.
+
+The scripts create the following Week 1 outputs:
+
+| Output | Purpose |
+|---|---|
+| `data/text_clean/` | Cleaned text documents; raw files in `data/raw/` and extracted files in `data/text/` are not modified |
+| `data/clean_docs.csv` | Document metadata, quality indicators, detected doses, and outlier flags |
+| `data/rejected.csv` | Documents rejected because they are too short, corrupted, or duplicates |
+| `data/medicaments_clean.csv` | Cleaned and normalized nomenclature table |
+| `reports/week1_prep_report.json` | Summary of documents kept/rejected and quality flags |
+
+Dose and length outliers are reported rather than automatically deleting
+medical content: a document can legitimately contain several therapeutic
+dosages. The flags should be reviewed before any later retrieval step.
+
 ## Libraries (all installed by `requirements.txt`)
 
 | Library | Used for |

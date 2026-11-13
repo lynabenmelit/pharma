@@ -1,0 +1,18 @@
+{
+  "input_docs": 18,
+  "kept": 18,
+  "rejected": 0,
+  "rejected_by_reason": {
+    "too_short": 0,
+    "ocr_garbage": 0,
+    "duplicate_of": 0
+  },
+  "length_outliers_flagged": 4,
+  "docs_with_dose_outliers": 12,
+  "docs_per_source": {
+    "dailymed": 4,
+    "anpp": 4,
+    "unknown": 8,
+    "ansm": 2
+  }
+}
