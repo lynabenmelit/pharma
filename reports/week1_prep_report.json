@@ -10,10 +10,10 @@
   "length_outliers_flagged": 2,
   "docs_with_dose_outliers": 26,
   "docs_per_source": {
-    "dzairpharma": 8,
     "dailymed": 7,
+    "dzairpharma": 8,
+    "anpp": 11,
     "ansm": 2,
-    "unknown": 8,
-    "anpp": 11
+    "unknown": 8
   }
 }
