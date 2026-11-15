@@ -7,15 +7,14 @@ medicine names, and answer questions with retrieval-augmented generation.
 ## Project structure
 
 ```text
-pharmeazor/
+pharma/
 ├── README.md
-├── .gitignore            # must contain: .env, venv/, __pycache__/
-├── .env.example          # GROQ_API_KEY=your_key_here  (no real key)
+├── .gitignore            # excludes .env, virtual environments, and Python caches
 ├── requirements.txt
 ├── config.py
 ├── data/
 │   ├── raw/              # original PDFs / HTML, never edited
-│   │   ├── dailyMed/     # DailyMed PDFs
+│   │   ├── dailymed/     # DailyMed PDFs
 │   │   ├── anpp/         # ANPP PDFs
 │   │   └── nomenclature/ # extracted Excel subsets
 │   ├── text/             # text extracted from PDFs and HTML
@@ -24,22 +23,23 @@ pharmeazor/
 ├── cache/
 │   └── llm_cache.json    # saved LLM answers (replay the test set)
 ├── src/
-│   ├── llm.py            # Groq call + cache + retry
-│   ├── collect/          # downloading + PDF to text
-│   ├── extract/          # sections: indications, contraindications...
-│   ├── normalize/        # brand / DCI / ATC matching
-│   ├── search/           # BM25 + embeddings
-│   ├── reconcile/        # conflicts between sources
-│   └── verify/           # number checker
+│   ├── llm.py            # Groq call, cache, and retry
+│   ├── collect/          # source collection helpers
+│   ├── extract/          # PDF/HTML extraction and data preparation
+│   ├── normalize/        # nomenclature and medicine-name matching
+│   ├── search/           # local retrieval and RAG pipeline
+│   ├── reconcile/        # reserved for source conflict handling
+│   └── verify/           # reserved for answer verification
 ├── app/
 │   └── app.py            # Streamlit interface
 ├── tests/
-│   ├── test_questions.csv  # question, expected answer, reference passage
-│   └── run_eval.py         # one-click evaluation
+│   ├── test_questions.json # questions and expected facts
+│   ├── test_normalizer.py  # normalizer tests
+│   └── run_eval.py         # evaluation against the question set
 ├── notebooks/            # Colab notebooks (embeddings)
 └── reports/
-    ├── week1.md ...      # copies of weekly reports
-    └── sources_terms.md  # terms of use + robots.txt of each site
+    ├── week1_prep_report.json
+    └── sources_terms.md   # terms of use and robots.txt of each site
 ```
 
 ## Setup
@@ -57,14 +57,14 @@ pharmeazor/
    .\.venv\Scripts\python.exe -m pip install -r requirements.txt
    ```
 
-3. Add your Groq API key to `.env`:
+3. Add your Groq API key to a new `.env` file:
 
    ```text
    GROQ_API_KEY=your_key_here
    ```
 
 4. Put source PDFs and HTML files in `data/raw/`. Generated text files belong
-   in `data/text/`, and local vector indexes belong in `data/vector_db/`.
+   in `data/text/`; cleaned text is written to `data/text_clean/`.
 
 ### Add and extract sources
 
@@ -75,7 +75,6 @@ For a new PDF:
 3. Run the extractor from the project root:
 
 ```powershell
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
 .\.venv\Scripts\python.exe src\extract\extractor.py
 ```
 
@@ -167,14 +166,18 @@ For each question, DawaCheck:
 2. selects the most relevant excerpts;
 3. sends only those excerpts and the question to Groq;
 4. instructs the model to answer only from the provided sources;
-5. displays clickable links to the exact local source files used.
+5. displays clickable links to the official source URLs associated with the
+   retrieved documents.
 
-The expected answer is never sent to the model. It is used only by the
-evaluation script to compare required facts with the model answer.
+The interface displays the official URLs recorded in `data/provenance.csv` for
+the retrieved sources. The expected answer is never sent to the model; it is
+used only by the evaluation script to compare required facts with the model
+answer.
 
 ## Evaluation and comparison
 
-Configure `QID` in `tests/run_eval.py`, then run:
+Set `QID` in `tests/run_eval.py` to one of the IDs in
+`tests/test_questions.json`, then run:
 
 ```powershell
 .\.venv\Scripts\python.exe tests\run_eval.py
@@ -190,6 +193,9 @@ The evaluator writes:
 The comparison includes the expected answer, LLM answer, matched facts,
 missing facts, factual coverage percentage, and verdict (`correct`,
 `partial`, or `wrong`).
+
+Each run asks the selected question three times and records three
+sub-question rows per run.
 
 
 ## Safety
