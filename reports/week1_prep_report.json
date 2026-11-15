@@ -1,6 +1,6 @@
 {
-  "input_docs": 34,
-  "kept": 34,
+  "input_docs": 36,
+  "kept": 36,
   "rejected": 0,
   "rejected_by_reason": {
     "too_short": 0,
@@ -8,12 +8,12 @@
     "duplicate_of": 0
   },
   "length_outliers_flagged": 2,
-  "docs_with_dose_outliers": 24,
+  "docs_with_dose_outliers": 26,
   "docs_per_source": {
-    "dailymed": 6,
-    "unknown": 8,
+    "dailymed": 7,
+    "dzairpharma": 8,
     "anpp": 11,
     "ansm": 2,
-    "dzairpharma": 7
+    "unknown": 8
   }
 }
