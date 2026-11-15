@@ -14,12 +14,20 @@ pharma/
 ├── config.py
 ├── data/
 │   ├── raw/              # original PDFs / HTML, never edited
-│   │   ├── dailymed/     # DailyMed PDFs
-│   │   ├── anpp/         # ANPP PDFs
-│   │   └── nomenclature/ # extracted Excel subsets
+│   │   ├── anpp/
+│   │   ├── ansm/
+│   │   ├── dailymed/
+│   │   ├── dzairPharma/
+│   │   └── nomenclature/
+│   ├── processed/        # reserved for processed source artifacts
 │   ├── text/             # text extracted from PDFs and HTML
+│   ├── text_clean/       # cleaned text used by retrieval
+│   ├── vector_db/        # reserved for vector indexes
+│   ├── clean_docs.csv
 │   ├── medicaments_40.xlsx
-│   └── provenance.csv    # source, url, date, language, authority level
+│   ├── medicaments_clean.csv
+│   ├── provenance.csv    # source, URL, date, language, authority level
+│   └── rejected.csv
 ├── cache/
 │   └── llm_cache.json    # saved LLM answers (replay the test set)
 ├── src/
@@ -36,7 +44,7 @@ pharma/
 │   ├── test_questions.json # questions and expected facts
 │   ├── test_normalizer.py  # normalizer tests
 │   └── run_eval.py         # evaluation against the question set
-├── notebooks/            # Colab notebooks (embeddings)
+├── notebooks/            # notebook workspace
 └── reports/
     ├── week1_prep_report.json
     └── sources_terms.md   # terms of use and robots.txt of each site
@@ -86,10 +94,7 @@ Excel files such as nomenclature subsets are stored in `data/raw/` and
 registered in `data/provenance.csv`; the PDF extractor does not convert Excel
 files into text.
 
-### Week 1: prepare and clean the collected data
 
-The Week 1 preparation step works only on the collected corpus. It does not
-build embeddings, a vector database, a knowledge graph, or an LLM agent.
 
 Run both preparation scripts from the project root:
 
