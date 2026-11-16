@@ -112,6 +112,9 @@ def run(text_dir=config.TEXT, out_dir=config.TEXT_CLEAN, provenance=config.PROVE
         rel = p.relative_to(text_dir)
         folder = rel.parts[0].lower() if len(rel.parts) > 1 else "unknown"
         m = prov.get(p.stem, {})
+        source = folder
+        if source == "unknown":
+            source = pick(m, "source").lower().replace("-", "") or source
         text = clean_text(p.read_text(encoding="utf-8", errors="ignore"))
 
         # missing values in metadata -> fill
@@ -139,7 +142,7 @@ def run(text_dir=config.TEXT, out_dir=config.TEXT_CLEAN, provenance=config.PROVE
         doses = extract_doses(text)
         (out_dir / rel).parent.mkdir(parents=True, exist_ok=True)
         (out_dir / rel).write_text(text, encoding="utf-8")
-        kept.append({"file": str(rel), "source": folder, "drug": drug, "drug_norm": norm_name(drug),
+        kept.append({"file": str(rel), "source": source, "drug": drug, "drug_norm": norm_name(drug),
                      "url": pick(m, "url"), "date": collected, "language": lang, "authority": auth,
                      "n_chars": len(text), "garbage": round(garbage_ratio(text), 4),
                      "n_doses": len(doses),
