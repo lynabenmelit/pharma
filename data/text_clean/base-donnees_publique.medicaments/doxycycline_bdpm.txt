@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 Dernière mise à jour le 03/11/2026
 DOXYCYCLINE SANDOZ 100 mg, comprimé sécable
 remboursable
@@ -33,10 +29,6 @@ Bon usage
 
 1/4
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 Code CIP : 376 663-6 ou 34009 376 663 6 7
 Déclaration de commercialisation : 29/05/2008
 Cette présentation est agréée aux collectivités
@@ -62,10 +54,6 @@ Recommandations de prise en charge des personnes ayant une syphilis
 
 2/4
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 Traitement curatif des personnes infectées par Mycoplasma genitalium
 Traitement curatif des personnes infectées par Chlamydia trachomatis
 Choix et durées d'antibiothérapie dans les exacerbations aiguës de bronchopneumopathie chronique
@@ -89,10 +77,6 @@ Code CIS : 6 098 236 4
 
 3/4
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 legifrance.gouv.fr
 gouvernement.fr
 service-public.fr

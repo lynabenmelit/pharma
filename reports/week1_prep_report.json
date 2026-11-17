@@ -1,0 +1,20 @@
+{
+  "input_docs": 91,
+  "kept": 89,
+  "rejected": 2,
+  "rejected_by_reason": {
+    "too_short": 0,
+    "ocr_garbage": 0,
+    "duplicate_of": 2
+  },
+  "length_outliers_flagged": 2,
+  "docs_with_dose_outliers": 58,
+  "docs_per_source": {
+    "ansm": 2,
+    "nomenclature": 8,
+    "anpp": 15,
+    "dzairpharma": 36,
+    "base-donnees_publique.medicaments": 2,
+    "dailymed": 26
+  }
+}

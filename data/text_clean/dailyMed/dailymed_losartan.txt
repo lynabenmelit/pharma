@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 LOSARTAN POTASSIUM 25 MG- losartan potassium tablet, film coated
 LOSARTAN POTASSIUM 50 MG- losartan potassium tablet, film coated
 LOSARTAN POTASSIUM 100 MG- losartan potassium tablet, film coated
@@ -47,10 +43,6 @@ Monitor renal function and potassium in susceptible patients. (5.3, 5.4)
 ADVERSE REACTIONS
 Most common adverse reactions (incidence ≥2% and greater than placebo) are: dizziness, upper
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 g
 p
 pp
@@ -100,10 +92,6 @@ Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 8 USE IN SPECIFIC POPULATIONS
 8.1 Pregnancy
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 8.2 Lactation
 8.4 Pediatric Use
 8.5 Geriatric Use
@@ -144,10 +132,6 @@ patients will require more than 1 drug to achieve blood pressure goals. For spec
 advice on goals and management, see published guidelines, such as those of the
 Sections or subsections omitted from the full prescribing information are not listed.
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 National High Blood Pressure Education Program's Joint National Committee on
 Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
 Numerous antihypertensive drugs, from a variety of pharmacologic classes and with
@@ -190,10 +174,6 @@ can be increased to a maximum dose of 100 mg once daily as needed to control blo
 pressure [see Clinical Studies (14.1)]. A starting dose of 25 mg is recommended for
 patients with possible intravascular depletion (e.g., on diuretic therapy).
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 Pediatric Hypertension
 The usual recommended starting dose is 0.7 mg per kg once daily (up to 50 mg total)
 administered as a tablet or a suspension [see Dosage and Administration (2.5)]. Dosage
@@ -234,10 +214,6 @@ tablets debossed with "11" on one side and plain on other side.
 Losartan potassium tablets USP, 50 mg are white, round, biconvex, film-coated
 tablets debossed with "12" on scoreline side and plain on other side.
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 Losartan potassium tablets USP, 100 mg are white, oval, biconvex film-coated tablets
 debossed with "13" on one side and plain on other side.
 4 CONTRAINDICATIONS
@@ -276,10 +252,6 @@ discontinuation of losartan potassium may be required [see Adverse Reactions (6.
 Concomitant use of other drugs that may increase serum potassium may lead to
 hyperkalemia [see Drug Interactions (7.1)].
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 6 ADVERSE REACTIONS
 6.1 Clinical Trials Experience
 Because clinical trials are conducted under widely varying conditions, adverse reaction
@@ -318,10 +290,6 @@ had typical ACE-inhibitor cough when challenged with lisinopril, whose cough
 disappeared on placebo, were randomized to losartan 50 mg, lisinopril 20 mg, or either
 placebo (one study, n=97) or 25 mg hydrochlorothiazide (n=135). The double-blind
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 treatment period lasted up to 8 weeks. The incidence of cough is shown in Table 1
 below.
 Table 1:
@@ -369,10 +337,6 @@ Hypersensitivity: Angioedema, including swelling of the larynx and glottis, caus
 obstruction and/or swelling of the face, lips, pharynx, tongue, and/or swelling of the
 intestine has been reported; some of these patients previously experienced angioedema
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 with other drugs including ACE inhibitors. Vasculitis, including Henoch-Schönlein
 purpura, has been reported. Anaphylactic reactions have been reported.
 Metabolic and Nutrition: Hyponatremia.
@@ -412,10 +376,6 @@ hyperkalemia and acute kidney injury compared with the monotherapy group.
 In most patients no benefit has been associated with using two RAS inhibitors
 concomitantly. In general, avoid combined use of RAS inhibitors. Closely monitor blood
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 pressure, renal function, and electrolytes in patients on losartan potassium and other
 agents that affect the RAS.
 Do not coadminister aliskiren with losartan potassium in patients with diabetes. Avoid
@@ -458,10 +418,6 @@ discontinue losartan potassium, unless it is considered lifesaving for the mothe
 Patients and physicians should be aware, however, that oligohydramnios may not
 appear until after the fetus has sustained irreversible injury.
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 Closely observe neonates with histories of in utero exposure to losartan potassium for
 hypotension, oliguria, and hyperkalemia. In neonates with a history of in utero exposure
 to losartan potassium, if oliguria or hypotension occurs, support blood pressure and
@@ -505,10 +461,6 @@ were 75 years and over. No overall differences in effectiveness or safety were o
 between these patients and younger patients, but greater sensitivity of some older
 individuals cannot be ruled out.
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 8.6 Race
 In the LIFE study, Black patients with hypertension and left ventricular hypertrophy
 treated with atenolol were at lower risk of experiencing the primary composite endpoint
@@ -549,10 +501,6 @@ occur, supportive treatment should be instituted.
 Neither losartan nor its active metabolite can be removed by hemodialysis.
 11 DESCRIPTION
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 Losartan potassium, USP is an angiotensin II receptor blocker acting on the AT1
 receptor subtype. Losartan potassium, a non-peptide molecule, is chemically described
 as 2-butyl-4-chloro-1-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]imidazole-5-methanol
@@ -579,10 +527,6 @@ Angiotensin II [formed from angiotensin I in a reaction catalyzed by angiotensin
 22
 6
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 converting enzyme (ACE, kininase II)] is a potent vasoconstrictor, the primary
 vasoactive hormone of the renin-angiotensin system, and an important component in
 the pathophysiology of hypertension. It also stimulates aldosterone secretion by the
@@ -631,10 +575,6 @@ liters and 12 liters, respectively. Both losartan and its active metabolite are 
 to plasma proteins, primarily albumin, with plasma free fractions of 1.3% and 0.2%,
 max
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 respectively. Plasma protein binding is constant over the concentration range achieved
 with recommended doses. Studies in rats indicate that losartan crosses the blood-brain
 barrier poorly, if at all.
@@ -723,10 +663,6 @@ MAX
 PEAK
 REN
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 *Mean ± standard deviation
 †Harmonic mean and standard deviation
 ‡ Median
@@ -772,10 +708,6 @@ P450 2C9 have not been examined. Subjects who do not metabolize losartan to acti
 metabolite have been shown to have a specific, rare defect in cytochrome P450 2C9.
 These data suggest that the conversion of losartan to its active metabolite is mediated
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 primarily by P450 2C9 and not P450 3A4.
 13 NONCLINICAL TOXICOLOGY
 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -818,10 +750,6 @@ several doses of losartan and 334 to placebo. The 10- and 25-mg doses produced s
 effect at peak (6 hours after dosing) but small and inconsistent trough (24 hour)
 responses. Doses of 50, 100 and 150 mg once daily gave statistically significant
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 systolic/diastolic mean decreases in blood pressure, compared to placebo in the range
 of 5.5-10.5/3.5-7.5 mmHg, with the 150-mg dose giving no greater effect than 50-100
 mg. Twice-daily dosing at 50-100 mg/day gave consistently larger trough responses
@@ -869,10 +797,6 @@ losartan potassium or atenolol was then increased to 100 mg once daily. If neces
 other antihypertensive treatments (e.g., increase in dose of hydrochlorothiazide therapy
 th
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 to 25 mg or addition of other diuretic therapy, calcium-channel blockers, alpha-blockers,
 or centrally acting agents, but not ACE inhibitors, angiotensin II antagonists, or betablockers) were added to the treatment regimen to reach the goal blood pressure.
 Of the randomized patients, 4963 (54%) were female and 533 (6%) were Black. The
@@ -903,19 +827,11 @@ and Table 3); this difference was primarily the result of an effect on fatal and
 stroke. Treatment with losartan potassium reduced the risk of stroke by 25% relative to
 atenolol (p=0.001) (see Figure 2 and Table 3).
 
-<<<<<<< HEAD
-=======
-[page 20]
->>>>>>> code
 Figure 1: Kaplan-Meier estimates of the primary endpoint of time to cardiovascular
 death, nonfatal stroke, or nonfatal myocardial infarction in the groups treated with
 losartan potassium and atenolol. The Risk Reduction is adjusted for baseline Framingham
 risk score and level of electrocardiographic left ventricular hypertrophy.
 
-<<<<<<< HEAD
-=======
-[page 21]
->>>>>>> code
 Figure 2: Kaplan-Meier estimates of the time to fatal/nonfatal stroke in the groups
 treated with losartan potassium and atenolol. The Risk Reduction is adjusted for baseline
 Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
@@ -947,10 +863,6 @@ Rate*
 0.021
 Components
 
-<<<<<<< HEAD
-=======
-[page 22]
->>>>>>> code
 of Primary
 Endpoint (as a
 first event)
@@ -1046,10 +958,6 @@ endpoints between the losartan potassium and atenolol groups.
 For the primary endpoint and stroke, the effects of losartan potassium in patient
 subgroups defined by age, gender, race and presence or absence of isolated systolic
 
-<<<<<<< HEAD
-=======
-[page 23]
->>>>>>> code
 hypertension (ISH), diabetes, and history of cardiovascular disease (CVD) are shown in
 Figure 3 below. Subgroup analyses can be difficult to interpret and it is not known
 whether these represent true differences or chance effects.
@@ -1072,10 +980,6 @@ the time they were on study drug. Because the study was designed to achieve equa
 blood pressure control in both groups, other antihypertensive agents (diuretics,
 calcium-channel blockers, alpha-or beta-blockers, and centrally acting agents) could be
 
-<<<<<<< HEAD
-=======
-[page 24]
->>>>>>> code
 added as needed in both groups. Patients were followed for a mean duration of 3.4
 years.
 The study population was diverse with regard to race (Asian 16.7%, Black 15.2%,
@@ -1098,10 +1002,6 @@ group treated with placebo.
 Figure 4: Kaplan-Meier curve for the primary composite endpoint of doubling of serum
 creatinine, end stage renal disease (need for dialysis or transplantation) or death.
 
-<<<<<<< HEAD
-=======
-[page 25]
->>>>>>> code
 Table 4: Incidence of Primary Endpoint Events
 Incidence
 Risk
@@ -1160,10 +1060,6 @@ no significant difference in the incidence of the composite endpoint of cardiova
 morbidity and mortality.
 The favorable effects of losartan potassium were seen in patients also taking other antihypertensive medications (angiotensin II receptor antagonists and angiotensin
 
-<<<<<<< HEAD
-=======
-[page 26]
->>>>>>> code
 converting enzyme inhibitors were not allowed), oral hypoglycemic agents and lipidlowering agents.
 For the primary endpoint and ESRD, the effects of losartan potassium in patient
 subgroups defined by age, gender and race are shown in Table 5 below. Subgroup
@@ -1286,10 +1182,6 @@ White
 (0.43,
 0.83)
 
-<<<<<<< HEAD
-=======
-[page 27]
->>>>>>> code
 16 HOW SUPPLIED/STORAGE AND HANDLING
 Losartan Potassium Tablets, USP are available as follows:
 25 mg - Each white, round, biconvex film coated tablets debossed with "11" on one side
@@ -1327,10 +1219,6 @@ Strides Pharma Inc.
 Bridgewater, NJ 08807
 Revised: 01/2026
 
-<<<<<<< HEAD
-=======
-[page 28]
->>>>>>> code
 Patient Information
 Losartan Potassium (loe-SAR-tan poe-TAS-ee-um) Tablets, USP
 25 mg, 50 mg, 100 mg
@@ -1371,10 +1259,6 @@ Who should not take losartan potassium tablets?
 Do not take losartan potassium tablets if you are allergic to any of the
 ingredients in losartan potassium tablets. See the end of this leaflet for a
 
-<<<<<<< HEAD
-=======
-[page 29]
->>>>>>> code
 complete list of ingredients in losartan potassium tablets.
 Do not take losartan potassium tablets if you have diabetes and are taking a medicine
 called aliskiren to reduce blood pressure.
@@ -1420,10 +1304,6 @@ faint or dizzy. Lie down if you feel faint or dizzy. Call your doctor right away
 For people who already have kidney problems, you may see a worsening in
 how well your kidneys work. Call your doctor if you get swelling in your feet,
 
-<<<<<<< HEAD
-=======
-[page 30]
->>>>>>> code
 ankles, or hands, or unexplained weight gain.
 High blood levels of potassium
 The most common side effects of losartan potassium tablets in people with high blood
@@ -1466,10 +1346,6 @@ Inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate,
 mannitol, microcrystalline cellulose, povidone, propylene glycol, talc, and titanium
 dioxide.
 
-<<<<<<< HEAD
-=======
-[page 31]
->>>>>>> code
 Manufactured by:
 Alathur,Chengalpattu-603110,
 Tamil Nadu, India.
@@ -1481,49 +1357,24 @@ PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 NDC 64380-933-04
 NDC 64380-933-05
 
-<<<<<<< HEAD
 NDC 64380-933-08
 NDC 64380-934-04
 
-=======
-[page 32]
-NDC 64380-933-08
-NDC 64380-934-04
-
-[page 33]
->>>>>>> code
 PHARMACIST: PLEASE DISPENSE WITH PATIENT INFORMATION LEAFLET PROVIDED
 SEPARATELY
 NDC 64380-934-05
 
-<<<<<<< HEAD
 NDC 64380-934-08
 NDC 64380-935-04
 
-=======
-[page 34]
-NDC 64380-934-08
-NDC 64380-935-04
-
-[page 35]
->>>>>>> code
 NDC 64380-935-05
 PHARMACIST: PLEASE DISPENSE WITH PATIENT INFORMATION LEAFLET PROVIDED
 SEPARATELY
 NDC 64380-935-08
 
-<<<<<<< HEAD
 LOSARTAN POTASSIUM 25 MG
 NDC:64380-933
 
-=======
-[page 36]
-LOSARTAN POTASSIUM 25 MG
-NDC:64380-933
-
-[page 37]
-
->>>>>>> code
 no score
 ROUND (Round, Biconvex)
 8mm
@@ -1535,11 +1386,6 @@ ROUND (Round, Biconvex)
 LOSARTAN POTASSIUM 50 MG
 NDC:64380-934
 
-<<<<<<< HEAD
-=======
-[page 38]
-
->>>>>>> code
 2 pieces
 ROUND (Round, Biconvex)
 10mm
@@ -1551,11 +1397,6 @@ ROUND (Round, Biconvex)
 LOSARTAN POTASSIUM 100 MG
 NDC:64380-935
 
-<<<<<<< HEAD
-=======
-[page 39]
-
->>>>>>> code
 no score
 OVAL (Oval, Biconvex)
 18mm

@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 AMOXICILLIN - amoxicillin capsule
 ----------
 HIGHLIGHTS OF PRESCRIBING INFORMATION
@@ -47,10 +43,6 @@ occurs. ( 5.3)
 ADVERSE REACTIONS
 The most common adverse reactions (> 1%) observed in clinical trials of amoxicillin capsules, were
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 p
 diarrhea, rash, vomiting, and nausea. ( 6.1)
 To report SUSPECTED ADVERSE REACTIONS, contact Micro Labs USA, Inc. at 1-855-839-8195
@@ -97,10 +89,6 @@ FULL PRESCRIBING INFORMATION: CONTENTS*
 7.4 Oral Contraceptives
 7.5 Other Antibacterials
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 7.6 Effects on Laboratory Tests
 8 USE IN SPECIFIC POPULATIONS
 8.1 Pregnancy
@@ -139,10 +127,6 @@ Amoxicillin capsules are indicated in the treatment of infections due to suscept
 Staphylococcusspp., or E. coli.
 Sections or subsections omitted from the full prescribing information are not listed.
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 1.4 Infections of the Lower Respiratory Tract
 Amoxicillin capsules are indicated in the treatment of infections due to susceptible (ONLY
 β-lactamase-negative) isolates of Streptococcusspp. (α- and β-hemolytic isolates only),
@@ -179,10 +163,6 @@ continue clinical and/or bacteriological follow-up for several months after cess
 therapy.
 Table 1. Dosing Recommendations for Adult and Pediatric Patients > 3
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 Months of Age
 
 Infection
@@ -233,10 +213,6 @@ days.
 Dual therapy:The recommended adult oral dose is 1 gram amoxicillin and 30 mg
 lansoprazole, each given three times daily (every 8 hours) for 14 days.
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 Please refer to clarithromycin and lansoprazole full prescribing information.
 2.4 Dosing in Renal Impairment
 Patients with impaired renal function do not generally require a reduction in dose
@@ -272,10 +248,6 @@ reports of individuals with a history of penicillin hypersensitivity who have ex
 severe reactions when treated with cephalosporins. Before initiating therapy with
 amoxicillin capsules, careful inquiry should be made regarding previous hypersensitivity
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 reactions to penicillins, cephalosporins, or other allergens. If an allergic reaction occurs,
 amoxicillin capsules should be discontinued and appropriate therapy instituted.
 5.2 Drug-Induced Enterocolitis Syndrome (DIES)
@@ -311,10 +283,6 @@ A high percentage of patients with mononucleosis who receive amoxicillin capsule
 develop an erythematous skin rash. Thus amoxicillin capsules should not be
 administered to patients with mononucleosis.
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 6 ADVERSE REACTIONS
 The following are discussed in more detail in other sections of the labeling:
 Anaphylactic reactions [see Warnings and Precautions ( 5.1)]
@@ -353,10 +321,6 @@ Liver:A moderate rise in AST and/or ALT has been noted, but the significance of 
 finding is unknown. Hepatic dysfunction including cholestatic jaundice, hepatic
 cholestasis and acute cytolytic hepatitis have been reported.
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 Renal:Crystalluria has been reported[see Overdosage ( 10)] .
 Hemic and Lymphatic Systems:Anemia, including hemolytic anemia,
 thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and
@@ -392,10 +356,6 @@ Chloramphenicol, macrolides, sulfonamides, and tetracyclines may interfere with 
 bactericidal effects of penicillin. This has been demonstrated in vitro; however, the clinical
 significance of this interaction is not well documented.
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 7.6 Effects on Laboratory Tests
 High urine concentrations of ampicillin may result in false-positive reactions when testing
 for the presence of glucose in urine using CLINITEST
@@ -431,10 +391,6 @@ modified in pediatric patients 12 weeks or younger (≤ 3 months). [see Dosage a
 Administration ( 2.2).]
 8.5 Geriatric Use
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 An analysis of clinical studies of amoxicillin capsules was conducted to determine
 whether subjects aged 65 and over respond differently from younger subjects. These
 analyses have not identified differences in responses between the elderly and younger
@@ -470,10 +426,6 @@ many Gram-positive and Gram-negative microorganisms. Chemically, it is (2 S,5 R,
 as:
 1
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 The amoxicillin USP molecular formula is C
 H
 N O S•3H O, and the molecular
@@ -507,10 +459,6 @@ can be delayed by concurrent administration of probenecid [see DRUG INTERACTIONS
 5
 2
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 12.4 Microbiology
 Mechanism of Action
 Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria
@@ -540,10 +488,6 @@ Susceptibility Testing
 For specific information regarding susceptibility test interpretive criteria and associated
 test methods and quality control standards recognized by FDA for this drug, please see:
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 13 NONCLINICAL TOXICOLOGY
 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 Long-term studies in animals have not been performed to evaluate carcinogenic
@@ -593,10 +537,6 @@ Interval](number of patients)
 92
 86
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 Study 1
 
 [80 to 97.7]
@@ -666,10 +606,6 @@ the analysis if they completed the study. Additionally, if patients dropped out 
 study due to an adverse event related to the study drug, they were included in the
 analysis as failures of therapy.
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 Patients were included in the analysis if they had documented H. pyloriinfection at
 baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year).
 All dropouts were included as failures of therapy.
@@ -698,10 +634,6 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant
 closure (as required).
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 17 PATIENT COUNSELING INFORMATION
 Information for Patients
 Patients should be advised that amoxicillin capsules may be taken every 8 hours or
@@ -738,10 +670,6 @@ Rx Only
 Amoxicillin Capsules, USP
 250 mg
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 30 Capsules
 MICRO LABS LIMITED
 NDC 42571-234-30
@@ -761,10 +689,6 @@ NDC:42571-233
 Route of Administration
 ORAL
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 Active Ingredient/Active Moiety
 Basis of Strength
 AMOXICILLIN (UNII: 804826J2HU) (AMOXICILLIN ANHYDROUS -
@@ -825,10 +749,6 @@ ANDA207471
 AMOXICILLIN
 amoxicillin capsule
 
-<<<<<<< HEAD
-=======
-[page 20]
->>>>>>> code
 Product Information
 Product Type
 HUMAN PRESCRIPTION DRUG
@@ -894,10 +814,6 @@ Citation
 ANDA
 ANDA207471
 
-<<<<<<< HEAD
-=======
-[page 21]
->>>>>>> code
 Labeler - Micro Labs Limited (862174955)
 Establishment
 Name

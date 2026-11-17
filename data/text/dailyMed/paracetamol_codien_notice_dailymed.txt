@@ -1,20 +1,9 @@
-<<<<<<< HEAD
 ACETAMINOPHEN AND CODEINE PHOSPHATE- acetaminophen and codeine
 phosphate tablet  
 SpecGx LLC
 ----------
 Acetaminophen and Codeine Phosphate Tablets USP      CIII 
 
-=======
-[page 1]
-ACETAMINOPHEN AND CODEINE PHOSPHATE- acetaminophen and codeine
-phosphate tablet 
-SpecGx LLC
-----------
-Acetaminophen and Codeine Phosphate Tablets USP CIII
-
-[page 2]
->>>>>>> code
 WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF
 ACETAMINOPHEN AND CODEINE PHOSPHATE TABLETS
 Addiction, Abuse, and Misuse 
@@ -62,10 +51,6 @@ CYP2D6 polymorphism (see WARNINGS, PRECAUTIONS; Information for
 Patients/Caregivers, Nursing Mothers). Acetaminophen and codeine
 phosphate tablets are contraindicated in children younger than 12 years
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 of age and in children younger than 18 years of age following
 tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS). Avoid
 the use of acetaminophen and codeine phosphate tablets in adolescents
@@ -95,10 +80,6 @@ Codeine phosphate, 7,8-didehydro-4,5α-epoxy-3-methoxy-17-methylmorphinan-6α-ol
 phosphate (1:1) (salt) hemihydrate, a white crystalline powder, is a narcotic analgesic
 and antitussive. It has the following structural formula:
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 Each Acetaminophen and Codeine Phosphate Tablet USP (300 mg/15 mg) contains:
 Acetaminophen USP………………..…300 mg
 Codeine Phosphate USP……………….15 mg
@@ -128,10 +109,6 @@ stimulation.
 Codeine causes miosis, even in total darkness. Pinpoint pupils are a sign of opioid
 overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 origins may produce similar findings). Marked mydriasis rather than miosis may be seen
 due to hypoxia in overdose situations.
 Effects on the Gastrointestinal Tract and Other Smooth Muscle
@@ -175,10 +152,6 @@ altered by the development of tolerance to opioid-related adverse reactions (see
 DOSAGE AND ADMINISTRATION).
 Pharmacokinetics
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 The behavior of the individual components is described below.
 Codeine 
 Codeine is rapidly absorbed from the gastrointestinal tract. It is rapidly distributed from
@@ -225,10 +198,6 @@ appears in the urine within
 other conjugates and unchanged drug.
 See OVERDOSAGE for toxicity information.
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 INDICATIONS AND USAGE
 Acetaminophen and codeine phosphate tablets are indicated for the management of mild
 to moderate pain, where treatment with an opioid is appropriate and for which
@@ -270,10 +239,6 @@ abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients
 long-term opioid use (see ADVERSE REACTIONS).
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 acetaminophen and codeine phosphate tablets, and reassess all patients receiving
 acetaminophen and codeine phosphate tablets for the development of these behaviors
 and conditions. Risks are increased in patients with a personal or family history of
@@ -321,10 +286,6 @@ and sleep-related hypoxemia. Opioid use increases the risk of CSA in a dose-depe
 fashion. In patients who present with CSA, consider decreasing the opioid dosage using
 2
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 best practices for opioid taper (see DOSAGE AND ADMINISTRATION).
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of
 Opioid Overdose
@@ -370,10 +331,6 @@ depressant, prescribe a lower initial dose of the opioid analgesic, and titrate 
 clinical response. Inform patients and caregivers of this potential interaction, educate
 them on the signs and symptoms of respiratory depression (including sedation).
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 If concomitant use is warranted, consider recommending or prescribing an opioid
 overdose reversal agent (see WARNINGS, Life-Threatening Respiratory
 Depression; DOSAGE AND ADMINISTRATION, Patient Access to Naloxone for
@@ -419,10 +376,6 @@ Consider using other tools to improve patient, household, and community safety,
 such as patient-prescriber agreements that reinforce patient-prescriber
 responsibilities.
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 To obtain further information on the opioid analgesic REMS and for a list of accredited
 REMS CME/CE, call 800-503-0784, or log on to www.opioidanalgesicrems.com. The FDA
 Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
@@ -470,10 +423,6 @@ Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racia
 groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 These individuals convert codeine into its active metabolite, morphine, more rapidly and
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 completely than other people. This rapid conversion results in higher than expected
 serum morphine levels. Even at labeled dosage regimens, individuals who are ultra-rapid
 metabolizers may have life-threatening or fatal respiratory depression or experience
@@ -519,10 +468,6 @@ cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an in
 in codeine plasma concentrations and a decrease in active metabolite morphine plasma
 concentration which could result in an analgesic efficacy reduction or symptoms of
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 opioid withdrawal.
 Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a
 decrease in codeine plasma concentration and an increase in active metabolite morphine
@@ -567,10 +512,6 @@ experiencing OIH, carefully consider appropriately decreasing the dose of the cu
 opioid analgesic, or opioid rotation (safely switching the patient to a different opioid
 moiety) (see DOSAGE AND ADMINISTRATION, WARNINGS).
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary
 Disease or Elderly, Cachectic, or Debilitated Patients
 The use of acetaminophen and codeine phosphate tablets in patients with acute or
@@ -614,10 +555,6 @@ Acetaminophen and codeine may cause severe hypotension including orthostatic
 hypotension and syncope in ambulatory patients. There is increased risk in patients
 whose ability to maintain blood pressure has already been compromised by a reduced
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 blood volume or concurrent administration of certain CNS depressant drugs (e.g.,
 phenothiazines or general anesthetics) (see PRECAUTIONS, Drug Interactions).
 Regularly evaluate these patients for signs of hypotension after initiating or titrating the
@@ -663,10 +600,6 @@ Cases of opioid-induced esophageal dysfunction (OIED) have been reported in pati
 2
 2
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 taking opioids. The risk of OIED may increase as the dose and/or duration of opioids
 increases. Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia,
 regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as
@@ -708,10 +641,6 @@ home. Inform patients that leaving acetaminophen and codeine phosphate tablets
 unsecured can pose a deadly risk to others in the home (see WARNINGS and DRUG
 ABUSE AND DEPENDENCE).
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 Advise patients and caregivers that when medicines are no longer needed, they should
 be disposed of promptly. Inform patients that medicine take-back options are the
 preferred way to safely dispose of most types of unneeded medicines. If no take back
@@ -748,11 +677,7 @@ acetaminophen and codeine phosphate tablets are used with benzodiazepines or oth
 CNS depressants, including alcohol (e.g., non-benzodiazepines, sedative/hypnotics,
 anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics,
 gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these
-<<<<<<< HEAD
 drugs concomitantly unless supervised by a healthcare provider  (see WARNINGS and
-=======
-drugs concomitantly unless supervised by a healthcare provider (see WARNINGS and
->>>>>>> code
 PRECAUTIONS, Drug Interactions).
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of
 Opioid Overdose
@@ -760,10 +685,6 @@ Inform patients and caregivers about opioid overdose reversal agents (e.g., nalo
 nalmefene). Discuss the importance of having access to an opioid overdose reversal
 agent, especially if the patient has risk factors for overdose (e.g., concomitant use of
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there
 are household members (including children) or other close contacts at risk for accidental
 ingestion or opioid overdose.
@@ -808,10 +729,6 @@ any drugs that inhibit monoamine oxidase. Patients should not start MAOIs while 
 acetaminophen and codeine phosphate tablets (see PRECAUTIONS, Drug
 Interactions).
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 Important Administration Instructions
 Instruct patients how to properly take acetaminophen and codeine phosphate tablets
 (see DOSAGE AND ADMINISTRATION).
@@ -854,10 +771,6 @@ stop taking acetaminophen and codeine phosphate tablets and seek medical attenti
 (see CONTRAINDICATIONS and ADVERSE REACTIONS).
 Pregnancy
 
-<<<<<<< HEAD
-=======
-[page 20]
->>>>>>> code
 Neonatal Opioid Withdrawal Syndrome
 Inform female patients of reproductive potential that use of acetaminophen and codeine
 phosphate tablets for an extended period of time during pregnancy can result in
@@ -900,10 +813,6 @@ respiratory depression or sedation.
 CYP3A4 Inhibitors
 The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4
 
-<<<<<<< HEAD
-=======
-[page 21]
->>>>>>> code
 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents
 (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may result in an increase in
 codeine plasma concentrations, with subsequently greater metabolism by cytochrome
@@ -945,18 +854,10 @@ Benzodiazepines and Other Central Nervous System (CNS) Depressants
 Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other
 CNS depressants, including alcohol, other sedatives/hypnotics, anxiolytics, tranquilizers,
 muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or
-<<<<<<< HEAD
 pregabalin),  and other opioids, can increase the risk of hypotension, respiratory
 depression, profound sedation, coma, and death.
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative
 
-=======
-pregabalin), and other opioids, can increase the risk of hypotension, respiratory
-depression, profound sedation, coma, and death.
-Reserve concomitant prescribing of these drugs for use in patients for whom alternative
-
-[page 22]
->>>>>>> code
 treatment options are inadequate. Limit dosages and durations to the minimum
 required. Inform patients and caregivers of this potential interaction, educate them on
 the signs and symptoms of respiratory depression (including sedation). If concomitant
@@ -1000,10 +901,6 @@ recommending or prescribing an opioid overdose reversal agent (see WARNINGS).
 Examples: Cyclobenzaprine, metaxalone.
 Diuretics
 
-<<<<<<< HEAD
-=======
-[page 23]
->>>>>>> code
 Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic
 hormone.
 If concomitant use is warranted, evaluate patients for signs of diminished diuresis
@@ -1048,10 +945,6 @@ surface area comparison). In contrast, no clastogenicity was noted at a dose of
 2
 2
 
-<<<<<<< HEAD
-=======
-[page 24]
->>>>>>> code
 750 mg/kg/day (1.8 times the MHDD, based on a body surface area comparison),
 suggesting a threshold effect.
 Impairment of Fertility
@@ -1096,10 +989,6 @@ nonmedical purposes can result in physical dependence in the neonate and neonata
 opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal
 
-<<<<<<< HEAD
-=======
-[page 25]
->>>>>>> code
 sleep pattern, high-pitched cry, tremor, vomiting, diarrhea and failure to gain weight. The
 onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the
 specific opioid used, duration of use, timing and amount of last maternal use, and rate
@@ -1146,10 +1035,6 @@ If infants are exposed to acetaminophen and codeine phosphate tablets through br
 milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of
 
-<<<<<<< HEAD
-=======
-[page 26]
->>>>>>> code
 an opioid analgesic is stopped, or when breastfeeding is stopped.
 Pediatric Use
 The safety and effectiveness of acetaminophen and codeine phosphate tablets in
@@ -1194,10 +1079,6 @@ The following serious adverse reactions are described, or described in greater d
 other sections:
 Addiction, Abuse, and Misuse (see WARNINGS)
 
-<<<<<<< HEAD
-=======
-[page 27]
->>>>>>> code
 Life-Threatening Respiratory Depression (see WARNINGS)
 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening
 Respiratory Depression in Children (see WARNINGS)
@@ -1243,10 +1124,6 @@ Most reports were in patients with at least one predisposing risk factor (e.g.,
 diabetes).
 Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in
 
-<<<<<<< HEAD
-=======
-[page 28]
->>>>>>> code
 patients taking opioids and may occur more frequently in patients taking higher
 doses of opioids, and/or in patients taking opioids longer term (see WARNINGS).
 Adverse Reactions from Observational Studies
@@ -1292,10 +1169,6 @@ DRUG ABUSE AND DEPENDENCE
 Controlled Substance
 Acetaminophen and codeine phosphate tablets contain codeine. Codeine in combination
 
-<<<<<<< HEAD
-=======
-[page 29]
->>>>>>> code
 with acetaminophen, is a Schedule III controlled substance.
 Abuse
 Acetaminophen and codeine phosphate tablets contain, a substance with high potential
@@ -1341,10 +1214,6 @@ therapy, and proper dispensing and storage are appropriate measures that help to
 abuse of opioid drugs.
 Risks Specific to Abuse of Acetaminophen and Codeine Phosphate Tablets
 
-<<<<<<< HEAD
-=======
-[page 30]
->>>>>>> code
 Abuse of acetaminophen and codeine phosphate tablets poses a risk of overdose and
 death. The risk is increased with concurrent use of acetaminophen and codeine
 phosphate tablets with alcohol and/or other CNS depressants.
@@ -1387,10 +1256,6 @@ Clinical Presentation
 Codeine
 Acute overdose with codeine can be manifested by respiratory depression, somnolence
 
-<<<<<<< HEAD
-=======
-[page 31]
->>>>>>> code
 progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin,
 constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension,
 hypoglycemia, partial or complete airway obstruction, atypical snoring, and death.
@@ -1419,7 +1284,6 @@ Because the duration of opioid reversal is expected to be less than the duration
 action of codeine in acetaminophen and codeine phosphate tablets, carefully monitor the
 patient until spontaneous respiration is reliably reestablished. If the response to an
 opioid overdose reversal agent is suboptimal or only brief in nature, administer additional
-<<<<<<< HEAD
 reversal agent  as directed by the product’s prescribing information.
 In an individual physically dependent on opioids, administration of the recommended
 usual dosage of the overdose reversal agent will precipitate an acute withdrawal
@@ -1427,15 +1291,6 @@ syndrome. The severity of the withdrawal symptoms experienced will depend on the
 degree of physical dependence and the dose of the reversal agent  administered. If a
 decision is made to treat serious respiratory depression in the physically dependent
 patient, administration of the reversal agent  should be begun with care and by titration
-=======
-reversal agent as directed by the product’s prescribing information.
-In an individual physically dependent on opioids, administration of the recommended
-usual dosage of the overdose reversal agent will precipitate an acute withdrawal
-syndrome. The severity of the withdrawal symptoms experienced will depend on the
-degree of physical dependence and the dose of the reversal agent administered. If a
-decision is made to treat serious respiratory depression in the physically dependent
-patient, administration of the reversal agent should be begun with care and by titration
->>>>>>> code
 with smaller than usual doses of the reversal agent.
 Acetaminophen
 Gastric decontamination with activated charcoal should be administered just prior to 
@@ -1446,10 +1301,6 @@ Serum acetaminophen levels should be obtained immediately if the patient present
 acetaminophen levels drawn less than 4 hours post-ingestion may be misleading. To
 obtain the best possible outcome, (NAC) should be administered as soon as possible
 
-<<<<<<< HEAD
-=======
-[page 32]
->>>>>>> code
 where impending or evolving liver injury is suspected. Intravenous NAC may be
 administered when circumstances preclude oral administration.
 Vigorous supportive therapy is required in severe intoxication. Procedures to limit the
@@ -1493,10 +1344,6 @@ Concomitant Use with Benzodiazepines or Other CNS Depressants).
 Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription,
 over-the-counter, or as part of a community-based program).
 
-<<<<<<< HEAD
-=======
-[page 33]
->>>>>>> code
 There are important differences among the opioid overdose reversal agents, such as
 route of administration, product strength, approved patient age range, and
 pharmacokinetics. Be familiar with these differences, as outlined in the approved labeling
@@ -1521,11 +1368,7 @@ Codeine Phosphate
 15 mg to 60 mg
 360 mg
 Acetaminophen
-<<<<<<< HEAD
 300 mg to 1,000 mg  
-=======
-300 mg to 1,000 mg 
->>>>>>> code
 4,000 mg
 The prescriber must determine the number of tablets per dose, and the maximum
 number of tablets per 24 hours, based upon the above dosage guidance. This
@@ -1548,10 +1391,6 @@ members of the healthcare team, the patient, and the caregiver/family during per
 changing analgesic requirements, including initial titration.
 If the level of pain increases after dosage stabilization, attempt to identify the source of
 
-<<<<<<< HEAD
-=======
-[page 34]
->>>>>>> code
 increased pain before increasing the acetaminophen and codeine phosphate tablets
 dosage. If after increasing the dosage, unacceptable opioid-related adverse reactions
 are observed (including an increase in pain after dosage increase), consider reducing the
@@ -1599,10 +1438,6 @@ opioid analgesic to the previous dose, and then proceed with a slower taper. In 
 evaluate patients for any changes in mood, emergence of suicidal thoughts, or use of
 other substances.
 
-<<<<<<< HEAD
-=======
-[page 35]
->>>>>>> code
 When managing patients taking opioid analgesics, particularly those who have been
 treated for an extended period of time, and/or with high doses for chronic pain, ensure
 that a multimodal approach to pain management, including mental health support (if
@@ -1613,30 +1448,18 @@ ABUSE AND DEPENDENCE).
 HOW SUPPLIED
 Each Acetaminophen and Codeine Phosphate Tablet USP 300 mg/15 mg tablet contains
 acetaminophen 300 mg and codeine phosphate 15 mg. It is available as a round, white
-<<<<<<< HEAD
 to off-white tablet debossed with “2” on one side and an  on the other side.
 Bottles of 100......................................... NDC 0406-0483-01
 Each Acetaminophen and Codeine Phosphate Tablet USP 300 mg/30 mg tablet contains
 acetaminophen 300 mg and codeine phosphate 30 mg. It is available as a round, white
 to off-white tablet debossed with “3” on one side and an  on the other side.
-=======
-to off-white tablet debossed with “2” on one side and an on the other side.
-Bottles of 100......................................... NDC 0406-0483-01
-Each Acetaminophen and Codeine Phosphate Tablet USP 300 mg/30 mg tablet contains
-acetaminophen 300 mg and codeine phosphate 30 mg. It is available as a round, white
-to off-white tablet debossed with “3” on one side and an on the other side.
->>>>>>> code
 Bottles of 30............................................ NDC 0406-0484-03
 Bottles of 100......................................... NDC 0406-0484-01
 Bottles of 1000....................................... NDC 0406-0484-10
 Unit Dose (10 x 10)............................... NDC 0406-0484-62
 Each Acetaminophen and Codeine Phosphate Tablet USP 300 mg/60 mg tablet contains
 acetaminophen 300 mg and codeine phosphate 60 mg. It is available as a round, white
-<<<<<<< HEAD
 to off-white tablet debossed with “4” on one side and an  on the other side.
-=======
-to off-white tablet debossed with “4” on one side and an on the other side.
->>>>>>> code
 Bottles of 100......................................... NDC 0406-0485-01
 Bottles of 500......................................... NDC 0406-0485-05
 Store acetaminophen and codeine phosphate tablets at 20° to 25°C (68° to 77°F) [see
@@ -1652,10 +1475,6 @@ Rev 01/2026
 Par Health™
  To obtain a printable copy of the Medication Guide, visit www.parhealth.com/products.
 
-<<<<<<< HEAD
-=======
-[page 36]
->>>>>>> code
 Medication Guide
 Acetaminophen and Codeine Phosphate Tablets USP, CIII
 (a seet' a min' oh fen and koe' deen fos' fate) 
@@ -1702,10 +1521,6 @@ liver, kidney, thyroid problems
 problems urinating
 pancreas or gallbladder problems
 
-<<<<<<< HEAD
-=======
-[page 37]
->>>>>>> code
 abuse of street or prescription drugs, alcohol addiction, opioid overdose, or mental
 health problems
 Have been told by your healthcare provider that you are a “rapid metabolizer” of
@@ -1754,10 +1569,6 @@ Drive or operate heavy machinery, until you know how acetaminophen and codeine
 phosphate tablets affect you. Acetaminophen and codeine phosphate tablets can
 make you sleepy, dizzy, or lightheaded.
 
-<<<<<<< HEAD
-=======
-[page 38]
->>>>>>> code
 Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
 Using products containing alcohol during treatment with acetaminophen and codeine
 phosphate tablets may cause you to overdose and die.
@@ -1779,11 +1590,7 @@ or call
 1-800-778-7898
 This Medication Guide has been approved by the U.S. Food and Drug
 Administration. 
-<<<<<<< HEAD
 Issued: 01/2026          
-=======
-Issued: 01/2026 
->>>>>>> code
 MG20A08
 Par Health™
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/15 mg Bottle
@@ -1800,10 +1607,6 @@ Codeine Phosphate USP. . . . . . . . . . . . . 15 mg
 This package is not for household use.
 PHARMACIST: Dispense the Medication Guide provided separately to each
 
-<<<<<<< HEAD
-=======
-[page 39]
->>>>>>> code
 patient.
 Par Health™
 L00A28
@@ -1826,10 +1629,6 @@ Par Health™
 L00A34
 Rev 01/2026
 
-<<<<<<< HEAD
-=======
-[page 40]
->>>>>>> code
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/60 mg Bottle
 NDC 0406-0485-05
 500 TABLETS
@@ -1848,12 +1647,7 @@ Par Health™
 L00A37
 Rev 01/206
 
-<<<<<<< HEAD
 ACETAMINOPHEN AND CODEINE PHOSPHATE  
-=======
-[page 41]
-ACETAMINOPHEN AND CODEINE PHOSPHATE 
->>>>>>> code
 acetaminophen and codeine phosphate tablet
 Product Information
 Product Type
@@ -1863,11 +1657,7 @@ NDC:0406-0483
 Route of Administration
 ORAL
 DEA Schedule
-<<<<<<< HEAD
 CIII    
-=======
-CIII 
->>>>>>> code
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of
@@ -1904,19 +1694,11 @@ ROUND
 Size
 10mm
 
-<<<<<<< HEAD
-=======
-[page 42]
->>>>>>> code
 Flavor
 Imprint Code
 2;M
 Contains
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Packaging
 #
 Item Code
@@ -1942,11 +1724,7 @@ Date
 ANDA
 ANDA040419
 05/31/2001
-<<<<<<< HEAD
 ACETAMINOPHEN AND CODEINE PHOSPHATE  
-=======
-ACETAMINOPHEN AND CODEINE PHOSPHATE 
->>>>>>> code
 acetaminophen and codeine phosphate tablet
 Product Information
 Product Type
@@ -1956,11 +1734,7 @@ NDC:0406-0484
 Route of Administration
 ORAL
 DEA Schedule
-<<<<<<< HEAD
 CIII    
-=======
-CIII 
->>>>>>> code
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of
@@ -2000,13 +1774,8 @@ Flavor
 Imprint Code
 3;M
 Contains
-<<<<<<< HEAD
     
 
-=======
-
-[page 43]
->>>>>>> code
 Packaging
 #
 Item Code
@@ -2064,11 +1833,7 @@ Date
 ANDA
 ANDA040419
 05/31/2001
-<<<<<<< HEAD
 ACETAMINOPHEN AND CODEINE PHOSPHATE  
-=======
-ACETAMINOPHEN AND CODEINE PHOSPHATE 
->>>>>>> code
 acetaminophen and codeine phosphate tablet
 Product Information
 Product Type
@@ -2078,11 +1843,7 @@ NDC:0406-0485
 Route of Administration
 ORAL
 DEA Schedule
-<<<<<<< HEAD
 CIII    
-=======
-CIII 
->>>>>>> code
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of
@@ -2106,13 +1867,8 @@ MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
 POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
  
 STARCH, CORN (UNII: O8232NY3SJ)
-<<<<<<< HEAD
  
 
-=======
-
-[page 44]
->>>>>>> code
 SpecGx LLC
 STEARIC ACID (UNII: 4ELV7Z65AP)
  
@@ -2129,11 +1885,7 @@ Flavor
 Imprint Code
 4;M
 Contains
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Packaging
 #
 Item Code
@@ -2191,8 +1943,4 @@ SpecGx LLC
 163205300
 api manufacture(0406-0483, 0406-0484, 0406-0485)
  
-<<<<<<< HEAD
 Revised: 6/2026
-=======
-Revised: 6/2026
->>>>>>> code

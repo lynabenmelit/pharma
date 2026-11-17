@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 PIROXICAM- piroxicam capsule
 Teva Pharmaceuticals USA, Inc.
 ----------
@@ -76,10 +72,6 @@ Monitor blood pressure (7)
 ACE Inhibitors and ARBs: Concomitant use with piroxicam in elderly, volume depleted, or those with
 renal impairment may result in deterioration of renal function. In such high risk patients, monitor for
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 p
 y
 g
@@ -142,10 +134,6 @@ EVENTS
 FULL PRESCRIBING INFORMATION
 Sections or subsections omitted from the full prescribing information are not listed.
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 WARNING: RISK OF SERIOUS CARDIOVASCULAR AND
 GASTROINTESTINAL EVENTS
 Cardiovascular Thrombotic Events
@@ -200,10 +188,6 @@ In the setting of CABG surgery [see Warnings and Precautions (5.1)]
 5 WARNINGS AND PRECAUTIONS
 5.1 Cardiovascular Thrombotic Events
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 Clinical trials of several cyclooxygenase-2 (COX-2) selective and nonselective NSAIDs of
 up to three years duration have shown an increased risk of serious cardiovascular (CV)
 thrombotic events, including myocardial infarction (MI), and stroke, which can be fatal.
@@ -268,10 +252,6 @@ Avoid use in patients at higher risk unless benefits are expected to outweigh th
 increased risk of bleeding. For
 such patients, as well as those with active GI bleeding, consider alternate therapies
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 other than NSAIDs.
 Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID
 therapy.
@@ -331,10 +311,6 @@ progression of renal dysfunction in patients with preexisting renal disease.
 Correct volume status in dehydrated or hypovolemic patients prior to initiating
 piroxicam. Monitor renal function in patients with renal or hepatic impairment, heart
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 failure, dehydration, or hypovolemia during use of piroxicam [see Drug Interactions (7)].
 Avoid the use of piroxicam in patients with advanced renal disease unless the benefits
 are expected to outweigh the risk of worsening renal function. If piroxicam is used in
@@ -394,10 +370,6 @@ Oligohydramnios is often, but not always, reversible with treatment discontinuat
 Complications of prolonged oligohydramnios may, for example, include limb
 contractures and delayed lung maturation. In some postmarketing cases of impaired
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 neonatal renal function, invasive procedures such as exchange transfusion or dialysis
 were required.
 If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit
@@ -454,10 +426,6 @@ Special Senses: Tinnitus
 Additional adverse experiences reported occasionally include:
 Cardiovascular System: Palpitations
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 Digestive System: Stomatitis
 Nervous System: Drowsiness
 Special Senses: Blurred vision
@@ -514,10 +482,6 @@ than the use of NSAIDs alone. In a clinical study, the concomitant use of an
 NSAID and aspirin was associated with a significantly increased incidence of
 GI adverse reactions as compared to use of the NSAID alone [see
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 Warnings and Precautions (5.2)].
 Intervention:Concomitant use of piroxicam and analgesic doses of aspirin is not
 generally recommended because of the increased risk of bleeding [see
@@ -585,10 +549,6 @@ pemetrexed-associated myelosuppression, renal, and GI toxicity (see the
 pemetrexed prescribing information).
 Intervention:During concomitant use of piroxicam and pemetrexed, in patients with
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 renal impairment whose creatinine clearance ranges from 45 to 79 mL/min,
 monitor for myelosuppression, renal and GI toxicity.
 NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin)
@@ -650,10 +610,6 @@ Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy,
 because NSAIDs, including piroxicam, can cause premature closure of the fetal ductus
 arteriosus (see Data).
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 Oligohydramnios/Neonatal Renal Impairment:
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use
 to the lowest effective dose and shortest duration possible. If piroxicam treatment
@@ -715,10 +671,6 @@ breastfeeding should be considered along with the mother's clinical need for pir
 and any potential adverse effects on the breastfed infant from the piroxicam or from
 the underlying maternal condition.
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 8.3 Females and Males of Reproductive Potential
 Infertility
 Females
@@ -772,10 +724,6 @@ in aqueous alkaline solutions. It exhibits a weakly acidic 4-hydroxy proton (pKa
 3
 4
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 a weakly basic pyridyl nitrogen (pKa 1.8).
 The inactive ingredients in piroxicam capsules, USP include: colloidal silicon dioxide, corn
 starch, D&C Yellow No. 10, FD&C Green No. 3, gelatin, lactose monohydrate,
@@ -835,10 +783,6 @@ Higher systemic exposure of piroxicam has been noted in subjects with CYP2C9
 polymorphisms compared to normal metabolizer type subjects [see Clinical
 Pharmacology (12.5)].
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 Excretion
 Piroxicam and its biotransformation products are excreted in urine and feces, with
 about twice as much appearing in the urine as in the feces. Approximately 5% of a
@@ -896,10 +840,6 @@ chromosome aberration assay in mice.
 Impairment of Fertility
 ½
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 Reproductive studies in which rats were administered piroxicam at doses of 2, 5, or 10
 mg/kg/day (up to 5 times the MRHD of 20 mg based on mg/m body surface area
 [BSA]) revealed no impairment of male or female fertility.
@@ -954,10 +894,6 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
 swelling of the face or throat). Instruct patients to seek immediate emergency help if
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 Serious Skin Reactions, including DRESS
 Advise patients to stop taking piroxicam capsules immediately if they develop any type
@@ -1017,10 +953,6 @@ older age
 poor health
 advanced liver disease
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 bleeding problems
 NSAIDs should only be used:
 exactly as prescribed
@@ -1081,10 +1013,6 @@ These are not all the possible side effects of NSAIDs. For more information, ask
 NSAIDs.
 Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 Other information about NSAIDs
 Aspirin is an NSAID but it does not increase the chance of a heart attack. Aspirin can cause bleeding in the brain, stomach,
 and intestines. Aspirin can also cause ulcers in the stomach and intestines.
@@ -1116,10 +1044,6 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 Rx only
 100 Capsules
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 piroxicam capsule
 Product Information
 Product Type
@@ -1195,10 +1119,6 @@ Category
 Application Number or Monograph
 Citation
 
-<<<<<<< HEAD
-=======
-[page 20]
->>>>>>> code
 Teva Pharmaceuticals USA, Inc.
 ANDA
 ANDA074131

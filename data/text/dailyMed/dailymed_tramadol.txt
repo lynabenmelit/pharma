@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 TRAMADOL HYDROCHLORIDE- tramadol hydrochloride tablet  
-=======
-[page 1]
-TRAMADOL HYDROCHLORIDE- tramadol hydrochloride tablet 
->>>>>>> code
 BIOMES PHARMACEUTICALS LLC
 ----------
 TRAMADOL HYDROCHLORIDE TABLETS USP
@@ -39,10 +34,6 @@ Apart from analgesia, tramadol hydrochloride tablets administration may produce 
 symptoms (including dizziness, somnolence, nausea, constipation, sweating and pruritus) similar to that
 of other opioids. In contrast to morphine, tramadol has not been shown to cause histamine release. At
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 therapeutic doses, tramadol hydrochloride tablets have no effect on heart rate, left-ventricular function
 or cardiac index. Orthostatic hypotension has been observed.
 Pharmacokinetics
@@ -58,7 +49,6 @@ parallel time course in the body following single and multiple doses although sm
 10%) exist in the absolute amount of each enantiomer present.
 Steady-state plasma concentrations of both tramadol and M1 are achieved within two days with four
 times per day dosing. There is no evidence of self-induction (see Figure 1 and Table 1 below).
-<<<<<<< HEAD
 Figure 1:         Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 mg Oral
 Dose and after Twenty-Nine 100 mg Oral Doses of Tramadol HCl given four times per day.
 Table 1    Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
@@ -75,51 +65,20 @@ Time  to Peak
 Clearance/F (mL/min/Kg)                              
 t 
  (hrs)          
-=======
-Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 mg Oral
-Dose and after Twenty-Nine 100 mg Oral Doses of Tramadol HCl given four times per day.
-Table 1 Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
- Population/ Dosage 
-Regimen
-Parent 
-Drug/ 
-Metabolite 
- 
-Peak Conc.
-(ng/mL)
-Time to Peak
-(hrs)
-Clearance/F (mL/min/Kg) 
-t 
- (hrs) 
->>>>>>> code
 a
 b 
 1/2
 
-<<<<<<< HEAD
 a  SD = Single dose, MD =
-=======
-[page 3]
-a SD = Single dose, MD =
->>>>>>> code
 Multiple dose, p.o.= Oral
 administration, i.v.=
 Intravenous administration, 
 q.i.d.= Four times daily 
-<<<<<<< HEAD
 b  F represents the oral
 bioavailability of tramadol 
 c  Not applicable 
 d  Not measured
 Healthy Adults,            
-=======
-b F represents the oral
-bioavailability of tramadol 
-c Not applicable 
-d Not measured
-Healthy Adults, 
->>>>>>> code
 100 mg qid, MD p.o
 Tramadol
  592 (30)
@@ -131,11 +90,7 @@ M1
 2.4 (46)
 c
 7.0 (14)
-<<<<<<< HEAD
 Healthy Adults,  
-=======
-Healthy Adults, 
->>>>>>> code
 100 mg SD p.o.
 Tramadol
 308 (25)
@@ -147,11 +102,7 @@ M1
 3.0 (51)
 c
 6.7 (16)
-<<<<<<< HEAD
 Geriatric, (>75 yrs)               
-=======
-Geriatric, (>75 yrs) 
->>>>>>> code
 50 mg SD p.o
 Tramadol
 208 (31)
@@ -189,11 +140,7 @@ c
 c
 11.5 (40)
 Renal Impaired, 
-<<<<<<< HEAD
 CL <5 mL/min  
-=======
-CL <5 mL/min 
->>>>>>> code
 100 mg SD i.v.
 Tramadol
 c
@@ -231,10 +178,6 @@ inhibitors of CYP2D6 such as fluoxetine, paroxetine and quinidine could result i
 cr
 cr
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 interactions. In vitro drug interaction studies in human liver microsomes indicate that inhibitors of
 CYP2D6 such as fluoxetine and its metabolite norfluoxetine, amitriptyline and quinidine inhibit the
 metabolism of tramadol to various degrees, suggesting that concomitant administration of these
@@ -285,14 +228,8 @@ approximately 250 mg of tramadol hydrochloride in divided doses were generally c
 doses of acetaminophen 300 mg with codeine phosphate 30 mg (TYLENOL
 with Codeine #3) daily,
 five doses of aspirin 325 mg with codeine phosphate 30 mg daily, or two to three doses of
-<<<<<<< HEAD
 ® 
 
-=======
-®
-
-[page 5]
->>>>>>> code
 acetaminophen 500 mg with oxycodone hydrochloride 5 mg (TYLOX ) daily.
 Titration Trials
 In a randomized, blinded clinical study with 129 to 132 patients per group, a 10-day titration to a daily
@@ -322,10 +259,6 @@ promethazine, etc.), or
 Other opioids. 
 ®
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 Administration of tramadol hydrochloride may enhance the seizure risk in patients taking: 
 MAO inhibitors (see also WARNINGS- Use with MAO Inhibitors and Serotonin Re-uptake
 inhibitors),
@@ -376,21 +309,13 @@ phenothiazines, tranquilizers or sedative hypnotics. Tramadol hydrochloride incr
 and respiratory depression in these patients.
 Interactions with Alcohol and Drugs of Abuse
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 Tramadol may be expected to have additive effects when used in conjuction with alcohol, other opiods,
 or illicit drugs that cause central nervous system depression.
 Increased Intracranial Pressure or Head Trauma
 Tramadol hydrochloride tablets should be used with caution in patients with increased intracranial
 pressure or head injury. The respiratory depressant effects of opioids include carbon dioxide retention
 and secondary elevation of cerebrospinal fluid pressure, and may be markedly exaggerated in these
-<<<<<<< HEAD
 patients. Additionally, pupillary changes (miosis) from tramadol  may obscure the existence, extent, or
-=======
-patients. Additionally, pupillary changes (miosis) from tramadol may obscure the existence, extent, or
->>>>>>> code
 course of intracranial pathology. Clinicians should also maintain a high index of suspicion for adverse
 drug reaction when evaluating altered mental status in these patients if they are receiving tramadol
 hydrochloride. (See WARNINGS, Respiratory Depression.)
@@ -432,10 +357,6 @@ Withdrawal
 Withdrawal symptoms may occur if tramadol hydrochloride tablets are discontinued abruptly. (see
 DRUG ABUSE AND DEPENDENCE). Reported symptoms have included anxiety, sweating,
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 insomnia, rigors, pain, nausea, tremors, diarrhea, upper respiratory symptoms, piloerection, and rarely
 hallucinations. Other symptoms that have been reported less frequently with tramadol hydrochloride
 discontinuation include panic attacks, severe anxiety, and paresthesias. Clinical experience suggests that
@@ -485,19 +406,11 @@ Triptans
 Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is
 advised when tramadol is coadministered with a triptan. If concomitant treatment of tramadol with a
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment
 initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 Use With Carbamazepine
 Patients taking carbamazepine may have a significantly reduced analgesic effect of tramadol
-<<<<<<< HEAD
 hydrochloride. Because carbamazepine increases tramadol  metabolism and because of the seizure risk
-=======
-hydrochloride. Because carbamazepine increases tramadol metabolism and because of the seizure risk
->>>>>>> code
 associated with tramadol, concomitant administration of tramadol hydrochloride and carbamazepine is
 not recommended.
 Use With Quinidine
@@ -547,10 +460,6 @@ male rats and 75 mg/kg (450 mg/m ) in female rats. These dosages are 1.2 and 1.8
 2
 2
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 daily human dosage of 246 mg/m , respectively.
 Pregnancy, Teratogenic effects: Pregnancy Category C
 Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg or 360 mg/m ), rats (≥25
@@ -612,21 +521,13 @@ tablets in controlled clinical trials. Of those,145 subjects were 75 years of ag
 2
 2
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 In studies including geriatric patients, treatment-limiting adverse events were higher in subjects over 75
 years of age compared to those under 65 years of age. Specifically, 30% of those over 75 years of age
 had gastrointestinal treatment-limiting adverse events compared to 17% of those under 65 years of age.
 Constipation resulted in discontinuation of treatment in 10% of those over 75.
 ADVERSE REACTIONS
 Tramadol hydrochloride tablets were administered to 550 patients during the double-blind or open-
-<<<<<<< HEAD
 label extension  periods in U.S. studies of chronic nonmalignant pain. Of these patients, 375 were 65
-=======
-label extension periods in U.S. studies of chronic nonmalignant pain. Of these patients, 375 were 65
->>>>>>> code
 years old or older. Table 2 reports the cumulative incidence rate of adverse reactions by 7, 30 and 90
 days for the most frequent reactions (5% or more by 7 days). The most frequently reported events were
 in the central nervous system and gastrointestinal system. Although the reactions listed in the table are
@@ -634,7 +535,6 @@ felt to be probably related to tramadol administration, the reported rates also 
 may have been due to underlying disease or concomitant medication. The overall incidence rates of
 adverse experiences in these trials were similar for tramadol hydrochloride and the active control
 groups, TYLENOL
-<<<<<<< HEAD
 with Codeine #3 (acetaminophen 300 mg with  codeine phosphate 30 mg),
 and aspirin 325 mg with codeine phosphate 30 mg, however, the rates of withdrawals due to adverse
 events appeared to be higher in the tramadol  groups.  
@@ -643,16 +543,6 @@ spasticity, euphoria, emotional lability and hallucinations.
 Table 2:     Cumulative Incidence of Adverse Reactions for
 Tramadol 
                    Hydrochloride Tablets in Chronic Trials of
-=======
-with Codeine #3 (acetaminophen 300 mg with codeine phosphate 30 mg),
-and aspirin 325 mg with codeine phosphate 30 mg, however, the rates of withdrawals due to adverse
-events appeared to be higher in the tramadol groups. 
-"CNS Stimulation" is a composite of nervousness, anxiety, agitation, tremor,
-spasticity, euphoria, emotional lability and hallucinations. 
-Table 2: Cumulative Incidence of Adverse Reactions for
-Tramadol 
- Hydrochloride Tablets in Chronic Trials of
->>>>>>> code
 Nonmalignant Pain (N =427) 
 Up to 7 Days 
 Up to 30
@@ -687,11 +577,7 @@ Pruritus
 8% 
 10% 
 11% 
-<<<<<<< HEAD
 "CNS Stimulation"  
-=======
-"CNS Stimulation" 
->>>>>>> code
 7% 
 11% 
 14% 
@@ -731,10 +617,6 @@ Urogenital: Menopausal symptoms, Urinary frequency, Urinary retention.
 1 
 1
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 Incidence less than 1%, possibly causally related: the following lists adverse reactions that occurred with
 an incidence of less than 1% in clinical trials and/or reported in post-marketing experience with
 Tramadol-containing products. 
@@ -756,7 +638,6 @@ Other adverse experiences, causal relationship unknown: A variety of other adver
 infrequently in patients taking tramadol hydrochloride tablets during clinicall trials and/or reported in
 post-marketing experience. A causal relationship between tramadol hydrochloride and these events has
 not been determined. However, the most significant events are listed below as alerting information to
-<<<<<<< HEAD
 the physician.  
 Cardiovascular: Abnormal ECG, Hypertension, Hypotension, Myocardial ischemia, Palpitations,
 Pulmonary edema, Pulmonary embolism.  
@@ -764,15 +645,6 @@ Central Nervous System: Migraine, Speech disorders.
 Gastrointestinal: Gastrointestinal bleeding, Hepatitis, Stomatitis, Liver failure. 
 Laboratory Abnormalities: Creatinine increase, Elevated liver enzymes, Hemoglobin decrease,
 Proteinuria.  
-=======
-the physician. 
-Cardiovascular: Abnormal ECG, Hypertension, Hypotension, Myocardial ischemia, Palpitations,
-Pulmonary edema, Pulmonary embolism. 
-Central Nervous System: Migraine, Speech disorders. 
-Gastrointestinal: Gastrointestinal bleeding, Hepatitis, Stomatitis, Liver failure. 
-Laboratory Abnormalities: Creatinine increase, Elevated liver enzymes, Hemoglobin decrease,
-Proteinuria. 
->>>>>>> code
 Sensory: Cataracts, Deafness, Tinnitus.
 DRUG ABUSE AND DEPENDENCE
 CONTROLLED SUBSTANCE
@@ -792,10 +664,6 @@ provide prior medical records or contact information for other treating physicia
 to obtain additional prescriptions is common among drug abusers and people suffering from untreated
 addiction.
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 Abuse and addiction are separate and distinct from physical dependence and tolerance. Physicians
 should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of
 physical dependence in all addicts. In addition, abuse of tramadol hydrochloride can occur in the
@@ -844,10 +712,6 @@ For patients with moderate to moderately severe chronic pain not requiring rapid
 effect, the tolerability of tramadol hydrochloride tablets can be improved by initiating therapy with a
 titration regimen: The total daily dose may be increased by 50 mg as tolerated every 3 days to reach 200
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 mg/day (50 mg q.i.d.). After titration, tramadol hydrochloride tablets 50 to 100 mg can be administered
 as needed for pain relief every 4 to 6 hours not to exceed 400 mg/day.
 For the subset of patients for whom rapid onset of analgesic effect is required and for whom the
@@ -890,12 +754,7 @@ Rx Only
 1000 count
 BIOMES
 
-<<<<<<< HEAD
 TRAMADOL HYDROCHLORIDE  
-=======
-[page 15]
-TRAMADOL HYDROCHLORIDE 
->>>>>>> code
 tramadol hydrochloride tablet
 Product Information
 Product T ype
@@ -905,11 +764,7 @@ NDC:69150-020
 Route of Administration
 ORAL
 DEA Schedule
-<<<<<<< HEAD
 CIV    
-=======
-CIV 
->>>>>>> code
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of Strength
@@ -953,11 +808,7 @@ Flavor
 Imprint Code
 alg;218
 Contains
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Packaging
 #
 Item Code
@@ -967,10 +818,6 @@ Marketing End Date
 1 NDC:69150-020-10
 1000 in 1 BOTTLE; Type 0: Not a Combination Product
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 BIOMES PHARMACEUTICALS LLC
 Marketing Information
 Marketing Category
@@ -983,8 +830,4 @@ ANDA202075
 Labeler - BIOMES PHARMACEUTICALS LLC (078644310)
 Registrant - BIOMES PHARMACEUTICALS LLC (078644310)
  
-<<<<<<< HEAD
 Revised: 3/2016
-=======
-Revised: 3/2016
->>>>>>> code

@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 DOXYCYCLINE HYCLATE- doxycycline hyclate tablet
 ----------
 Doxycycline Hyclate Caps and Tabs A062031 A062421
@@ -37,10 +33,6 @@ sodium lauryl sulfate and titanium dioxide.
 8
 6
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 CLINICAL PHARMACOLOGY
 Tetracyclines are readily absorbed and are bound to plasma proteins in varying degree.
 They are concentrated by the liver in the bile, and excreted in the urine and feces at high
@@ -84,10 +76,6 @@ Doxycycline has been shown to be active against most isolates of the following
 microorganisms, both in vitro and in clinical infections as described in the INDICATIONS
 AND USAGE section of the package insert for doxycycline hyclate.
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 Gram-Negative Bacteria
 Acinetobacter species
 Bartonella bacilliformis
@@ -125,10 +113,6 @@ Ureaplasma urealyticum
 Parasites
 Balantidium coli
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 Entamoeba species
 Plasmodium falciparum*
 *Doxycycline has been found to be active against the asexual erythrocytic forms of
@@ -171,10 +155,6 @@ Brucellosis due to Brucella species (in conjunction with streptomycin).
 Bartonellosis due to Bartonella bacilliformis.
 Granuloma inguinale caused by Klebsiella granulomatis.
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 Because many strains of the following groups of microorganisms have been shown to
 be resistant to doxycycline, culture and susceptibility testing are recommended.
 Doxycycline is indicated for treatment of infections caused by the following gramnegative bacteria, when bacteriologic testing indicates appropriate susceptibility to the
@@ -212,10 +192,6 @@ tetracyclines.
 WARNINGS
 The use of drugs of the tetracycline class during tooth development (last half of
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 pregnancy, infancy and childhood to the age of 8 years) may cause permanent
 discoloration of the teeth (yellow-gray-brown). This adverse reaction is more common
 during long-term use of the drugs, but it has been observed following repeated shortterm courses. Enamel hypoplasia has also been reported. Use doxycycline in pediatric
@@ -260,10 +236,6 @@ discontinued.
 Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal
 tissues, and can have toxic effects on the developing fetus (often related to retardation
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 of skeletal development). Evidence of embryotoxicity has also been noted in animals
 treated early in pregnancy. If any tetracycline is used during pregnancy or if the patient
 becomes pregnant while taking this drug, the patient should be apprised of the potential
@@ -305,10 +277,6 @@ area,
 returning from an endemic area,
 - should not exceed 4 months.
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 All patients taking doxycycline should be advised:
 - to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to
 discontinue therapy if phototoxicity (e.g., skin eruption, etc.) occurs. Sunscreen or
@@ -352,10 +320,6 @@ magnesium, and iron-containing preparations.
 Absorption of tetracyclines is impaired by bismuth subsalicylate.
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 Concurrent use of tetracycline may render oral contraceptives less effective.
 Drug/Laboratory Test Interactions
 False elevations of urinary catecholamine levels may occur due to interference with the
@@ -399,10 +363,6 @@ The effect of tetracyclines on labor and delivery is unknown.
 1
 3
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 Nursing Mothers
 Tetracyclines are excreted in human milk; however, the extent of absorption of
 tetracyclines, including doxycycline, by the breastfed infant is not known. Short-term
@@ -446,10 +406,6 @@ infections treated with doxycycline.
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been
 reported.
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams,
 hallucination.
 Other: Bulging fontanels in infants and intracranial hypertension in adults. (See
@@ -490,10 +446,6 @@ drugs in the tetracycline class is recommended to wash down the drugs and reduce
 risk of esophageal irritation and ulceration. (See ADVERSE REACTIONS.)
 If gastric irritation occurs, it is recommended that doxycycline be given with food or
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 milk. The absorption of doxycycline is not markedly influenced by simultaneous ingestion
 of food or milk.
 Studies to date have indicated that administration of doxycycline at the usual
@@ -532,10 +484,6 @@ Dispense in a tight, light-resistant container with child-resistant closure.
 ANIMAL PHARMACOLOGY AND ANIMAL TOXICOLOGY
 Hyperpigmentation of the thyroid has been produced by members of the tetracycline
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO ,
 and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO , and
 methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline.
@@ -573,10 +521,6 @@ Doxycycline Hyclate Tablets, USP
 Rx Only
 th
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 DOXYCYCLINE HYCLATE
 doxycycline hyclate tablet
 Product Information
@@ -630,10 +574,6 @@ Flavor
 Imprint Code
 DAN;5553
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 Contains
 
 Packaging

@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 CEFIXIME- cefixime powder, for suspension
 CEFIXIME- cefixime capsule
 ----------
@@ -52,10 +48,6 @@ established. (8.4)
 Geriatric Use: Clinical studies did not include sufficient numbers of subjects aged 65 and older to
 determine whether they respond differently than younger subjects. Other reported clinical experience
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 g
 j
 has not identified differences in responses between the elderly and younger patients. (8.5)
@@ -105,10 +97,6 @@ FULL PRESCRIBING INFORMATION: CONTENTS*
 12.4 Microbiology
 13 NONCLINICAL TOXICOLOGY
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 14 CLINICAL STUDIES
 15 REFERENCES
@@ -147,10 +135,6 @@ Haemophilus influenzae.
 Cefixime for oral suspension and cefixime capsule is indicated in the treatment of adults
 Sections or subsections omitted from the full prescribing information are not listed.
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 and pediatric patients six months of age or older with uncomplicated gonorrhea
 (cervical/urethral) caused by susceptible isolates of Neisseria gonorrhoeae (penicillinaseand non-penicillinase-producing isolates).
 1.6 Usage to Reduce Development of Drug-Resistant Bacteria
@@ -209,10 +193,6 @@ Patient Weight
 12.5
 6
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 33.1 to 40
 300
 15
@@ -275,10 +255,6 @@ To reconstitute, suspend with 34 mL water . Method:
 Tap the bottle several times to loosen powder contents
 prior to reconstitution. Add approximately half the total
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 amount of water for reconstitution and shake well. Add
 the remainder of water and shake well.
 After reconstitution, the suspension may be kept for 14 days either at room
@@ -318,10 +294,6 @@ these infections can be refractory to antimicrobial therapy and may require cole
 CDAD must be considered in all patients who present with diarrhea following antibacterial
 drug use. Careful medical history is necessary since CDAD has been reported to occur
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against
 C. difficile may need to be discontinued. Appropriate fluid and electrolyte management,
@@ -362,10 +334,6 @@ Gastrointestinal
 Several cases of documented pseudomembranous colitis were identified in clinical trials.
 The onset of pseudomembranous colitis symptoms may occur during or after therapy.
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 Hypersensitivity Reactions
 Anaphylactic/anaphylactoid reactions (including shock and fatalities), skin rashes,
 urticaria, drug fever, pruritus, angioedema, and facial edema. Erythema multiforme,
@@ -403,10 +371,6 @@ cefixime is administered concomitantly.
 7.3 Drug/Laboratory Test Interactions
 A false-positive reaction for ketones in the urine may occur with tests using
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 nitroprusside but not with those using nitroferricyanide.
 The administration of cefixime may result in a false positive reaction for glucose in the
 urine when using glucose tests based on the Benedict's solution or Fehling's solution. It
@@ -450,10 +414,6 @@ adversely affect development. In these studies, in mice and rats, cefixime did n
 postnatal development or reproductive capacity of the F generation or fetal
 development of the F generation. In an embryo-fetal development study in rabbits,
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 cefixime at doses of 3.2, 10 or 32 mg/kg given daily during the period of organogenesis
 (gestation days 6 through 18) resulted in abortions and/or maternal deaths at doses >
 10 mg/kg (typically associated with the administration of antibiotics in this species), but
@@ -501,10 +461,6 @@ those undergoing continuous ambulatory peritoneal dialysis (CAPD) and hemodialys
 14
 14
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 10 OVERDOSAGE
 Gastric lavage may be indicated; otherwise, no specific antidote exists. Cefixime is not
 removed in significant quantities from the circulation by hemodialysis or peritoneal
@@ -535,10 +491,6 @@ Cefixime tablets and cefixime for oral suspension, given orally, are about 40% t
 15
 7 2
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 absorbed whether administered with or without food; however, time to maximal
 absorption is increased approximately 0.8 hours when administered with food. A single
 200 mg tablet of cefixime produces an average peak serum concentration of
@@ -585,10 +537,6 @@ pharmacokinetic parameters between 12 young and 12 elderly subjects who received
 400 mg of cefixime once daily for 5 days are summarized as follows:
 Table 4. Pharmacokinetic Parameters for Cefixime in Both Young and
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 Elderly Subjects
 Pharmacokinetic Parameters (mean ± SD) for Cefixime in Both Young
 & Elderly Subjects
@@ -647,10 +595,6 @@ Gram-negative Bacteria
 ½
 ave
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 Escherichia coli
 Moraxella catarrhalis
 Neisseria gonorrhoeae
@@ -687,10 +631,6 @@ mouse micronucleus test. In the fertility and reproductive performance study in 
 difference between control and drug-treated animals was detected in mating behavior,
 pregnancy rate, or litter parameters (determined at sacrifice on day 13 of pregnancy) at
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 oral doses up to 1000 mg/kg/day (25 times the adult therapeutic dose) administered to
 males (for 68 days prior to pairing and during the cohabitation period) and females (for
 14 days before pairing to weaning).
@@ -757,10 +697,6 @@ All Isolates
 130/166 (78%)
 15 REFERENCES
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 1. Halperin-Walega, E. Batra VK, Tonelli AP, Barr A, Yacobi A. 'Disposition of Cefixime in
 the Pregnant and Lactating Rat. Transfer to the Fetus and Nursing Pup'. Drug
 Metabolism and Disposition. 1988:16(1): pp130-134.
@@ -800,10 +736,6 @@ therapy may: (1) decrease the effectiveness of the immediate treatment and (2)
 increase the likelihood that bacteria will develop resistance and will not be treatable by
 cefixime or other antibacterial drugs in the future.
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 Diarrhea
 Advise patients that diarrhea is a common problem caused by antibacterial drugs,
 including cefixime which usually ends when the antibacterial drug is discontinued.
@@ -825,46 +757,22 @@ PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 CEFIXIME FOR ORAL SUSPENSION USP
 NDC 68180-405-01: Bottle of 50 mL
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 CEFIXIME FOR ORAL SUSPENSION USP
 NDC 68180-407-03: Bottle of 50 mL
 NDC 68180-407-04: Bottle of 75 mL
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 NDC 68180-416-08 - Bottle of 50 capsules
 NDC 68180-416-11 - Blister
 Unit dose Package of 10 (1 blister of 10 capsules)
 
-<<<<<<< HEAD
 NDC 68180-416-11 - Carton
 
-=======
-[page 20]
-NDC 68180-416-11 - Carton
-
-[page 21]
-
-[page 22]
->>>>>>> code
 NDC 68180-423-08 - Bottle of 50 capsules
 NDC 68180-423-11 - Blister
 Unit dose Package of 10 (1 blister of 10 capsules)
 
-<<<<<<< HEAD
 NDC 68180-423-11 - Carton
 
-=======
-[page 23]
-NDC 68180-423-11 - Carton
-
-[page 24]
->>>>>>> code
 cefixime powder, for suspension
 NDC:68180-405
 100 mg in 5 mL
@@ -887,10 +795,6 @@ ANDA065129
 cefixime powder, for suspension
 NDC:68180-407
 
-<<<<<<< HEAD
-=======
-[page 25]
->>>>>>> code
 200 mg in 5 mL
 
 SODIUM BENZOATE (UNII: OJ245FE5EU)
@@ -913,10 +817,6 @@ ANDA065355
 cefixime capsule
 NDC:68180-416
 
-<<<<<<< HEAD
-=======
-[page 26]
->>>>>>> code
 CROSPOVIDONE (UNII: 2S7830E561)
 
 FERRIC OXIDE RED (UNII: 1K09F3G675)
@@ -956,10 +856,6 @@ ANDA065129
 cefixime capsule
 NDC:68180-423
 
-<<<<<<< HEAD
-=======
-[page 27]
->>>>>>> code
 CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
 
 FERRIC OXIDE RED (UNII: 1K09F3G675)
@@ -999,10 +895,6 @@ NDA authorized
 generic
 NDA203195
 
-<<<<<<< HEAD
-=======
-[page 28]
->>>>>>> code
 Labeler - Lupin Pharmaceuticals, Inc. (089153071)
 Registrant - LUPIN LIMITED (675923163)
 Establishment

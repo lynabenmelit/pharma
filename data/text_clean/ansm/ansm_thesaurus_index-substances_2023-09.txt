@@ -1,10 +1,8 @@
-[page 1]
 THESAURUS
 DES INTERACTIONS MÉDICAMENTEUSES
 INDEX DES SUBSTANCES
 SEPTEMBRE 2023
 
-[page 2]
 abatacept
 abciximab (c 7e3b fab)
 abémaciclib
@@ -47,7 +45,6 @@ acide mefenamique
 acide nicotinique
 Page 2 sur 43
 
-[page 3]
 acide niflumique
 acide oxidronique
 Voir : bisphosphonates - substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants
@@ -94,7 +91,6 @@ alprazolam
 Interactions en propre mais voir aussi : benzodiazépines et apparentés - médicaments sédatifs
 Page 3 sur 43
 
-[page 4]
 alteplase recombinante
 Voir : médicaments, bradykinine et angio-oedème - thrombolytiques
 altizide
@@ -138,7 +134,6 @@ apixaban
 Interactions en propre mais voir aussi : anticoagulants oraux - substrats à risque du CYP3A4
 Page 4 sur 43
 
-[page 5]
 apomorphine
 Interactions en propre mais voir aussi : antiparkinsoniens dopaminergiques - dopaminergiques - médicaments à l'origine d'une hypotension orthostatique
 aprémilast
@@ -183,7 +178,6 @@ baclofene
 Interactions en propre mais voir aussi : médicaments sédatifs - médicaments à l'origine d'une hypotension orthostatique
 Page 5 sur 43
 
-[page 6]
 bambuterol
 bazédoxifène
 bcg
@@ -224,7 +218,6 @@ blinatumomab
 boldo
 Page 6 sur 43
 
-[page 7]
 bortezomib
 Interactions en propre mais voir aussi : cytotoxiques - substrats à risque du CYP3A4
 bosentan
@@ -271,7 +264,6 @@ canakinumab
 Interactions en propre mais voir aussi : anticorps monoclonaux (hors anti-TNF alpha)
 Page 7 sur 43
 
-[page 8]
 candesartan cilexetil
 Voir : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - médicaments abaissant la pression artérielle -
 cangrélor
@@ -314,7 +306,6 @@ certolizumab
 cetalkonium
 Page 8 sur 43
 
-[page 9]
 cétuximab
 charbon active
 charbon vegetal officinal
@@ -361,7 +352,6 @@ Voir : hyponatrémiants - inhibiteurs sélectifs de la recapture de la sérotoni
 sérotoninergique - substances susceptibles de donner des torsades de pointes - torsadogènes (sauf arsénieux, antiparasitaires, neuroleptiques, méthadone...)
 Page 9 sur 43
 
-[page 10]
 citrate de gallium [67ga]
 cladribine
 clarithromycine
@@ -411,7 +401,6 @@ cortivazol
 Voir : corticoïdes - glucocorticoïdes (sauf hydrocortisone) - hypokaliémiants
 Page 10 sur 43
 
-[page 11]
 crizotinib
 Interactions en propre mais voir aussi : bradycardisants - inhibiteurs de tyrosine kinases métabolisés - substances susceptibles de donner des torsades de pointes -
 crospovidone
@@ -457,7 +446,6 @@ Interactions en propre mais voir aussi : inhibiteurs de protéases boostés par 
 dasabuvir
 Page 11 sur 43
 
-[page 12]
 dasatinib
 Voir : inhibiteurs de tyrosine kinases métabolisés - médicaments à l'origine d'atteintes musculaires - substrats à risque du CYP3A4
 daunorubicine
@@ -499,7 +487,6 @@ Interactions en propre mais voir aussi : benzodiazépines et apparentés - médi
 dicitrate trimagnesien
 Page 12 sur 43
 
-[page 13]
 diclofenac
 didanosine
 dienogest
@@ -545,7 +532,6 @@ d'une hypotension orthostatique
 doxorubicine
 Page 13 sur 43
 
-[page 14]
 doxycycline
 Interactions en propre mais voir aussi : cyclines - substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants
 doxylamine
@@ -594,7 +580,6 @@ Interactions en propre mais voir aussi : antihypertenseurs sauf alpha-bloquants 
 hyperkaliémiants - hyponatrémiants - médicaments abaissant la pression artérielle
 Page 14 sur 43
 
-[page 15]
 epoprostenol
 eprosartan
 Voir : antagonistes des récepteurs de l'angiotensine II - antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - médicaments abaissant la pression artérielle -
@@ -640,7 +625,6 @@ Interactions en propre mais voir aussi : estroprogestatifs contraceptifs
 ethosuximide
 Page 15 sur 43
 
-[page 16]
 ethylmorphine
 Voir : antitussifs morphiniques vrais - morphiniques - médicaments sédatifs
 etifoxine
@@ -684,7 +668,6 @@ Interactions en propre mais voir aussi : substances à absorption réduite par l
 fidaxomicine
 Page 16 sur 43
 
-[page 17]
 finasteride
 Voir : inhibiteurs de la 5-alpha reductase - médicaments à l'origine d'un hypogonadisme masculin
 fingolimod
@@ -731,7 +714,6 @@ Interactions en propre mais voir aussi : inhibiteurs de protéases boostés par 
 foscarnet
 Page 17 sur 43
 
-[page 18]
 fosinopril
 Voir : antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression artérielle - médicaments,
 fosphenytoine
@@ -776,7 +758,6 @@ glycerol
 glycopyrronium
 Page 18 sur 43
 
-[page 19]
 golimumab
 gosereline
 granisetron
@@ -824,7 +805,6 @@ Interactions en propre mais voir aussi : inhibiteurs de tyrosine kinases métabo
 ibuprofene
 Page 19 sur 43
 
-[page 20]
 idarubicine
 idélalisib
 ifosfamide
@@ -861,7 +841,6 @@ insuline humaine recombinante
 insuline humaine recombinante isophane
 Page 20 sur 43
 
-[page 21]
 insuline humaine recombinante isophane biphasique
 insuline humaine recombinante zinc
 insuline humaine recombinante zinc cristalline
@@ -900,7 +879,6 @@ Voir : antagonistes des canaux calciques - antihypertenseurs sauf alpha-bloquant
 itraconazole
 Page 21 sur 43
 
-[page 22]
 ivabradine
 ivacaftor
 ixékizumab
@@ -943,7 +921,6 @@ levodopa
 Interactions en propre mais voir aussi : médicaments à l'origine d'une hypotension orthostatique
 Page 22 sur 43
 
-[page 23]
 levofloxacine
 Interactions en propre mais voir aussi : fluoroquinolones - médicaments abaissant le seuil épileptogène - substances à absorption réduite par les topiques gastrointestinaux, antiacides et adsorbants
 levomenthol
@@ -992,7 +969,6 @@ lumacaftor
 Voir : inducteurs enzymatiques - ivacaftor (seul ou associé)
 Page 23 sur 43
 
-[page 24]
 lumefantrine
 Interactions en propre mais voir aussi : antiparasitaires susceptibles de donner des torsades de pointes - substances susceptibles de donner des torsades de pointes -
 lurasidone
@@ -1034,7 +1010,6 @@ mercaptopurine
 Voir : antipurines - cytotoxiques
 Page 24 sur 43
 
-[page 25]
 meropenem
 mesalazine
 Voir : dérivés de l'acide aminosalicylique (ASA)
@@ -1082,7 +1057,6 @@ Interactions en propre mais voir aussi : bradycardisants - sympathomimétiques a
 midostaurine
 Page 25 sur 43
 
-[page 26]
 mifamurtide
 millepertuis
 Interactions en propre mais voir aussi : médicaments à l'origine d'un syndrome sérotoninergique
@@ -1127,7 +1101,6 @@ nalbuphine
 Voir : morphiniques - morphiniques agonistes-antagonistes - médicaments sédatifs
 Page 26 sur 43
 
-[page 27]
 nalméfène
 Voir : morphiniques - morphiniques antagonistes partiels
 naloxegol
@@ -1168,7 +1141,6 @@ nintédanib
 nirmatrelvir
 Page 27 sur 43
 
-[page 28]
 nitrazepam
 nitrendipine
 Voir : antagonistes des canaux calciques - antihypertenseurs sauf alpha-bloquants - dihydropyridines - médicaments abaissant la pression artérielle
@@ -1210,7 +1182,6 @@ ombitasvir
 Voir : ombitasvir + paritaprévir
 Page 28 sur 43
 
-[page 29]
 omeprazole
 Interactions en propre mais voir aussi : antisécrétoires inhibiteurs de la pompe à protons
 ondansetron
@@ -1258,7 +1229,6 @@ Voir : sétrons
 panitumumab
 Page 29 sur 43
 
-[page 30]
 panobinostat
 pantoprazole
 Voir : antisécrétoires inhibiteurs de la pompe à protons
@@ -1304,7 +1274,6 @@ Voir : anticoagulants oraux
 pheniramine
 Page 30 sur 43
 
-[page 31]
 phenobarbital
 Voir : anticonvulsivants métabolisés - barbituriques - inducteurs enzymatiques - inducteurs enzymatiques puissants - médicaments sédatifs - phénobarbital (et, par
 extrapolation, primidone)
@@ -1358,7 +1327,6 @@ pitavastatine
 Interactions en propre mais voir aussi : inhibiteurs de l'HMG-CoA réductase (statines) - médicaments à l'origine d'atteintes musculaires
 Page 31 sur 43
 
-[page 32]
 pitolisant
 Voir : inducteurs enzymatiques
 pivmécillinam
@@ -1402,7 +1370,6 @@ pristinamycine
 probenecide
 Page 32 sur 43
 
-[page 33]
 procarbazine
 Interactions en propre mais voir aussi : antabuse (réaction) - cytotoxiques
 progesterone
@@ -1450,7 +1417,6 @@ ramipril
 Voir : antihypertenseurs sauf alpha-bloquants - hyperkaliémiants - inhibiteurs de l'enzyme de conversion - médicaments abaissant la pression artérielle - médicaments,
 Page 33 sur 43
 
-[page 34]
 ramucirumab
 ranitidine
 Voir : antisécrétoires antihistaminiques H2 - substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants
@@ -1492,7 +1458,6 @@ Interactions en propre mais voir aussi : anticoagulants oraux - substrats à ris
 rivastigmine
 Page 34 sur 43
 
-[page 35]
 rizatriptan
 rocuronium
 rofecoxib
@@ -1534,7 +1499,6 @@ Interactions en propre mais voir aussi : inhibiteurs de tyrosine kinases métabo
 sélumétinib
 Page 35 sur 43
 
-[page 36]
 sene
 sene de l'inde
 sertraline
@@ -1574,7 +1538,6 @@ arsénieux, antiparasitaires, neuroleptiques, méthadone...)
 sotorasib
 Page 36 sur 43
 
-[page 37]
 spectinomycine
 spésolimab
 spiramycine
@@ -1620,7 +1583,6 @@ Interactions en propre mais voir aussi : curares
 synephrine
 Page 37 sur 43
 
-[page 38]
 tacrolimus
 Interactions en propre mais voir aussi : hyperkaliémiants - immunosuppresseurs - médicaments néphrotoxiques - substrats à risque du CYP3A4
 tadalafil
@@ -1664,7 +1626,6 @@ tériflunomide
 Interactions en propre mais voir aussi : substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants
 Page 38 sur 43
 
-[page 39]
 terpine
 terpineol
 terpinol
@@ -1709,7 +1670,6 @@ ticlopidine
 Interactions en propre mais voir aussi : antiagrégants plaquettaires
 Page 39 sur 43
 
-[page 40]
 tigecycline
 Interactions en propre mais voir aussi : cyclines - substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants
 timolol
@@ -1753,7 +1713,6 @@ triclabendazole
 trientine
 Page 40 sur 43
 
-[page 41]
 trihexyphenidyle
 trimethoprime
 Interactions en propre mais voir aussi : hyperkaliémiants - sulfaméthoxazole + triméthoprime
@@ -1798,7 +1757,6 @@ Interactions en propre mais voir aussi : inhibiteurs de la phosphodiesterase de 
 vecuronium
 Page 41 sur 43
 
-[page 42]
 védolizumab
 velpatasvir
 vémurafénib
@@ -1839,7 +1797,6 @@ warfarine
 yohimbine
 Page 42 sur 43
 
-[page 43]
 zanubrutinib
 ziconotide
 zidovudine

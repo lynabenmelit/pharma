@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 AMLODIPINE SOUS FORME BESYLATE
@@ -58,10 +54,6 @@ fabrication
 
 1/6
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -112,10 +104,6 @@ AMLOR - UPJOHN SAIDAL PHARMA
 
 2/6
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 DIMLOR - BIOCARE
 DIPICARD - AT PHARMA
 HUMLOR - HUPP PHARMA
@@ -167,10 +155,6 @@ Par gravité
 
 3/6
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 ▲Association déconseillée
 4
 DANTROLENE
@@ -214,10 +198,6 @@ Substances de la classe (10)
 
 4/6
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 RIFAMPICINE
 Diminution des concentrations plasmatiques de
 l'antagoniste du calcium par augmentation de son
@@ -252,10 +232,6 @@ thésaurus. Une erreur ? Écrivez-nous
 
 5/6
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 ❓ Questions fréquentes
 Quelle est la substance active de AMLOCARDINE 10MG ?
 La substance active de AMLOCARDINE 10MG est AMLODIPINE SOUS FORME BESYLATE (DCI), selon la nomenclature

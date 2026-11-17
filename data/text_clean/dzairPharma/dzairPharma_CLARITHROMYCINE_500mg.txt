@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 27 contre-indication
@@ -56,10 +52,6 @@ comprime pellicule
 
 1/19
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -106,10 +98,6 @@ Aout 2026
 
 2/19
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 📊 ARICLARE en Algérie : équivalents, laboratoire, validité
 6 autres présentations enregistrées en Algérie ont la même substance active (CLARITHROMYCINE), le même dosage et la
 même forme que ARICLARE 500MG, issues de 6 laboratoires dont 6 fabriquées localement. 14 autres produits
@@ -150,10 +138,6 @@ pharmaceutiques
 
 3/19
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 Interactions médicamenteuses
 Interactions de la substance active avec d'autres médicaments, selon le Thesaurus de l'ANSM (France). Elles
 valent pour toutes les spécialités qui contiennent cette substance.
@@ -191,10 +175,6 @@ sévère.
 
 4/19
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 patient à fonction rénale et hépatique normales,
 réduire la dose à 4 mg ou 5 mg, respectivement,
 en cas d'association à un inhibiteur puissant du
@@ -220,10 +200,6 @@ extrémités (inhibition de l'élimination hépatique
 
 5/19
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 de l'alcaloïde de l'ergot de seigle).
 DOMPERIDONE
 de dompéridone par diminution de son
@@ -245,10 +221,6 @@ de l'ergotamine).
 
 6/19
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 ESZOPICLONE
 Augmentation de l'effet sédatif de l'eszopiclone.
 - chez les patients âgés
@@ -277,10 +249,6 @@ Contre-indication:
 
 7/19
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 - avec les autres inhibiteurs puissants du CYP3A4
 IVABRADINE
 de l'ivabradine et par conséquent de ses effets
@@ -296,10 +264,6 @@ OMBITASVIR + PARITAPRÉVIR
 
 8/19
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 de la bithérapie par diminution de son
 Contre-indication:
 - sauf avec le ritonavir.
@@ -323,10 +287,6 @@ TELITHROMYCINE
 
 9/19
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 Risque de majoration des effets indésirables,
 notamment à type de troubles du rythme
 cardiaque.
@@ -355,10 +315,6 @@ la posologie.
 
 10/19
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 Substances de la classe (10)
 ALCALOÏDES DE L'ERGOT DE SEIGLE DOPAMINERGIQUES
 du dopaminergique avec accroissement possible
@@ -385,10 +341,6 @@ APIXABAN
 
 11/19
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 de l'apixaban par l'inhibiteur, avec majoration du
 risque de saignement.
 BÉDAQUILINE
@@ -417,10 +369,6 @@ clinique étroite.
 
 12/19
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 HALOFANTRINE
 Risque majoré de troubles du rythme
 ventriculaires, notamment de torsades de pointes.
@@ -455,10 +403,6 @@ l'association ne peut être évitée, contrôle
 
 13/19
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 préalable du QT et surveillance ECG monitorée.
 MIDAZOLAM
 de midazolam par diminution de son métabolisme
@@ -487,10 +431,6 @@ QUININE
 
 14/19
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 Risque de majoration des effets indésirables de la
 quinine, notamment troubles du rythme
 ventriculaire et troubles neurosensoriels
@@ -516,10 +456,6 @@ d'hypotension orthostatique.
 
 15/19
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 TAMSULOSINE
 Risque de majoration des effets indésirables de la
 tamsulosine, par inhibition de son métabolisme
@@ -543,10 +479,6 @@ ATORVASTATINE
 
 16/19
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 Risque majoré d'effets indésirables
 (concentration-dépendants) à type de
 rhabdomyolyse, par diminution du métabolisme
@@ -583,10 +515,6 @@ traitement par la clarithromycine.
 
 17/19
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 Voir les 21 autres
 ○
 À prendre en compte
@@ -615,10 +543,6 @@ ARICLARE 500MG nécessite-t-il une ordonnance ?
 
 18/19
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 Mention de prescription dans la nomenclature : HOP. Pour votre situation, demandez conseil à un médecin ou à un
 pharmacien.
 Où trouver la posologie et les effets secondaires de ARICLARE 500MG ?

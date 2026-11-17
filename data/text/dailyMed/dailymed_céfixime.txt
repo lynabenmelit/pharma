@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 CEFIXIME- cefixime powder, for suspension  
 CEFIXIME- cefixime capsule  
-=======
-[page 1]
-CEFIXIME- cefixime powder, for suspension 
-CEFIXIME- cefixime capsule 
->>>>>>> code
 Lupin Pharmaceuticals, Inc.
 ----------
 HIGHLIGHTS OF PRESCRIBING INFORMATION
@@ -56,10 +50,6 @@ established. (8.4)
 Geriatric Use: Clinical studies did not include sufficient numbers of subjects aged 65 and older to
 determine whether they respond differently than younger subjects. Other reported clinical experience
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 y
 p
 y
@@ -115,10 +105,6 @@ FULL PRESCRIBING INFORMATION: CONTENTS*
 12.4 Microbiology
 13 NONCLINICAL TOXICOLOGY
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 14 CLINICAL STUDIES
 15 REFERENCES
@@ -158,10 +144,6 @@ Haemophilus influenzae.
 Cefixime for oral suspension and cefixime capsule is indicated in the treatment of adults
 Sections or subsections omitted from the full prescribing information are not listed.
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 and pediatric patients six months of age or older with uncomplicated gonorrhea
 (cervical/urethral) caused by susceptible isolates of Neisseria gonorrhoeae (penicillinase-
 and non-penicillinase-producing isolates).
@@ -189,11 +171,7 @@ Note: A suggested dose has been determined for each pediatric weight range. Refe
 Table 1. Ensure all orders that specify a dose in milliliters include a concentration,
 because cefixime for oral suspension is available in two different concentrations (100
 mg/5 mL and 200 mg/5 mL).
-<<<<<<< HEAD
 Table1.   Suggested  doses   for  pediatric   patients
-=======
-Table1. Suggested doses for pediatric patients
->>>>>>> code
 PEDIATRIC DOSAGE CHART 
 Doses are suggested for each weight range and rounded for ease of
 administration
@@ -233,10 +211,6 @@ Dose/Day
 12.5
 6
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 33.1 to 40
 300
 15
@@ -264,11 +238,7 @@ Cefixime may be administered in the presence of impaired renal function. Normal 
 and schedule may be employed in patients with creatinine clearances of 60 mL/min or
 greater. Refer to Table 2 for dose adjustments for adults with renal impairment. Neither
 hemodialysis nor peritoneal dialysis removes significant amounts of drug from the body.
-<<<<<<< HEAD
 Table2.   Doses  for   Adults  with   Renal   Impairment
-=======
-Table2. Doses for Adults with Renal Impairment
->>>>>>> code
 Renal Dysfunction 
 Cefixime for Oral Suspension 
 Creatinine Clearance (mL/min)
@@ -311,10 +281,6 @@ prior to reconstitution. Add approximately half the total
 *
 *
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 200 mg/5 mL
 amount of water for reconstitution and shake well. Add
 the remainder of water and shake well.
@@ -355,10 +321,6 @@ these infections can be refractory to antimicrobial therapy and may require cole
 CDAD must be considered in all patients who present with diarrhea following antibacterial
 drug use. Careful medical history is necessary since CDAD has been reported to occur
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against
 C. difficile may need to be discontinued. Appropriate fluid and electrolyte management,
@@ -399,10 +361,6 @@ Gastrointestinal
 Several cases of documented pseudomembranous colitis were identified in clinical trials.
 The onset of pseudomembranous colitis symptoms may occur during or after therapy.
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 Hypersensitivity Reactions
 Anaphylactic/anaphylactoid reactions (including shock and fatalities), skin rashes,
 urticaria, drug fever, pruritus, angioedema, and facial edema. Erythema multiforme,
@@ -440,10 +398,6 @@ cefixime is administered concomitantly.
 7.3 Drug/Laboratory Test Interactions
 A false-positive reaction for ketones in the urine may occur with tests using
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 nitroprusside but not with those using nitroferricyanide.
 The administration of cefixime may result in a false positive reaction for glucose in the
 urine when using glucose tests based on the Benedict's solution or Fehling's solution. It
@@ -489,10 +443,6 @@ development of the F generation. In an embryo-fetal development study in rabbits
 1
 2
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 cefixime at doses of 3.2, 10 or 32 mg/kg given daily during the period of organogenesis
 (gestation days 6 through 18) resulted in abortions and/or maternal deaths at doses >
 10 mg/kg (typically associated with the administration of antibiotics in this species), but
@@ -544,10 +494,6 @@ those undergoing continuous ambulatory peritoneal dialysis (CAPD) and hemodialys
 14
 1
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 10 OVERDOSAGE
 Gastric lavage may be indicated; otherwise, no specific antidote exists. Cefixime is not
 removed in significant quantities from the circulation by hemodialysis or peritoneal
@@ -582,10 +528,6 @@ Cefixime tablets and cefixime for oral suspension, given orally, are about 40% t
 7 2
 2
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 absorbed whether administered with or without food; however, time to maximal
 absorption is increased approximately 0.8 hours when administered with food. A single
 200 mg tablet of cefixime produces an average peak serum concentration of
@@ -634,10 +576,6 @@ pharmacokinetic parameters between 12 young and 12 elderly subjects who received
 Table 4. Pharmacokinetic Parameters for Cefixime in Both Young and
 max
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 Elderly Subjects
 Pharmacokinetic Parameters (mean ± SD) for Cefixime in Both Young
 & Elderly Subjects 
@@ -650,7 +588,6 @@ C
 4.74 ± 1.43
 5.68 ± 1.83
 T
-<<<<<<< HEAD
  (h)  
 3.9 ± 0.3
 4.3 ± 0.6
@@ -658,15 +595,6 @@ AUC (mg.h/L)
 34.9 ± 12.2
 49.5 ± 19.1
 T (h)  
-=======
- (h) 
-3.9 ± 0.3
-4.3 ± 0.6
-AUC (mg.h/L) 
-34.9 ± 12.2
-49.5 ± 19.1
-T (h) 
->>>>>>> code
 3.5 ± 0.6
 4.2 ± 0.4
 C
@@ -714,10 +642,6 @@ ave
 *
 *
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 Escherichia coli
 Haemophilus influenzae
 Moraxella catarrhalis
@@ -756,10 +680,6 @@ mouse micronucleus test. In the fertility and reproductive performance study in 
 difference between control and drug-treated animals was detected in mating behavior,
 pregnancy rate, or litter parameters (determined at sacrifice on day 13 of pregnancy) at
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 oral doses up to 1000 mg/kg/day (25 times the adult therapeutic dose) administered to
 males (for 68 days prior to pairing and during the cohabitation period) and females (for
 14 days before pairing to weaning).
@@ -769,11 +689,7 @@ between the ages of 6 months to 10 years. Streptococcus pneumoniae was isolated
 from 47% of the patients, Haemophilus influenzae from 34%, Moraxella catarrhalis from
 15% and S. pyogenes from 4%.
 The overall response rate of Streptococcus pneumoniae to cefixime was approximately
-<<<<<<< HEAD
 10% lower and that of Haemophilus influenzae or Moraxella  catarrhalis approximately
-=======
-10% lower and that of Haemophilus influenzae or Moraxella catarrhalis approximately
->>>>>>> code
 7% higher (12% when beta-lactamase positive isolates of H. influenzae are included)
 than the response rates of these organisms to the active control drugs.
 In these studies, patients were randomized and treated with either cefixime at dose
@@ -787,13 +703,8 @@ and who received the control antibacterial drug) were considered to be treatment
 failures. By the 2 to 4 week follow-up, a total of 30%-31% of patients had evidence of
 either treatment failure or recurrent disease.
 Table 5. Bacteriological Outcome of Otitis Media
-<<<<<<< HEAD
 (a)   Number eradicated/number isolated.
 (b)   An additional 20 beta-lactamase positive isolates of Haemophilus   influenzae were isolated, but
-=======
-(a) Number eradicated/number isolated.
-(b) An additional 20 beta-lactamase positive isolates of Haemophilus influenzae were isolated, but
->>>>>>> code
 were excluded from this analysis because they were resistant to the control antibacterial drug. In
 nineteen of these, the clinical course could be assessed and a favorable outcome occurred in 10.
 When these cases are included in the overall bacteriological evaluation of therapy with the control
@@ -814,20 +725,12 @@ Streptococcuspneumoniae
 48/70 (69%)
 18/22 (82%)
 82/100 (82%)
-<<<<<<< HEAD
 Haemophilus   influenzae
-=======
-Haemophilus influenzae
->>>>>>> code
 beta-lactamase negative
 24/34 (71%)
 13/17 (76%)
 23/34 (68%)
-<<<<<<< HEAD
 Haemophilus   influenzae
-=======
-Haemophilus influenzae
->>>>>>> code
 beta-lactamase positive
 17/22 (77%)
 9/12 (75%)
@@ -846,10 +749,6 @@ All Isolates
 130/166 (78%)
 15 REFERENCES
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 1. Halperin-Walega, E. Batra VK, Tonelli AP, Barr A, Yacobi A. 'Disposition of Cefixime in
 the Pregnant and Lactating Rat. Transfer to the Fetus and Nursing Pup'. Drug
 Metabolism and Disposition. 1988:16(1): pp130–134.
@@ -889,10 +788,6 @@ therapy may: (1) decrease the effectiveness of the immediate treatment and (2)
 increase the likelihood that bacteria will develop resistance and will not be treatable by
 cefixime or other antibacterial drugs in the future.
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 Diarrhea
 Advise patients that diarrhea is a common problem caused by antibacterial drugs,
 including cefixime which usually ends when the antibacterial drug is discontinued.
@@ -910,21 +805,13 @@ Manufactured by:
 Lupin Limited
 Mandideep 462 046
 INDIA
-<<<<<<< HEAD
 Revised: July 2025                                                                 ID#: 280709
-=======
-Revised: July 2025 ID#: 280709
->>>>>>> code
 PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 CEFIXIME FOR ORAL SUSPENSION USP
 100 mg/5 mL
 Rx only
 NDC 68180-405-01: Bottle of 50 mL
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 CEFIXIME FOR ORAL SUSPENSION USP
 200 mg/5 mL
 Rx only
@@ -934,10 +821,6 @@ CEFIXIME CAPSULES
 400 mg
 Rx only
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 NDC 68180-416-08 - Bottle of 50 capsules
 CEFIXIME CAPSULES
 400 mg
@@ -945,23 +828,12 @@ Rx only
 NDC 68180-416-11 - Blister
 Unit dose Package of 10 (1 blister of 10 capsules)
 
-<<<<<<< HEAD
-=======
-[page 20]
->>>>>>> code
 CEFIXIME CAPSULES
 400 mg
 Rx only
 NDC 68180-416-11 - Carton
 
-<<<<<<< HEAD
 
-=======
-[page 21]
-
-
-[page 22]
->>>>>>> code
 CEFIXIME CAPSULES
 400 mg
 Rx only
@@ -972,21 +844,12 @@ Rx only
 NDC 68180-423-11 - Blister
 Unit dose Package of 10 (1 blister of 10 capsules)
 
-<<<<<<< HEAD
-=======
-[page 23]
->>>>>>> code
 CEFIXIME CAPSULES
 400 mg
 Rx only
 NDC 68180-423-11 - Carton
 
-<<<<<<< HEAD
 CEFIXIME  
-=======
-[page 24]
-CEFIXIME 
->>>>>>> code
 cefixime powder, for suspension
 Product Information
 Product Type
@@ -1001,11 +864,7 @@ Basis of Strength
 Strength
 CEFIXIME (UNII: 97I1C92E55) (CEFIXIME ANHYDROUS - UNII:XZ7BG04GJX)
 CEFIXIME ANHYDROUS
-<<<<<<< HEAD
 100 mg  in 5 mL
-=======
-100 mg in 5 mL
->>>>>>> code
 Inactive Ingredients
 Ingredient Name
 Strength
@@ -1023,22 +882,14 @@ Product Characteristics
 Color
 WHITE (off-white to pale yellow)
 Score
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Shape
 Size
 Flavor
 STRAWBERRY (Strawberry)
 Imprint Code
 Contains
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Packaging
 #
 Item Code
@@ -1064,11 +915,7 @@ Date
 ANDA
 ANDA065129
 04/24/2015
-<<<<<<< HEAD
 CEFIXIME  
-=======
-CEFIXIME 
->>>>>>> code
 cefixime powder, for suspension
 Product Information
 Product Type
@@ -1076,10 +923,6 @@ HUMAN PRESCRIPTION DRUG
 Item Code (Source)
 NDC:68180-407
 
-<<<<<<< HEAD
-=======
-[page 25]
->>>>>>> code
 Route of Administration
 ORAL
 Active Ingredient/Active Moiety
@@ -1088,11 +931,7 @@ Basis of Strength
 Strength
 CEFIXIME (UNII: 97I1C92E55) (CEFIXIME ANHYDROUS - UNII:XZ7BG04GJX)
 CEFIXIME ANHYDROUS
-<<<<<<< HEAD
 200 mg  in 5 mL
-=======
-200 mg in 5 mL
->>>>>>> code
 Inactive Ingredients
 Ingredient Name
 Strength
@@ -1110,22 +949,14 @@ Product Characteristics
 Color
 WHITE (Off White to Pale Yellow Powder)
 Score
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Shape
 Size
 Flavor
 STRAWBERRY (Strawberry)
 Imprint Code
 Contains
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Packaging
 #
 Item Code
@@ -1156,11 +987,7 @@ Date
 ANDA
 ANDA065355
 04/24/2015
-<<<<<<< HEAD
 CEFIXIME  
-=======
-CEFIXIME 
->>>>>>> code
 cefixime capsule
 Product Information
 Product Type
@@ -1171,10 +998,6 @@ Route of Administration
 ORAL
 Active Ingredient/Active Moiety
 
-<<<<<<< HEAD
-=======
-[page 26]
->>>>>>> code
 Ingredient Name
 Basis of Strength
 Strength
@@ -1223,11 +1046,7 @@ Flavor
 Imprint Code
 LU;U43
 Contains
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Packaging
 #
 Item Code
@@ -1263,11 +1082,7 @@ ANDA
 ANDA065129
 12/01/2018
 10/31/2020
-<<<<<<< HEAD
 CEFIXIME  
-=======
-CEFIXIME 
->>>>>>> code
 cefixime capsule
 Product Information
 Product Type
@@ -1275,10 +1090,6 @@ HUMAN PRESCRIPTION DRUG
 Item Code (Source)
 NDC:68180-423
 
-<<<<<<< HEAD
-=======
-[page 27]
->>>>>>> code
 Route of Administration
 ORAL
 Active Ingredient/Active Moiety
@@ -1330,11 +1141,7 @@ Flavor
 Imprint Code
 LU;U43
 Contains
-<<<<<<< HEAD
     
-=======
- 
->>>>>>> code
 Packaging
 #
 Item Code
@@ -1369,10 +1176,6 @@ generic
 NDA203195
 10/14/2020
 
-<<<<<<< HEAD
-=======
-[page 28]
->>>>>>> code
 Lupin Pharmaceuticals, Inc.
 Labeler - Lupin Pharmaceuticals, Inc. (089153071)
 Registrant - LUPIN LIMITED (675923163)
@@ -1387,8 +1190,4 @@ API MANUFACTURE(68180-405, 68180-407, 68180-416, 68180-423) ,
 MANUFACTURE(68180-405, 68180-407, 68180-416, 68180-423) , PACK(68180-405,
 68180-407, 68180-416, 68180-423)
  
-<<<<<<< HEAD
 Revised: 10/2025
-=======
-Revised: 10/2025
->>>>>>> code

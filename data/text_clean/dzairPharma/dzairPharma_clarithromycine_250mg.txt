@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 27 contre-indication
@@ -57,10 +53,6 @@ pellicule
 
 1/19
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -105,10 +97,6 @@ Aout 2026
 
 2/19
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 📊 CLARIDAR 250 en Algérie : équivalents, laboratoire, validité
 3 autres présentations enregistrées en Algérie ont la même substance active (CLARITHROMYCINE), le même dosage et la
 même forme que CLARIDAR 250 250MG, issues de 3 laboratoires dont 2 fabriquées localement. 17 autres produits
@@ -152,10 +140,6 @@ Pharma
 
 3/19
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 Anatomical Therapeutic Chemical - Classification OMS
 J
 anti-infectieux à usage
@@ -202,10 +186,6 @@ ANTISPASMODIQUES URINAIRES
 
 4/19
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 Risque de majoration des effets indésirables.
 - avec la darifénacine
 - avec la fésotérodine et la solifénacine, en cas
@@ -233,10 +213,6 @@ DAPOXÉTINE
 
 5/19
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 Risque de majoration des effets indésirables,
 notamment à type de vertiges ou de syncopes.
 DIHYDROERGOTAMINE
@@ -258,10 +234,6 @@ plasmatiques de l'éplérénone par l'inhibiteur et de
 
 6/19
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 ses effets indésirables, notamment l'hyperkaliémie.
 ERGOTAMINE
 Ergotisme avec possibilité de nécrose des
@@ -290,10 +262,6 @@ aux AMM specifiques à chacun d'eux.
 
 7/19
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 Substances de la classe (7)
 ISAVUCONAZOLE
 d'isavuconazole par diminution de son
@@ -312,10 +280,6 @@ NALOXEGOL
 
 8/19
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 du naloxegol par l'inhibiteur.
 OMBITASVIR + PARITAPRÉVIR
 de la bithérapie par diminution de son
@@ -336,10 +300,6 @@ SIMVASTATINE
 
 9/19
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 Risque majoré d'effets indésirables
 (concentration-dépendants) à type de
 rhabdomyolyse par diminution du métabolisme
@@ -366,10 +326,6 @@ de la fidaxomicine.
 
 10/19
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 IMMUNOSUPPRESSEURS
 sanguines de l'immunosuppresseur par inhibition
 de son métabolisme hépatique.
@@ -399,10 +355,6 @@ calciques. Surveillance clinique et adaptation
 
 11/19
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 posologique pendant le traitement par l'inhibiteur
 enzymatique et après son arrêt.
 Substances de la classe (20)
@@ -431,10 +383,6 @@ clinique et électrocardiographique régulier.
 
 12/19
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 GLASDÉGIB
 Risque de majoration des effets indésirables du
 glasdégib par diminution de son métabolisme.
@@ -468,10 +416,6 @@ plasmatiques de son métabolite actif.
 
 13/19
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 LUMEFANTRINE
 Risque majoré de troubles du rythme ventriculaire,
 notamment de torsades de pointes.
@@ -502,10 +446,6 @@ posologie de l'oxycodone pendant le traitement
 
 14/19
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 son métabolisme par l'inhibiteur.
 par l'inhibiteur et après son arrêt.
 QUININE
@@ -530,10 +470,6 @@ saignement.
 
 15/19
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 SILODOSINE
 Risque d'augmentation des effets indésirables de
 la silodosine par l'inhibiteur, notamment à type
@@ -556,10 +492,6 @@ ATAZANAVIR
 
 16/19
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 de clarithromycine et inhibition de la formation de
 son métabolite actif.
 Surveillance clinique et biologique régulière,
@@ -594,10 +526,6 @@ traitement par l'antibiotique.
 
 17/19
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 REPAGLINIDE
 Risque d'hypoglycémie par augmentation des
 concentrations plasmatiques du répaglinide.
@@ -628,10 +556,6 @@ ARICLARE, CLARIDAR 125, CLARIDAR 500, CLARITAL, CLARITHRO. La liste complète fi
 
 18/19
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 Demandez conseil à un pharmacien avant toute substitution.
 Quelle est la classe thérapeutique (ATC) de CLARIDAR 250 250MG ?
 Le code ATC associé à CLARITHROMYCINE est J01FA09 (clarithromycine).

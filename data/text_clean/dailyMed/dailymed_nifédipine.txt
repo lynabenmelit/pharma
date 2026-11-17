@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 NIFEDIPINE- nifedipine capsule
 Chartwell RX, LLC
 ----------
@@ -33,10 +29,6 @@ specific ion channels. Nifedipine selectively inhibits calcium ion influx across
 17
 18
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 membrane of cardiac muscle and vascular smooth muscle without changing serum
 calcium concentrations.
 Mechanism of Action
@@ -81,10 +73,6 @@ Like other slow-channel blockers, nifedipine exerts a negative inotropic effect 
 myocardial tissue. This is rarely, if ever, seen in intact animals or man, probably because
 of reflex responses to its vasodilating effects. In man, nifedipine causes decreased
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 peripheral vascular resistance and a fall in systolic and diastolic pressure, usually modest
 (5 to 10 mm Hg systolic), but sometimes larger. There is usually a small increase in heart
 rate, a reflex response to vasodilation. Measurements of cardiac function in patients
@@ -129,10 +117,6 @@ treatment, especially in patients with compromised left ventricular function or 
 conduction abnormalities. When introducing such concomitant therapy, care must be
 taken to monitor blood pressure closely since severe hypotension can occur from the
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 combined effects of the drugs. (See WARNINGS.)
 CONTRAINDICATIONS
 Known hypersensitivity reaction to nifedipine.
@@ -176,10 +160,6 @@ Use in Essential Hypertension
 Nifedipine and other immediate-release nifedipine capsules have also been used for the
 long-term control of essential hypertension, although nifedipine capsules have not been
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 g
 yp
 g
@@ -227,10 +207,6 @@ Limited clinical studies have demonstrated a moderate but statistically signific
 decrease in platelet aggregation and an increase in bleeding time in some nifedipine
 patients. This is thought to be a function of inhibition of calcium transport across the
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 platelet membrane. No clinical significance for these findings has been demonstrated.
 Positive direct Coombs Test with/without hemolytic anemia has been reported but a
 causal relationship between nifedipine administration and positivity of this laboratory
@@ -273,10 +249,6 @@ currently receiving cimetidine, cautious titration is advised.
 Nifedipine is metabolized by CYP3A4. Co-administration of nifedipine with phenytoin, an
 inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%.
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 Avoid co-administration of nifedipine with phenytoin or any known CYP3A4 inducer or
 consider an alternative antihypertensive therapy.
 CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin,
@@ -322,10 +294,6 @@ Nifedipine is transferred through breast milk. Nifedipine should be used during 
 Pediatric Use:
 max
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 Safety and effectiveness in pediatric patients have not been established. Use in pediatric
 population is not recommended.
 Geriatric Use:
@@ -380,10 +348,6 @@ Cardiovascular: transient hypotension
 Incidence 2% or Less
 Cardiovascular: palpitation
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 Respiratory: nasal and chest congestion, shortness of breath
 Gastrointestinal: diarrhea, constipation, cramps, flatulence
 Musculoskeletal: inflammation, joint stiffness, muscle cramps
@@ -424,10 +388,6 @@ In a subgroup of approximately 250 patients with a diagnosis of congestive heart
 as well as angina pectoris (about 10% of the total patient population), dizziness or
 lightheadedness, peripheral edema, headache, or flushing each occurred in one in eight
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 patients. Hypotension occurred in about one in 20 patients. Syncope occurred in
 approximately one patient in 250. Myocardial infarction or symptoms of congestive heart
 failure each occurred in about one patient in 15. Atrial or ventricular dysrhythmias each
@@ -469,10 +429,6 @@ due to ischemia. A single dose should rarely exceed 30 mg.
 Avoid co-administration of nifedipine with grapefruit juice (see CLINICAL
 PHARMACOLOGYand PRECAUTIONS: Other Interactions).
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 No "rebound effect" has been observed upon discontinuation of nifedipine. However, if
 discontinuation of nifedipine is necessary, sound clinical practice suggests that the
 dosage should be decreased gradually with close physician supervision.
@@ -501,10 +457,6 @@ L71649
 PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 NIFEdipine Capsules, USP 10 mg - NDC 62135-739-90 - 90's Bottle Label
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 NIFEdipine Capsules, USP 20 mg - NDC 62135-740-90 - 90's Bottle Label
 nifedipine capsule
 Product Information
@@ -519,10 +471,6 @@ Basis of Strength
 NIFEDIPINE (UNII: I9ZF7L6G2L) (NIFEDIPINE - UNII:I9ZF7L6G2L)
 20 mg
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 Inactive Ingredients
 TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
 
@@ -599,10 +547,6 @@ NDC:62135-739
 Route of Administration
 ORAL
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 Active Ingredient/Active Moiety
 Basis of Strength
 NIFEDIPINE (UNII: I9ZF7L6G2L) (NIFEDIPINE - UNII:I9ZF7L6G2L)
@@ -670,10 +614,6 @@ ANDA202644
 12/07/2010
 Labeler - Chartwell RX, LLC (079394054)
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 Chartwell RX, LLC
 
 Revised: 12/2025

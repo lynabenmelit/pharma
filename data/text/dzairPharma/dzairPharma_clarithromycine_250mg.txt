@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-[page 1]
->>>>>>> code
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 27 contre-indication
@@ -62,10 +58,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 1/19
 
-<<<<<<< HEAD
-=======
-[page 2]
->>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -113,10 +105,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 2/19
 
-<<<<<<< HEAD
-=======
-[page 3]
->>>>>>> code
 📊 CLARIDAR 250 en Algérie : équivalents, laboratoire, validité
 3 autres présentations enregistrées en Algérie ont la même substance active (CLARITHROMYCINE), le même dosage et la
 même forme que CLARIDAR 250 250MG, issues de 3 laboratoires dont 2 fabriquées localement. 17 autres produits
@@ -168,10 +156,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 3/19
 
-<<<<<<< HEAD
-=======
-[page 4]
->>>>>>> code
 Anatomical Therapeutic Chemical — Classification OMS
 J
 anti-infectieux à usage
@@ -239,10 +223,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 4/19
 
-<<<<<<< HEAD
-=======
-[page 5]
->>>>>>> code
 RISQUES
 Risque de majoration des effets indésirables.
 CONDUITE À TENIR
@@ -303,10 +283,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 5/19
 
-<<<<<<< HEAD
-=======
-[page 6]
->>>>>>> code
 Risque de majoration des effets indésirables,
 notamment à type de vertiges ou de syncopes.
 Aucune conduite spécifique indiquée par la
@@ -374,10 +350,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 6/19
 
-<<<<<<< HEAD
-=======
-[page 7]
->>>>>>> code
 ses effets indésirables, notamment l’hyperkaliémie.
 Source : ANSM
 via la classe INHIBITEURS PUISSANTS DU CYP3A4
@@ -443,10 +415,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 7/19
 
-<<<<<<< HEAD
-=======
-[page 8]
->>>>>>> code
 Substances de la classe (7)
 Source : ANSM
 via la classe INHIBITEURS PUISSANTS DU CYP3A4
@@ -511,10 +479,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 8/19
 
-<<<<<<< HEAD
-=======
-[page 9]
->>>>>>> code
 RISQUES
 Augmentation très importante des concentrations
 du naloxegol par l’inhibiteur.
@@ -579,10 +543,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 9/19
 
-<<<<<<< HEAD
-=======
-[page 10]
->>>>>>> code
 Risque majoré d'effets indésirables
 (concentration-dépendants) à type de
 rhabdomyolyse par diminution du métabolisme
@@ -650,10 +610,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 10/19
 
-<<<<<<< HEAD
-=======
-[page 11]
->>>>>>> code
 Source : ANSM
 IMMUNOSUPPRESSEURS
 CLASSE
@@ -713,10 +669,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 11/19
 
-<<<<<<< HEAD
-=======
-[page 12]
->>>>>>> code
 posologique pendant le traitement par l’inhibiteur
 enzymatique et après son arrêt.
 Substances de la classe (20)
@@ -777,10 +729,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 12/19
 
-<<<<<<< HEAD
-=======
-[page 13]
->>>>>>> code
 GLASDÉGIB
 SUBSTANCE
 Aucun médicament à cette substance dans la nomenclature
@@ -843,10 +791,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 13/19
 
-<<<<<<< HEAD
-=======
-[page 14]
->>>>>>> code
 Source : ANSM
 via la classe INHIBITEURS PUISSANTS DU CYP3A4
 LUMEFANTRINE
@@ -915,10 +859,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 14/19
 
-<<<<<<< HEAD
-=======
-[page 15]
->>>>>>> code
 son métabolisme par l'inhibiteur.
 par l'inhibiteur et après son arrêt.
 Source : ANSM
@@ -985,10 +925,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 15/19
 
-<<<<<<< HEAD
-=======
-[page 16]
->>>>>>> code
 SILODOSINE
 SUBSTANCE
 Aucun médicament à cette substance dans la nomenclature
@@ -1051,10 +987,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 16/19
 
-<<<<<<< HEAD
-=======
-[page 17]
->>>>>>> code
 Augmentation des concentrations plasmatiques
 de clarithromycine et inhibition de la formation de
 son métabolite actif.
@@ -1113,10 +1045,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 17/19
 
-<<<<<<< HEAD
-=======
-[page 18]
->>>>>>> code
 REPAGLINIDE
 SUBSTANCE
 Médicaments contenant cette substance ›
@@ -1155,10 +1083,6 @@ CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
 18/19
 
-<<<<<<< HEAD
-=======
-[page 19]
->>>>>>> code
 Demandez conseil à un pharmacien avant toute substitution.
 Quelle est la classe thérapeutique (ATC) de CLARIDAR 250 250MG ?
 Le code ATC associé à CLARITHROMYCINE est J01FA09 (clarithromycine).
@@ -1179,8 +1103,4 @@ Pharmacie
 16/11/2026 21:27
 CLARIDAR 250 250 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3033/claridar-250-250mg-comprime-pellicule
-<<<<<<< HEAD
 19/19
-=======
-19/19
->>>>>>> code

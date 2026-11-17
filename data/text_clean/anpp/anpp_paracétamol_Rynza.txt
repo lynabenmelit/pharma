@@ -1,4 +1,3 @@
-[page 1]
 Page 1 sur 11
 
 Annexe I
@@ -32,7 +31,6 @@ et des états grippaux de l'adulte et de l'enfant de plus de 15 ans :
 • Des éternuements,
 • Des maux de tête et/ou fièvre.
 
-[page 2]
 Page 2 sur 11
 
 4.2. Posologie et mode d'administration :
@@ -71,7 +69,6 @@ Ce médicament est contre-indiqué dans les situations suivantes :
 En raison de la présence de maléate de chlorphénamine, ce médicament ne doit généralement
 pas être utilisé en cas d'allaitement
 
-[page 3]
 Page 3 sur 11
 
 4.4. Mises en garde spéciales et précautions d'emploi :
@@ -107,7 +104,6 @@ surveillance étroite. La mesure de la 5-oxoproline urinaire peut être utile po
 l'acidose pyroglutamique comme cause sous-jacente de l'AMTAE chez les patients présentant
 de multiples facteurs de risque.
 
-[page 4]
 Page 4 sur 11
 
 Liées à la présence de maléate de chlorphénamine :
@@ -146,7 +142,6 @@ sédatifs, des antihypertenseurs centraux, du baclofène et de la thalidomide.
 
 Associations déconseillées
 
-[page 5]
 Page 5 sur 11
 
 + Consommation d'alcool
@@ -183,7 +178,6 @@ Il existe un passage faible, mais réel, de la chlorphénamine dans le lait mate
 des possibilités de sédation ou d'excitation paradoxale du nouveau-né, ce médicament est
 déconseillé en cas d'allaitement.
 
-[page 6]
 Page 6 sur 11
 
 4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines :
@@ -228,7 +222,6 @@ métabolisme et de la
 nutrition
 Acidose métabolique à trou anionique élevé.
 
-[page 7]
 Page 7 sur 11
 
 Description des effets indésirables sélectionnés
@@ -269,7 +262,6 @@ mémoire ou de la concentration, plus fréquents
 chez le sujet âgé.
 Incoordination motrice, tremblements.
 
-[page 8]
 Page 8 sur 11
 
 Confusion mentale, hallucinations.
@@ -309,7 +301,6 @@ hépatiques (AST, ALT), de déshydrogénase lactique et de bilirubine ont été 
 observés. Un surdosage peut également provoquer une coagulation intravasculaire
 disséminée.
 
-[page 9]
 Page 9 sur 11
 
 • Conduite d'urgence :
@@ -347,7 +338,6 @@ Métabolisme : le paracétamol est métabolisé essentiellement au niveau du foi
 métaboliques majeures sont la glycuronoconjugaison et la sulfoconjugaison. Cette dernière voie
 est rapidement saturable aux posologies supérieures aux doses thérapeutiques. Une voie
 
-[page 10]
 Page 10 sur 11
 
 mineure, catalysée par le cytochrome P. 450, est la formation d'un intermédiaire réactif, (le Nacétyl benzoquinone imine), qui, dans les conditions normales d'utilisation, est rapidement
@@ -384,7 +374,6 @@ Sans objet
 
 6. DONNEES PHARMACEUTIQUES
 
-[page 11]
 Page 11 sur 11
 
 6.1. Liste des excipients : Micro Crystalline Cellulose, Croscarmellose sodium, Sodium

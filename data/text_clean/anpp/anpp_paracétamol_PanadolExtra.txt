@@ -1,5 +1,3 @@
-[page 1]
-
 1
 
 1. Dénomination du médicament
@@ -53,8 +51,6 @@ La dose habituelle est de 500 mg/65 mg à 1 g/130 mg par prise, à répéter si 
 les 4 ou 6 heures, jusqu'à 3 g par jour. En cas de douleurs plus intenses ou de fièvre, la dose journalière peut
 être augmentée à 4 g par jour.
 
-[page 2]
-
 2
 
 L'intervalle entre deux administrations doit être d'au moins 4 heures. Les doses maximales sont de 2
@@ -104,8 +100,6 @@ dans ces cas être adaptée (voir rubrique 4.2).
 Un traitement concomitant avec des médicaments qui influencent la fonction hépatique, la
 déshydratation et la malnutrition chronique (faibles réserves de glutathion hépatique) sont également des
 facteurs de risque d'apparition d'hépatotoxicité et qui peuvent éventuellement abaisser le seuil de
-
-[page 3]
 
 3
 
@@ -160,8 +154,6 @@ Renforcement possible de la toxicité du chloramphénicol, par inhibition du mé
  Flucloxacilline
 La prudence est conseillée lors de l'administration de flucloxacilline et de paracétamol de façon
 concomitante, car leur prise simultanée a été associée à l'acidose métabolique à trou anionique élevé,
-
-[page 4]
 
 4
 
@@ -218,8 +210,6 @@ Leucopénie
 Pancytopénie
 Neutropénie
 Anémie hémolytique
-
-[page 5]
 
 5
 
@@ -292,8 +282,6 @@ Caféine
 système nerveux
 Nervosité
 
-[page 6]
-
 6
 
 Vertige
@@ -346,8 +334,6 @@ heures après ingestion
 - administration de charbon actif, si possible dans un délai d'une heure après l'ingestion
 - traitement symptomatique.
 
-[page 7]
-
 7
 
 Caféine:
@@ -397,8 +383,6 @@ Absorption
 Les deux composants sont rapidement et complètement résorbés. Les pics plasmatiques mesurés après
 l'administration soit de 2 comprimés de PANADOL EXTRA sont atteints environ une heure après la prise.
 
-[page 8]
-
 8
 
 Après administration orale, la caféine est absorbée complètement et rapidement à partir du tractus
@@ -441,8 +425,6 @@ reproduction et le développement n'est disponible pour le paracétamol. Il n'y 
 préclinique pour le prescripteur qui s'ajoutent à celles déjà comprises ailleurs dans le RCP.
 
 6. DONNEES PHARMACEUTIQUES
-
-[page 9]
 
 9
 
@@ -493,8 +475,6 @@ Haleon Belgium, Da Vincilaan 5, B-1930 Zaventem.
 
 8.9. Date de mise à jour du texte
 11-2024 selon le RCP (Pays d'origine) du 04/2023
-
-[page 10]
 
 10
 
