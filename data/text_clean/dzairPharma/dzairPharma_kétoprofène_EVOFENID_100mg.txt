@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 EVOFENID 100 mg
@@ -53,6 +54,7 @@ fabrication
 
 1/9
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -106,6 +108,7 @@ Le laboratoire SARL EVOLAB compte 11 autres produits enregistrés en Algérie. V
 
 2/9
 
+[page 3]
 Enregistré depuis le 24 avril 2019 (il y a environ 7 ans). La validité indiquée a pris fin le 22 mai 2024 : vérifiez le
 renouvellement dans la nomenclature en vigueur.
 Selon la nomenclature (LISTE II / HOP), ce médicament est inscrit sur la liste II, délivré sur ordonnance et réservé à
@@ -156,6 +159,7 @@ efficacité du mifamurtide.
 
 3/9
 
+[page 4]
 ▲Association déconseillée
 8
 ACIDE ACETYLSALICYLIQUE
@@ -191,6 +195,7 @@ clinique étroite.
 
 4/9
 
+[page 5]
 Substances de la classe (9)
 LITHIUM
 Augmentation de la lithémie pouvant atteindre
@@ -229,6 +234,7 @@ Précaution d'emploi
 
 5/9
 
+[page 6]
 Risque de majoration de la toxicité du
 pemetrexed (diminution de sa clairance rénale
 par les AINS).
@@ -259,6 +265,7 @@ DIURÉTIQUES
 
 6/9
 
+[page 7]
 (âgé, déshydraté, sous diurétiques, avec une
 fonction rénale altérée), par diminution de la
 filtration glomérulaire secondaire à une
@@ -292,6 +299,7 @@ En cas d'association, surveiller la fonction rénale.
 
 7/9
 
+[page 8]
 Source : ANSM. Textes de l'ANSM reproduits tels quels ; la substance du médicament est rapprochée automatiquement du
 thésaurus. Une erreur ? Écrivez-nous
 Allergies documentées
@@ -323,6 +331,7 @@ Existe-t-il des équivalents ou génériques de EVOFENID 100MG ?
 
 8/9
 
+[page 9]
 D'autres médicaments enregistrés en Algérie contiennent la même substance active (KETOPROFENE), par exemple :
 BIOPROFEN, FLEXEN, GEPROFEN, HARUFEN, K-PROFEN. La liste complète figure plus bas sur la page. Demandez
 conseil à un pharmacien avant toute substitution.

@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 METHYLDOPA- methyldopa tablet  
+=======
+[page 1]
+METHYLDOPA- methyldopa tablet 
+>>>>>>> code
 Rising Pharma Holdings, Inc.
 ----------
 METHYLDOPA TABLETS, USP
@@ -36,6 +41,10 @@ of the racemate (DL-alpha-methyldopa) is required for equal antihypertensive eff
 4
 2
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 Methyldopa has no direct effect on cardiac function and usually does not reduce
 glomerular filtration rate, renal blood flow, or filtration fraction. Cardiac output usually is
 maintained without cardiac acceleration. In some patients the heart rate is slowed.
@@ -71,8 +80,14 @@ It is important to recognize that a positive Coombs test, hemolytic anemia,
 and liver disorders may occur with methyldopa therapy. The rare
 occurrences of hemolytic anemia or liver disorders could lead to potentially
 fatal complications unless properly recognized and managed. Read this
+<<<<<<< HEAD
 section carefully to understand these reactions. 
 
+=======
+section carefully to understand these reactions.
+
+[page 3]
+>>>>>>> code
 With prolonged methyldopa therapy, 10% to 20% of patients develop a positive direct
 Coombs test which usually occurs between 6 and 12 months of methyldopa therapy.
 Lowest incidence is at daily dosage of 1 g or less. This on rare occasions may be
@@ -115,6 +130,10 @@ and hepatocellular injury.
 Rarely, fatal hepatic necrosis has been reported after use of methyldopa. These hepatic
 changes may represent hypersensitivity reactions. Periodic determinations of hepatic
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 function should be done particularly during the first 6 to 12 weeks of therapy or
 whenever an unexplained fever occurs. If fever, abnormalities in liver function tests, or
 jaundice appear, stop therapy with methyldopa. If caused by methyldopa, the
@@ -152,6 +171,10 @@ monitored for symptoms of lithium toxicity. Read the circular for lithium prepar
 Several studies demonstrate a decrease in the bioavailability of methyldopa when it is
 ingested with ferrous sulfate or ferrous gluconate. This may adversely affect blood
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 pressure control in patients treated with methyldopa. Coadministration of methyldopa
 with ferrous sulfate or ferrous gluconate is not recommended.
 Monoamine oxidase (MAO) inhibitors: See CONTRAINDICATIONS.
@@ -194,6 +217,10 @@ evidence of harm to the fetus. These doses are 16.6 times, 3.3 times and 1.7 tim
 respectively, the maximum daily human dose when compared on the basis of body
 weight; 1.4 times, 1.1 times and 0.2 times, respectively, when compared on the basis of
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 body surface area; calculations assume a patient weight of 50 kg. There are, however,
 no adequate and well-controlled studies in pregnant women in the first trimester of
 pregnancy. Because animal reproduction studies are not always predictive of human
@@ -235,6 +262,10 @@ elderly patients are more likely to have decreased renal function, care should b
 dose selection and it may be useful to monitor renal function.
 ADVERSE REACTIONS
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 Sedation, usually transient, may occur during the initial period of therapy or whenever
 the dose is increased. Headache, asthenia, or weakness may be noted as early and
 transient symptoms. However, significant adverse effects due to methyldopa have been
@@ -269,6 +300,10 @@ Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or
 www.fda.gov/medwatch.
 OVERDOSAGE
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 Acute overdosage may produce acute hypotension with other responses attributable to
 brain and gastrointestinal malfunction (excessive sedation, weakness, bradycardia,
 dizziness, light-headedness, constipation, distention, flatus, diarrhea, nausea, vomiting).
@@ -314,6 +349,10 @@ doses.
 ®†
 50
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 Pediatric Patients: Initial dosage is based on 10 mg/kg of body weight daily in two to
 four doses. The daily dosage then is increased or decreased until an adequate response
 is achieved. The maximum dosage is 65 mg/kg or 3 g daily, whichever is less. (See
@@ -349,12 +388,20 @@ Methyldopa Tablets, USP
 100 Tablets Rx Only
 †
 
+<<<<<<< HEAD
+=======
+[page 10]
+>>>>>>> code
 PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 NDC 64980-571-01
 Methyldopa Tablets, USP
 250 mg
 100 Tablets Rx Only
+<<<<<<< HEAD
 METHYLDOPA  
+=======
+METHYLDOPA 
+>>>>>>> code
 methyldopa tablet
 Product Information
 Product Type
@@ -373,6 +420,10 @@ METHYLDOPA
 ANHYDROUS
 500 mg
 
+<<<<<<< HEAD
+=======
+[page 11]
+>>>>>>> code
 Inactive Ingredients
 Ingredient Name
 Strength
@@ -417,7 +468,11 @@ Flavor
 Imprint Code
 RA05
 Contains
+<<<<<<< HEAD
     
+=======
+ 
+>>>>>>> code
 Packaging
 #
 Item Code
@@ -443,7 +498,11 @@ Date
 ANDA
 ANDA070076
 09/16/2024
+<<<<<<< HEAD
 METHYLDOPA  
+=======
+METHYLDOPA 
+>>>>>>> code
 methyldopa tablet
 Product Information
 Product Type
@@ -453,6 +512,10 @@ NDC:64980-571
 Route of Administration
 ORAL
 
+<<<<<<< HEAD
+=======
+[page 12]
+>>>>>>> code
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of Strength
@@ -506,7 +569,11 @@ Flavor
 Imprint Code
 RA04
 Contains
+<<<<<<< HEAD
     
+=======
+ 
+>>>>>>> code
 Packaging
 #
 Item Code
@@ -535,6 +602,10 @@ ANDA070076
 Labeler - Rising Pharma Holdings, Inc. (116880195)
 Registrant - Rising Pharma Holdings, Inc. (116880195)
 
+<<<<<<< HEAD
+=======
+[page 13]
+>>>>>>> code
 Rising Pharma Holdings, Inc.
 Establishment
 Name
@@ -546,4 +617,8 @@ LLC
 078510186 ANALYSIS(64980-572, 64980-571) , MANUFACTURE(64980-572, 64980-571) ,
 PACK(64980-572, 64980-571)
  
+<<<<<<< HEAD
 Revised: 3/2025
+=======
+Revised: 3/2025
+>>>>>>> code

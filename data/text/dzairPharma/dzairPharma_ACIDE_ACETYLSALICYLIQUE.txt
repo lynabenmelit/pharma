@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 2 contre-indication
@@ -86,6 +90,10 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 1/8
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -153,6 +161,10 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 2/8
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 Toutes
 ⊗Contre-indication
 ▲Association déconseillée
@@ -241,6 +253,10 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 3/8
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 ANTI-INFLAMMATOIRES NON STÉROÏDIENS
 CLASSE
 Association déconseillée
@@ -321,6 +337,10 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 4/8
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 PEMETREXED
 SUBSTANCE
 Association déconseillée
@@ -409,6 +429,10 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 5/8
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 Source : ANSM
 via la classe SUBSTANCES À ABSORPTION RÉDUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS
 ◆Précaution d'emploi
@@ -485,6 +509,10 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 6/8
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 ○
 À prendre en compte
 8
@@ -531,6 +559,10 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 7/8
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 ← Retour
 📚 Toutes les présentations de ACEPRAL
 🔍 Tous les médicaments avec cette DCI
@@ -542,4 +574,8 @@ pharmacies
 11/17/26, 8:23 PM
 ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
+<<<<<<< HEAD
 8/8
+=======
+8/8
+>>>>>>> code

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 CEFUROXIME AXETIL EXPRIME EN CEFUROXIME
@@ -56,6 +60,10 @@ fabrication
 
 1/6
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -103,6 +111,10 @@ Aout 2026
 
 2/6
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 📊 CEFROZINE en Algérie : équivalents, laboratoire, validité
 4 autres présentations enregistrées en Algérie ont la même substance active (CEFUROXIME AXETIL EXPRIME EN
 CEFUROXIME), le même dosage et la même forme que CEFROZINE 250MG, issues de 4 laboratoires dont 3
@@ -135,6 +147,10 @@ WPS Office
 
 3/6
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 J
 anti-infectieux à usage
 systémique
@@ -183,6 +199,10 @@ nomenclature nationale des produits pharmaceutiques (MIPH).
 
 4/6
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 CEFROZINE 250MG est-il enregistré en Algérie ?
 Oui, CEFROZINE 250MG figure dans la nomenclature nationale des produits pharmaceutiques (date
 d'enregistrement : 2008-12-22, échéance : 2015-07-15).
@@ -210,6 +230,10 @@ avec la boîte, ou demandez conseil à un médecin ou à un pharmacien.
 
 5/6
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 Voir plus
 Suivre les essais
 Pharmaceutiques

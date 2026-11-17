@@ -1,3 +1,4 @@
+[page 1]
 KETOPROFEN- ketoprofen capsule
 ----------
 KETOPROFEN CAPSULES USP
@@ -30,6 +31,7 @@ Ketoprofen is a white or off-white, odorless, nonhygroscopic, fine to granular p
 14
 3
 
+[page 2]
 melting at about 95°C. It is freely soluble in ethanol, chloroform, acetone, ether and
 soluble in benzene and strong alkali, but practically insoluble in water at 20°C.
 ORUDIS (ketoprofen) Capsules USP contains 75 mg of ketoprofen USP for oral
@@ -69,6 +71,7 @@ under the curve has been shown to be dose proportional.
 e0
 e50
 
+[page 3]
 Ketoprofen is > 99% bound to plasma proteins, mainly to albumin.
 Absorption
 Ketoprofen is rapidly and well-absorbed, with peak plasma levels occurring within 0.5 to
@@ -102,6 +105,7 @@ Capsules, USP 50 MG EVERY 4 HOURS FOR 16 HOURS
 max
 max
 
+[page 4]
 Metabolism
 The metabolic fate of ketoprofen is glucuronide conjugation to form an unstable acylglucuronide. The glucuronic acid moiety can be converted back to the parent
 compound. Thus, the metabolite serves as a potential reservoir for parent drug, and this
@@ -109,6 +113,7 @@ may be important in persons with renal insufficiency, whereby the conjugate may
 accumulate in the serum and undergo deconjugation back to the parent drug (see
 Special Populations, Renally Impaired). The conjugates are reported to appear only
 
+[page 5]
 in trace amounts in plasma in healthy adults, but are higher in elderly subjectspresumably because of reduced renal clearance. It has been demonstrated that in
 elderly subjects following multiple doses (50 mg every 6 h), the ratio of conjugated to
 parent ketoprofen AUC was 30% and 3%, respectively, for the S & R enantiomers.
@@ -148,6 +153,7 @@ decrease in clearance in patients with impaired renal function. In 23 patients w
 impairment, free ketoprofen peak concentration was not significantly elevated, but free
 ketoprofen clearance was reduced from 15 L/kg/h for normal subjects to 7 L/kg/h in
 
+[page 6]
 patients with mildly impaired renal function, and to 4 L/kg/h in patients with moderately
 to severely impaired renal function. The elimination t1/2 was prolonged from 1.6 hours in
 normal subjects to approximately 3 hours in patients with mild renal impairment, and to
@@ -191,6 +197,7 @@ treatment options before deciding to use Ketoprofen Capsules, USP. Use the lowes
 effective dose for the shortest duration consistent with individual patient treatment
 goals (see WARNINGS).
 
+[page 7]
 Ketoprofen Capsules, USP is indicated for the management of the signs and symptoms
 of rheumatoid arthritis and osteoarthritis.
 Ketoprofen Capsules, USP is indicated for the management of pain. Ketoprofen
@@ -227,6 +234,7 @@ There is no consistent evidence that concurrent use of aspirin mitigates the inc
 risk of serious CV thrombotic events associated with NSAID use. The concurrent use of
 aspirin and an NSAID, such as Ketoprofen, increases the risk of serious gastrointestinal
 
+[page 8]
 (GI) events (see WARNINGS).
 Status Post Coronary Artery Bypass Graft (CABG) Surgery
 Two large, controlled clinical trials of a COX-2 selective NSAID for the treatments of pain
@@ -271,6 +279,7 @@ Capsules, USP is used in patients with severe heart failure, monitor patients fo
 worsening heart failure.
 Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
 
+[page 9]
 NSAIDs, including Ketoprofen Capsules, USP, can cause serious gastrointestinal (GI)
 adverse events including inflammation, bleeding, ulceration, and perforation, of the
 stomach, small intestine, or large intestine, which can be fatal. These serious adverse
@@ -318,6 +327,7 @@ As with other NSAIDs, anaphylactoid reactions may occur in patients without know
 prior
 exposure to Ketoprofen Capsules, USP. Keoprofen Capsules, USP should not be given to
 
+[page 10]
 patients with the
 aspirin triad. This symptom complex typically occurs in asthmatic patients who
 experience rhinitis
@@ -364,6 +374,7 @@ of the fetal ductus arteriosus at approximately this gestational age.
 Oligohydramnios/Neonatal Renal Impairment:
 Use of NSAIDs, including Ketoprofen Capsules, USP, at about 20 weeks gestation or
 
+[page 11]
 later in pregnancy
 may cause fetal renal dysfunction leading to oligohydramnios and, in some cases,
 neonatal renal
@@ -407,6 +418,7 @@ reduction in renal blood flow or blood volume, where renal prostaglandins have a
 supportive role in the maintenance of renal blood flow. In these patients, administration
 of a non-steroidal anti-inflammatory drug results in a dose-dependent decrease in
 
+[page 12]
 prostaglandin synthesis and, secondarily, in renal blood flow which may precipitate overt
 renal failure. Patients at greatest risk of this reaction are those with impaired renal
 function, heart failure, liver dysfunction, those taking diuretics, and the elderly.
@@ -452,6 +464,7 @@ Patients with asthma may have aspirin-sensitive asthma. The use of aspirin in pa
 with aspirin-sensitive asthma has been associated with severe bronchospasm which can
 be fatal. Since cross reactivity, including bronchospasm, between aspirin and other non-
 
+[page 13]
 steroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients,
 Ketoprofen Capsules, USP should not be administered to patients with this form of
 aspirin sensitivity and should be used with caution in patients with preexisting asthma.
@@ -493,6 +506,7 @@ starting at 30
 weeks gestation because of the risk of the premature closing of the fetal ductus
 arteriosus.
 
+[page 14]
 If treatment with Keoprofen Capsules, USP is needed for a pregnant woman between
 about 20 to
 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios,
@@ -537,6 +551,7 @@ This interaction should be given consideration in patients taking NSAIDs concomi
 with ACE-inhibitors.
 Antacids
 
+[page 15]
 Concomitant administration of magnesium hydroxide and aluminum hydroxide does not
 interfere with the rate or extent of the absorption of ketoprofen administered as
 Keoprofen Capsules, USP.
@@ -584,6 +599,7 @@ significantly interfere with the effect of warfarin on prothrombin time. Bleedin
 number of sites may be a complication of warfarin treatment and GI bleeding a
 complication of ketoprofen treatment. Because prostaglandins play an important role in
 
+[page 16]
 hemostasis and ketoprofen has an effect on platelet function as well (see
 Drug/Laboratory Test Interactions, Effect on Blood Coagulation), concurrent therapy
 with ketoprofen and warfarin requires close monitoring of patients on both drugs.
@@ -626,6 +642,7 @@ renal impairment. Because of these risks, limit dose and duration of Ketoprofen
 Capsules, USP use
 between about 20 and 30 weeks of gestation, and avoid Ketoprofen Capsules, USP use
 
+[page 17]
 at about 30
 weeks of gestation and later in pregnancy [see WARNINGS; Fetal Toxicity].
 Premature Closure of Fetal Ductus Arteriosus
@@ -670,6 +687,7 @@ adverse outcomes. In the U.S. general population, the estimated background risk 
 major birth
 defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%,
 
+[page 18]
 respectively.
 Clinical Considerations
 Fetal/Neonatal Adverse Reactions
@@ -707,6 +725,7 @@ amniotic fluid
 was transient and reversible with cessation of the drug. There have been a limited
 number of case
 
+[page 19]
 reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios,
 some
 of which were irreversible. Some cases of neonatal renal dysfunction required treatment
@@ -750,6 +769,7 @@ Populations). The glucuronide conjugate of ketoprofen, which can serve as a pote
 reservoir for the parent drug, is known to be substantially excreted by the kidney.
 Because elderly patients are more likely to have decreased renal function, care should be
 
+[page 20]
 taken in dose selection. It is recommended that the initial dosage of Ketoprofen Capsules
 should be reduced for patients over 75 years of age and it may be useful to monitor
 renal function (see DOSAGE AND ADMINISTRATION). In addition, the risk of toxic
@@ -793,6 +813,7 @@ publications, U.S. clinical trials, and/or U.S. postmarketing spontaneous report
 Reactions are listed below under body system, then by incidence or number of cases in
 decreasing incidence.
 
+[page 21]
 Incidence Greater Than 1% (Probable Causal Relationship)
 Digestive:Dyspepsia (11%), nausea*, abdominal pain*, diarrhea*, constipation*,
 flatulence*, anorexia, vomiting, stomatitis.
@@ -826,6 +847,7 @@ eruption (FDE)
 Special Senses:Conjunctivitis, conjunctivitis sicca, eye pain, hearing impairment, retinal
 hemorrhage and pigmentation change, taste perversion.
 
+[page 22]
 Urogenital:Menometrorrhagia, hematuria, renal failure, interstitial nephritis, nephrotic
 syndrome.
 To report SUSPECTED ADVERSE REACTIONS, contact Marnel Pharmaceutical,
@@ -865,6 +887,7 @@ treated with emesis and supportive measures 2 hours after ingestion, and recover
 completely with her only complaint being mild epigastric pain.
 DOSAGE AND ADMINISTRATION
 
+[page 23]
 Carefully consider the potential benefits and risks of Ketoprofen Capsules, USP and
 other treatment options before deciding to use Ketoprofen Capsules, USP. Use the
 lowest effective dose for the shortest duration consistent with individual patient
@@ -905,6 +928,7 @@ lower doses of Ketoprofen Capsules, USP and closely monitored.
 Rheumatoid Arthritis and Osteoarthritis
 The recommended starting dose of Ketoprofen Capsules, USP in otherwise healthy
 
+[page 24]
 patients is 75 mg three times or 50 mg four times a day. Smaller doses of Ketoprofen
 Capsules, USP should be utilized initially in small individuals or in debilitated or elderly
 patients. The recommended maximum daily dose of Ketoprofen Capsules USP is 300
@@ -945,6 +969,7 @@ Dispense in a tight, light-resistant container as defined in the USP, with a
 child-resistant closure (as required).
 Manufactured for:
 
+[page 25]
 Scottsdale, AZ 85254
 Distributed by:
 Allegis Pharmaceuticals, Inc.
@@ -981,6 +1006,7 @@ o smoking
 o drinking alcohol
 o older age
 
+[page 26]
 o poor health
 o advanced liver disease
 o bleeding problems
@@ -1027,6 +1053,7 @@ called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
 • life-threatening skin reactions
 • life-threatening allergic reactions
 
+[page 27]
 • Other side effects of NSAIDs include:stomach pain, constipation, diarrhea, gas,
 heartburn, nausea, vomiting, and dizziness
 Get emergency help right away if you have any of the following symptoms:
@@ -1072,6 +1099,7 @@ can ask your pharmacist or healthcare provider for information about NSAIDs that
 written for health professionals.
 Manufactured for:
 
+[page 28]
 Scottsdale, AZ 85254
 Distributed by:
 Allegis Pharmaceutical, Inc
@@ -1098,6 +1126,7 @@ KETOPROFEN (UNII: 90Y4QC304K) (KETOPROFEN - UNII:90Y4QC304K)
 KETOPROFEN
 75 mg
 
+[page 29]
 Inactive Ingredients
 Ingredient Name
 Strength

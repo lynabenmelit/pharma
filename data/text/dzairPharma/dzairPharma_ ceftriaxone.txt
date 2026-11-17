@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ◆ 1 précaution
@@ -29,6 +33,10 @@ CETRIAL 1 g/FL : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/2900/cetrial-1g-fl-pdre-p-preparation-inj-iv
 1/6
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 REPÈRES
 PPA
 Prix non disponible
@@ -97,6 +105,10 @@ CETRIAL 1 g/FL : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/2900/cetrial-1g-fl-pdre-p-preparation-inj-iv
 2/6
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -146,6 +158,10 @@ CETRIAL 1 g/FL : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/2900/cetrial-1g-fl-pdre-p-preparation-inj-iv
 3/6
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 🔁 Autres médicaments avec la même DCI
 2 médicament(s) enregistré(s) contenant CEFTRIAXONE SODIQUE EXPRIME EN CEFTRIAXONE
 Interactions médicamenteuses
@@ -194,6 +210,10 @@ CETRIAL 1 g/FL : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/2900/cetrial-1g-fl-pdre-p-preparation-inj-iv
 4/6
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 CETTE SUBSTANCE
 HDO 0040005
 Allergie — ceftriaxone
@@ -233,6 +253,10 @@ CETRIAL 1 g/FL : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/2900/cetrial-1g-fl-pdre-p-preparation-inj-iv
 5/6
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 Le code ATC associé à CEFTRIAXONE SODIQUE EXPRIME EN CEFTRIAXONE est J01DD04 (ceftriaxone).
 CETRIAL 1G/FL nécessite-t-il une ordonnance ?
 Mention de prescription dans la nomenclature : HOP. Pour votre situation, demandez conseil à un médecin ou à un
@@ -250,4 +274,8 @@ Lire des études
 11/16/26, 5:50 PM
 CETRIAL 1 g/FL : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/2900/cetrial-1g-fl-pdre-p-preparation-inj-iv
+<<<<<<< HEAD
 6/6
+=======
+6/6
+>>>>>>> code

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 3 contre-indication
@@ -56,6 +60,10 @@ secable
 
 1/8
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -104,6 +112,10 @@ Aout 2026
 
 2/8
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 📊 AZITHRAL en Algérie : équivalents, laboratoire, validité
 8 autres présentations enregistrées en Algérie ont la même substance active (AZITHROMYCINE DIHYDRATEE EXPRIMEE
 EN AZITHROMYCINE), le même dosage et la même forme que AZITHRAL 500MG, issues de 8 laboratoires dont 8
@@ -149,6 +161,10 @@ Information, pas une prescription. Ces interactions ne remplacent pas l'avis d'u
 
 3/8
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 pharmacien.
 Substances analysées :
 et leurs classes (1)
@@ -186,6 +202,10 @@ CLASSE
 
 4/8
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Augmentation des concentrations plasmatiques
 du dopaminergique avec accroissement possible
 de son activité ou apparition de signes de
@@ -220,6 +240,10 @@ SIMVASTATINE
 
 5/8
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 Risque majoré d'effets indésirables
 (concentration-dépendants) à type de
 rhabdomyolyse, par diminution du métabolisme
@@ -252,6 +276,10 @@ thésaurus. Une erreur ? Écrivez-nous
 
 6/8
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 ❓ Questions fréquentes
 Quelle est la substance active de AZITHRAL 500MG ?
 La substance active de AZITHRAL 500MG est AZITHROMYCINE DIHYDRATEE EXPRIMEE EN AZITHROMYCINE (DCI), selon
@@ -282,6 +310,10 @@ boîte, ou demandez conseil à un médecin ou à un pharmacien.
 
 7/8
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 Voir plus
 Pharmaceutiques
 pharmaceutiques

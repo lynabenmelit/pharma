@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ▲ 2 déconseillée
@@ -83,6 +87,10 @@ secable
 
 1/5
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -145,6 +153,10 @@ Télécharger
 
 2/5
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 Interactions médicamenteuses
 Interactions de la substance active avec d'autres médicaments, selon le Thesaurus de l'ANSM (France). Elles valent pour toutes les spécialités
 qui contiennent cette substance.
@@ -205,6 +217,10 @@ Substances de la classe (6)
 
 3/5
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 GLINIDES
 Tous les bêta-bloquants peuvent masquer certains symptômes de
 Substances de la classe (3)
@@ -236,6 +252,10 @@ Quelle est la classe thérapeutique (ATC) de BIPROTENS 10MG ?
 
 4/5
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Le code ATC associé à BISOPROLOL FUMARATE est C07AB07 (bisoprolol).
 BIPROTENS 10MG nécessite-t-il une ordonnance ?
 Mention de prescription dans la nomenclature : HOP. Pour votre situation, demandez conseil à un médecin ou à un pharmacien.

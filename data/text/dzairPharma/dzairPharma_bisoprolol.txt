@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ▲ 2 déconseillée
@@ -87,6 +91,10 @@ BIPROTENS 10 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1518/biprotens-10mg-comprime-pellicule-secable
 1/5
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -155,6 +163,10 @@ BIPROTENS 10 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1518/biprotens-10mg-comprime-pellicule-secable
 2/5
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 Interactions médicamenteuses
 Interactions de la substance active avec d'autres médicaments, selon le Thesaurus de l'ANSM (France). Elles valent pour toutes les spécialités
 qui contiennent cette substance.
@@ -244,6 +256,10 @@ BIPROTENS 10 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1518/biprotens-10mg-comprime-pellicule-secable
 3/5
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 GLINIDES
 CLASSE
 RISQUES
@@ -303,6 +319,10 @@ BIPROTENS 10 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1518/biprotens-10mg-comprime-pellicule-secable
 4/5
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Le code ATC associé à BISOPROLOL FUMARATE est C07AB07 (bisoprolol).
 BIPROTENS 10MG nécessite-t-il une ordonnance ?
 Mention de prescription dans la nomenclature : HOP. Pour votre situation, demandez conseil à un médecin ou à un pharmacien.
@@ -320,4 +340,8 @@ pharmacies
 11/17/26, 8:44 PM
 BIPROTENS 10 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1518/biprotens-10mg-comprime-pellicule-secable
+<<<<<<< HEAD
 5/5
+=======
+5/5
+>>>>>>> code
