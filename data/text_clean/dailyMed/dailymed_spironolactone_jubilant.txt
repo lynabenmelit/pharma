@@ -1,4 +1,3 @@
-[page 1]
 SPIRONOLACTONE - spironolactone tablet, film coated
 Jubilant Cadista Pharmacuticals Inc.
 ----------
@@ -48,7 +47,6 @@ The most common adverse reaction with spironolactone treatment is gynecomastia (
 To report SUSPECTED ADVERSE REACTIONS, contact Jubilant Cadista Pharmaceuticals Inc.
 at 1-800-313-4623 or FDA at 1-800-FDA-1088 or
 
-[page 2]
 g
 DRUG INTERACTIONS
 Agents increasing serum potassium: Concomitant administration can lead to hyperkalemia (5.1, 7.1).
@@ -97,7 +95,6 @@ FULL PRESCRIBING INFORMATION: CONTENTS*
 8.4 Pediatric Use
 8.6 Use in Renal Impairment
 
-[page 3]
 8.5 Geriatric Use
 8.7 Use in Hepatic Impairment
 10 OVERDOSAGE
@@ -138,7 +135,6 @@ National High Blood Pressure Education Program's Joint National Committee on
 Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
 Sections or subsections omitted from the full prescribing information are not listed.
 
-[page 4]
 Numerous antihypertensive drugs, from a variety of pharmacologic classes and with
 different mechanisms of action, have been shown in randomized controlled trials to
 reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood
@@ -179,7 +175,6 @@ adrenal hyperplasia (idiopathic hyperaldosteronism).
 Spironolactone tablets can be taken with or without food, but should be taken
 consistently with respect to food [seeClinical Pharmacology (12.3)].
 
-[page 5]
 2.2 Treatment of Heart Failure
 In patients with serum potassium ≤5.0 mEq/L and eGFR >50 mL/min/1.73 m², initiate
 treatment at 25 mg once daily. Patients who tolerate 25 mg once daily may have their
@@ -218,7 +213,6 @@ Addison's disease
 Concomitant use of eplerenone
 2
 
-[page 6]
 5 WARNINGS AND PRECAUTIONS
 5.1 Hyperkalemia
 Spironolactone can cause hyperkalemia. This risk is increased by impaired renal function
@@ -260,7 +254,6 @@ Impaired neurological function/coma in patients with hepatic impairment, cirrhos
 and ascites [see Use in Specific Populations (8.7)]
 The following adverse reactions associated with the use of spironolactone were identified
 
-[page 7]
 in clinical trials or postmarketing reports. Because these reactions were reported
 voluntarily from a population of uncertain size, it is not always possible to estimate their
 frequency, reliably, or to establish a causal relationship to drug exposure.
@@ -297,7 +290,6 @@ heparin and low molecular weight heparin
 trimethoprim
 7.2 Lithium
 
-[page 8]
 Like other diuretics, spironolactone reduces the renal clearance of lithium, thus
 increasing the risk of lithium toxicity. Monitor lithium levels periodically when
 spironolactone is coadministered [see Clinical Pharmacology (12.3)].
@@ -338,7 +330,6 @@ due to anti-androgenic properties of spironolactone and animal data, avoid
 spironolactone in pregnant women or advise a pregnant woman of the potential risk to a
 male fetus.
 
-[page 9]
 The estimated background risk of major birth defects and miscarriage for the indicated
 population is unknown. All pregnancies have a background risk of birth defect, loss or
 other adverse outcomes. In the U.S. general population, the estimated background risk
@@ -383,7 +374,6 @@ Risk Summary
 Spironolactone is not present in breastmilk; however, limited data from a lactating
 woman at 17 days postpartum reports the presence of the active metabolite,
 
-[page 10]
 y
 canrenone, in human breast milk in low amounts that are expected to be clinically
 inconsequential. In this case, there were no adverse effects reported for the breastfed
@@ -424,7 +414,6 @@ antidote. Treatment is supportive to maintain hydration, electrolyte balance, an
 functions. Patients who have renal impairment may develop hyperkalemia. In such
 50
 
-[page 11]
 cases, discontinue spironolactone.
 11 DESCRIPTION
 Spironolactone oral tablets contain 25 mg, 50 mg, or 100 mg of the aldosterone
@@ -454,7 +443,6 @@ Spironolactone counteracts secondary aldosteronism induced by the volume depleti
 and associated sodium loss caused by active diuretic therapy.
 12.3 Pharmacokinetics
 
-[page 12]
 Absorption
 The mean time to reach peak plasma concentration of spironolactone and the active
 metabolite, canrenone, in healthy volunteers is 2.6 and 4.3 hours, respectively.
@@ -496,7 +484,6 @@ Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): In some patients, the administrat
 an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop,
 potassium-sparing, and thiazide diuretics [see Drug Interactions (7.3)].
 
-[page 13]
 Acetylsalicylic acid: A single dose of 600 mg of acetylsalicylic acid inhibited the natriuretic
 effect of spironolactone, which was hypothesized be due to inhibition of tubular
 secretion of canrenone, causing decreased effectiveness of spironolactone [see Drug
@@ -542,7 +529,6 @@ caused by an inhibition of implantation), and at 200 mg/kg, also increased the l
 period to mating.
 14 CLINICAL STUDIES
 
-[page 14]
 14.1 Heart Failure
 The Randomized Spironolactone Evaluation Study was a placebo controlled, double-blind
 study of the effect of spironolactone on mortality in patients with highly symptomatic
@@ -579,7 +565,6 @@ The survival curves by treatment group are shown in Figure 1.
 Figure 1. Survival by Treatment Group in Randomized Spironolactone
 Evaluation Study
 
-[page 15]
 Mortality hazard ratios for some subgroups are shown in Figure 2. The favorable effect
 of spironolactone on mortality appeared similar for both genders and all age groups
 except patients younger than 55. There were too few non-whites in Randomized
@@ -597,7 +582,6 @@ The dose response of spironolactone for hypertension has not been well character
 In patients with hypertension, decreases in systolic blood pressure have been observed
 at doses ranging from 25 to 100 mg/day. Doses greater than 100 mg/day generally do
 
-[page 16]
 not provide additional reductions in blood pressure [see Dosage and Administration
 (2.3)].
 16 HOW SUPPLIED/STORAGE AND HANDLING
@@ -626,7 +610,6 @@ Manufactured by:
 Jubilant Generics Limited
 Roorkee - 247661, India
 
-[page 17]
 Marketed by:
 Jubilant Cadista Pharmaceuticals Inc.
 Yardley,PA 19067,USA
@@ -645,7 +628,6 @@ NDC 59746-218-01
 100 mg 100 Tablets
 Rx Only
 
-[page 18]
 NDC:59746-216
 25 mg
 Calcium Sulfate Dihydrate (UNII: 4846Q921YM)
@@ -654,7 +636,6 @@ no score
 7mm
 TL216
 
-[page 19]
 1 NDC:59746-21601
 2 NDC:59746-21605
 3 NDC:59746-21610
@@ -667,8 +648,6 @@ calcium sulfate (UNII: WAT0DDB505)
 9mm
 TL217
 
-[page 20]
-
 1 NDC:59746-21701
 2 NDC:59746-21705
 NDC:59746-218
@@ -677,7 +656,6 @@ calcium sulfate (UNII: WAT0DDB505)
 
 2 pieces
 
-[page 21]
 Jubilant Cadista Pharmacuticals Inc.
 11mm
 TL218

@@ -1,4 +1,3 @@
-[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 AMLODIPINE BESILATE EXPRIME EN AMLODIPINE
@@ -55,7 +54,6 @@ fabrication
 
 1/7
 
-[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -104,7 +102,6 @@ ou formes.
 
 2/7
 
-[page 3]
 AMLODAL - PHARMIDAL NS
 Le laboratoire SPA JAMJOOM ALGERIA LIL DAWA compte 9 autres produits enregistrés en Algérie. Voir le laboratoire →
 Enregistré depuis le 5 juin 2005 (il y a environ 21 ans). La validité indiquée a pris fin le 23 juillet 2023 : vérifiez le
@@ -153,7 +150,6 @@ Toutes
 
 3/7
 
-[page 4]
 Chercher une substance ou une classe
 Tout déplier
 Tout plier
@@ -199,7 +195,6 @@ calciques. Surveillance clinique et adaptation
 
 4/7
 
-[page 5]
 posologique pendant le traitement par l'inhibiteur
 enzymatique et après son arrêt.
 Substances de la classe (10)
@@ -237,7 +232,6 @@ thésaurus. Une erreur ? Écrivez-nous
 
 5/7
 
-[page 6]
 ❓ Questions fréquentes
 Quelle est la substance active de AMLIBON 5MG ?
 La substance active de AMLIBON 5MG est AMLODIPINE BESILATE EXPRIME EN AMLODIPINE (DCI), selon la
@@ -264,7 +258,6 @@ boîte, ou demandez conseil à un médecin ou à un pharmacien.
 
 6/7
 
-[page 7]
 ← Retour
 📚 Toutes les présentations de AMLIBON
 🔍 Tous les médicaments avec cette DCI

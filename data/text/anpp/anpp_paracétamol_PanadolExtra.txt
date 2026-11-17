@@ -1,16 +1,18 @@
-[page 1]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
 1 
  
  
-1. Dénomination du médicament 
+1. Dénomination du médicament    
  
-1.1. Dénomination commerciale, dosage et forme pharmaceutique 
+1.1. Dénomination commerciale, dosage et forme pharmaceutique   
 PANADOL EXTRA 
  
-1.2. Dénomination commune internationale (DCI) 
+1.2. Dénomination commune internationale (DCI)   
 Paracétamol + caféine 
  
 2. Composition qualitative et quantitative 
@@ -21,43 +23,45 @@ Comprimé pelliculé.
  
 2.2. Formule centésimale 
 Paracétamol………………………………………………………….……………….500 mg 
-Caféine ……………………………………………………………………………….65 mg 
+Caféine ……………………………………………………………………………….65 mg  
  
 Excipient : Amidon de maïs, amidon prégélatinisé, sorbate de potassium, polyvidone, talc, croscarmellose de 
 sodium, acide stéarique, eau purifiée, hypromellose et triacétine. 
-Excipient à effet notoire : sans objet 
+Excipient à effet notoire : sans objet  
  
-3. Forme pharmaceutique 
- Comprimé pelliculé. 
+3. Forme pharmaceutique    
+       Comprimé pelliculé. 
  
-4. Données cliniques 
+4. Données cliniques    
  
-4.1. Indications thérapeutiques 
+4.1. Indications thérapeutiques    
 Traitement symptomatique de la fièvre et de la douleur. 
  
  
-4.2. Posologie et mode d'administration 
+4.2. Posologie et mode d'administration  
 Cette présentation est destinée à un usage chez les adultes et les adolescents de 12 ans ou plus. 
 Adolescents et enfants de plus de 12 ans (poids >40 kg et < 50 kg) : 
-La dose habituelle est de 15 mg/kg par administration, jusqu’à maximum 4 fois par jour. 
+La dose habituelle est de 15 mg/kg par administration, jusqu’à maximum 4 fois par jour.                      
 L’intervalle entre deux administrations doit être d’au moins 4 heures. Les doses maximales sont de 15 mg/kg 
 par prise et de 60 mg/kg/jour. 
-Poids (kg) 
-Age (années) 
-Dose (500 mg) 
+Poids (kg)  
+Age (années)  
+Dose (500 mg)  
 Fréquence 
 41-50 
 12-14 
-1 comprimé 
+1 comprimé  
 Max 4 fois par 
 jour 
  
 Adolescents et adultes (poids corporel >50 kg) : 
 La dose habituelle est de 500 mg/65 mg à 1 g/130 mg par prise, à répéter si nécessaire respectivement toutes 
 les 4 ou 6 heures, jusqu’à 3 g par jour. En cas de douleurs plus intenses ou de fièvre, la dose journalière peut 
-être augmentée à 4 g par jour.
+être augmentée à 4 g par jour.                                                                                                                  
 
-[page 2]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -67,11 +71,11 @@ RESUME DES CARACTERISTIQUES DU PRODUIT
 L’intervalle entre deux administrations doit être d’au moins 4 heures. Les doses maximales sont de 2 
 comprimés (1g/130 mg) par prise et de 4 g par jour. 
 La durée du traitement doit être la plus courte possible et limitée à la période de présence des symptômes. 
-Pour les adultes pesant moins de 50 kg, la dose maximale journalière est de 60 mg/kg/jour. 
+Pour les adultes pesant moins de 50 kg, la dose maximale journalière est de 60 mg/kg/jour.                
 Populations spéciales : 
 Diminution de la fonction hépatique, alcoolisme chronique 
 Chez les patients présentant une diminution de la fonction hépatique, la dose doit être réduite ou l’intervalle 
-d’administration prolongé. 
+d’administration prolongé.                                                                                                                                    
 La dose quotidienne ne peut être supérieure à 2 g dans les situations suivantes : 
 - insuffisance hépatique, 
 - syndrome de Gilbert (ictère familial non hémolytique), 
@@ -91,7 +95,7 @@ fait que l’insuffisance rénale et/ou hépatique survient plus souvent chez le
 Mode d’administration 
 Voie orale. 
  
-4.3. Contre-indications 
+4.3. Contre-indications  
  
 Hypersensibilité aux substances actives ou à l’un des excipients mentionnés à la rubrique 6.1. 
  
@@ -118,9 +122,11 @@ dans ces cas être adaptée (voir rubrique 4.2).
 - 
 Un traitement concomitant avec des médicaments qui influencent la fonction hépatique, la 
 déshydratation et la malnutrition chronique (faibles réserves de glutathion hépatique) sont également des 
-facteurs de risque d’apparition d’hépatotoxicité et qui peuvent éventuellement abaisser le seuil de
+facteurs de risque d’apparition d’hépatotoxicité et qui peuvent éventuellement abaisser le seuil de 
 
-[page 3]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -144,7 +150,7 @@ boissons en canettes contiennent de la caféine.
 Panadol Extra contient moins de 1 mmol (23 mg) de sodium par comprimé, c.-à-d. qu’il est essentiellement « 
 sans sodium ». 
  
-4.5. Interactions avec d’autres médicaments et autres formes d’interaction 
+4.5. Interactions avec d’autres médicaments et autres formes d’interaction  
 Le paracétamol est entièrement métabolisé dans le foie. Certains métabolites du paracétamol sont 
 hépatotoxiques, et une administration concomitante avec des inducteurs enzymatiques puissants 
 (rifampicine, certains anticonvulsifs, etc.) peut donc conduire à des réactions hépatotoxiques, surtout 
@@ -180,9 +186,11 @@ thérapeutique, en raison d'une possible induction du métabolisme hépatique.
 Renforcement possible de la toxicité du chloramphénicol, par inhibition du métabolisme hépatique. 
  Flucloxacilline 
 La prudence est conseillée lors de l’administration de flucloxacilline et de paracétamol de façon 
-concomitante, car leur prise simultanée a été associée à l’acidose métabolique à trou anionique élevé,
+concomitante, car leur prise simultanée a été associée à l’acidose métabolique à trou anionique élevé, 
 
-[page 4]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -199,7 +207,7 @@ efficacité éventuellement réduite, en raison de l’induction du métabolisme
  La caféine peut augmenter l'élimination du lithium de l'organisme. Une utilisation concomitante est 
 dès lors déconseillée. 
  
-4.6. Fertilité, grossesse et allaitement 
+4.6. Fertilité, grossesse et allaitement  
 Grossesse 
 L’utilisation de ce produit est déconseillée pendant la grossesse ou pour les femmes que peuvent être 
 enceintes. 
@@ -222,7 +230,7 @@ Les effets sont liés aux effets indésirables. Très rarement, de la nervosité
 certaines personnes, mais l’on peut considérer que généralement ce médicament ne provoque ni 
 lassitude ni somnolence et permet de continuer à travailler normalement. 
  
-4.8. Effets indésirables 
+4.8.  Effets indésirables 
 Les fréquences sont définies de la manière suivante : très fréquent (≥1/10), fréquent (≥1/100, <1/10), 
 Peu fréquent (≥1/1,000, <1/100), rare (≥1/10,000, <1/1,000), très rare (<1/10,000) et fréquence 
 indéterminée (ne peut être estimée sur la base des données disponibles). 
@@ -248,9 +256,11 @@ Très rare
 Très rare 
 Très rare 
 Très rare 
-Très rare
+Très rare 
 
-[page 5]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -365,9 +375,11 @@ Caféine
 Affections du 
 système nerveux 
 Nervosité 
-Indéterminée
+Indéterminée 
 
-[page 6]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -375,14 +387,14 @@ RESUME DES CARACTERISTIQUES DU PRODUIT
  
  
  
-Vertige 
+Vertige  
 Indéterminée 
 Lorsque le schéma d'administration paracétamol-caféine recommandé est associé à des apports alimentaires 
 en caféine, cette dose totale plus élevée de caféine peut augmenter le risque d'effets indésirables liés à la 
 caféine comme l'insomnie, la nervosité, l’anxiété, l’irritabilité, des maux de tête, des troubles gastro-
 intestinaux et des palpitations. 
  
-Déclaration des effets indésirables suspectés 
+Déclaration des effets indésirables suspectés  
 La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Ça 
 permet une surveillance continue de la balance bénéfice/risque du médicament. Les professionnels de 
 santé sont priés de signaler tout effet indésirable suspecté, Pour toutes déclarations relatives aux effets 
@@ -401,10 +413,10 @@ Chez l'adulte, une dose unique de 8 à 10 g peut induire une nécrose hépatique
 toxique est de 120 mg/kg. La dose toxique est plus basse chez les patients souffrant d'insuffisance 
 hépatique et dans l'éthylisme chronique. 
 Les symptômes : Nausées, vomissements, anorexie, pâleur, douleurs abdominales apparaissent 
-habituellement dans les 24 premières heures. 
+habituellement dans les 24 premières heures.  
 L'expérience d'un surdosage de paracétamol indique que les signes cliniques d'une lésion du foie 
 apparaissent généralement 24 à 48 heures après la prise et atteignent en général leur maximum après 4 
-à 6 jours. L'hospitalisation est obligatoire, même en cas d'intoxication présumée. 
+à 6 jours. L'hospitalisation est obligatoire, même en cas d'intoxication présumée.  
 Des lésions hépatiques sont probables lorsque les taux plasmatiques excèdent 230 μg/ml après 4 
 heures, 50 μg/ml après 12 heures et sont encore décelables après 24 heures. 
 Une insuffisance rénale aiguë avec néphrite interstitielle aiguë peut se développer, même en l’absence 
@@ -425,9 +437,12 @@ Procédure d'urgence :
 - administration de l’antidote N-acétylcystéine, en intraveineuse ou par voie orale, si possible dans les 8 
 heures après ingestion 
 - administration de charbon actif, si possible dans un délai d’une heure après l'ingestion 
-- traitement symptomatique.
+- traitement symptomatique. 
+ 
 
-[page 7]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -448,11 +463,11 @@ d'antagonistes bêta adrénergiques pour contrer les effets cardiotoniques peuve
 5. PROPRIETES PHARMACOLOGIQUES 
  
 5.5. Propriétés pharmacodynamiques 
- Classe pharmacothérapeutique : Analgésiques, Anilides, code ATC : N02BE51 
+      Classe pharmacothérapeutique : Analgésiques, Anilides, code ATC : N02BE51 
  
 Mécanisme d’action et effets pharmacodynamiques 
  
-Panadol Extra est un analgésique à action rapide, également doté d'une action antipyrétique. 
+Panadol Extra est un analgésique à action rapide, également doté d'une action antipyrétique.                               
 Le paracétamol est un analgésique dont le mécanisme d'action est lié probablement partiellement à une 
 inhibition de la P.G. - synthétase. Il exerce une activité analgésique périphérique. L'activité analgésique du 
 paracétamol par inhibition de la synthèse des prostaglandines s'exerce également au niveau du système 
@@ -461,7 +476,7 @@ via l'hypotalamus.
  La caféine stimule le système nerveux central. Il a été proposé que les effets adjuvants analgésiques de la 
 caféine étaient dus à plusieurs mécanismes : 
 - 
-Blocage des actions pronociceptives périphériques de l'adénosine ; 
+Blocage des actions pronociceptives périphériques de l'adénosine ;  
 - 
 Activation des voies noradrénergiques centrales qui constituent un système de suppression de la 
 douleur endogène 
@@ -469,7 +484,7 @@ douleur endogène
 Stimulation du SNC avec modulation consécutive du composant affectif de la douleur. 
  
 Effets pharmacodynamiques : 
- L'absence d'inhibition périphérique de la prostaglandine confère d'importantes propriétés pharmacologiques 
+    L'absence d'inhibition périphérique de la prostaglandine confère d'importantes propriétés pharmacologiques 
 telles que le maintien des prostaglandines protectrices dans le tractus gastro-intestinal. Par conséquent, le 
 paracétamol convient particulièrement aux : patients présentant des antécédents de maladie, ou aux patients 
 avec une médication concomitante chez qui l'inhibition périphérique de la prostaglandine ne serait pas 
@@ -482,9 +497,11 @@ le délai d'apparition de cet effet analgésique.
  
 Absorption 
 Les deux composants sont rapidement et complètement résorbés. Les pics plasmatiques mesurés après 
-l'administration soit de 2 comprimés de PANADOL EXTRA sont atteints environ une heure après la prise.
+l'administration soit de 2 comprimés de PANADOL EXTRA sont atteints environ une heure après la prise. 
 
-[page 8]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -508,11 +525,11 @@ métabolite habituellement éliminé aux doses thérapeutiques par conjugaison a
 quantité augmenter lors d'intoxications massives. 
 La caféine est métabolisée dans le foie, 2 % de la dose sont retrouvés sous forme inchangée dans l'urine. 
 Les principaux métabolites de la caféine sont l'acide 1-méthylurique, la 1-méthylxanthine et la 7- 
-méthylxanthine. 
+méthylxanthine.  
 La caféine et ses métabolites sont principalement excrétés par les reins. L'isoenzyme CYP1A2 du cytochrome 
 hépatique P450 est impliqué dans le métabolisme enzymatique de la caféine. 
 Élimination 
-Aux doses thérapeutiques, la demi-vie du paracétamol varie chez les adultes de 1,25 à 3 heures. 
+Aux doses thérapeutiques, la demi-vie du paracétamol varie chez les adultes de 1,25 à 3 heures.  
 Chez les sujets âgés et les personnes souffrant d'insuffisance hépatique grave, elle est un peu plus longue. Bien 
 que ces augmentations aient été observées, aucune accumulation de paracétamol dans le plasma due à une 
 perturbation du métabolisme, n'a pu être constatée. 
@@ -531,9 +548,11 @@ Aucune étude conventionnelle s’appuyant sur les normes actuellement admises p
 reproduction et le développement n’est disponible pour le paracétamol. Il n’y a pas de données de sécurité 
 préclinique pour le prescripteur qui s’ajoutent à celles déjà comprises ailleurs dans le RCP. 
  
-6. DONNEES PHARMACEUTIQUES
+6. DONNEES PHARMACEUTIQUES 
 
-[page 9]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -551,12 +570,12 @@ N'est pas applicable
 6.7. Durée de conservation 
 4 ans. 
  
-6.8. Précautions particulières de conservation 
-A conserver à une température ne dépassant pas 30°C. 
+6.8.  Précautions particulières de conservation 
+A conserver à une température ne dépassant pas 30°C.  
  
-6.9. Nature et contenu de l’emballage extérieur 
+6.9. Nature et contenu de l’emballage extérieur  
  
-Boite de 16 comprimés pelliculés. 
+Boite de 16 comprimés pelliculés.  
 PANADOL® Extra est conditionné sous film plaquettes thermoformées (PVC/Aluminium) 
  
 6.10. Précautions particulières d’élimination et de manipulation 
@@ -564,35 +583,37 @@ Pas d’exigences particulières.
 Ne jetez aucun médicament au tout-à-l’égout ou avec les ordures ménagères. Demandez à votre pharmacien 
 d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à protéger l’environnement. 
  
-7. Conditions de délivrance 
+7. Conditions de délivrance  
 Médicament non soumis à prescription médicale 
  
-8. Informations administratives 
+8. Informations administratives    
  
-8.5. Nom et adresse du détenteur de la décision d’enregistrement 
-Laboratoires de Diagnostic Maghrébins –LDM- 
-Z.I Oued Hamimime El-Khroub, Constantine.Algérie. 
+8.5. Nom et adresse du détenteur de la décision d’enregistrement    
+Laboratoires de Diagnostic Maghrébins –LDM-  
+Z.I Oued Hamimime El-Khroub, Constantine.Algérie.  
  
-8.6. Nom et adresse de l’exploitant de la décision d’enregistrement 
-Laboratoires de Diagnostic Maghrébins –LDM- 
-Z.I Oued Hamimime El-Khroub, Constantine, Algérie. 
+8.6. Nom et adresse de l’exploitant de la décision d’enregistrement   
+Laboratoires de Diagnostic Maghrébins –LDM-  
+Z.I Oued Hamimime El-Khroub, Constantine, Algérie.  
 Sous licence HALEON Belgium S.A 
  
 8.7. Nom et adresse des différents intervenants dans la fabrication du produit fini, le site de production 
-des produits intermédiaires / vrac / conditionnements (primaire et secondaire), libération des 
-lots, le cas échéant 
+des    produits intermédiaires / vrac / conditionnements (primaire et secondaire), libération des 
+lots, le cas échéant   
 - 
 Laboratoires de Diagnostic Maghrébins –LDM Oued Hamimime El-Khroub, Constantine ALGERIE 
 - 
 Haleon Belgium, Da Vincilaan 5, B-1930 Zaventem. 
  
-8.8. Numéro de la décision d’enregistrement 
+8.8. Numéro de la décision d’enregistrement   
 23/07/03 B 088/309 
  
-8.9. Date de mise à jour du texte 
-11-2024 selon le RCP (Pays d’origine) du 04/2023
+8.9. Date de mise à jour du texte   
+11-2024 selon le RCP (Pays d’origine) du 04/2023 
 
-[page 10]
+ 
+ 
+ 
 ANNEXE I 
 RESUME DES CARACTERISTIQUES DU PRODUIT 
  
@@ -601,14 +622,16 @@ RESUME DES CARACTERISTIQUES DU PRODUIT
  
  
 9. Pour les médicaments radio pharmaceutiques, détails complets sur la dosimétrie interne des 
-rayonnements 
+rayonnements   
 Sans objet. 
  
-10. Conditions ou restrictions en vue d’une utilisation sûre et efficace du médicament 
+10. Conditions ou restrictions en vue d’une utilisation sûre et efficace du médicament   
 Sans objet. 
  
 11. Pour les médicaments radio pharmaceutiques, instructions supplémentaires détaillées pour la 
 préparation extemporanée et le contrôle de qualité de cette préparation et, le cas échéant, période 
 maximale de stockage durant laquelle toute préparation intermédiaire, telle que l’éluât ou le 
-médicament radio pharmaceutique prêt à l’emploi, répond aux spécifications prévues. 
-Sans objet.
+médicament radio pharmaceutique prêt à l’emploi, répond aux spécifications prévues.  
+Sans objet. 
+ 
+ 

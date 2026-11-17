@@ -1,5 +1,4 @@
-[page 1]
-RAMIPRIL - ramipril capsule 
+RAMIPRIL - ramipril capsule  
 Aurobindo Pharma Limited
 ----------
 HIGHLIGHTS OF PRESCRIBING INFORMATION
@@ -14,7 +13,7 @@ When pregnancy is detected, discontinue ramipril as soon as possible (5.6).
 Drugs that act directly on the renin-angiotensin system can cause injury and death
 to the developing fetus (5.6).
 RECENT MAJOR CHANGES
-Warnings and Precautions, Angioedema (5.1) 2/2026
+Warnings and Precautions, Angioedema (5.1)                                            2/2026
 INDICATIONS AND USAGE
 Ramipril capsules are an angiotensin converting enzyme (ACE) inhibitor indicated for the treatment of
 hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal
@@ -42,10 +41,9 @@ Angioedema related to previous treatment with an ACE inhibitor, or a history of 
 angioedema (4). 
 Ramipril capsules are contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril). Do not
 administer ramipril capsules within 36 hours of switching to or from sacubitril/valsartan, a neprilysin
-inhibitor (4). 
-Do not co-administer aliskiren with ramipril capsules in patients with diabetes (4).
+inhibitor (4).  
+Do not co-administer aliskiren with ramipril capsules in patients with diabetes  (4).  
 
-[page 2]
 WARNINGS AND PRECAUTIONS
 Angioedema, increased risk in patients with a prior history (5.1)
 Hypotension and hyperkalemia (5.5, 5.8)
@@ -57,7 +55,7 @@ ADVERSE REACTIONS
 The most common adverse reactions in patients with hypertension included headache, dizziness, fatigue,
 and cough (6.1).
 To report SUSPECTED ADVERSE REACTIONS, contact Aurobindo Pharma USA, Inc. at 1-866-
-850-2876 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 
+850-2876 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
 DRUG INTERACTIONS
 Diuretics: Possibility of excessive hypotension (7.1).
 Lithium: Use with caution (7.4).
@@ -92,7 +90,6 @@ Causes
 5.4 Neutropenia and Agranulocytosis
 5.5 Hypotension
 
-[page 3]
 5.6 Fetal Toxicity
 5.7 Dual Blockade of the Renin-Angiotensin System
 5.8 Hyperkalemia
@@ -135,7 +132,6 @@ Cardiovascular Causes
 FULL PRESCRIBING INFORMATION
 Sections or subsections omitted from the full prescribing information are not listed.
 
-[page 4]
 WARNING: FETAL TOXICITY
 When pregnancy is detected, discontinue ramipril as soon as possible
 [see Warnings and Precautions (5.6)].
@@ -176,7 +172,6 @@ Black patients, and many antihypertensive drugs have additional approved indicat
 and effects (e.g., on angina, heart failure, or diabetic kidney disease). These
 considerations may guide selection of therapy.
 
-[page 5]
 Ramipril capsules may be used alone or in combination with thiazide diuretics.
 1.2 Reduction in the Risk of Myocardial Infarction, Stroke, and Death from
 Cardiovascular Causes
@@ -199,7 +194,7 @@ Clinical Studies (14.3)].
 2.1 Hypertension
 The recommended initial dose for patients not receiving a diuretic is 2.5 mg once a day.
 Adjust dose according to blood pressure response. The usual maintenance dosage
-range is 2.5 mg to 20 mg per day administered as a single dose or in two equally
+range is  2.5 mg to 20 mg per day administered as a single dose or in two equally
 divided doses. In some patients treated once daily, the antihypertensive effect may
 diminish toward the end of the dosing interval. In such patients, consider an increase in
 dosage or twice daily administration. If blood pressure is not controlled with ramipril
@@ -214,7 +209,6 @@ given as a divided dose.
 For the treatment of post-myocardial infarction patients who have shown signs of
 congestive heart failure, the recommended starting dose of ramipril capsules is 2.5 mg
 
-[page 6]
 twice daily (5 mg per day). A patient who becomes hypotensive at this dose may be
 switched to 1.25 mg twice daily. After one week at the starting dose, increase dose (if
 tolerated) toward a target dose of 5 mg twice daily, with dosage increases being about 3
@@ -254,7 +248,6 @@ For patients with heart failure and renal impairment, the recommended initial do
 and up to a maximum dose of 2.5 mg twice daily depending on clinical response and
 tolerability.
 
-[page 7]
 Volume Depletion or Renal Artery Stenosis 
 Blood pressure decreases associated with any dose of ramipril capsules depend, in part,
 on the presence or absence of volume depletion (e.g., past and current diuretic use) or
@@ -290,7 +283,6 @@ Do not co-administer ramipril capsules with aliskiren:
 Presumably because drugs that act directly on the renin-angiotensin-aldosterone
 system (e.g., ACE inhibitors) affect the metabolism of eicosanoids and polypeptides,
 
-[page 8]
 including endogenous bradykinin, patients receiving these drugs (including ramipril) may
 be subject to a variety of adverse reactions, some of them serious.
 Angioedema
@@ -327,7 +319,6 @@ ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibito
 Include intestinal angioedema in the differential diagnosis of patients on ACE inhibitors
 presenting with abdominal pain.
 
-[page 9]
 Anaphylactoid Reactions During Desensitization
  
 Two patients undergoing desensitizing treatment with hymenoptera venom while
@@ -367,7 +358,6 @@ diuretic. This is more likely to occur in patients with pre-existing renal impai
 Dosage reduction of ramipril and/or discontinuation of the diuretic may be required.
 5.4 Neutropenia and Agranulocytosis
 
-[page 10]
 In rare instances, treatment with ACE inhibitors may be associated with mild reductions
 in red blood cell count and hemoglobin content, blood cell or platelet counts. In isolated
 cases, agranulocytosis, pancytopenia, and bone marrow depression may occur.
@@ -385,7 +375,7 @@ depleted as a result of prolonged diuretic therapy, dietary salt restriction, di
 diarrhea, or vomiting. Correct volume- and salt-depletion before initiating therapy with
 ramipril.
 If excessive hypotension occurs, place the patient in a supine position and, if necessary,
-treat with intravenous infusion of physiological saline. Ramipril treatment usually can be
+treat with intravenous infusion of physiological saline. Ramipril  treatment usually can be
 continued following restoration of blood pressure and volume.
 Heart Failure Post-Myocardial Infarction 
 In patients with heart failure post-myocardial infarction who are currently being treated
@@ -393,20 +383,19 @@ with a diuretic, symptomatic hypotension occasionally can occur following the in
 of ramipril. If the initial dose of 2.5 mg ramipril cannot be tolerated, use an initial dose of
 1.25 mg ramipril to avoid excessive hypotension. Consider reducing the dose of
 concomitant diuretic to decrease the incidence of hypotension. 
-Congestive Heart Failure 
+Congestive Heart Failure  
 In patients with congestive heart failure, with or without associated renal insufficiency,
 ACE inhibitor therapy may cause excessive hypotension, which may be associated with
 oliguria or azotemia and rarely, with acute renal failure and death. In such patients,
 initiate ramipril therapy under close medical supervision and follow patients closely for
 the first 2 weeks of treatment and whenever the dose of ramipril or diuretic is
 increased. 
-Surgery and Anesthesia 
+Surgery and Anesthesia  
 In patients undergoing surgery or during anesthesia with agents that produce
 hypotension, ramipril may block angiotensin II formation that would otherwise occur
 secondary to compensatory renin release. Hypotension that occurs as a result of this
 mechanism can be corrected by volume expansion.
 
-[page 11]
 5.6 Fetal Toxicity
 Use of drugs that act on the renin-angiotensin system during the second and third
 trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal
@@ -448,7 +437,6 @@ patients [see Drug Interactions (7.2)].
 5.9 Cough
 2
 
-[page 12]
 Presumably caused by inhibition of the degradation of endogenous bradykinin,
 persistent nonproductive cough has been reported with all ACE inhibitors, always
 resolving after discontinuation of therapy. Consider the possibility of angiotensin
@@ -491,7 +479,6 @@ cough was similar to that seen in the Acute Infarction Ramipril Efficacy (AIRE) 
 rate of angioedema was the same as in previous clinical trials [see Warnings and
 Precautions (5.1)].
 
-[page 13]
 Table 1. Reasons for Discontinuation or Temporary Interruption of Treatment
 —HOPE Study
 Placebo 
@@ -570,7 +557,6 @@ Cardiovascular: Symptomatic hypotension (reported in 0.5% of patients in U.S. tr
 [see Warnings and Precautions (5.5)], syncope, and palpitations.
 Hematologic: Pancytopenia, hemolytic anemia, and thrombocytopenia.
 
-[page 14]
 Decreases in hemoglobin or hematocrit (a low value and a decrease of 5 g/dL or 5%,
 respectively) were rare, occurring in 0.4% of patients receiving ramipril alone and in
 1.5% of patients receiving ramipril plus a diuretic.
@@ -612,12 +598,11 @@ ramipril with a diuretic. None of these increases required discontinuation of tr
 Increases in these laboratory values are more likely to occur in patients with renal
 insufficiency or those pretreated with a diuretic and, based on experience with other
 
-[page 15]
 ACE inhibitors, would be expected to be especially likely in patients with renal artery
 stenosis [see Warnings and Precautions (5.3)]. As ramipril decreases aldosterone
 secretion, elevation of serum potassium can occur. Use potassium supplements and
 potassium-sparing diuretics with caution, and monitor the patient’s serum potassium
-frequently [see Warnings and Precautions (5.8)]. 
+frequently [see Warnings and Precautions (5.8)].  
 Hemoglobin and Hematocrit
 Decreases in hemoglobin or hematocrit (a low value and a decrease of 5 g/dL or 5%,
 respectively) were rare, occurring in 0.4% of patients receiving ramipril alone and in
@@ -649,7 +634,6 @@ Contraindications (4)].
 Increased serum lithium levels and symptoms of lithium toxicity have been reported in
 patients receiving ACE inhibitors during therapy with lithium; therefore, frequent
 
-[page 16]
 monitoring of serum lithium levels is recommended. If a diuretic is also used, the risk of
 lithium toxicity may be increased.
 7.5 Gold
@@ -685,7 +669,6 @@ fetus.
 In the unusual case that there is no appropriate alternative to therapy with drugs
 affecting the renin-angiotensin system for a particular patient, apprise the mother of the
 
-[page 17]
 g
 g
 y
@@ -730,7 +713,6 @@ varying degrees of renal impairment who received a single 10 mg dose of ramipril
 Patients were stratified into four groups based on initial estimates of creatinine
 clearance: normal (>80 mL/min), mild impairment (40 to 80 mL/min), moderate
 
-[page 18]
 impairment (15 to 40 mL/min), and severe impairment (<15 mL/min). On average, the
 AUC
 for ramiprilat was approximately 1.7-fold higher, 3-fold higher, and 3.2-fold
@@ -769,9 +751,8 @@ yellow, 2.5 mg capsule shell contains D&C yellow 10 and FD&C red 40, the 5 mg ca
 shell contains FD&C blue 1 and FD&C red 40, and the 10 mg capsule shell contains
 FD&C blue 1. The capsules are printed with edible ink containing black iron oxide and
 shellac. 
-0-24h
+0-24h 
 
-[page 19]
 The structural formula for ramipril is:
 Its molecular formula is C
 H
@@ -807,7 +788,6 @@ role in the therapeutic effects of ramipril remains to be elucidated.
 2
 5
 
-[page 20]
 While the mechanism through which ramipril lowers blood pressure is believed to be
 primarily suppression of the renin-angiotensin-aldosterone system, ramipril has an
 antihypertensive effect even in patients with low-renin hypertension. Although ramipril
@@ -838,7 +818,7 @@ Cleavage of the ester group (primarily in the liver) converts ramipril to its ac
 metabolite, ramiprilat. Peak plasma concentrations of ramiprilat are reached 2 to 4 hours
 after drug intake. The serum protein binding of ramipril is about 73% and that of
 ramiprilat about 56%; in vitro, these percentages are independent of concentration over
-the range of 0.01 mcg/mL to 10 mcg/mL.
+the range of  0.01 mcg/mL to 10 mcg/mL.
 Metabolism 
 Ramipril is almost completely metabolized to ramiprilat, which has about 6 times the ACE
 inhibitory activity of ramipril, and to the diketopiperazine ester, the diketopiperazine acid,
@@ -849,7 +829,6 @@ proportional over the 2.5 mg to 20 mg dose range. The absolute bioavailabilities
 ramipril and ramiprilat were 28% and 44%, respectively, when 5 mg of oral ramipril was
 max
 
-[page 21]
 compared with the same dose of ramipril given intravenously.
 After once-daily dosing, steady-state plasma concentrations of ramiprilat are reached by
 the fourth dose. Steady-state concentrations of ramiprilat are somewhat higher than
@@ -892,7 +871,6 @@ No evidence of a tumorigenic effect was found when ramipril was given by gavage 
 2
 2
 
-[page 22]
 rats for up to 24 months at doses of up to 500 mg/kg/day or to mice for up to 18
 months at doses of up to 1000 mg/kg/day. (For either species, these doses are about
 200 times the maximum recommended human dose when compared on the basis of
@@ -907,7 +885,7 @@ approximately 400 times (in rats and monkeys) and 2 times (in rabbits) the
 recommended human dose.
 14 CLINICAL STUDIES
 14.1 Hypertension
-Ramipril has been compared with other ACE inhibitors, beta-blockers, and thiazide
+Ramipril  has been compared with other ACE inhibitors, beta-blockers, and thiazide
 diuretics as monotherapy for hypertension. It was approximately as effective as other
 ACE inhibitors and as atenolol. 
 Administration of ramipril to patients with mild to moderate hypertension results in a
@@ -935,7 +913,6 @@ approximately as effective as other ACE inhibitors and as atenolol. In both Cauc
 and Blacks, hydrochlorothiazide (25 or 50 mg) was significantly more effective than
 ramipril.
 
-[page 23]
 Ramipril was less effective in blacks than in Caucasians. The effectiveness of ramipril was
 not influenced by age, sex, or weight.
 In a baseline controlled study of 10 patients with mild essential hypertension, blood
@@ -1004,7 +981,6 @@ Death from any cause
 0.84 (0.75 to 0.95)
 P=0.005
 
-[page 24]
 Figure 1. Kaplan-Meier Estimates of the Composite Outcome of Myocardial
 Infarction, Stroke, or Death from Cardiovascular Causes in the Ramipril
 Group and the Placebo Group
@@ -1038,9 +1014,8 @@ death from cardiovascular cause
 277 (15.3%)
 0.25 (0.12 to 0.36)
 P=0.0004
-Component Endpoint
+Component Endpoint 
 
-[page 25]
 Death from cardiovascular causes 
 172 (9.7%)
 112 (6.2%)
@@ -1068,7 +1043,6 @@ calcium channel blockers.
 14.3 Heart Failure Post-Myocardial Infarction
 Ramipril was studied in the AIRE trial. This was a multinational (mainly European) 161-
 
-[page 26]
 center, 2006-patient, double-blind, randomized, parallel-group study comparing ramipril
 to placebo in stable patients, 2 to 9 days after an acute myocardial infarction, who had
 shown clinical signs of congestive heart failure at any time after the myocardial
@@ -1098,36 +1072,35 @@ beta-blockers (about 20%), calcium channel blockers (about 15%), and digoxin (ab
 Ramipril Capsules USP, 1.25 mg are yellow/yellow size ‘4’ hard gelatin capsules
 imprinted with ‘D’ on yellow cap and ‘05’ on yellow body with black edible ink filled with
 white to almost white powder.
- Bottles of 30 NDC 65862-474-30
- Bottles of 100 NDC 65862-474-01
- Bottles of 1,000 NDC 65862-474-99
- 10 x 10 Unit-dose Capsules NDC 65862-474-10
+                Bottles of 30                                  NDC 65862-474-30
+                Bottles of 100                                NDC 65862-474-01
+                Bottles of 1,000                              NDC 65862-474-99
+                10 x 10 Unit-dose Capsules           NDC 65862-474-10
 Ramipril Capsules USP, 2.5 mg are orange/orange size ‘4’ hard gelatin capsules
 imprinted with ‘D’ on orange cap and ‘06’ on orange body with black edible ink filled with
 white to almost white powder.
- Bottles of 30 NDC 65862-475-30
- Bottles of 100 NDC 65862-475-01
- Bottles of 500 NDC 65862-475-05
- Bottles of 1,000 NDC 65862-475-99
- 10 x 10 Unit-dose Capsules NDC 65862-475-10
+                Bottles of 30                                  NDC 65862-475-30
+                Bottles of 100                                NDC 65862-475-01
+                Bottles of 500                                NDC 65862-475-05
+                Bottles of 1,000                              NDC 65862-475-99
+                10 x 10 Unit-dose Capsules           NDC 65862-475-10
 Ramipril Capsules USP, 5 mg are red/red size ‘4’ hard gelatin capsules imprinted with
 
-[page 27]
 ‘D’ on red cap and ‘07’ on red body with black edible ink filled with white to almost white
 powder.
- Bottles of 30 NDC 65862-476-30
- Bottles of 100 NDC 65862-476-01
- Bottles of 500 NDC 65862-476-05
- Bottles of 1,000 NDC 65862-476-99
- 10 x 10 Unit-dose Capsules NDC 65862-476-10
+                Bottles of 30                                  NDC 65862-476-30
+                Bottles of 100                                NDC 65862-476-01
+                Bottles of 500                                NDC 65862-476-05
+                Bottles of 1,000                              NDC 65862-476-99
+                10 x 10 Unit-dose Capsules           NDC 65862-476-10
 Ramipril Capsules USP, 10 mg are blue/blue size ‘4’ hard gelatin capsules imprinted
 with ‘D’ on blue cap and ‘08’ on blue body with black edible ink filled with white to almost
 white powder.
- Bottles of 30 NDC 65862-477-30
- Bottles of 100 NDC 65862-477-01
- Bottles of 500 NDC 65862-477-05
- Bottles of 1,000 NDC 65862-477-99
- 10 x 10 Unit-dose Capsules NDC 65862-477-10
+                Bottles of 30                                  NDC 65862-477-30
+                Bottles of 100                                NDC 65862-477-01
+                Bottles of 500                                NDC 65862-477-05
+                Bottles of 1,000                              NDC 65862-477-99
+                10 x 10 Unit-dose Capsules           NDC 65862-477-10
 Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature.]
 Dispense in well-closed container with safety closure.
 17 PATIENT COUNSELING INFORMATION
@@ -1152,7 +1125,6 @@ Pregnancy
 Tell female patients of childbearing age about the consequences of exposure to ramipril
 during pregnancy. Discuss treatment options with women planning to become
 
-[page 28]
 pregnant. Ask patients to report pregnancies to their physicians as soon as possible.
 Hyperkalemia 
 Advise patients not to use salt substitutes containing potassium without consulting their
@@ -1173,7 +1145,6 @@ Ramipril Capsules, USP
 AUROBINDO
 100 Capsules
 
-[page 29]
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 1.25 mg Blister Carton (10 x 10
 Unit-dose)
 NDC 65862-474-10 
@@ -1183,7 +1154,6 @@ Ramipril Capsules, USP
 AUROBINDO
 100 Capsules (10 x 10 Unit-dose)
 
-[page 30]
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2.5 mg (100 Capsule Bottle)
 NDC 65862-475-01 
 Rx only 
@@ -1200,7 +1170,6 @@ Ramipril Capsules, USP
 AUROBINDO
 100 Capsules (10 x 10 Unit-dose)
 
-[page 31]
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 5 mg (100 Capsule Bottle)
 NDC 65862-476-01
 Rx only 
@@ -1209,7 +1178,6 @@ Ramipril Capsules, USP
 AUROBINDO
 100 Capsules
 
-[page 32]
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 5 mg Blister Carton (10 x 10
 Unit-dose)
 NDC 65862-476-10 
@@ -1219,7 +1187,6 @@ Ramipril Capsules, USP
 AUROBINDO
 100 Capsules (10 x 10 Unit-dose)
 
-[page 33]
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 10 mg (100 Capsule Bottle)
 NDC 65862-477-01
 Rx only 
@@ -1228,7 +1195,6 @@ Ramipril Capsules, USP
 AUROBINDO
 100 Capsules
 
-[page 34]
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 10 mg Blister Carton (10 x 10
 Unit-dose)
 NDC 65862-477-10 
@@ -1238,8 +1204,7 @@ Ramipril Capsules, USP
 AUROBINDO
 100 Capsules (10 x 10 Unit-dose)
 
-[page 35]
-RAMIPRIL 
+RAMIPRIL  
 ramipril capsule
 Product Information
 Product Type
@@ -1256,7 +1221,6 @@ RAMIPRIL (UNII: L35JN3I7SJ) (RAMIPRILAT - UNII:6N5U4QFC3G)
 RAMIPRIL
 1.25 mg
 
-[page 36]
 Inactive Ingredients
 Ingredient Name
 Strength
@@ -1289,7 +1253,7 @@ Flavor
 Imprint Code
 D;05
 Contains
- 
+    
 Packaging
 #
 Item Code
@@ -1332,7 +1296,7 @@ Date
 ANDA
 ANDA091604
 06/08/2011
-RAMIPRIL 
+RAMIPRIL  
 ramipril capsule
 Product Information
 Product Type
@@ -1342,7 +1306,6 @@ NDC:65862-475
 Route of Administration
 ORAL
 
-[page 37]
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of Strength
@@ -1384,7 +1347,7 @@ Flavor
 Imprint Code
 D;06
 Contains
- 
+    
 Packaging
 #
 Item Code
@@ -1432,9 +1395,8 @@ Date
 ANDA
 ANDA091604
 06/08/2011
-RAMIPRIL
+RAMIPRIL  
 
-[page 38]
 ramipril capsule
 Product Information
 Product Type
@@ -1484,7 +1446,7 @@ Flavor
 Imprint Code
 D;07
 Contains
- 
+    
 Packaging
 #
 Item Code
@@ -1521,7 +1483,6 @@ Product
 10 in 1 BLISTER PACK; Type 0: Not a Combination
 Product
 
-[page 39]
 Marketing Information
 Marketing
 Category
@@ -1534,7 +1495,7 @@ Date
 ANDA
 ANDA091604
 06/08/2011
-RAMIPRIL 
+RAMIPRIL  
 ramipril capsule
 Product Information
 Product Type
@@ -1582,7 +1543,7 @@ Flavor
 Imprint Code
 D;08
 Contains
- 
+    
 Packaging
 #
 Item Code
@@ -1612,7 +1573,6 @@ Product
 Product
 06/08/2011
 
-[page 40]
 Aurobindo Pharma Limited
 5 NDC:65862-
 477-10

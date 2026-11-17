@@ -1,4 +1,3 @@
-[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 27 contre-indication
@@ -54,7 +53,6 @@ pellicule
 
 1/19
 
-[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -99,7 +97,6 @@ Aout 2026
 
 2/19
 
-[page 3]
 📊 CLARIDAR 250 en Algérie : équivalents, laboratoire, validité
 3 autres présentations enregistrées en Algérie ont la même substance active (CLARITHROMYCINE), le même dosage et la
 même forme que CLARIDAR 250 250MG, issues de 3 laboratoires dont 2 fabriquées localement. 17 autres produits
@@ -143,7 +140,6 @@ Pharma
 
 3/19
 
-[page 4]
 Anatomical Therapeutic Chemical - Classification OMS
 J
 anti-infectieux à usage
@@ -190,7 +186,6 @@ ANTISPASMODIQUES URINAIRES
 
 4/19
 
-[page 5]
 Risque de majoration des effets indésirables.
 - avec la darifénacine
 - avec la fésotérodine et la solifénacine, en cas
@@ -218,7 +213,6 @@ DAPOXÉTINE
 
 5/19
 
-[page 6]
 Risque de majoration des effets indésirables,
 notamment à type de vertiges ou de syncopes.
 DIHYDROERGOTAMINE
@@ -240,7 +234,6 @@ plasmatiques de l'éplérénone par l'inhibiteur et de
 
 6/19
 
-[page 7]
 ses effets indésirables, notamment l'hyperkaliémie.
 ERGOTAMINE
 Ergotisme avec possibilité de nécrose des
@@ -269,7 +262,6 @@ aux AMM specifiques à chacun d'eux.
 
 7/19
 
-[page 8]
 Substances de la classe (7)
 ISAVUCONAZOLE
 d'isavuconazole par diminution de son
@@ -288,7 +280,6 @@ NALOXEGOL
 
 8/19
 
-[page 9]
 du naloxegol par l'inhibiteur.
 OMBITASVIR + PARITAPRÉVIR
 de la bithérapie par diminution de son
@@ -309,7 +300,6 @@ SIMVASTATINE
 
 9/19
 
-[page 10]
 Risque majoré d'effets indésirables
 (concentration-dépendants) à type de
 rhabdomyolyse par diminution du métabolisme
@@ -336,7 +326,6 @@ de la fidaxomicine.
 
 10/19
 
-[page 11]
 IMMUNOSUPPRESSEURS
 sanguines de l'immunosuppresseur par inhibition
 de son métabolisme hépatique.
@@ -366,7 +355,6 @@ calciques. Surveillance clinique et adaptation
 
 11/19
 
-[page 12]
 posologique pendant le traitement par l'inhibiteur
 enzymatique et après son arrêt.
 Substances de la classe (20)
@@ -395,7 +383,6 @@ clinique et électrocardiographique régulier.
 
 12/19
 
-[page 13]
 GLASDÉGIB
 Risque de majoration des effets indésirables du
 glasdégib par diminution de son métabolisme.
@@ -429,7 +416,6 @@ plasmatiques de son métabolite actif.
 
 13/19
 
-[page 14]
 LUMEFANTRINE
 Risque majoré de troubles du rythme ventriculaire,
 notamment de torsades de pointes.
@@ -460,7 +446,6 @@ posologie de l'oxycodone pendant le traitement
 
 14/19
 
-[page 15]
 son métabolisme par l'inhibiteur.
 par l'inhibiteur et après son arrêt.
 QUININE
@@ -485,7 +470,6 @@ saignement.
 
 15/19
 
-[page 16]
 SILODOSINE
 Risque d'augmentation des effets indésirables de
 la silodosine par l'inhibiteur, notamment à type
@@ -508,7 +492,6 @@ ATAZANAVIR
 
 16/19
 
-[page 17]
 de clarithromycine et inhibition de la formation de
 son métabolite actif.
 Surveillance clinique et biologique régulière,
@@ -543,7 +526,6 @@ traitement par l'antibiotique.
 
 17/19
 
-[page 18]
 REPAGLINIDE
 Risque d'hypoglycémie par augmentation des
 concentrations plasmatiques du répaglinide.
@@ -574,7 +556,6 @@ ARICLARE, CLARIDAR 125, CLARIDAR 500, CLARITAL, CLARITHRO. La liste complète fi
 
 18/19
 
-[page 19]
 Demandez conseil à un pharmacien avant toute substitution.
 Quelle est la classe thérapeutique (ATC) de CLARIDAR 250 250MG ?
 Le code ATC associé à CLARITHROMYCINE est J01FA09 (clarithromycine).
