@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 DCI — DÉNOMINATION COMMUNE INTERNATIONALE
 KETOPROFENE
@@ -58,6 +59,7 @@ EVOFENID 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/450/evofenid-100mg-comprime-pellicule
 1/9
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -113,6 +115,7 @@ EVOFENID 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/450/evofenid-100mg-comprime-pellicule
 2/9
 
+[page 3]
 Enregistré depuis le 24 avril 2019 (il y a environ 7 ans). La validité indiquée a pris fin le 22 mai 2024 : vérifiez le
 renouvellement dans la nomenclature en vigueur.
 Selon la nomenclature (LISTE II / HOP), ce médicament est inscrit sur la liste II, délivré sur ordonnance et réservé à
@@ -176,6 +179,7 @@ EVOFENID 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/450/evofenid-100mg-comprime-pellicule
 3/9
 
+[page 4]
 ▲Association déconseillée
 8
 ACIDE ACETYLSALICYLIQUE
@@ -238,6 +242,7 @@ EVOFENID 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/450/evofenid-100mg-comprime-pellicule
 4/9
 
+[page 5]
 Substances de la classe (9)
 Source : ANSM
 via la classe ANTI-INFLAMMATOIRES NON STÉROÏDIENS
@@ -304,6 +309,7 @@ EVOFENID 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/450/evofenid-100mg-comprime-pellicule
 5/9
 
+[page 6]
 Médicaments contenant cette substance ›
 RISQUES
 Risque de majoration de la toxicité du
@@ -367,6 +373,7 @@ EVOFENID 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/450/evofenid-100mg-comprime-pellicule
 6/9
 
+[page 7]
 Insuffisance rénale aiguë chez le patient à risque
 (âgé, déshydraté, sous diurétiques, avec une
 fonction rénale altérée), par diminution de la
@@ -431,6 +438,7 @@ EVOFENID 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/450/evofenid-100mg-comprime-pellicule
 7/9
 
+[page 8]
 Source : ANSM. Textes de l'ANSM reproduits tels quels ; la substance du médicament est rapprochée automatiquement du
 thésaurus. Une erreur ? Écrivez-nous
 Allergies documentées
@@ -464,6 +472,7 @@ EVOFENID 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/450/evofenid-100mg-comprime-pellicule
 8/9
 
+[page 9]
 D'autres médicaments enregistrés en Algérie contiennent la même substance active (KETOPROFENE), par exemple :
 BIOPROFEN, FLEXEN, GEPROFEN, HARUFEN, K-PROFEN. La liste complète figure plus bas sur la page. Demandez
 conseil à un pharmacien avant toute substitution.

@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 AMLODIPINE SOUS FORME BESYLATE
@@ -53,6 +54,7 @@ fabrication
 
 1/7
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -101,6 +103,7 @@ Le laboratoire SPA JAMJOOM ALGERIA LIL DAWA compte 9 autres produits enregistré
 
 2/7
 
+[page 3]
 Enregistré depuis le 31 décembre 2007 (il y a environ 18 ans). La validité indiquée a pris fin le 23 juillet 2023 : vérifiez le
 renouvellement dans la nomenclature en vigueur.
 Selon la nomenclature (LISTE I / HOP), ce médicament est inscrit sur la liste I, délivré sur ordonnance et réservé à l'usage
@@ -154,6 +157,7 @@ Par gravité
 
 3/7
 
+[page 4]
 DANTROLENE
 Avec le dantrolène administré par perfusion : chez
 l'animal des cas de fibrillations ventriculaires
@@ -195,6 +199,7 @@ Substances de la classe (10)
 
 4/7
 
+[page 5]
 RIFAMPICINE
 Diminution des concentrations plasmatiques de
 l'antagoniste du calcium par augmentation de son
@@ -229,6 +234,7 @@ thésaurus. Une erreur ? Écrivez-nous
 
 5/7
 
+[page 6]
 ❓ Questions fréquentes
 Quelle est la substance active de AMLIBON 10MG ?
 La substance active de AMLIBON 10MG est AMLODIPINE SOUS FORME BESYLATE (DCI), selon la nomenclature nationale
@@ -258,5 +264,7 @@ boîte, ou demandez conseil à un médecin ou à un pharmacien.
 🔎 Voir la boîte (Google)
 
 6/7
+
+[page 7]
 
 7/7

@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 DCI — DÉNOMINATION COMMUNE INTERNATIONALE
 CEFIXIME TRIHYDRATE EXPRIME EN CEFIXIME ANHYDRE
@@ -27,6 +28,7 @@ BETIXIM 400 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/2948/betixim-400mg-gelule#meme-dci
 1/6
 
+[page 2]
 REPÈRES
 PPA
 Prix non disponible
@@ -91,6 +93,7 @@ BETIXIM 400 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/2948/betixim-400mg-gelule#meme-dci
 2/6
 
+[page 3]
 FABRICANT
 Laboratoire
 MIDDLE EAST
@@ -129,6 +132,7 @@ BETIXIM 400 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/2948/betixim-400mg-gelule#meme-dci
 3/6
 
+[page 4]
 Le laboratoire MIDDLE EAST PHARMACEUTICAL AND CHEMICAL INDUSTRIES,MEDICAL APPLIANCES CO compte 2
 autres produits enregistrés en Algérie. Voir le laboratoire →
 Enregistré depuis le 17 mai 2008 (il y a environ 18 ans). La validité indiquée a pris fin le 19 mars 2018 : vérifiez le
@@ -164,6 +168,7 @@ BETIXIM 400 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/2948/betixim-400mg-gelule#meme-dci
 4/6
 
+[page 5]
 Information, pas une contre-indication. Cette liste recense des allergies décrites ; elle ne remplace ni
 le RCP ni l'avis d'un médecin ou d'un pharmacien. L'absence d'une allergie ici ne signifie pas qu'il n'y a
 pas de risque. DwaDZ ne déduit aucune allergie croisée entre substances voisines.
@@ -201,6 +206,7 @@ BETIXIM 400 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/2948/betixim-400mg-gelule#meme-dci
 5/6
 
+[page 6]
 Existe-t-il des équivalents ou génériques de BETIXIM 400MG ?
 D'autres médicaments enregistrés en Algérie contiennent la même substance active (CEFIXIME TRIHYDRATE
 EXPRIME EN CEFIXIME ANHYDRE), par exemple : CEFIKEN, CEFIMAX, OROKAL, OROKEN. La liste complète figure

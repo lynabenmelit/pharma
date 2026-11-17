@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 2 contre-indication
@@ -57,6 +58,7 @@ pellicule secable
 w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 1/9
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -102,6 +104,7 @@ Aout 2026
 w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 2/9
 
+[page 3]
 📊 SPIRONOLONE en Algérie : équivalents, laboratoire, validité
 1 autre présentation enregistrée en Algérie a la même substance active (SPIRONOLACTONE MICRONISEE), le même dosage
 et la même forme que SPIRONOLONE 75MG, issue de 1 laboratoire.
@@ -136,6 +139,7 @@ Pharma
 w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 3/9
 
+[page 4]
 Information, pas une prescription. Ces interactions ne remplacent pas l'avis d'un médecin ou d'un
 pharmacien.
 Substances analysées :
@@ -173,6 +177,7 @@ Association déconseillée
 w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 4/9
 
+[page 5]
 Risque d'hyperkaliémie (potentiellement létale)
 surtout en cas d'insuffisance rénale (addition des
 Association déconseillée :
@@ -208,6 +213,7 @@ POTASSIUM
 w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 5/9
 
+[page 6]
 Pour une quantité de potassium > à 1
 mmol/prise, hyperkaliémie potentiellement
 létale, notamment chez l'insuffisant rénal
@@ -248,6 +254,7 @@ pendant l'association.
 w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 6/9
 
+[page 7]
 altérée), par diminution de la filtration
 glomérulaire secondaire à une diminution de la
 synthèse des prostaglandines rénales. Par ailleurs,
@@ -282,6 +289,7 @@ PRODUITS DE CONTRASTE IODÉS
 w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 7/9
 
+[page 8]
 En cas de déshydratation provoquée par les
 diurétiques, risque majoré d'insuffisance rénale
 fonctionnelle aiguë, en particulier lors
@@ -312,6 +320,7 @@ pharmacien avant toute substitution.
 w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 8/9
 
+[page 9]
 Quelle est la classe thérapeutique (ATC) de SPIRONOLONE 75MG ?
 Le code ATC associé à SPIRONOLACTONE MICRONISEE est C03DA01 (spironolactone).
 SPIRONOLONE 75MG nécessite-t-il une ordonnance ?

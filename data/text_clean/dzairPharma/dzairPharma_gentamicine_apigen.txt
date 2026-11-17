@@ -1,0 +1,31 @@
+[sheet: gentamicine_apigen]
+Section Champ Valeur
+Interactions médicamenteuses Contre-indication 2
+Interactions médicamenteuses Déconseillée 2
+Interactions médicamenteuses Précaution 3
+Interactions médicamenteuses À prendre en compte 4
+Identification DCI (Substance active) GENTAMICINE**
+Identification Nom de marque APIGEN
+Identification N° d'enregistrement 165/17 D 020/98
+Identification Code produit 17 D 020
+Identification Code ATC D06AX07 - gentamicine
+Identification Type de produit GÉNÉRIQUE
+Identification Origine de fabrication IMPORTÉ
+Conditionnement Forme pharmaceutique COLLYRE EN SOLUTION (EDQM 10004000)
+Conditionnement Voie d'administration Voie ophtalmique (EDQM 20051000)
+Conditionnement Méthode d'administration Instillation (EDQM 0013)
+Conditionnement Dosage 3MG/ML (UCUM mg / UCUM mL)
+Conditionnement Conditionnement FL/10 ML
+Conditionnement Liste LISTE I
+Conditionnement Prescription HOP
+Fabricant Laboratoire AMMAN PHARMACEUTICAL INDUSTRIE
+Fabricant Pays d'origine JO JORDANIE
+Dates & enregistrement Date d'enregistrement 1998 10 07
+Dates & enregistrement Date de fin de validité 1998 10 07
+Dates & enregistrement Année de nomenclature 2026
+Dates & enregistrement Version source 2026-08-01 00:00:00
+Repères PPA Prix non disponible
+Repères DCI GENTAMICINE**
+Repères Prescription HOP
+Repères Forme / Dosage COLLYRE EN SOLUTION - 3MG/ML
+Repères Origine JO Importé

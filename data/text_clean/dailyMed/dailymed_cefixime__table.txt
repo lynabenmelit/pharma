@@ -1,3 +1,4 @@
+[page 1]
 CEFIXIME- cefixime tablet
 ----------
 HIGHLIGHTS OF PRESCRIBING INFORMATION
@@ -47,6 +48,7 @@ adjustment is required in patients whose creatinine clearance is less than 60 mL
 See 17 for PATIENT COUNSELING INFORMATION.
 Revised: 4/2026
 
+[page 2]
 FULL PRESCRIBING INFORMATION: CONTENTS*
 1 INDICATIONS AND USAGE
 1.1 Uncomplicated Urinary Tract Infections
@@ -93,6 +95,7 @@ FULL PRESCRIBING INFORMATION: CONTENTS*
 17.1 Information for Patients
 * Sections or subsections omitted from the full prescribing information are not listed.
 
+[page 3]
 FULL PRESCRIBING INFORMATION
 1 INDICATIONS AND USAGE
 1.1 Uncomplicated Urinary Tract Infections
@@ -127,6 +130,7 @@ therapy.
 2 DOSAGE AND ADMINISTRATION
 2.1 Adults
 
+[page 4]
 The recommended dose of cefixime is 400 mg daily. This may be given as a 400 mg
 tablet daily or the 400 mg tablet may be split and given as one half tablet every 12
 hours. For the treatment of uncomplicated cervical/urethral gonococcal infections, a
@@ -169,6 +173,7 @@ plain. These tablets provide 400mg of cefixime as trihydrate.
 Cefixime is contraindicated in patients with known allergy to cefixime or other
 cephalosporins.
 
+[page 5]
 5 WARNINGS AND PRECAUTIONS
 5.1 Hypersensitivity Reactions
 Anaphylactic/anaphylactoid reactions (including shock and fatalities) have been reported
@@ -211,6 +216,7 @@ Prescribing cefixime in the absence of a proven or strongly suspected bacterial 
 is unlikely to provide benefit to the patient and increases the risk of the development of
 drug-resistant bacteria.
 
+[page 6]
 6 ADVERSE REACTIONS
 6.1 Clinical Trials Experience
 Because clinical trials are conducted under widely varying conditions, adverse reaction
@@ -247,6 +253,7 @@ Other Adverse Reactions
 Genital pruritus, vaginitis, candidiasis, toxic epidermal necrolysis.
 Adverse Reactions Reported for Cephalosporin-class Drugs
 
+[page 7]
 Allergic reactions, superinfection, renal dysfunction, toxic nephropathy, hepatic
 dysfunction including cholestasis, aplastic anemia, hemolytic anemia, hemorrhage, and
 colitis.
@@ -288,6 +295,7 @@ recommended dose and have revealed no evidence of harm to the fetus due to cefix
 (see Data).
 The estimated background risk of major birth defects and miscarriage for the indicated
 
+[page 8]
 g
 j
 g
@@ -336,6 +344,7 @@ C-cefixime from days 10 to 14 postpartum
 resulted in steady state plasma concentrations of radioactivity in the dams that were 70
 14
 
+[page 9]
 times greater than in their nursing pups.
 After 102 hours of drug infusion, total radioactivity in the body of the pups, including the
 stomach and intestinal contents, was 1.5% of the
@@ -378,6 +387,7 @@ The structural formula for cefixime is:
 5
 7 2
 
+[page 10]
 Cefixime is available for oral administration as 400 mg film coated tablets. Inactive
 ingredients contained in the cefixime tablets, USP 400 mg are: dibasic calcium
 phosphate, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline
@@ -413,6 +423,7 @@ or urine after dosing for 14 days. Adequate data on CSF levels of cefixime are n
 available.
 max
 
+[page 11]
 Metabolism and Excretion
 There is no evidence of metabolism of cefixime in vivo. Approximately 50% of the
 absorbed dose is excreted unchanged in the urine in 24 hours. In animal studies, it was
@@ -474,6 +485,7 @@ max
 1/2
 ave
 
+[page 12]
 lactamases (ESBLs). Pseudomonas species, Enterococcus species, strains of Group D
 streptococci, Listeria monocytogenes, most strains of staphylococci (including
 methicillin-resistant strains), most strains of Enterobacter species, most strains of
@@ -510,6 +522,7 @@ Salmonella species
 Serratia marcescens
 Shigella species
 
+[page 13]
 Susceptibility Testing
 For specific information regarding susceptibility test interpretive criteria and associated
 test methods and quality control standards recognized by FDA for this drug, please see:
@@ -547,6 +560,7 @@ therapy may: (1) decrease the effectiveness of the immediate treatment and (2)
 increase the likelihood that bacteria will develop resistance and will not be treatable by
 cefixime or other antibacterial drugs in the future.
 
+[page 14]
 Diarrhea
 Advise patients that diarrhea is a common problem caused by antibacterial drugs which
 usually ends when the antibacterial drug is discontinued. Sometimes after starting
@@ -573,6 +587,7 @@ NDC:64980-430
 Route of Administration
 ORAL
 
+[page 15]
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of Strength
@@ -645,5 +660,7 @@ Business Operations
 FDC Limited
 650651164
 ANALYSIS(64980-430) , MANUFACTURE(64980-430)
+
+[page 16]
 
 Revised: 4/2026

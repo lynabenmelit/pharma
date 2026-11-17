@@ -89,7 +89,7 @@ def load_provenance(path: Path):
             r = {(k or "").strip().lower(): (v or "").strip() for k, v in r.items()}
             for k, v in r.items():
                 if v and any(w in k for w in ("path", "file", "local", "text", "raw")):
-                    out[Path(v.replace("\\", "/")).stem] = r
+                    out[Path(v.replace("\\", "/")).stem.casefold()] = r
     return out
 
 
@@ -111,7 +111,7 @@ def run(text_dir=config.TEXT, out_dir=config.TEXT_CLEAN, provenance=config.PROVE
     for p in sorted(text_dir.rglob("*.txt")):
         rel = p.relative_to(text_dir)
         folder = rel.parts[0].lower() if len(rel.parts) > 1 else "unknown"
-        m = prov.get(p.stem, {})
+        m = prov.get(p.stem.casefold(), {})
         source = folder
         if source == "unknown":
             source = pick(m, "source").lower().replace("-", "") or source
