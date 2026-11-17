@@ -1,11 +1,11 @@
+[page 1]
 THESAURUS
 DES INTERACTIONS MÉDICAMENTEUSES 
 SEPTEMBRE 2023
 
+[page 2]
+143/147 boulevard Anatole France - F-93285 Saint-Denis Cedex - Tél.: +33 (0)1 55 87 30 00 - www.ansm.sante.fr 
  
- 
- 143/147 boulevard Anatole France - F-93285 Saint-Denis Cedex - Tél.: +33 (0)1 55 87 30 00 - www.ansm.sante.fr 
-       
  
  
  
@@ -19,21 +19,21 @@ INTERACTIONS MEDICAMENTEUSES
  
 Informations générales 
  
-■  Le présent document recense les interactions nouvellement intégrées dans cette version du 
-Thesaurus, ainsi que les modifications intervenues depuis l’édition précédente.  
+■ Le présent document recense les interactions nouvellement intégrées dans cette version du 
+Thesaurus, ainsi que les modifications intervenues depuis l’édition précédente. 
  
 Si un principe actif n’a pas d’interactions dans le Thesaurus, cela peut s’expliquer par : 
 - l’absence de données évocatrices (y compris pour une commercialisation ancienne), 
 - des données insuffisamment documentées pour un risque potentiel mineur, 
 - des études cliniques négatives avec un niveau de preuve satisfaisant, 
-- des résultats in vitro sans investigations ultérieures in vivo,  
+- des résultats in vitro sans investigations ultérieures in vivo, 
 - des interactions jugées non cliniquement significatives. 
  
 L’information exhaustive sur les interactions médicamenteuses d’un médicament repose sur la 
 consultation du RCP de la spécialité correspondante, en sus de la consultation du Thesaurus. 
  
  
-■  Pour les excipients pouvant aussi être qualifiés de substance active, le risque d’interaction n’est à 
+■ Pour les excipients pouvant aussi être qualifiés de substance active, le risque d’interaction n’est à 
 prendre en compte que si l’apport dépasse une dose-seuil justifiant d’une mention spéciale dans le 
 résumé des caractéristiques du produit, telle que prévue dans la classe des excipients à effet notoire 
 (https://www.ema.europa.eu/en/annex-european-commission-guideline-excipients-labelling-package-
@@ -41,15 +41,14 @@ leaflet-medicinal-products-human).
  
 ■ Les voies locales ne sont pas concernées par les interactions des voies systémiques, sauf dans les 
 cas suivants : 
--   miconazole et éconazole, toutes formes et voies  
--   bêta-bloquants, pilocarpine en collyre 
--  eskétamine, desmopressine, éphédrine, dihydroergotamine, fentanyl, sumatriptan, vaccin anti-grippal 
-par voie nasale  
--   spermicides vaginaux 
--   antiseptiques iodés et mercuriels 
- 
- 
+- miconazole et éconazole, toutes formes et voies 
+- bêta-bloquants, pilocarpine en collyre 
+- eskétamine, desmopressine, éphédrine, dihydroergotamine, fentanyl, sumatriptan, vaccin anti-grippal 
+par voie nasale 
+- spermicides vaginaux 
+- antiseptiques iodés et mercuriels
 
+[page 3]
 2
 ABATACEPT
 + ANTI-TNF ALPHA
@@ -124,6 +123,7 @@ Surveillance clinique et biologique régulière.
 Augmentation de l'hyperammoniémie, avec risque accru 
 d'encéphalopathie.
 
+[page 4]
 3
 ACIDE ACETOHYDROXAMIQUE
 + FER
@@ -215,6 +215,7 @@ glomérulaire secondaire à une diminution de la synthèse des
 prostaglandines rénales. Par ailleurs, réduction de l'effet 
 antihypertenseur.
 
+[page 5]
 4
 + GLUCOCORTICOÏDES (SAUF HYDROCORTISONE)
 ASDEC - APEC
@@ -252,7 +253,7 @@ Précaution d'emploi
 Hydrater le malade et surveiller la fonction rénale en début de traitement 
 et régulièrement pendant l’association.
 Pour des doses anti-inflammatoires d'acide acétylsalicylique (>= 1g 
-par prise et/ou >=  3g par jour) ou pour des doses antalgiques ou 
+par prise et/ou >= 3g par jour) ou pour des doses antalgiques ou 
 antipyrétiques (>= 500 mg par prise et/ou < 3g par jour) : 
 Insuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, 
 sous diurétiques, avec une fonction rénale altérée), par diminution 
@@ -297,6 +298,7 @@ Association DECONSEILLEE
 Diminution de l’effet uricosurique par compétition de l’élimination de 
 l’acide urique au niveau des tubules rénaux.
 
+[page 6]
 5
 + TICAGRELOR
 ASDEC - PE
@@ -369,6 +371,7 @@ A prendre en compte
 Risque de prurit, de rougeur et de chaleur, lié à une potentialisation 
 de l'effet vasodilatateur.
 
+[page 7]
 6
 ACIDE URSODESOXYCHOLIQUE
 + CICLOSPORINE
@@ -381,7 +384,7 @@ CONTRE-INDICATION
 Chez la femme en âge de procréer, risque de transformation de 
 l’acitrétine en étrétinate, puissant tératogène dont la demi-vie très 
 prolongée (120 jours) expose à un risque tératogène majeur en cas 
-de grossesse,  pendant le traitement et les 2 mois suivant son arrêt.
+de grossesse, pendant le traitement et les 2 mois suivant son arrêt.
 + METHOTREXATE
 CONTRE-INDICATION
 Risque de majoration de l'hépatotoxicité du méthotrexate.
@@ -429,7 +432,7 @@ augmentation de son absorption par la ciclosporine.
 + ERYTHROMYCINE
 Précaution d'emploi
 Il est recommandé d’administrer l'érythromycine le plus à distance 
-possible de l’afatinib, en respectant  de préférence un intervalle
+possible de l’afatinib, en respectant de préférence un intervalle
  de 6 heures ou de 12 heures par rapport à la prise d’afatinib.
 Augmentation des concentrations plasmatique d’afatinib par 
 augmentation de son absorption par l'érythromycine.
@@ -442,11 +445,12 @@ augmentation de son métabolisme par ces substances.
 + INHIBITEURS DE PROTÉASES BOOSTÉS PAR RITONAVIR
 Précaution d'emploi
 Il est recommandé d’administrer l'inhibiteur de protéases le plus à 
-distance possible de l’afatinib, en respectant  de préférence un 
+distance possible de l’afatinib, en respectant de préférence un 
 intervalle de 6 heures ou de 12 heures par rapport à la prise d’afatinib.
 Augmentation des concentrations plasmatiques d’afatinib par 
 augmentation de son absorption par l'inhibiteur de protéases.
 
+[page 8]
 7
 + ITRACONAZOLE
 Précaution d'emploi
@@ -535,6 +539,7 @@ Augmentation des concentrations plasmatiques de la quinidine et
 risque de surdosage (diminution de l'excrétion rénale de la 
 quinidine par alcalinisation des urines).
 
+[page 9]
 8
 ALCALOÏDES DE L'ERGOT DE SEIGLE DOPAMINERGIQUES
 (bromocriptine, cabergoline, lisuride)
@@ -594,13 +599,14 @@ A prendre en compte
 Risque de prurit, de rougeur et de chaleur, lié à une potentialisation 
 de l'effet vasodilatateur.
 
+[page 10]
 9
 + ACITRETINE
 CONTRE-INDICATION
 Chez la femme en âge de procréer, risque de transformation de 
 l’acitrétine en étrétinate, puissant tératogène dont la demi-vie très 
 prolongée (120 jours) expose à un risque tératogène majeur en cas 
-de grossesse,  pendant le traitement et les 2 mois suivant son arrêt.
+de grossesse, pendant le traitement et les 2 mois suivant son arrêt.
 + ANTABUSE (RÉACTION)
 Association DECONSEILLEE
 Eviter la prise de boissons alcoolisées et de médicaments contenant de 
@@ -683,6 +689,7 @@ opiacé en cas de traitement par un inhibiteur puissant du CYP3A4.
 Augmentation de l'effet dépresseur respiratoire de l'analgésique 
 opiacé par diminution de son métabolisme hépatique.
 
+[page 11]
 10
 ALFUZOSINE
 Voir aussi : alphabloquants à visée urologique - médicaments à l'origine d'une hypotension orthostatique
@@ -748,6 +755,7 @@ naturels (jus d'agrumes).
 Risque de facilitation du passage systémique de l’aluminium, 
 notamment en cas de fonction rénale altérée.
 
+[page 12]
 11
 AMBRISENTAN
 + CICLOSPORINE
@@ -815,6 +823,7 @@ Augmentation de la créatininémie plus importante que sous
 tacrolimus seul (synergie des effets néphrotoxiques des deux 
 substances).
 
+[page 13]
 12
 AMIODARONE
 Voir aussi : antiarythmiques - bradycardisants - substances susceptibles de donner des torsades de pointes - torsadogènes (sauf arsénieux, antiparasitaires, 
@@ -901,6 +910,7 @@ Surveillance clinique, particulièrement aux fortes doses de fluconazole
 (800 mg/j).
 Risque d’allongement de l’intervalle QT.
 
+[page 14]
 13
 + IBRUTINIB
 Association DECONSEILLEE
@@ -990,6 +1000,7 @@ cas échéant.
 Risque de majoration des effets indésirables de la tamsulosine, par 
 inhibition de son métabolisme hépatique.
 
+[page 15]
 14
 + TOLVAPTAN
 Précaution d'emploi
@@ -1070,6 +1081,7 @@ l'association.
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
 
+[page 16]
 15
 ANAKINRA
 + ANTI-TNF ALPHA
@@ -1137,6 +1149,7 @@ Risque d'hypoglycémie ou d'hyperglycémie : diminution ou
 augmentation des besoins en repaglidine, par diminution ou 
 augmentation de la sécrétion de glucagon endogène.
 
+[page 17]
 16
 + SULFAMIDES HYPOGLYCÉMIANTS
 Précaution d'emploi
@@ -1224,6 +1237,7 @@ Majoration des effets indésirables de l’antagoniste des canaux
 calciques, à type d’hypotension orthostatique, notamment chez le 
 sujet âgé.
 
+[page 18]
 17
 + INDUCTEURS ENZYMATIQUES PUISSANTS
 ASDEC - PE
@@ -1318,6 +1332,7 @@ de dégradation de la fonction rénale, voire insuffisance rénale
 aiguë, et majoration de l'hyperkaliémie, ainsi que de l'hypotension 
 et des syncopes.
 
+[page 19]
 18
 + LITHIUM
 Association DECONSEILLEE
@@ -1375,6 +1390,7 @@ Augmentation du risque hémorragique.
 A prendre en compte
 Augmentation du risque hémorragique.
 
+[page 20]
 19
 ANTIARYTHMIQUES
 De nombreux antiarythmiques sont dépresseurs de l’automatisme, de la conduction et de la contractilité cardiaques.
@@ -1451,6 +1467,7 @@ Penser à informer le patient.
 Risque de majoration des événements hémorragiques lors du 
 relais d'un anticoagulant oral par un autre.
 
+[page 21]
 20
 + ACIDE ACETYLSALICYLIQUE
 CI - ASDEC - APEC
@@ -1528,6 +1545,7 @@ Augmentation du risque d'hémorragies digestives.
 A prendre en compte
 Augmentation du risque hémorragique.
 
+[page 22]
 21
 + THROMBOLYTIQUES
 A prendre en compte
@@ -1553,7 +1571,7 @@ ASDEC - APEC
 Association déconseillée avec :
 - anifrolumab, atézolizumab, bélimumab, bimékizumab, blinatumomab, 
 canakinumab, durvalumab, guselkumab, inébilizumab, inotuzumab, 
-ixékizumab, obinutuzumab, ocrélizumab, ofatumumab, rituximab,  
+ixékizumab, obinutuzumab, ocrélizumab, ofatumumab, rituximab, 
 sacituzumab, spésolimab, tafasitamab, tézépelumab, tocilizumab, 
 ustékinumab 
 A prendre en compte avec :
@@ -1594,6 +1612,7 @@ Hypertension paroxystique avec possibilité de troubles du rythme
 (inhibition de l'entrée du sympathomimétique dans la fibre 
 sympathique).
 
+[page 23]
 22
 ANTIHYPERTENSEURS ALPHA-BLOQUANTS
 (doxazosine, prazosine, urapidil)
@@ -1659,6 +1678,7 @@ A prendre en compte
 Majoration de l'effet hypotenseur. Risque majoré d'hypotension 
 orthostatique.
 
+[page 24]
 23
 ANTI-INFLAMMATOIRES NON STÉROÏDIENS
 (aceclofenac, acide mefenamique, acide niflumique, acide tiaprofenique, alminoprofene, celecoxib, dexketoprofene trometamol, diclofenac, etodolac, étoricoxib, 
@@ -1738,6 +1758,7 @@ Si l'association ne peut être évitée, surveillance clinique étroite.
 Augmentation du risque hémorragique (agression de la muqueuse 
 gastroduodénale par les anti-inflammatoires non stéroïdiens).
 
+[page 25]
 24
 + HÉPARINES (DOSES PRÉVENTIVES)
 A prendre en compte
@@ -1813,6 +1834,7 @@ Risque de majoration de la néphrotoxicité du ténofovir, notamment
 avec des doses élevées de l'anti-inflammatoire ou en présence de 
 facteurs de risque d'insuffisance rénale.
 
+[page 26]
 25
 ANTIPARASITAIRES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES
 (chloroquine, halofantrine, lumefantrine, pentamidine, pipéraquine)
@@ -1886,6 +1908,7 @@ A prendre en compte
 Risque de diminution de la biodisponibilité de l’inhibiteur de tyrosine 
 kinases, en raison de son absorption pH-dépendante.
 
+[page 27]
 26
 + ITRACONAZOLE
 A prendre en compte
@@ -1935,7 +1958,7 @@ Diminution probable de l'absorption des hormones thyroïdiennes,
 par augmentation du pH intra-gastrique par l'antisécrétoire.
 + INHIBITEURS DE TYROSINE KINASES MÉTABOLISÉS
 A prendre en compte
-  - sauf avec l'entrectinib, le fédratinib, l'imatinib, le tucatinib et le 
+ - sauf avec l'entrectinib, le fédratinib, l'imatinib, le tucatinib et le 
 vandétanib
 Risque de diminution de la biodisponibilité de l’inhibiteur de tyrosine 
 kinases, en raison de son absorption pH-dépendante.
@@ -1949,7 +1972,7 @@ Diminution de l'absorption de l'azolé antifongique, par augmentation
 du pH intragastrique par l'antisécrétoire.
 + LÉDIPASVIR
 Précaution d'emploi
-Il est recommandé de prendre l'’inhibiteur de la pompe à protons  et le 
+Il est recommandé de prendre l'’inhibiteur de la pompe à protons et le 
 lédipasvir simultanément.
 Diminution des concentrations du lédipasvir en cas d’administration 
 de l’inhibiteur de la pompe à protons avant le lédipasvir.
@@ -1962,6 +1985,7 @@ A prendre en compte :
 Risque d’augmentation de la toxicité du méthotrexate par 
 diminution de son élimination.
 
+[page 28]
 27
 + MILLEPERTUIS
 A prendre en compte
@@ -2030,6 +2054,7 @@ ANTI-TNF ALPHA
 Association DECONSEILLEE
 Majoration de l’immunodépression.
 
+[page 29]
 28
 + ANAKINRA
 Association DECONSEILLEE
@@ -2071,7 +2096,7 @@ ANTIVITAMINES K
 ANTI-INFECTIEUX ET HEMOSTASE
 De nombreux cas d’augmentation de l’activité des antivitamines K ont été rapportés chez des patients recevant des antibiotiques. Le contexte infectieux ou 
 inflammatoire marqué, l’âge et l’état général du patient apparaissent comme des facteurs de risque. Dans ces circonstances, il apparaît difficile de faire la part entre la 
-pathologie infectieuse et son traitement  dans la survenue du déséquilibre de l’INR. Cependant, certaines classes d’antibiotiques sont davantage impliquées : il s’agit 
+pathologie infectieuse et son traitement dans la survenue du déséquilibre de l’INR. Cependant, certaines classes d’antibiotiques sont davantage impliquées : il s’agit 
 notamment des fluoroquinolones, des macrolides, des cyclines, du cotrimoxazole et de certaines céphalosporines, qui imposent, dans ces conditions, de renforcer la 
 surveillance de l'INR. Certaines céphalosporines (céfamandole, ceftriaxone, céfazoline), la clindamycine, semblent interagir au niveau de l’hémostase avec apparition 
 d’anticorps anti facteur V. Enfin, la tigécycline et le danazol possèdent une action fibrinolytique propre. 
@@ -2100,6 +2125,7 @@ l’antivitamine K pendant le traitement par l'androgène et après son arrêt.
 Augmentation du risque hémorragique par effet direct sur la 
 coagulation et/ou les systèmes fibrinolytiques.
 
+[page 30]
 29
 + ANTIPURINES
 Précaution d'emploi
@@ -2189,6 +2215,7 @@ son arrêt.
 Augmentation de l'effet de l'antivitamine K et du risque 
 hémorragique.
 
+[page 31]
 30
 + ECONAZOLE
 Précaution d'emploi
@@ -2282,6 +2309,7 @@ hémorragique.
 CONTRE-INDICATION
 Hémorragies imprévisibles, éventuellement graves.
 
+[page 32]
 31
 + MILLEPERTUIS
 CONTRE-INDICATION
@@ -2376,6 +2404,7 @@ après son arrêt.
 Augmentation de l'effet de l'antivitamine K et du risque 
 hémorragique par diminution de son métabolisme hépatique.
 
+[page 33]
 32
 APALUTAMIDE
 Voir aussi : inducteurs enzymatiques - inducteurs enzymatiques puissants - médicaments à l'origine d'un hypogonadisme masculin
@@ -2447,6 +2476,7 @@ Association DECONSEILLEE
 Diminution des concentrations plasmatiques de l’apixaban par la 
 rifampicine, avec risque de diminution de l’effet thérapeutique.
 
+[page 34]
 33
 APOMORPHINE
 Voir aussi : antiparkinsoniens dopaminergiques - dopaminergiques - médicaments à l'origine d'une hypotension orthostatique
@@ -2519,6 +2549,7 @@ Risque de moindre efficacité, notamment de l’aripiprazole, suite à
 l’antagonisme des récepteurs dopaminergiques par le 
 neuroleptique.
 
+[page 35]
 34
 ARSENIEUX
 Voir aussi : substances susceptibles de donner des torsades de pointes
@@ -2589,6 +2620,7 @@ notamment en début d’association.
 Risque de baisse de l’efficacité de l’atazanavir par augmentation de 
 son métabolisme hépatique.
 
+[page 36]
 35
 + POSACONAZOLE
 A prendre en compte
@@ -2682,6 +2714,7 @@ CONTRE-INDICATION
 Augmentation des concentrations plasmatiques de l'atorvastatine 
 par diminution de son métabolisme hépatique par la bithérapie.
 
+[page 37]
 36
 + PAMPLEMOUSSE (JUS ET FRUIT)
 A prendre en compte
@@ -2692,7 +2725,7 @@ musculaires.
 Précaution d'emploi
 Surveillance clinique et biologique étroite pendant l’association.
 Risque d’augmentation des concentrations plasmatiques de 
-l'atrovastatine par augmentation de son absorption intestinale  par 
+l'atrovastatine par augmentation de son absorption intestinale par 
 le ponatinib.
 + POSACONAZOLE
 CONTRE-INDICATION
@@ -2760,6 +2793,7 @@ Association DECONSEILLEE
 Augmentation des concentrations plasmatiques de l'avanafil, avec 
 risque d’hypotension.
 
+[page 38]
 37
 AZITHROMYCINE
 Voir aussi : macrolides (sauf spiramycine)
@@ -2843,6 +2877,7 @@ Association DECONSEILLEE
 Diminution des concentrations plasmatiques de bédaquiline par 
 augmentation de son métabolisme par l’inducteur.
 
+[page 39]
 38
 + INHIBITEURS PUISSANTS DU CYP3A4
 Association DECONSEILLEE
@@ -2912,6 +2947,7 @@ Surveillance clinique et ECG.
 Troubles de l'automatisme et de la conduction (suppression des 
 mécanismes sympathiques compensateurs).
 
+[page 40]
 39
 BÊTA-BLOQUANTS (SAUF ESMOLOL) (Y COMPRIS COLLYRES)
 (acebutolol, atenolol, betaxolol, bisoprolol, carteolol, celiprolol, labetalol, levobunolol, metoprolol, nadolol, nebivolol, pindolol, propranolol, sotalol, tertatolol, timolol)
@@ -2999,9 +3035,10 @@ Troubles de l'automatisme (bradycardie excessive, arrêt sinusal),
 trouble de la conduction sino-auriculaire et auriculo-ventriculaire et 
 défaillance cardiaque.
 
+[page 41]
 40
 BÊTA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE
-A l’heure actuelle, 4 bêta-bloquants ont l'indication "insuffisance cardiaque" : le carvédilol, le bisoprolol,  le métoprolol et le névibolol.
+A l’heure actuelle, 4 bêta-bloquants ont l'indication "insuffisance cardiaque" : le carvédilol, le bisoprolol, le métoprolol et le névibolol.
 Les interactions médicamenteuses des bêta-bloquants, lorsqu’ils sont prescrits dans l’insuffisance cardiaque, peuvent avoir des conséquences cliniques plus sévères 
 que celles rencontrées lors de leur prescription dans d’autres indications. Ainsi, certaines associations médicamenteuses, couramment réalisées dans les indications 
 classiques des bêta-bloquants, doivent être reconsidérées à la lumière de cette indication très particulière, avec un niveau de recommandation souvent plus 
@@ -3077,6 +3114,7 @@ A prendre en compte
 Effet vasodilatateur et risque d'hypotension, notamment 
 orthostatique (effet additif).
 
+[page 42]
 41
 + SUBSTANCES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES
 Précaution d'emploi
@@ -3152,6 +3190,7 @@ CONTRE-INDICATION
  
 Risque de majoration de la toxicité pulmonaire.
 
+[page 43]
 42
 BORTEZOMIB
 Voir aussi : cytotoxiques - substrats à risque du CYP3A4
@@ -3234,6 +3273,7 @@ Risque d'augmentation des effets de la toxine botulique avec les
 aminosides (par extrapolation à partir des effets observés au cours 
 du botulisme).
 
+[page 44]
 43
 BRADYCARDISANTS
 De nombreux médicaments peuvent entraîner une bradycardie. C'est le cas notamment des antiarythmiques de classe Ia, des bêta-bloquants, de certains 
@@ -3316,6 +3356,7 @@ Augmentation des concentrations de buprénorphine par diminution
 de son métabolisme hépatique, avec risque de majoration de ses 
 effets indésirables.
 
+[page 45]
 44
 BUPROPION
 Voir aussi : médicaments abaissant le seuil épileptogène - médicaments à l'origine d'un syndrome sérotoninergique - sympathomimétiques indirects
@@ -3391,6 +3432,7 @@ Augmentation des concentrations plasmatiques de la buspirone par
 diminution de son métabolisme hépatique par le diltiazem, avec 
 augmentation de ses effets indésirables.
 
+[page 46]
 45
 + ERYTHROMYCINE
 Association DECONSEILLEE
@@ -3457,6 +3499,7 @@ Risque de majoration des effets indésirables dose-dépendants du
 cabazitaxel par inhibition de son métabolisme par l’inhibiteur 
 enzymatique.
 
+[page 47]
 46
 CABOTEGRAVIR
 Voir aussi : inhibiteurs d'intégrase
@@ -3468,7 +3511,7 @@ le phénobarbital
 A prendre en compte :
 - avec les autres inducteurs
 Diminution importante des concentrations de cabotégravir avec la 
-rifampicine,  avec risque de réduction de la réponse virologique.
+rifampicine, avec risque de réduction de la réponse virologique.
 CAFEINE
 + CIPROFLOXACINE
 A prendre en compte
@@ -3531,6 +3574,7 @@ Prendre les sels de calcium à distance des cyclines (plus de deux
 heures, si possible).
 Diminution de l'absorption digestive des cyclines.
 
+[page 48]
 47
 + DIGOXINE
 CI - PE
@@ -3603,6 +3647,7 @@ CONTRE-INDICATION
 Diminution des concentrations plasmatiques de cannabidiol avec 
 risque de perte d’efficacité.
 
+[page 49]
 48
 + RIFAMPICINE
 Association DECONSEILLEE
@@ -3691,6 +3736,7 @@ sérotoninergique et après son arrêt.
 Augmentation des concentrations plasmatiques de carbamazépine 
 avec signes de surdosage.
 
+[page 50]
 49
 + FLUVOXAMINE
 Précaution d'emploi
@@ -3782,6 +3828,7 @@ Risque de diminution de la fraction active de la rispéridone et de
 son efficacité thérapeutique par augmentation de son métabolisme 
 hépatique par la carbamazépine.
 
+[page 51]
 50
 + SIMVASTATINE
 Association DECONSEILLEE
@@ -3869,6 +3916,7 @@ son arrêt.
 Augmentation de l'effet de l'antivitamine K et du risque 
 hémorragique.
 
+[page 52]
 51
 CEFTRIAXONE
 + ANTIVITAMINES K
@@ -3947,6 +3995,7 @@ A prendre en compte
 Doublement des concentrations d’ambrisentan, avec majoration de 
 l’effet vasodilatateur (céphalées).
 
+[page 53]
 52
 + AMINOSIDES
 A prendre en compte
@@ -4034,6 +4083,7 @@ après son arrêt.
 Augmentation des concentrations sanguines de ciclosporine par 
 inhibition de son métabolisme hépatique.
 
+[page 54]
 53
 + DIURÉTIQUES ÉPARGNEURS DE POTASSIUM (SEULS OU ASSOCIÉS)
 Association DECONSEILLEE
@@ -4075,7 +4125,7 @@ Augmentation des concentrations plasmatiques de la fidaxomicine.
 + FLUVASTATINE
 Précaution d'emploi
 Surveillance clinique et biologique pendant l’association.
-Augmentation modérée des concentrations de fluvastatine, avec  
+Augmentation modérée des concentrations de fluvastatine, avec 
 risque musculaire non exclu.
 + GRAZOPREVIR + ELBASVIR
 CONTRE-INDICATION
@@ -4117,6 +4167,7 @@ après l'arrêt du macrolide.
 Risque d'augmentation des concentrations sanguines de 
 ciclosporine et de la créatininémie.
 
+[page 55]
 54
 + MIFAMURTIDE
 CONTRE-INDICATION
@@ -4192,6 +4243,7 @@ Risque majoré d'effets indésirables (concentration-dépendants) à
 type de rhabdomyolyse par diminution du métabolisme de la 
 simvastatine.
 
+[page 56]
 55
 + SIROLIMUS
 Précaution d'emploi
@@ -4285,6 +4337,7 @@ Avec la cimétidine utilisée à des doses supérieures ou égales à
 800 mg/j : toxicité médullaire accrue (inhibition du métabolisme de 
 la carmustine).
 
+[page 57]
 56
 + CARVEDILOL
 CONTRE-INDICATION
@@ -4385,6 +4438,7 @@ Association DECONSEILLEE
 Risque d’inefficacité de l’opiacé par inhibition de son métabolisme 
 par l’inhibiteur.
 
+[page 58]
 57
 + DEXTROMETHORPHANE
 CONTRE-INDICATION
@@ -4462,6 +4516,7 @@ Augmentation des concentrations de ropinirole avec risque de
 surdosage, par diminution de son métabolisme hépatique par la 
 ciprofloxacine.
 
+[page 59]
 58
 + SUBSTANCES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES
 Précaution d'emploi
@@ -4547,6 +4602,7 @@ l'antibiotique.
 Augmentation de la concentration plasmatique de la pravastatine 
 par la clarithromycine.
 
+[page 60]
 59
 + REPAGLINIDE
 Précaution d'emploi
@@ -4627,6 +4683,7 @@ Augmentation des concentrations plasmatiques de ces
 anticonvulsivants, avec risque de surdosage, par inhibition de leur 
 métabolisme hépatique.
 
+[page 61]
 60
 CLOMIPRAMINE
 Voir aussi : antidépresseurs imipraminiques - médicaments abaissant le seuil épileptogène - médicaments atropiniques - médicaments mixtes adrénergiques-
@@ -4705,6 +4762,7 @@ clozapine pendant le traitement par la fluvoxamine et après son arrêt.
 Augmentation des concentrations plasmatiques de clozapine avec 
 signes de surdosage.
 
+[page 62]
 61
 + INDUCTEURS ENZYMATIQUES PUISSANTS
 ASDEC - PE
@@ -4714,7 +4772,7 @@ Précaution d'emploi:
 - Avec la phénytoïne, la fosphénytoïne, la primidone, le phénobarbital. 
 Surveillance clinique et adaptation posologique de la clozapine pendant 
 l’association et après l’arrêt de l’inducteur
-- Avec l'apalutamide, l'enzalutamide  : risque vraisemblablement modéré
+- Avec l'apalutamide, l'enzalutamide : risque vraisemblablement modéré
 Diminution des concentrations plasmatiques de clozapine avec 
 risque de perte d’efficacité.
 De plus, avec la carbamazépine, risque de majoration des effets 
@@ -4761,7 +4819,7 @@ A prendre en compte
 Pour connaître les risques et les niveaux de contrainte de chaque 
 interaction, il convient de se reporter aux AMM specifiques à chaque 
 spécialité.
-Risque d’augmentation des concentrations plasmatiques du  
+Risque d’augmentation des concentrations plasmatiques du 
 cobicistat ou de l’inhibiteur du CYP3A4.
 + MILLEPERTUIS
 CONTRE-INDICATION
@@ -4785,6 +4843,7 @@ CONTRE-INDICATION
 Risque de diminution de l’efficacité du cobicistat par augmentation 
 de son métabolisme par l’inducteur.
 
+[page 63]
 62
 + TÉNOFOVIR ALAFÉNAMIDE
 Précaution d'emploi
@@ -4849,6 +4908,7 @@ Association DECONSEILLEE
 Risque d’inefficacité de l’opiacé par inhibition de son métabolisme 
 par l’inhibiteur.
 
+[page 64]
 63
 + CINACALCET
 Association DECONSEILLEE
@@ -4918,6 +4978,7 @@ CONTRE-INDICATION
 Augmentation des effets indésirables de la colchicine, aux 
 conséquences potentiellement fatales.
 
+[page 65]
 64
 + OMBITASVIR + PARITAPRÉVIR
 CI - ASDEC
@@ -4996,6 +5057,7 @@ l’association.
 Risque d’augmentation des concentrations plasmatiques d’ibrutinib 
 par diminution de son métabolisme hépatique par le crizotinib.
 
+[page 66]
 65
 + SUBSTANCES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES
 Association DECONSEILLEE
@@ -5005,7 +5067,7 @@ pipéraquine.
 Association déconseillée:
 - avec les autres médicaments susceptibles de donner des torsades de 
 pointes.
-Si l’association ne peut  être évitée, contrôle clinique et 
+Si l’association ne peut être évitée, contrôle clinique et 
 électrocardiographique régulier.
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
@@ -5024,7 +5086,7 @@ Les médicaments susceptibles de potentialiser l'action des curares non dépolar
 - les antagonistes du calcium
 - les médicaments aggravant ou révélant un syndrome myasthénique, comme les fluoroquinolones, la télithromycine, l’érythromycine IV, la quinidine ou le lithium..
 Les médicaments susceptibles de diminuer l'action des curares non dépolarisants sont :
-- la phénytoïne ou la carbamazépine, en administration chronique  
+- la phénytoïne ou la carbamazépine, en administration chronique 
 L’utilisation de curares chez des patients recevant des corticoïdes injectables expose au risque de myopathie, éventuellement longue.
 En principe, un monitoring maintenu jusqu'à complète décurarisation permet d'éviter la survenue d'une interaction. Toutefois, une recurarisation non prévue pourrait se 
 produire, dans le cas d'une couverture antibiotique post-opératoire avec un aminoside, par exemple.
@@ -5073,6 +5135,7 @@ Risque de carence en cyanocobalamine après traitement prolongé
 médicaments pouvant diminuer l’absorption digestive de la 
 vitamine B12.
 
+[page 67]
 66
 CYCLINES
 (chlortetracycline, déméclocycline, doxycycline, lymecycline, methylenecycline, minocycline, oxytetracycline, tetracycline, tigecycline)
@@ -5144,6 +5207,7 @@ alternative, pendant la durée de l'association.
 Risque de diminution des concentrations de la cyprotérone avec 
 risque de moindre efficacité contraceptive.
 
+[page 68]
 67
 + BOSENTAN
 Précaution d'emploi
@@ -5186,7 +5250,7 @@ Association DECONSEILLEE
 Dans son utilisation comme contraceptif hormonal: utiliser de 
 préférence une autre méthode de contraception en particulier de type 
 mécanique, pendant la durée de l'association et un cycle suivant.
-Pour des doses de pérampanel > ou  = à 12 mg/jour, risque de 
+Pour des doses de pérampanel > ou = à 12 mg/jour, risque de 
 diminution de l'efficacité de la cyprotérone.
 + ULIPRISTAL
 ASDEC - APEC
@@ -5227,6 +5291,7 @@ AVK et la chimiothérapie.
 A prendre en compte
 Risque de majoration de la toxicité hématologique
 
+[page 69]
 68
 + IMMUNOSUPPRESSEURS
 A prendre en compte
@@ -5298,6 +5363,7 @@ Association DECONSEILLEE
 Diminution des concentrations plasmatiques de dabigatran, avec 
 risque de diminution de l'effet thérapeutique.
 
+[page 70]
 69
 + ROLAPITANT
 Précaution d'emploi
@@ -5378,6 +5444,7 @@ l'autosurveillance glycémique. Adapter éventuellement la posologie de
 l'insuline pendant le traitement par le danazol et après son arrêt.
 Effet diabétogène du danazol.
 
+[page 71]
 70
 + SIMVASTATINE
 CONTRE-INDICATION
@@ -5454,6 +5521,7 @@ Si l’association ne peut être évitée, renforcer la surveillance biologique
 Risque d’addition des effets indésirables (dose-dépendant) à type 
 de rhabdomyolyse.
 
+[page 72]
 71
 DARIFENACINE
 Voir aussi : antispasmodiques urinaires - médicaments atropiniques
@@ -5526,6 +5594,7 @@ prise et/ou 3g par jour)
 par jour)
 Majoration du risque ulcérogène et hémorragique digestif.
 
+[page 73]
 72
 + ANTI-INFLAMMATOIRES NON STÉROÏDIENS
 A prendre en compte
@@ -5597,6 +5666,7 @@ général réversible à l'arrêt de la vitamine C).
 CONTRE-INDICATION
 Risque d'hyperchélation.
 
+[page 74]
 73
 DÉFIBROTIDE
 + ANTIAGRÉGANTS PLAQUETTAIRES
@@ -5633,12 +5703,12 @@ augmentation de son métabolisme hépatique par l’inducteur.
 + SUBSTANCES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES
 CI - ASDEC
 Contre-indication:
-- avec citalopram, dompéridone, escitalopram, hydroxyzine et  
+- avec citalopram, dompéridone, escitalopram, hydroxyzine et 
 pipéraquine
 Associations déconseillées
 - avec les autres susbtances susceptibles de donner des torsades de 
 pointes.
-Si l’association ne peut  être évitée, contrôle clinique et 
+Si l’association ne peut être évitée, contrôle clinique et 
 électrocardiographique régulier.
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
@@ -5661,6 +5731,7 @@ accident coronarien aigu.
 CONTRE-INDICATION
 Risque d'hypotension importante (effet synergique).
 
+[page 75]
 74
 DESIPRAMINE
 + BUPROPION
@@ -5737,6 +5808,7 @@ Association DECONSEILLEE
 Augmentation des concentrations plasmatiques de didanosine et 
 de ses effets indésirables.
 
+[page 76]
 75
 + GANCICLOVIR
 Association DECONSEILLEE
@@ -5820,6 +5892,7 @@ Corriger auparavant toute hypokaliémie et réaliser une surveillance
 clinique, électrolytique et électrocardiographique.
 Hypokaliémie favorisant les effets toxiques des digitaliques.
 
+[page 77]
 76
 + INHIBITEURS DE PROTÉASES BOOSTÉS PAR RITONAVIR
 Précaution d'emploi
@@ -5909,6 +5982,7 @@ Surveillance clinique et ECG pendant le traitement par le rolapitant et
 après son arrêt.
 Augmentation de la digoxinémie par majoration de son absorption.
 
+[page 78]
 77
 + SUCRALFATE
 Précaution d'emploi
@@ -5986,6 +6060,7 @@ bloquants). La présence d'un traitement bêta-bloquant peut par
 ailleurs minimiser la réaction sympathique réflexe mise en jeu en 
 cas de répercussion hémodynamique excessive.
 
+[page 79]
 78
 + DANTROLENE
 Association DECONSEILLEE
@@ -6072,6 +6147,7 @@ CONTRE-INDICATION
 Ergotisme avec possibilité de nécrose des extrémités (inhibition du 
 métabolisme hépatique de l'alcaloïde de l'ergot de seigle).
 
+[page 80]
 79
 + ESMOLOL
 ASDEC - PE
@@ -6127,7 +6203,7 @@ diminution de son métabolisme hépatique par le diltiazem, avec
 risque d'hypotension sévère.
 + OLAPARIB
 Association DECONSEILLEE
-Si l’association ne peut être évitée, limiter la dose d’olaparib à  200 mg 
+Si l’association ne peut être évitée, limiter la dose d’olaparib à 200 mg 
 deux fois par jour.
 Augmentation des concentrations plasmatiques d’olaparib par le 
 diltiazem.
@@ -6161,6 +6237,7 @@ Augmentation des concentrations de tolvaptan, avec risque de
 majoration importante des effets indésirables, notamment diurèse 
 importante, déshydratation, insuffisance rénale aiguë.
 
+[page 81]
 80
 + VÉNÉTOCLAX
 Précaution d'emploi
@@ -6243,6 +6320,7 @@ son arrêt.
 Augmentation de l'effet de l'antivitamine K et du risque 
 hémorragique.
 
+[page 82]
 81
 + COCAINE
 A prendre en compte
@@ -6330,6 +6408,7 @@ Contre-indiqué sauf s'il existe une hypokaliémie.
 Hyperkaliémie potentiellement létale, notamment chez l'insuffisant 
 rénal (addition des effets hyperkaliémiants).
 
+[page 83]
 82
 + ANTAGONISTES DES RÉCEPTEURS DE L'ANGIOTENSINE II
 ASDEC - PE
@@ -6419,6 +6498,7 @@ L'association rationnelle, utile pour certains patients, n'exclut pas la
 survenue d'hypokaliémie ou, en particulier chez l'insuffisant rénal et 
 le diabétique, d'hyperkaliémie.
 
+[page 84]
 83
 + INHIBITEURS DE L'ENZYME DE CONVERSION
 Précaution d'emploi
@@ -6490,7 +6570,7 @@ Voir aussi : inhibiteurs d'intégrase - substances à absorption réduite par le
 + INDUCTEURS ENZYMATIQUES
 ASDEC - PE
 Association déconseillée :
--  en cas de résistance à la classe des inhibiteurs d'intégrase
+- en cas de résistance à la classe des inhibiteurs d'intégrase
 Précaution d'emploi :
 - en l'absence de résistance à la classe des inhibiteurs d'intégrase
 Adaptation de la posologie de dolutégravir à 50 mg 2 fois par jour 
@@ -6498,6 +6578,7 @@ pendant l’association et une semaine après son arrêt.
 Diminution des concentrations plasmatiques de dolutégravir par 
 augmentation de son métabolisme par l’inducteur.
 
+[page 85]
 84
 + METFORMINE
 Précaution d'emploi
@@ -6560,6 +6641,7 @@ CONTRE-INDICATION
 Doublement des concentrations plasmatiques de dabigatran, avec 
 majoration du risque de saignement.
 
+[page 86]
 85
 + DIGOXINE
 Association DECONSEILLEE
@@ -6647,6 +6729,7 @@ Réduire la dose de talazoparib.
 Augmentation des concentrations de talazoparib avec risque de 
 majoration de la toxicité.
 
+[page 87]
 86
 + VERAPAMIL
 Précaution d'emploi
@@ -6723,6 +6806,7 @@ Réduire la dose d’édoxaban de moitié.
 Augmentation des concentrations plasmatiques de l’édoxaban, 
 avec majoration du risque de saignement.
 
+[page 88]
 87
 + ERYTHROMYCINE
 Précaution d'emploi
@@ -6797,6 +6881,7 @@ augmentation de son métabolisme hépatique par l’éfavirenz.
 Egalement, possibilité de diminution importante des concentrations 
 d'éfavirenz par la rifabutine.
 
+[page 89]
 88
 + RIFAMPICINE
 Précaution d'emploi
@@ -6875,6 +6960,7 @@ le traitement par l'énoxacine et après son arrêt.
 Augmentation des concentrations plasmatiques de ropinirole avec 
 signes de surdosage par diminution de son métabolisme hépatique.
 
+[page 90]
 89
 + THÉOPHYLLINE (ET, PAR EXTRAPOLATION, AMINOPHYLLINE)
 CONTRE-INDICATION
@@ -6946,6 +7032,7 @@ semaines de l'association.
 Ergotisme : quelques cas de spasme artériel avec ischémie des 
 extrémités ont été observés (addition d'effets vasculaires).
 
+[page 91]
 90
 + QUINUPRISTINE
 CONTRE-INDICATION
@@ -6967,7 +7054,7 @@ arsénieux, antiparasitaires, neuroleptiques, méthadone...)
 + AFATINIB
 Précaution d'emploi
 Il est recommandé d’administrer l'érythromycine le plus à distance 
-possible de l’afatinib, en respectant  de préférence un intervalle
+possible de l’afatinib, en respectant de préférence un intervalle
  de 6 heures ou de 12 heures par rapport à la prise d’afatinib.
 Augmentation des concentrations plasmatique d’afatinib par 
 augmentation de son absorption par l'érythromycine.
@@ -7031,6 +7118,7 @@ Surveillance clinique pendant l’association.
 Augmentation des concentrations plasmatiques du nintédanib par 
 augmentation de son absorption par l'érythromycine.
 
+[page 92]
 91
 + PRAVASTATINE
 Précaution d'emploi
@@ -7111,6 +7199,7 @@ Troubles de l'automatisme (bradycardie excessive, arrêt sinusal),
 troubles de la conduction sino-auriculaire et auriculo-ventriculaire et 
 défaillance cardiaque.
 
+[page 93]
 92
 ESOMEPRAZOLE
 Voir aussi : antisécrétoires inhibiteurs de la pompe à protons
@@ -7196,6 +7285,7 @@ Diminution de l’efficacité contraceptive par augmentation du
 métabolisme hépatique du contraceptif hormonal par la 
 griséofulvine.
 
+[page 94]
 93
 + INDUCTEURS ENZYMATIQUES
 Association DECONSEILLEE
@@ -7281,6 +7371,7 @@ Risque accru d'infections graves et de neutropénies.
 Association DECONSEILLEE
 Risque d’hypocalcémie sévère.
 
+[page 95]
 94
 ETHINYLESTRADIOL
 Voir aussi : estroprogestatifs contraceptifs
@@ -7347,6 +7438,7 @@ Augmentation des concentrations sanguines de l’évérolimus par la
 ciclosporine. La néphrotoxicité de la ciclosporine est également 
 augmentée lors de l’association.
 
+[page 96]
 95
 + OMBITASVIR + PARITAPRÉVIR
 Association DECONSEILLEE
@@ -7433,6 +7525,7 @@ Association DECONSEILLEE
 Risque de lithiase biliaire par augmentation de l’excrétion biliaire du 
 cholestérol.
 
+[page 97]
 96
 FENTANYL
 Voir aussi : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - morphiniques - médicaments sédatifs
@@ -7508,6 +7601,7 @@ Prendre les sels de fer à distance de l’antirétroviral (plus de 2 heures, si
 possible).
 Diminution de l'absorption digestive des inhibiteurs d’intégrase.
 
+[page 98]
 97
 + LEVODOPA
 Précaution d'emploi
@@ -7583,6 +7677,7 @@ métabolisme de la simvastatine et de la rosuvastatine, ce qui
 majore le risque musculaire, ainsi que la néphrotoxicité de la 
 rosuvastatine.
 
+[page 99]
 98
 FIDAXOMICINE
 + AMIODARONE
@@ -7651,6 +7746,7 @@ Surveillance clinique, particulièrement aux fortes doses de fluconazole
 (800 mg/j).
 Risque d’allongement de l’intervalle QT.
 
+[page 100]
 99
 + ANTIVITAMINES K
 Précaution d'emploi
@@ -7735,6 +7831,7 @@ deux fois par jour.
 Augmentation des concentrations plasmatiques d’olaparib par le 
 fluconazole.
 
+[page 101]
 100
 + OXYCODONE
 Association DECONSEILLEE
@@ -7799,7 +7896,7 @@ importante, déshydratation, insuffisance rénale aiguë.
 + VINCA-ALCALOÏDES CYTOTOXIQUES
 Précaution d'emploi
 Surveillance clinique et biologique étroite pendant l’association.
-Risque de majoration  de la toxicité de l’antimitotique par diminution 
+Risque de majoration de la toxicité de l’antimitotique par diminution 
 de son métabolisme hépatique par le fluconazole.
 FLUCYTOSINE
 + CYTOTOXIQUES
@@ -7812,6 +7909,7 @@ Risque de majoration de la toxicité hématologique.
 A prendre en compte
 Risque de majoration de la toxicité hématologique.
 
+[page 102]
 101
 + VALGANCICLOVIR
 A prendre en compte
@@ -7881,6 +7979,7 @@ hémorragique.
 A prendre en compte
 Augmentation de la toxicité gastro-intestinale du fluorouracile.
 
+[page 103]
 102
 + METRONIDAZOLE
 A prendre en compte
@@ -7957,13 +8056,14 @@ Association DECONSEILLEE
 Diminution de l’efficacité de l’opiacé par inhibition de son 
 métabolisme par l’inhibiteur.
 
+[page 104]
 103
 FLUVASTATINE
 Voir aussi : inhibiteurs de l'HMG-CoA réductase (statines) - médicaments à l'origine d'atteintes musculaires
 + CICLOSPORINE
 Précaution d'emploi
 Surveillance clinique et biologique pendant l’association.
-Augmentation modérée des concentrations de fluvastatine, avec  
+Augmentation modérée des concentrations de fluvastatine, avec 
 risque musculaire non exclu.
 FLUVOXAMINE
 Voir aussi : hyponatrémiants - inhibiteurs sélectifs de la recapture de la sérotonine - médicaments abaissant le seuil épileptogène - médicaments à l'origine d'un 
@@ -8047,6 +8147,7 @@ inhibition de son métabolisme hépatique, avec majoration de
 l'activité et des effets indésirables, par exemple : bradycardie 
 importante.
 
+[page 105]
 104
 + ROPINIROLE
 Précaution d'emploi
@@ -8115,7 +8216,7 @@ FOSTEMSAVIR
 + INDUCTEURS ENZYMATIQUES
 CI - APEC
 Contre-indication :
--  avec la rifampicine, la carbamazépine, la phénytoïne, l’enzalutamide
+- avec la rifampicine, la carbamazépine, la phénytoïne, l’enzalutamide
 A prendre en compte :
 - avec les autres inducteurs
 Diminution significative des concentrations de fotemsavir avec la 
@@ -8126,6 +8227,7 @@ Risque de diminution significative des concentrations de
 fostemsavir avec le millepertuis, avec réduction de la réponse 
 virologique.
 
+[page 106]
 105
 + MITOTANE
 CONTRE-INDICATION
@@ -8199,6 +8301,7 @@ Risque d’augmentation des concentrations plasmatiques du
 paclitaxel par inhibition de son métabolisme hépatique par le 
 gemfibrozil.
 
+[page 107]
 106
 + REPAGLINIDE
 CONTRE-INDICATION
@@ -8272,6 +8375,7 @@ Augmentation importante des concentrations plasmatiques
 d’atorvastatine par la bithérapie, avec risque majoré d’effets 
 indésirables (concentration-dépendants) à type de rhabdomyolyses.
 
+[page 108]
 107
 + DABIGATRAN
 CONTRE-INDICATION
@@ -8356,6 +8460,7 @@ l'autosurveillance glycémique.
 Tous les bêtabloquants peuvent masquer certains symptômes de 
 l'hypoglycémie : palpitations et tachycardie.
 
+[page 109]
 108
 + INHIBITEURS DE L'ENZYME DE CONVERSION
 A prendre en compte
@@ -8431,6 +8536,7 @@ l'inducteur ; les conséquences sont particulièrement importantes
 chez les addisoniens traités par l'hydrocortisone et en cas de 
 transplantation.
 
+[page 110]
 109
 + ISONIAZIDE
 Précaution d'emploi
@@ -8445,7 +8551,7 @@ Et pendant les 3 mois suivant l'arrêt de la corticothérapie.
 A l'exception des voies inhalées et locales, et pour des posologies 
 supérieures à 10 mg/j d’équivalent-prednisone (ou > 2 mg/kg/j chez 
 l’enfant ou > 20 mg/j chez l’enfant de plus de 10 kg) pendant plus 
-de deux semaines et pour les « bolus » de corticoïdes:  risque de 
+de deux semaines et pour les « bolus » de corticoïdes: risque de 
 maladie vaccinale généralisée éventuellement mortelle.
 GLUCOCORTICOÏDES PAR VOIE INTRA-ARTICULAIRE ET MÉTABOLISÉS
 (betamethasone, dexamethasone, méthylprednisolone, triamcinolone)
@@ -8514,6 +8620,7 @@ Association déconseillée
 Augmentation des concentrations plasmatiques de grazoprévir et 
 d’elbasvir.
 
+[page 111]
 110
 + SUNITINIB
 Association DECONSEILLEE
@@ -8595,6 +8702,7 @@ Risque de diminution des concentrations plasmatiques de
 l'halopéridol et de son efficacité thérapeutique, par augmentation 
 de son métabolisme hépatique par la rifampicine.
 
+[page 112]
 111
 HALOTHANE
 Voir aussi : anesthésiques volatils halogénés
@@ -8661,6 +8769,7 @@ plaquettaire par le dextran 40).
 A prendre en compte
 Augmentation du risque hémorragique.
 
+[page 113]
 112
 HÉPARINES (DOSES PRÉVENTIVES)
 (dalteparine sodique, danaparoide sodique, enoxaparine, fondaparinux, heparine calcique, heparine sodique, nadroparine calcique, reviparine, tinzaparine)
@@ -8743,6 +8852,7 @@ l’antipaludique et après son arrêt.
 Risque d’hypothyroïdie clinique chez les patients substitués par 
 hormones thyroïdiennes.
 
+[page 114]
 113
 + RÉSINES CHÉLATRICES
 Précaution d'emploi
@@ -8760,7 +8870,7 @@ augmentation du métabolisme de la T3 et de la T4.
 + RIFAMPICINE
 Précaution d'emploi
 Surveillance clinique et biologique. Adaptation, si besoin, de la 
-posologie des hormones thyroïdiennes pendant le traitement par  la 
+posologie des hormones thyroïdiennes pendant le traitement par la 
 rifampicine et après son arrêt.
 Risque d'hypothyroïdie clinique chez les patients hypothyroïdiens, 
 par augmentation du métabolisme de la T3 et de la T4.
@@ -8833,6 +8943,7 @@ recommandé.
 Dans son indication chez le patient drépanocytaire, risque 
 théorique de maladie vaccinale généralisée.
 
+[page 115]
 114
 HYDROXYCHLOROQUINE
 Voir aussi : substances susceptibles de donner des torsades de pointes
@@ -8902,6 +9013,7 @@ surveillance clinique, électrolytique et électrocardiographique.
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
 
+[page 116]
 115
 HYPONATRÉMIANTS
 Certains médicaments sont plus fréquemment impliqués dans la survenue d’une hyponatrémie. Ce sont les diurétiques, la desmopressine, les antidépresseurs 
@@ -8987,6 +9099,7 @@ Diminution des concentrations plasmatiques d’idélalisib par
 augmentation de son métabolisme hépatique par l'inducteur 
 enzymatique.
 
+[page 117]
 116
 + INHIBITEURS PUISSANTS DU CYP3A4
 A prendre en compte
@@ -9059,6 +9172,7 @@ fluoxétine : cinq semaines) et le début.
 Risque d'apparition d'un syndrome sérotoninergique : diarrhée, 
 tachycardie, sueurs, tremblements, confusion voire coma.
 
+[page 118]
 117
 + MÉDICAMENTS MIXTES ADRÉNERGIQUES-SÉROTONINERGIQUES
 CONTRE-INDICATION
@@ -9127,6 +9241,7 @@ Association DECONSEILLEE
 Risque d'apparition d'un syndrome sérotoninergique : diarrhée, 
 tachycardie, sueurs, tremblements, confusion voire coma.
 
+[page 119]
 118
 + IMAO-B
 CONTRE-INDICATION
@@ -9197,6 +9312,7 @@ Risque d'apparition d'un syndrome sérotoninergique.
 A prendre en compte
 Augmentation du risque d'hypotension orthostatique.
 
+[page 120]
 119
 + PETHIDINE
 CONTRE-INDICATION
@@ -9274,6 +9390,7 @@ Association DECONSEILLEE
 Augmentation importante des concentrations sanguines de 
 l’immunosuppresseur par diminution de son métabolisme.
 
+[page 121]
 120
 + ERYTHROMYCINE
 Association DECONSEILLEE
@@ -9363,6 +9480,7 @@ concentrations sanguines de l'immunosuppresseur et adaptation
 Augmentation très importante des concentrations sanguines de 
 l'immunosuppresseur par inhibition de son métabolisme hépatique.
 
+[page 122]
 121
 + PRISTINAMYCINE
 Précaution d'emploi
@@ -9447,6 +9565,7 @@ l’aripiprazole pendant l’association et 1 à 2 semaines après l’arrêt de
 l’inducteur.
 Diminution des concentrations plasmatiques de l’aripiprazole.
 
+[page 123]
 122
 + BAZÉDOXIFÈNE
 Précaution d'emploi
@@ -9483,7 +9602,7 @@ le phénobarbital
 A prendre en compte :
 - avec les autres inducteurs
 Diminution importante des concentrations de cabotégravir avec la 
-rifampicine,  avec risque de réduction de la réponse virologique.
+rifampicine, avec risque de réduction de la réponse virologique.
 + CASPOFUNGINE
 Précaution d'emploi
 En cas de traitement par inducteur, maintenir la posologie à 70 mg par 
@@ -9522,11 +9641,12 @@ Association DECONSEILLEE
 Diminution des concentrations du cytotoxique par augmentation de 
 son métabolisme par l’inducteur, avec risque de moindre efficacité.
 
+[page 124]
 123
 + DOLUTÉGRAVIR
 ASDEC - PE
 Association déconseillée :
--  en cas de résistance à la classe des inhibiteurs d'intégrase
+- en cas de résistance à la classe des inhibiteurs d'intégrase
 Précaution d'emploi :
 - en l'absence de résistance à la classe des inhibiteurs d'intégrase
 Adaptation de la posologie de dolutégravir à 50 mg 2 fois par jour 
@@ -9550,7 +9670,7 @@ l’inducteur.
 + FOSTEMSAVIR
 CI - APEC
 Contre-indication :
--  avec la rifampicine, la carbamazépine, la phénytoïne, l’enzalutamide
+- avec la rifampicine, la carbamazépine, la phénytoïne, l’enzalutamide
 A prendre en compte :
 - avec les autres inducteurs
 Diminution significative des concentrations de fotemsavir avec la 
@@ -9614,6 +9734,7 @@ Diminution des concentrations plasmatiques d’itraconazole, avec
 risque de perte d’efficacité, par augmentation de son métabolisme 
 hépatique par l’inducteur.
 
+[page 125]
 124
 + IVACAFTOR (SEUL OU ASSOCIÉ)
 Association DECONSEILLEE
@@ -9689,6 +9810,7 @@ Adaptation éventuelle de la posologie d’oxycodone .
 Diminution des concentrations plasmatiques de l’oxycodone par 
 augmentation de son métabolisme par l’inducteur.
 
+[page 126]
 125
 + PACLITAXEL
 Association DECONSEILLEE
@@ -9763,6 +9885,7 @@ Risque de diminution des concentrations plasmatiques de
 vismodegib par augmentation de son métabolisme hépatique par 
 l’inducteur.
 
+[page 127]
 126
 INDUCTEURS ENZYMATIQUES PUISSANTS
 (apalutamide, carbamazepine, enzalutamide, fosphenytoine, phenobarbital, phenytoine, primidone)
@@ -9836,7 +9959,7 @@ Précaution d'emploi:
 - Avec la phénytoïne, la fosphénytoïne, la primidone, le phénobarbital. 
 Surveillance clinique et adaptation posologique de la clozapine pendant 
 l’association et après l’arrêt de l’inducteur
-- Avec l'apalutamide, l'enzalutamide  : risque vraisemblablement modéré
+- Avec l'apalutamide, l'enzalutamide : risque vraisemblablement modéré
 Diminution des concentrations plasmatiques de clozapine avec 
 risque de perte d’efficacité.
 De plus, avec la carbamazépine, risque de majoration des effets 
@@ -9847,6 +9970,7 @@ CONTRE-INDICATION
 Risque de diminution de l’efficacité du cobicistat par augmentation 
 de son métabolisme par l’inducteur.
 
+[page 128]
 127
 + DABIGATRAN
 Association DECONSEILLEE
@@ -9928,11 +10052,12 @@ pendant l’association et après l’arrêt de l’inducteur.
 Risque de diminution de l'efficacité de l’ivabradine, par 
 augmentation de son métabolisme par l’inducteur.
 
+[page 129]
 128
 + LÉDIPASVIR
 CONTRE-INDICATION
 Sauf pour enzalutamide
-Diminution importante  des concentrations plasmatiques du 
+Diminution importante des concentrations plasmatiques du 
 lédipasvir par augmentation de son métabolisme hépatique par 
 l'inducteur enzymatique.
 + LÉNACAPAVIR
@@ -10008,6 +10133,7 @@ Diminution très importante des concentrations plasmatiques de
 quétiapine par augmentation de son métabolisme hépatique par 
 l'inducteur, avec risque d’inefficacité.
 
+[page 130]
 129
 + QUININE
 Précaution d'emploi
@@ -10082,6 +10208,7 @@ nécessaire.
 Diminution des concentrations de vitamine D plus marquée qu’en 
 l’absence d'inducteur.
 
+[page 131]
 130
 + VORICONAZOLE
 CI - ASDEC
@@ -10165,6 +10292,7 @@ Augmentation (très importante pour l'avanafil et le vardénafil) des
 concentrations plasmatiques de l'IPDE5, avec risque d'hypotension 
 (sévère avec le vardénafil).
 
+[page 132]
 131
 + RIOCIGUAT
 CONTRE-INDICATION
@@ -10189,7 +10317,7 @@ Précaution d'emploi
 Hydrater le malade et surveiller la fonction rénale en début de traitement 
 et régulièrement pendant l’association.
 Pour des doses anti-inflammatoires d'acide acétylsalicylique (>= 1g 
-par prise et/ou >=  3g par jour) ou pour des doses antalgiques ou 
+par prise et/ou >= 3g par jour) ou pour des doses antalgiques ou 
 antipyrétiques (>= 500 mg par prise et/ou < 3g par jour) : 
 Insuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, 
 sous diurétiques, avec une fonction rénale altérée), par diminution 
@@ -10252,6 +10380,7 @@ Association DECONSEILLEE
 Risque de majoration des effets indésirables à type d'oedème 
 angio-neurotique (angio-oedème).
 
+[page 133]
 132
 + GLIPTINES
 A prendre en compte
@@ -10336,6 +10465,7 @@ hémorragique.
 A prendre en compte
 Risque majoré de rhabdomyolyse.
 
+[page 134]
 133
 + COLCHICINE
 Précaution d'emploi
@@ -10415,6 +10545,7 @@ le traitement par roxadustat.
 Augmentation d’un facteur 2 à 3 de l’exposition de la statine, par 
 diminution de son métabolisme par le roxadustat.
 
+[page 135]
 134
 INHIBITEURS DE PROTÉASES BOOSTÉS PAR RITONAVIR
 Le ritonavir est désormais utilisé à la dose de 100 mg 2 fois par jour en association à un autre inhibiteur de protéase, dans le but d'augmenter de façon très 
@@ -10427,7 +10558,7 @@ cette propriété.
 + AFATINIB
 Précaution d'emploi
 Il est recommandé d’administrer l'inhibiteur de protéases le plus à 
-distance possible de l’afatinib, en respectant  de préférence un 
+distance possible de l’afatinib, en respectant de préférence un 
 intervalle de 6 heures ou de 12 heures par rapport à la prise d’afatinib.
 Augmentation des concentrations plasmatiques d’afatinib par 
 augmentation de son absorption par l'inhibiteur de protéases.
@@ -10509,6 +10640,7 @@ posologie.
 Augmentation très importante des concentrations sanguines de 
 l'immunosuppresseur par inhibition de son métabolisme hépatique.
 
+[page 136]
 135
 + INDUCTEURS ENZYMATIQUES PUISSANTS
 Précaution d'emploi
@@ -10528,7 +10660,7 @@ CYP3A4.
 + ITRACONAZOLE
 Précaution d'emploi
 Surveillance clinique lors de l’association. L’administration de doses 
-élevées d’itraconazole  (>200 mg par jour) n’est pas recommandée.
+élevées d’itraconazole (>200 mg par jour) n’est pas recommandée.
 Risque d’augmentation des concentrations d’itraconazole par 
 l’inhibiteur de protéases.
 + LAMOTRIGINE
@@ -10607,6 +10739,7 @@ Réduire la dose de talazoparib.
 Augmentation des concentrations de talazoparib avec risque de 
 majoration de la toxicité.
 
+[page 137]
 136
 + TÉNOFOVIR ALAFÉNAMIDE
 Précaution d'emploi
@@ -10649,7 +10782,7 @@ Risque de diminution de la biodisponibilité de l’inhibiteur de tyrosine
 kinases, en raison de son absorption pH-dépendante.
 + ANTISÉCRÉTOIRES INHIBITEURS DE LA POMPE À PROTONS
 A prendre en compte
-  - sauf avec l'entrectinib, le fédratinib, l'imatinib, le tucatinib et le 
+ - sauf avec l'entrectinib, le fédratinib, l'imatinib, le tucatinib et le 
 vandétanib
 Risque de diminution de la biodisponibilité de l’inhibiteur de tyrosine 
 kinases, en raison de son absorption pH-dépendante.
@@ -10664,7 +10797,7 @@ Association déconseillée :
 - avec l'axitinib, le bosutinib, le cabozantinib, le céritinib, le cobimétinib, 
 le dabrafenib, le dasatinib, l'entrectinib, le nilotinib, le sunitinib.
 - avec l'ibrutinib et le ribociclib: si l’association ne peut être évitée, 
-surveillance clinique étroite et réduction de la dose  pendant la durée de 
+surveillance clinique étroite et réduction de la dose pendant la durée de 
 l’association voire interruption temporaire ou définitive.
 Précaution d'emploi avec les autres ITK (sauf abrocitinib, osimertinib, 
 tucatinib et vandétanib):
@@ -10689,6 +10822,7 @@ Prendre les sels de calcium à distance de l’antirétroviral (plus de 2
 heures, si possible).
 Diminution de l'absorption digestive des inhibiteurs d’intégrase.
 
+[page 138]
 137
 + FER
 Précaution d'emploi
@@ -10759,6 +10893,7 @@ Majoration des effets indésirables de l’antagoniste des canaux
 calciques, le plus souvent à type d'hypotension et d'oedèmes, 
 notamment chez le sujet âgé.
 
+[page 139]
 138
 + ANTISPASMODIQUES URINAIRES
 CI - ASDEC - PE
@@ -10816,7 +10951,7 @@ A prendre en compte
 Pour connaître les risques et les niveaux de contrainte de chaque 
 interaction, il convient de se reporter aux AMM specifiques à chaque 
 spécialité.
-Risque d’augmentation des concentrations plasmatiques du  
+Risque d’augmentation des concentrations plasmatiques du 
 cobicistat ou de l’inhibiteur du CYP3A4.
 + COLCHICINE
 CI - ASDEC
@@ -10847,6 +10982,7 @@ Si l’association ne peut être évitée, contrôle clinique et
 Risque majoré de troubles du rythme ventriculaires, notamment de 
 torsades de pointes.
 
+[page 140]
 139
 + DISOPYRAMIDE
 Précaution d'emploi
@@ -10927,6 +11063,7 @@ Augmentation (très importante pour l'avanafil et le vardénafil) des
 concentrations plasmatiques de l'IPDE5, avec risque d'hypotension 
 (sévère avec le vardénafil).
 
+[page 141]
 140
 + INHIBITEURS DE PROTÉASES BOOSTÉS PAR RITONAVIR
 A prendre en compte
@@ -10943,7 +11080,7 @@ Association déconseillée :
 - avec l'axitinib, le bosutinib, le cabozantinib, le céritinib, le cobimétinib, 
 le dabrafenib, le dasatinib, l'entrectinib, le nilotinib, le sunitinib.
 - avec l'ibrutinib et le ribociclib: si l’association ne peut être évitée, 
-surveillance clinique étroite et réduction de la dose  pendant la durée de 
+surveillance clinique étroite et réduction de la dose pendant la durée de 
 l’association voire interruption temporaire ou définitive.
 Précaution d'emploi avec les autres ITK (sauf abrocitinib, osimertinib, 
 tucatinib et vandétanib):
@@ -11012,6 +11149,7 @@ Si l’association ne peut être évitée, surveillance clinique étroite.
 Augmentation des effets indésirables de la midostaurine par 
 l’inhibiteur.
 
+[page 142]
 141
 + NALOXEGOL
 CONTRE-INDICATION
@@ -11089,6 +11227,7 @@ Risque majoré d'effets indésirables (concentration-dépendants) à
 type de rhabdomyolyse par diminution du métabolisme de la 
 simvastatine.
 
+[page 143]
 142
 + SUBSTRATS À RISQUE DU CYP3A4
 A prendre en compte
@@ -11172,6 +11311,7 @@ A prendre en compte
  
 Augmentation du risque hémorragique.
 
+[page 144]
 143
 + ANTICOAGULANTS ORAUX
 A prendre en compte
@@ -11239,6 +11379,7 @@ Augmentation de la réaction hypoglycémique (inhibition des
 réactions de compensation pouvant faciliter la survenue de coma 
 hypoglycémique).
 
+[page 145]
 144
 + ANALOGUES DE LA SOMATOSTATINE
 Précaution d'emploi
@@ -11312,6 +11453,7 @@ CONTRE-INDICATION
 Diminution des concentrations plasmatiques du métabolite actif de 
 l'irinotécan, avec risque d'échec du traitement cytotoxique.
 
+[page 146]
 145
 ISAVUCONAZOLE
 + INDUCTEURS ENZYMATIQUES
@@ -11388,6 +11530,7 @@ Association DECONSEILLEE
 Troubles du rythme ventriculaire graves par augmentation de 
 l'excitabilité cardiaque.
 
+[page 147]
 146
 ITRACONAZOLE
 Voir aussi : inhibiteurs puissants du CYP3A4
@@ -11468,6 +11611,7 @@ concentrations sanguines de l'immunosuppresseur et adaptation
 Augmentation très importante des concentrations sanguines de 
 l'immunosuppresseur par inhibition de son métabolisme hépatique.
 
+[page 148]
 147
 + INDUCTEURS ENZYMATIQUES
 Association DECONSEILLEE
@@ -11477,7 +11621,7 @@ hépatique par l’inducteur.
 + INHIBITEURS DE PROTÉASES BOOSTÉS PAR RITONAVIR
 Précaution d'emploi
 Surveillance clinique lors de l’association. L’administration de doses 
-élevées d’itraconazole  (>200 mg par jour) n’est pas recommandée.
+élevées d’itraconazole (>200 mg par jour) n’est pas recommandée.
 Risque d’augmentation des concentrations d’itraconazole par 
 l’inhibiteur de protéases.
 + MILLEPERTUIS
@@ -11509,7 +11653,7 @@ Augmentation des concentrations de talazoparib avec risque de
 majoration de la toxicité.
 + TÉNOFOVIR ALAFÉNAMIDE
 Précaution d'emploi
-En cas de co-administration avec  l’itraconazole, la dose de ténofovir 
+En cas de co-administration avec l’itraconazole, la dose de ténofovir 
 alafénamide doit être limitée à 10 mg par jour.
 Augmentation des concentrations plasmatiques du ténofovir 
 alafénamide par augmentation de son absorption.
@@ -11519,7 +11663,7 @@ Si l’association est nécessaire, surveillance clinique et adaptation
 éventuelle de la posologie de la trabectedine pendant la durée du 
 traitement par l’itraconazole.
 Risque d’augmentation des concentrations plasmatiques de la 
-trabectedine  par l’itraconazole.
+trabectedine par l’itraconazole.
 + VENLAFAXINE
 A prendre en compte
 Augmentation des concentrations de venlafaxine avec risque de 
@@ -11552,6 +11696,7 @@ Augmentation des concentrations plasmatiques de l’ivabradine et
 par conséquent de ses effets indésirables (inhibition de son 
 métabolisme hépatique par l’inhibiteur).
 
+[page 149]
 148
 + JOSAMYCINE
 CONTRE-INDICATION
@@ -11632,6 +11777,7 @@ Si cela est possible, interrompre le macrolide. Si l’association ne peut
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
 
+[page 150]
 149
 + IVABRADINE
 CONTRE-INDICATION
@@ -11705,6 +11851,7 @@ diminution de son métabolisme par le kétoconazole.
 Association DECONSEILLEE
 Augmentation des concentrations plasmatiques de la fidaxomicine.
 
+[page 151]
 150
 + IMMUNOSUPPRESSEURS
 Association DECONSEILLEE
@@ -11746,7 +11893,7 @@ Augmentation importante des concentrations de salmétérol par
 diminution de son métabolisme hépatique par le kétoconazole.
 + TÉNOFOVIR ALAFÉNAMIDE
 Précaution d'emploi
-En cas de co-administration avec  le kétoconazole, la dose de ténofovir 
+En cas de co-administration avec le kétoconazole, la dose de ténofovir 
 alafénamide doit être limitée à 10 mg par jour.
 Augmentation des concentrations plasmatiques du ténofovir 
 alafénamide par augmentation de son absorption.
@@ -11786,6 +11933,7 @@ lors de la mise en route d'une contraception orale et après son arrêt.
 Diminution des concentrations et de l’efficacité de la lamotrigine par 
 augmentation de son métabolisme hépatique.
 
+[page 152]
 151
 + INHIBITEURS DE PROTÉASES BOOSTÉS PAR RITONAVIR
 ASDEC - PE
@@ -11843,14 +11991,14 @@ LÉDIPASVIR
 Voir aussi : substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants
 + ANTISÉCRÉTOIRES INHIBITEURS DE LA POMPE À PROTONS
 Précaution d'emploi
-Il est recommandé de prendre l'’inhibiteur de la pompe à protons  et le 
+Il est recommandé de prendre l'’inhibiteur de la pompe à protons et le 
 lédipasvir simultanément.
 Diminution des concentrations du lédipasvir en cas d’administration 
 de l’inhibiteur de la pompe à protons avant le lédipasvir.
 + INDUCTEURS ENZYMATIQUES PUISSANTS
 CONTRE-INDICATION
  
-Diminution importante  des concentrations plasmatiques du 
+Diminution importante des concentrations plasmatiques du 
 lédipasvir par augmentation de son métabolisme hépatique par 
 l'inducteur enzymatique.
 + INHIBITEURS DE L'HMG-COA RÉDUCTASE (STATINES)
@@ -11874,6 +12022,7 @@ CONTRE-INDICATION
 Diminution des concentrations plasmatiques de lédipasvir par la 
 rifabutine, avec possible retentissement sur l’efficacité.
 
+[page 153]
 152
 + RIFAMPICINE
 CONTRE-INDICATION
@@ -11944,6 +12093,7 @@ CONTRE-INDICATION
 Risque de vasoconstriction coronaire ou des extrémités 
 (ergotisme), ou de poussées hypertensives.
 
+[page 154]
 153
 + IMMUNOSUPPRESSEURS
 Précaution d'emploi
@@ -12021,6 +12171,7 @@ En cas d'association avec la carbidopa : inhibition de l'absorption
 de la carbidopa avec diminution des concentrations plasmatiques 
 de la lévodopa.
 
+[page 155]
 154
 + TETRABENAZINE
 Association DECONSEILLEE
@@ -12110,6 +12261,7 @@ linézolide pendant le traitement par la rifampicine.
 Risque de diminution de l'efficacité du linézolide par augmentation 
 de son métabolisme hépatique par la rifampicine.
 
+[page 156]
 155
 LITHIUM
 Voir aussi : médicaments à l'origine d'un syndrome sérotoninergique
@@ -12198,6 +12350,7 @@ Surveillance clinique et adaptation de la posologie de lithium.
 Augmentation de la lithémie pouvant atteindre des valeurs 
 toxiques, avec signes de surdosage en lithium.
 
+[page 157]
 156
 + METRONIDAZOLE
 Précaution d'emploi
@@ -12268,6 +12421,7 @@ A prendre en compte
 Risque de diminution de l’efficacité du losartan, par inhibition de la 
 formation de son métabolite actif par le fluconazole.
 
+[page 158]
 157
 LUMEFANTRINE
 Voir aussi : antiparasitaires susceptibles de donner des torsades de pointes - substances susceptibles de donner des torsades de pointes - substrats à risque du 
@@ -12339,6 +12493,7 @@ CONTRE-INDICATION
 Ergotisme avec possibilité de nécrose des extrémités (diminution 
 de l'élimination hépatique de l'ergotamine).
 
+[page 159]
 158
 MAGNÉSIUM
 + INHIBITEURS D'INTÉGRASE
@@ -12418,6 +12573,7 @@ pitavastatine, pravastatine, rosuvastatine, simvastatine)
 A prendre en compte
 Risque de majoration des effets indésirables musculaires.
 
+[page 160]
 159
 MÉDICAMENTS À L'ORIGINE D'UN HYPOGONADISME MASCULIN
 (abiraterone, apalutamide, bicalutamide, cyproterone, dégarélix, dutasteride, enzalutamide, finasteride, flutamide, gosereline, leuproreline, nilutamide, triptoreline)
@@ -12440,12 +12596,12 @@ Ces médicaments sont essentiellement représentés par
 - avec indications d’autres que la dépression : duloxétine, oxitriptan) 
 - les IMAO, essentiellement non sélectifs, voire les IMAO-A sélectifs
 Le syndrome sérotoninergique se manifeste par l'apparition (éventuellement brutale) simultanée ou séquentielle, d'un ensemble de symptômes pouvant nécessiter 
-l'hospitalisation, voire exceptionnellement  entraîner le décès.
+l'hospitalisation, voire exceptionnellement entraîner le décès.
 Ces symptômes peuvent être d'ordre :
 - digestifs (diarrhée),
 - neuropsychiques (agitation, confusion, hypomanie),
 - moteurs (myoclonies, tremblements, hyperréflexie, rigidité, hyperactivité),
-- végétatifs (variations tensionnelles, tachycardie, frissons, hyperthermie,  sueurs, éventuellement coma). 
+- végétatifs (variations tensionnelles, tachycardie, frissons, hyperthermie, sueurs, éventuellement coma). 
 Le strict respect des doses préconisées constitue un facteur essentiel dans la prévention de l'apparition de ce syndrome.
 Le niveau de risque est très variable selon les associations. Le tableau est sévère, voire fatal, notamment avec les IMAO non sélectifs (se reporter aux interactions 
 contre-indiquées dans le Thesaurus).
@@ -12484,6 +12640,7 @@ A prendre en compte
 Risque de surdosage lors du remplacement du tabac par le 
 traitement substitutif.
 
+[page 161]
 160
 MÉDICAMENTS ABAISSANT LA PRESSION ARTÉRIELLE
 (acebutolol, altizide, amiloride, amlodipine, atenolol, azilsartan, benazepril, bendroflumethiazide, betaxolol, bisoprolol, bumetanide, candesartan cilexetil, canrenoate de 
@@ -12549,6 +12706,7 @@ A prendre en compte
  
 Augmentation du risque hémorragique.
 
+[page 162]
 161
 + ANTICOAGULANTS ORAUX
 A prendre en compte
@@ -12605,6 +12763,7 @@ vancomycine, vinblastine, vincristine, vindesine, vinflunine, vinorelbine)
 A prendre en compte
 Majoration de l'ototoxicité.
 
+[page 163]
 162
 MÉDICAMENTS SÉDATIFS
 Il faut prendre en compte le fait que de nombreux médicaments ou substances peuvent additionner leurs effets dépresseurs du système nerveux central et contribuer à 
@@ -12627,7 +12786,7 @@ CI - ASDEC - APEC
 A prendre en compte:
 - pour tous les médicaments sédatifs entre eux sauf:
 - avec l'oxybate de sodium (association déconseillée)
-- entre l'oxybate de sodium et les opiacés ou les barbituriques  (contre-
+- entre l'oxybate de sodium et les opiacés ou les barbituriques (contre-
 indication)
 Majoration de la dépression centrale.
 L'altération de la vigilance peut rendre dangereuses la conduite de 
@@ -12683,6 +12842,7 @@ Association DECONSEILLEE
 Risque de majoration des effets indésirables de la méquitazine, par 
 inhibition de son métabolisme par l’inhibiteur enzymatique.
 
+[page 164]
 163
 + FLUOXETINE
 Association DECONSEILLEE
@@ -12772,6 +12932,7 @@ avec surdosage et risque majoré d’allongement de l’intervalle QT et
 de troubles du rythme ventriculaire, notamment de torsades de 
 pointes.
 
+[page 165]
 164
 + INDUCTEURS ENZYMATIQUES
 Précaution d'emploi
@@ -12851,6 +13012,7 @@ acétylsalicylique).
 CONTRE-INDICATION
 Risque de majoration de l'hépatotoxicité du méthotrexate.
 
+[page 166]
 165
 + ANTI-INFLAMMATOIRES NON STÉROÏDIENS
 ASDEC - PE
@@ -12941,6 +13103,7 @@ Augmentation des effets de la lévodopa mais également de ses
 effets indésirables. Majoration de l'effet antihypertenseur de la 
 méthyldopa.
 
+[page 167]
 166
 + LITHIUM
 Précaution d'emploi
@@ -13034,6 +13197,7 @@ Avec le métoprolol utilisé dans l'insuffisance cardiaque,
 augmentation des concentrations plasmatiques du métoprolol par 
 diminution de son métabolisme par le mirabégron.
 
+[page 168]
 167
 + PAROXETINE
 Précaution d'emploi
@@ -13111,6 +13275,7 @@ Voir aussi : antiarythmiques
 CONTRE-INDICATION
 Effet inotrope négatif avec risque de décompensation cardiaque.
 
+[page 169]
 168
 + CAFEINE
 A prendre en compte
@@ -13192,6 +13357,7 @@ Augmentation des concentrations plasmatiques de midazolam par
 diminution de son métabolisme hépatique, avec majoration de la 
 sédation.
 
+[page 170]
 169
 + MILLEPERTUIS
 A prendre en compte
@@ -13267,6 +13433,7 @@ CONTRE-INDICATION
 Aux doses élevées d’AINS, risque de moindre efficacité du 
 mifamurtide.
 
+[page 171]
 170
 + CICLOSPORINE
 CONTRE-INDICATION
@@ -13337,6 +13504,7 @@ Risque d’augmentation des concentrations plasmatiques du
 métabolite actif du cyclophosphamide par le millepertuis, et donc 
 de sa toxicité.
 
+[page 172]
 171
 + CYPROTERONE
 CONTRE-INDICATION
@@ -13409,6 +13577,7 @@ Association DECONSEILLEE
  
 Risque de baisse de l’efficacité des hormones thyroïdiennes.
 
+[page 173]
 172
 + IDÉLALISIB
 Association DECONSEILLEE
@@ -13486,6 +13655,7 @@ CONTRE-INDICATION
 Diminution, éventuellement considérable, des concentrations de 
 lénacapavir, avec risque de réduction de la réponse virologique.
 
+[page 174]
 173
 + LOMITAPIDE
 Association DECONSEILLEE
@@ -13557,6 +13727,7 @@ la propafénone pendant l'association et après l'arrêt du millepertuis.
 Diminution des concentrations plasmatiques de la propafénone par 
 augmentation de son métabolisme hépatique par le millepertuis.
 
+[page 175]
 174
 + QUETIAPINE
 Association DECONSEILLEE
@@ -13570,7 +13741,7 @@ augmentation de son métabolisme par le millepertuis
 + RILPIVIRINE
 CONTRE-INDICATION
  
-Risque de diminution  des concentrations plasmatiques de 
+Risque de diminution des concentrations plasmatiques de 
 rilpivirine par augmentation de son métabolisme hépatique par le 
 millepertuis.
 + ROLAPITANT
@@ -13631,6 +13802,7 @@ CONTRE-INDICATION
 Réduction importante des concentrations de vérapamil, avec risque 
 de perte de son effet thérapeutique.
 
+[page 176]
 175
 + VINCA-ALCALOÏDES CYTOTOXIQUES
 CONTRE-INDICATION
@@ -13711,6 +13883,7 @@ Avec la cimétidine utilisée à des doses supérieures ou égales à
 800 mg/j : augmentation des concentrations du moclobémide, par 
 diminution de son métabolisme hépatique.
 
+[page 177]
 176
 MODAFINIL
 + CICLOSPORINE
@@ -13784,6 +13957,7 @@ Diminution de l'effet antalgique ou antitussif du morphinique, par
 blocage compétitif des récepteurs, avec risque d'apparition d'un 
 syndrome de sevrage.
 
+[page 178]
 177
 + METHADONE
 CONTRE-INDICATION
@@ -13842,6 +14016,7 @@ Adaptation posologique pendant l’association.
 Augmentation des concentrations plasmatiques de naloxegol par le 
 diltiazem.
 
+[page 179]
 178
 + INDUCTEURS ENZYMATIQUES
 Association DECONSEILLEE
@@ -13916,6 +14091,7 @@ CONTRE-INDICATION
 Utiliser un antiémétique dénué d'effets extrapyramidaux.
 Antagonisme réciproque entre la lévodopa et le neuroleptique.
 
+[page 180]
 179
 NEUROLEPTIQUES ANTIPSYCHOTIQUES (SAUF CLOZAPINE)
 (amisulpride, aripiprazole, asenapine, chlorpromazine, cyamemazine, droperidol, flupentixol, fluphenazine, haloperidol, levomepromazine, loxapine, olanzapine, 
@@ -13997,6 +14173,7 @@ Risque de diminution significative des concentrations plasmatiques
 de la névirapine par augmentation de son métabolisme hépatique 
 par le millepertuis.
 
+[page 181]
 180
 + RIFAMPICINE
 Association DECONSEILLEE
@@ -14076,6 +14253,7 @@ Surveillance clinique pendant l’association.
 Augmentation des concentrations plasmatiques du nintédanib par 
 augmentation de son absorption par l'amiodarone.
 
+[page 182]
 181
 + CARBAMAZEPINE
 Précaution d'emploi
@@ -14152,6 +14330,7 @@ Surveillance clinique et éventuellement de la théophyllinémie.
 Augmentation de la théophyllinémie avec risque de surdosage 
 (diminution du métabolisme de la théophylline).
 
+[page 183]
 182
 NORTRIPTYLINE
 + BUPROPION
@@ -14199,7 +14378,7 @@ Association DECONSEILLEE
 Risque de majoration de l’effet myélosuppresseur du cytotoxique
 + DILTIAZEM
 Association DECONSEILLEE
-Si l’association ne peut être évitée, limiter la dose d’olaparib à  200 mg 
+Si l’association ne peut être évitée, limiter la dose d’olaparib à 200 mg 
 deux fois par jour.
 Augmentation des concentrations plasmatiques d’olaparib par le 
 diltiazem.
@@ -14231,6 +14410,7 @@ millepertuis.
 Association DECONSEILLEE
 Risque d’augmentation des effets indésirables de l’olaparib.
 
+[page 184]
 183
 + VERAPAMIL
 Association DECONSEILLEE
@@ -14302,6 +14482,7 @@ CONTRE-INDICATION
 Augmentation des concentrations plasmatiques du midazolam par 
 diminution de son métabolisme hépatique par la bithérapie.
 
+[page 185]
 184
 + PIMOZIDE
 CONTRE-INDICATION
@@ -14376,6 +14557,7 @@ fonction rénale et adaptation de la posologie pendant l'association et
 après son arrêt.
 Augmentation des concentrations sanguines du tacrolimus.
 
+[page 186]
 185
 ONDANSETRON
 Voir aussi : sétrons
@@ -14447,6 +14629,7 @@ A prendre en compte
 Risque d'échec thérapeutique en cas de traitement concomitant par 
 orlistat.
 
+[page 187]
 186
 + NEUROLEPTIQUES
 A prendre en compte
@@ -14515,6 +14698,7 @@ CONTRE-INDICATION
 Risque majoré de dépression respiratoire, pouvant être fatale en 
 cas de surdosage.
 
+[page 188]
 187
 OXYCODONE
 Voir aussi : analgésiques morphiniques agonistes - analgésiques morphiniques de palier III - morphiniques - médicaments sédatifs - substrats à risque du CYP3A4
@@ -14580,6 +14764,7 @@ A prendre en compte
 Diminution des deux tiers de l’exposition du ténofovir avec une 
 formulation de PAS calcique.
 
+[page 189]
 188
 PACLITAXEL
 Voir aussi : cytotoxiques - substrats à risque du CYP3A4
@@ -14661,6 +14846,7 @@ Association DECONSEILLEE
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
 
+[page 190]
 189
 + IMMUNOSUPPRESSEURS
 Association DECONSEILLEE
@@ -14735,6 +14921,7 @@ A prendre en compte
 Augmentation des concentrations plasmatiques de vérapamil, avec 
 risque de survenue d’effets indésirables.
 
+[page 191]
 190
 PANOBINOSTAT
 + INHIBITEURS PUISSANTS DU CYP3A4
@@ -14821,6 +15008,7 @@ Association DECONSEILLEE
 Diminution de l’efficacité de l’opiacé par inhibition de son 
 métabolisme par l’inhibiteur.
 
+[page 192]
 191
 PEFLOXACINE
 Voir aussi : fluoroquinolones - médicaments abaissant le seuil épileptogène - substances à absorption réduite par les topiques gastro-intestinaux, antiacides et 
@@ -14887,6 +15075,7 @@ A prendre en compte
 Diminution des concentrations de l’acide mycophénolique d’environ 
 un tiers, avec risque potentiel de baisse d’efficacité.
 
+[page 193]
 192
 PENTAMIDINE
 Voir aussi : antiparasitaires susceptibles de donner des torsades de pointes - médicaments néphrotoxiques - substances susceptibles de donner des torsades de 
@@ -14941,7 +15130,7 @@ Association DECONSEILLEE
 Dans son utilisation comme contraceptif hormonal: utiliser de 
 préférence une autre méthode de contraception en particulier de type 
 mécanique, pendant la durée de l'association et un cycle suivant.
-Pour des doses de pérampanel > ou  = à 12 mg/jour, risque de 
+Pour des doses de pérampanel > ou = à 12 mg/jour, risque de 
 diminution de l'efficacité de la cyprotérone.
 + INDUCTEURS ENZYMATIQUES PUISSANTS
 A prendre en compte
@@ -14958,6 +15147,7 @@ de type mécanique.
 Pour des doses de pérampanel >= 12 mg/jour : Risque de 
 diminution de l’efficacité contraceptive.
 
+[page 194]
 193
 + RIFAMPICINE
 A prendre en compte
@@ -15036,6 +15226,7 @@ Diminution des concentrations plasmatiques du propranolol avec
 réduction de ses effets cliniques (augmentation de son 
 métabolisme hépatique).
 
+[page 195]
 194
 + VALPROÏQUE (ACIDE) ET, PAR EXTRAPOLATION, VALPROMIDE
 Précaution d'emploi
@@ -15133,6 +15324,7 @@ Augmentation des concentrations plasmatiques de phénytoïne
 avec signes de surdosage, par inhibition du métabolisme hépatique 
 de la phénytoïne.
 
+[page 196]
 195
 + FOLATES
 Précaution d'emploi
@@ -15225,6 +15417,7 @@ sulfamide anti-infectieux et après son arrêt.
 Augmentation des concentrations plasmatiques de phénytoïne 
 jusqu'à des valeurs toxiques (inhibition de son métabolisme).
 
+[page 197]
 196
 + TICLOPIDINE
 Précaution d'emploi
@@ -15289,6 +15482,7 @@ CONTRE-INDICATION
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
 
+[page 198]
 197
 + OMBITASVIR + PARITAPRÉVIR
 CONTRE-INDICATION
@@ -15354,6 +15548,7 @@ Potentialisation des curares lorque l'antibiotique est administré par
 voie parentérale et/ou péritonéale avant, pendant ou après l'agent 
 curarisant.
 
+[page 199]
 198
 POLYSTYRÈNE SULFONATE DE CALCIUM
 Voir aussi : résines chélatrices
@@ -15387,7 +15582,7 @@ Voir aussi : inhibiteurs de tyrosine kinases métabolisés - substrats à risque
 Précaution d'emploi
 Surveillance clinique et biologique étroite pendant l’association.
 Risque d’augmentation des concentrations plasmatiques de 
-l'atrovastatine par augmentation de son absorption intestinale  par 
+l'atrovastatine par augmentation de son absorption intestinale par 
 le ponatinib.
 + COLCHICINE
 Précaution d'emploi
@@ -15438,6 +15633,7 @@ Risque d’augmentation des concentrations plasmatiques de la
 sulfasalazine par augmentation de son absorption intestinale par le 
 ponatinib.
 
+[page 200]
 199
 PONÉSIMOD
 + BRADYCARDISANTS
@@ -15524,6 +15720,7 @@ Pour une quantité de potassium > à 1 mmol/prise, hyperkaliémie
 potentiellement létale, notamment chez l'insuffisant rénal (addition 
 des effets hyperkaliémiants).
 
+[page 201]
 200
 + INHIBITEURS DE L'ENZYME DE CONVERSION
 Association DECONSEILLEE
@@ -15605,6 +15802,7 @@ Risque de rupture du préservatif lors de l'utilisation avec des corps
 gras ou des lubrifiants contenant des huiles minérales (huile de 
 paraffine, huile de silicone, etc...).
 
+[page 202]
 201
 PRIMIDONE
 Voir aussi : anticonvulsivants métabolisés - barbituriques - inducteurs enzymatiques - inducteurs enzymatiques puissants - médicaments sédatifs - phénobarbital (et, 
@@ -15690,6 +15888,7 @@ Risque important d'acidose lactique par hémoconcentration de la
 metformine, dans le cas d'un arrêt cardio-respiratoire induit par 
 l'examen radiologique, avec insuffisance rénale aiguë.
 
+[page 203]
 202
 PROGESTATIFS CONTRACEPTIFS
 (desogestrel, dienogest, drospirenone, etonogestrel, levonorgestrel, medroxyprogesterone, nomegestrol, norelgestromine, norethisterone, norgestimate)
@@ -15779,6 +15978,7 @@ Dans l’indication fibrome :
 Antagonisme réciproque des effets de l’ulipristal et du progestatif, 
 avec risque d’inefficacité.
 
+[page 204]
 203
 PROGUANIL
 Voir aussi : substances à absorption réduite par les topiques gastro-intestinaux, antiacides et adsorbants
@@ -15866,6 +16066,7 @@ propafénone pendant l'association.
 Augmentation des concentrations plasmatiques de la propafénone 
 par diminution de son métabolisme par le mirabégron.
 
+[page 205]
 204
 + RIFAMPICINE
 Précaution d'emploi
@@ -15944,6 +16145,7 @@ CONTRE-INDICATION
 Augmentation importante des concentrations de quétiapine, avec 
 risque de surdosage.
 
+[page 206]
 205
 + METHADONE
 A prendre en compte
@@ -16027,6 +16229,7 @@ Surveillance clinique.
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
 
+[page 207]
 206
 + TALAZOPARIB
 Précaution d'emploi
@@ -16102,6 +16305,7 @@ CONTRE-INDICATION
 Ergotisme avec possibilité de nécrose des extrémités (inhibition du 
 métabolisme hépatique de l'alcaloïde de l'ergot de seigle).
 
+[page 208]
 207
 + ERGOTAMINE
 CONTRE-INDICATION
@@ -16172,6 +16376,7 @@ Association DECONSEILLEE
 Augmentation des concentrations plasmatiques de régorafenib par 
 diminution de son métabolisme hépatique par l’inhibiteur.
 
+[page 209]
 208
 + MILLEPERTUIS
 Association DECONSEILLEE
@@ -16250,6 +16455,7 @@ La prise de résine chélatrice peut diminuer l’absorption intestinale
 et, potentiellement, l’efficacité d’autres médicaments pris 
 simultanément.
 
+[page 210]
 209
 + HORMONES THYROÏDIENNES
 Précaution d'emploi
@@ -16331,6 +16537,7 @@ augmentation de son métabolisme hépatique par l’éfavirenz.
 Egalement, possibilité de diminution importante des concentrations 
 d'éfavirenz par la rifabutine.
 
+[page 211]
 210
 + ELVITÉGRAVIR
 A prendre en compte
@@ -16422,6 +16629,7 @@ arrêt (risque de surdosage en antiarythmique).
 Diminution des concentrations plasmatiques et de l'efficacité de 
 l'antiarythmique (augmentation de son métabolisme hépatique).
 
+[page 212]
 211
 + ANTIVITAMINES K
 Précaution d'emploi
@@ -16501,6 +16709,7 @@ CONTRE-INDICATION
 Risque de diminution de l’efficacité du cobicistat par augmentation 
 de son métabolisme par l’inducteur.
 
+[page 213]
 212
 + DABIGATRAN
 Association DECONSEILLEE
@@ -16572,7 +16781,7 @@ de son métabolisme hépatique par la rifampicine.
 + HORMONES THYROÏDIENNES
 Précaution d'emploi
 Surveillance clinique et biologique. Adaptation, si besoin, de la 
-posologie des hormones thyroïdiennes pendant le traitement par  la 
+posologie des hormones thyroïdiennes pendant le traitement par la 
 rifampicine et après son arrêt.
 Risque d'hypothyroïdie clinique chez les patients hypothyroïdiens, 
 par augmentation du métabolisme de la T3 et de la T4.
@@ -16581,6 +16790,7 @@ Association DECONSEILLEE
 Diminution des concentrations plasmatiques d’idélalisib par 
 augmentation de son métabolisme hépatique par l’inducteur.
 
+[page 214]
 213
 + INHIBITEURS DE LA 5-ALPHA REDUCTASE
 Association DECONSEILLEE
@@ -16666,6 +16876,7 @@ arrêt.
 Risque de baisse de l'efficacité du montélukast par augmentation 
 de son métabolisme hépatique par la rifampicine.
 
+[page 215]
 214
 + MORPHINE
 Précaution d'emploi
@@ -16740,6 +16951,7 @@ Association DECONSEILLEE
 Diminution des concentrations plasmatiques de rivaroxaban, avec 
 risque de diminution de l'effet thérapeutique.
 
+[page 216]
 215
 + SACITUZUMAB
 A prendre en compte
@@ -16827,6 +17039,7 @@ Association DECONSEILLEE
 Diminution notable des concentrations plasmatiques du voxelotor, 
 avec risque de moindre efficacité.
 
+[page 217]
 216
 + ZIDOVUDINE
 Association DECONSEILLEE
@@ -16873,7 +17086,7 @@ l’inducteur.
 + MILLEPERTUIS
 CONTRE-INDICATION
  
-Risque de diminution  des concentrations plasmatiques de 
+Risque de diminution des concentrations plasmatiques de 
 rilpivirine par augmentation de son métabolisme hépatique par le 
 millepertuis.
 RIOCIGUAT
@@ -16905,6 +17118,7 @@ Augmentation de la fraction active de la rispéridone par diminution
 de son métabolisme hépatique par la fluoxétine, avec risque de 
 majoration des effets indésirables.
 
+[page 218]
 217
 + PAROXETINE
 Précaution d'emploi
@@ -16983,6 +17197,7 @@ Chez l'insuffisant cardiaque, risque d'augmentation des effets
 indésirables du métoprolol, par diminution de son métabolisme 
 hépatique par le rolapitant.
 
+[page 219]
 218
 + MILLEPERTUIS
 CONTRE-INDICATION
@@ -17062,6 +17277,7 @@ Surveillance clinique et biologique.
 Augmentation des concentrations plasmatiques de la rosuvastatine 
 par augmentation de son absorption.
 
+[page 220]
 219
 + PONATINIB
 Précaution d'emploi
@@ -17140,6 +17356,7 @@ ciclosporine et de la créatininémie.
 A prendre en compte
 Majoration légère de la sédation.
 
+[page 221]
 220
 + SIMVASTATINE
 Précaution d'emploi
@@ -17210,6 +17427,7 @@ posologie (une seule prise par jour).
 Risque d’augmentation des effets indésirables du sélexipag par 
 diminution de son métabolisme.
 
+[page 222]
 221
 + GEMFIBROZIL
 CONTRE-INDICATION
@@ -17283,6 +17501,7 @@ Association DECONSEILLEE
 Risque d’augmentation des effets indésirables de la silodosine par 
 l’inhibiteur, notamment à type d’hypotension orthostatique.
 
+[page 223]
 222
 SIMVASTATINE
 Voir aussi : inhibiteurs de l'HMG-CoA réductase (statines) - médicaments à l'origine d'atteintes musculaires - substrats à risque du CYP3A4
@@ -17367,6 +17586,7 @@ CONTRE-INDICATION
 Augmentation des concentrations plasmatiques de la simvastatine 
 par diminution de son métabolisme hépatique par la bithérapie.
 
+[page 224]
 223
 + PAMPLEMOUSSE (JUS ET FRUIT)
 Association DECONSEILLEE
@@ -17453,6 +17673,7 @@ dans certains médicaments comme les antiacides.
 Risque de baisse de l’efficacité du lithium par augmentation de son 
 élimination rénale par les sels de sodium.
 
+[page 225]
 224
 SOFOSBUVIR
 + AMIODARONE
@@ -17523,6 +17744,7 @@ Association DECONSEILLEE
 Tout traitement local vaginal est susceptible d'inactiver une 
 contraception locale spermicide.
 
+[page 226]
 225
 SPIRAMYCINE
 Voir aussi : substances susceptibles de donner des torsades de pointes - torsadogènes (sauf arsénieux, antiparasitaires, neuroleptiques, méthadone...)
@@ -17614,6 +17836,7 @@ posologique de l'anticonvulsivant associé.
 Augmentation des concentrations plasmatiques du diazépam, avec 
 risque de surdosage, par inhibition de son métabolisme hépatique.
 
+[page 227]
 226
 + DIHYDROERGOTAMINE
 CONTRE-INDICATION
@@ -17689,6 +17912,7 @@ Prendre le strontium à distance des fluoroquinolones (plus de deux
 heures, si possible).
 Diminution de l'absorption digestive du strontium.
 
+[page 228]
 227
 + ZINC
 Précaution d'emploi
@@ -17769,6 +17993,7 @@ Surveillance clinique et électrocardiographique pendant l'association.
 Risque majoré de troubles du rythme ventriculaire, notamment de
 torsades de pointes.
 
+[page 229]
 228
 + BÊTA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE
 Précaution d'emploi
@@ -17799,19 +18024,19 @@ pipéraquine.
 Association déconseillée:
 - avec les autres médicaments susceptibles de donner des torsades de 
 pointes.
-Si l’association ne peut  être évitée, contrôle clinique et 
+Si l’association ne peut être évitée, contrôle clinique et 
 électrocardiographique régulier.
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
 + DÉLAMANID
 CI - ASDEC
 Contre-indication:
-- avec citalopram, dompéridone, escitalopram, hydroxyzine et  
+- avec citalopram, dompéridone, escitalopram, hydroxyzine et 
 pipéraquine
 Associations déconseillées
 - avec les autres susbtances susceptibles de donner des torsades de 
 pointes.
-Si l’association ne peut  être évitée, contrôle clinique et 
+Si l’association ne peut être évitée, contrôle clinique et 
 électrocardiographique régulier.
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
@@ -17850,6 +18075,7 @@ Surveillance clinique et électrocardiographique pendant l'association.
 Risque majoré de troubles du rythme ventriculaire, notamment de 
 torsades de pointes.
 
+[page 230]
 229
 + METHADONE
 CI - ASDEC
@@ -17935,6 +18161,7 @@ Risque de majoration de la toxicité de ces molécules par diminution
 de leur métabolisme et/ou augmentation de leur biodisponibilité par 
 le crizotinib.
 
+[page 231]
 230
 + IDÉLALISIB
 Association DECONSEILLEE
@@ -18012,6 +18239,7 @@ cotrimoxazole et après son arrêt.
 Augmentation importante de l’effet de l’antivitamine K et du risque 
 hémorragique.
 
+[page 232]
 231
 + PHÉNYTOÏNE (ET, PAR EXTRAPOLATION, FOSPHÉNYTOÏNE)
 Association DECONSEILLEE
@@ -18096,6 +18324,7 @@ traitement par la clarithromycine.
 Risque d'hypoglycémie par augmentation des concentrations 
 plasmatiques de l’antidiabétique.
 
+[page 233]
 232
 + DANAZOL
 Association DECONSEILLEE
@@ -18172,6 +18401,7 @@ Ne pas utiliser ces deux médicaments simultanément ou
 successivement.
 Risque de vasoconstriction coronaire pouvant être fatale.
 
+[page 234]
 233
 SUNITINIB
 Voir aussi : inhibiteurs de tyrosine kinases métabolisés - substrats à risque du CYP3A4
@@ -18235,6 +18465,7 @@ SYMPATHOMIMÉTIQUES INDIRECTS
 CONTRE-INDICATION
 Risque de vasoconstriction et/ou de crises hypertensives.
 
+[page 235]
 234
 + ALCALOÏDES DE L'ERGOT DE SEIGLE DOPAMINERGIQUES
 Association DECONSEILLEE
@@ -18308,6 +18539,7 @@ Association DECONSEILLEE
 Hyperkaliémie potentiellement létale, surtout lors d'une insuffisance 
 rénale (addition des effets hyperkaliémiants).
 
+[page 236]
 235
 + GRAZOPREVIR + ELBASVIR
 Précaution d'emploi
@@ -18391,6 +18623,7 @@ Réduire la dose de talazoparib.
 Augmentation des concentrations de talazoparib avec risque de 
 majoration de la toxicité.
 
+[page 237]
 236
 + INHIBITEURS DE PROTÉASES BOOSTÉS PAR RITONAVIR
 Précaution d'emploi
@@ -18459,6 +18692,7 @@ Association DECONSEILLEE
 Risque de baisse de l'efficacité du tamoxifène, par inhibition de la 
 formation de son métabolite actif par la terbinafine.
 
+[page 238]
 237
 TAMSULOSINE
 Voir aussi : alphabloquants à visée urologique - médicaments abaissant la pression artérielle - médicaments à l'origine d'une hypotension orthostatique
@@ -18525,7 +18759,7 @@ tédizolide administré par voie orale.
 + TOPOTECANE
 Association DECONSEILLEE
  
-Risque d’augmentation des concentrations plasmatiques du  
+Risque d’augmentation des concentrations plasmatiques du 
 topotécan, par augmentation de son absorption avec le tédizolide 
 administré par voie orale, ou par diminution de son
 élimination avec le tédizolide administré par voie IV.
@@ -18541,6 +18775,7 @@ Risque majoré d’effets indésirables (dose-dépendants) à type de
 rhabdomyolyse (diminution du métabolisme hépatique de 
 l’hypocholestérolémiant).
 
+[page 239]
 238
 + DIGOXINE
 Précaution d'emploi
@@ -18621,16 +18856,17 @@ Avec l'atazanavir, le darunavir ou le lopinavir, augmentation des
 concentrations plasmatiques du ténofovir alafénamide par 
 augmentation de son absorption.
 
+[page 240]
 239
 + ITRACONAZOLE
 Précaution d'emploi
-En cas de co-administration avec  l’itraconazole, la dose de ténofovir 
+En cas de co-administration avec l’itraconazole, la dose de ténofovir 
 alafénamide doit être limitée à 10 mg par jour.
 Augmentation des concentrations plasmatiques du ténofovir 
 alafénamide par augmentation de son absorption.
 + KETOCONAZOLE
 Précaution d'emploi
-En cas de co-administration avec  le kétoconazole, la dose de ténofovir 
+En cas de co-administration avec le kétoconazole, la dose de ténofovir 
 alafénamide doit être limitée à 10 mg par jour.
 Augmentation des concentrations plasmatiques du ténofovir 
 alafénamide par augmentation de son absorption.
@@ -18704,6 +18940,7 @@ propafénone pendant le traitement par la terbinafine.
 Risque d'augmentation des effets indésirables de la propafénone, 
 par diminution de son métabolisme hépatique par la terbinafine.
 
+[page 241]
 240
 + RIFAMPICINE
 Précaution d'emploi
@@ -18770,6 +19007,7 @@ CONTRE-INDICATION
 Augmentation possiblement très importante de l’exposition des 
 métabolites actifs de la tétrabénazine.
 
+[page 242]
 241
 + QUINIDINE
 CONTRE-INDICATION
@@ -18847,6 +19085,7 @@ CONTRE-INDICATION
 Surdosage en théophylline par diminution importante de son 
 métabolisme.
 
+[page 243]
 242
 + ERYTHROMYCINE
 Association DECONSEILLEE
@@ -18943,6 +19182,7 @@ Diminution des concentrations plasmatiques et de l'efficacité de la
 théophylline (augmentation de son métabolisme par induction 
 enzymatique).
 
+[page 244]
 243
 + ROXITHROMYCINE
 A prendre en compte
@@ -19013,6 +19253,7 @@ Association DECONSEILLEE
 Risque de collapsus, hypertension paroxystique, hyperthermie, 
 convulsions, décès.
 
+[page 245]
 244
 TIBOLONE
 + ANTIVITAMINES K
@@ -19086,6 +19327,7 @@ Si l’association ne peut être évitée, surveillance clinique étroite.
 Majoration du risque hémorragique par addition des activités 
 antiagrégantes plaquettaires.
 
+[page 246]
 245
 + CICLOSPORINE
 Précaution d'emploi
@@ -19166,6 +19408,7 @@ Augmentation des concentrations de tolvaptan, avec risque de
 majoration importante des effets indésirables, notamment diurèse 
 importante, déshydratation, insuffisance rénale aiguë.
 
+[page 247]
 246
 TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS
 Les topiques gastro-intestinaux, le charbon, le lanthane et les antiacides (sels d'aluminium, de calcium et de magnésium), associés ou non aux alginates, diminuent la 
@@ -19244,11 +19487,12 @@ Voir aussi : cytotoxiques
 + TÉDIZOLIDE
 Association DECONSEILLEE
  
-Risque d’augmentation des concentrations plasmatiques du  
+Risque d’augmentation des concentrations plasmatiques du 
 topotécan, par augmentation de son absorption avec le tédizolide 
 administré par voie orale, ou par diminution de son
 élimination avec le tédizolide administré par voie IV.
 
+[page 248]
 247
 TORSADOGÈNES (SAUF ARSÉNIEUX, ANTIPARASITAIRES, NEUROLEPTIQUES, MÉTHADONE...)
 (amiodarone, citalopram, cocaine, disopyramide, domperidone, dronedarone, erythromycine, escitalopram, hydroquinidine, hydroxyzine, mequitazine, moxifloxacine, 
@@ -19276,7 +19520,7 @@ Si l’association est nécessaire, surveillance clinique et adaptation
 éventuelle de la posologie de la trabectedine pendant la durée du 
 traitement par l’itraconazole.
 Risque d’augmentation des concentrations plasmatiques de la 
-trabectedine  par l’itraconazole.
+trabectedine par l’itraconazole.
 TRAITEMENTS DE SUBSTITUTION NICOTINIQUE
 (nicotine
 + MÉDICAMENTS À RISQUE LORS DU SEVRAGE TABAGIQUE
@@ -19318,6 +19562,7 @@ tachycardie, sueurs, tremblements, confusion voire coma.
 A prendre en compte
 Risque d’apparition d’un syndrome sérotoninergique.
 
+[page 249]
 248
 + INHIBITEURS SÉLECTIFS DE LA RECAPTURE DE LA SÉROTONINE
 A prendre en compte
@@ -19392,6 +19637,7 @@ Précaution d'emploi
 Prendre la trientine à distance des sels de fer.
 Diminution des concentrations de fer sérique.
 
+[page 250]
 249
 TRIMETHOPRIME
 Voir aussi : hyperkaliémiants - sulfaméthoxazole + triméthoprime
@@ -19466,6 +19712,7 @@ CONTRE-INDICATION
 Risque d'hypertension artérielle, de vasoconstriction artérielle 
 coronaire.
 
+[page 251]
 250
 TRIPTANS NON MÉTABOLISÉS PAR LA MAO
 (eletriptan, frovatriptan, naratriptan)
@@ -19535,6 +19782,7 @@ Préférer une alternative thérapeutique peu ou pas métabolisée.
 Risque de diminution de l’effet de l’ulipristal, par augmentation de 
 son métabolisme hépatique par l’inducteur.
 
+[page 252]
 251
 + PROGESTATIFS CONTRACEPTIFS
 Association DECONSEILLEE
@@ -19576,7 +19824,7 @@ ASDEC - APEC
 Association déconseillée avec :
 - anifrolumab, atézolizumab, bélimumab, bimékizumab, blinatumomab, 
 canakinumab, durvalumab, guselkumab, inébilizumab, inotuzumab, 
-ixékizumab, obinutuzumab, ocrélizumab, ofatumumab, rituximab,  
+ixékizumab, obinutuzumab, ocrélizumab, ofatumumab, rituximab, 
 sacituzumab, spésolimab, tafasitamab, tézépelumab, tocilizumab, 
 ustékinumab 
 A prendre en compte avec :
@@ -19613,9 +19861,10 @@ Et pendant les 3 mois suivant l'arrêt de la corticothérapie.
 A l'exception des voies inhalées et locales, et pour des posologies 
 supérieures à 10 mg/j d’équivalent-prednisone (ou > 2 mg/kg/j chez 
 l’enfant ou > 20 mg/j chez l’enfant de plus de 10 kg) pendant plus 
-de deux semaines et pour les « bolus » de corticoïdes:  risque de 
+de deux semaines et pour les « bolus » de corticoïdes: risque de 
 maladie vaccinale généralisée éventuellement mortelle.
 
+[page 253]
 252
 + HYDROXYCARBAMIDE
 Association DECONSEILLEE
@@ -19694,6 +19943,7 @@ injectable : risque de majoration de l'effet hypotenseur de la
 nimodipine par augmentation de ses concentrations plasmatiques 
 (diminution de son métabolisme par l'acide valproïque).
 
+[page 254]
 253
 + PÉNEMS
 Association DECONSEILLEE
@@ -19773,6 +20023,7 @@ CONTRE-INDICATION
 Diminution des concentrations plasmatiques de velpatasvir par 
 l’inducteur, avec possible retentissement sur l’efficacité.
 
+[page 255]
 254
 + MILLEPERTUIS
 CONTRE-INDICATION
@@ -19848,6 +20099,7 @@ Association DECONSEILLEE
 Diminution importante des concentrations de vénétoclax, avec 
 risque de perte d’efficacité.
 
+[page 256]
 255
 + INHIBITEURS PUISSANTS DU CYP3A4
 CI - PE
@@ -19918,6 +20170,7 @@ de 6 heures ou de 12 heures par rapport à la prise d’afatinib.
 Augmentation des concentrations plasmatique d’afatinib par 
 augmentation de son absorption par le vérapamil.
 
+[page 257]
 256
 + AMIODARONE
 ASDEC - PE
@@ -20015,6 +20268,7 @@ A prendre en compte
 Risque de majoration de la toxicité de la doxorubicine par 
 augmentation de ses concentrations plasmatiques.
 
+[page 258]
 257
 + DRONEDARONE
 Précaution d'emploi
@@ -20106,6 +20360,7 @@ A prendre en compte
 Augmentation des concentrations plasmatiques de vérapamil, avec 
 risque de survenue d’effets indésirables.
 
+[page 259]
 258
 + PIMOZIDE
 CONTRE-INDICATION
@@ -20181,7 +20436,7 @@ VINCA-ALCALOÏDES CYTOTOXIQUES
 + FLUCONAZOLE
 Précaution d'emploi
 Surveillance clinique et biologique étroite pendant l’association.
-Risque de majoration  de la toxicité de l’antimitotique par diminution 
+Risque de majoration de la toxicité de l’antimitotique par diminution 
 de son métabolisme hépatique par le fluconazole.
 + INDUCTEURS ENZYMATIQUES
 Association DECONSEILLEE
@@ -20189,6 +20444,7 @@ Association DECONSEILLEE
 Diminution des concentrations plasmatiques du vinca-alcaloïde par 
 l’inducteur, avec possible retentissement sur l’efficacité..
 
+[page 260]
 259
 + INHIBITEURS PUISSANTS DU CYP3A4
 Association DECONSEILLEE
@@ -20267,6 +20523,7 @@ l'association.
 Risque de baisse de l'efficacité du voriconazole par augmentation 
 de son métabolisme hépatique par l'efavirenz.
 
+[page 261]
 260
 + FLUCLOXACILLINE
 Association DECONSEILLEE
@@ -20363,6 +20620,7 @@ Diminution importante des concentrations plasmatiques du
 voriconazole avec risque de perte d'efficacité, par augmentation de 
 son métabolisme hépatique par la rifampicine.
 
+[page 262]
 261
 + VENLAFAXINE
 A prendre en compte
@@ -20437,6 +20695,7 @@ Prendre les sels de calcium à distance du zinc (plus de 2 heures si
 possible).
 Diminution de l’absorption digestive du zinc par le calcium.
 
+[page 263]
 262
 + CYCLINES
 Précaution d'emploi

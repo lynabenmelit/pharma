@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 1 contre-indication
@@ -95,6 +96,7 @@ ANGIZAR 50 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1094/angizar-50mg-comprime-pellicule-secable
 1/6
 
+[page 2]
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -162,6 +164,7 @@ ANGIZAR 50 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1094/angizar-50mg-comprime-pellicule-secable
 2/6
 
+[page 3]
 Toutes
 ⊗Contre-indication
 ▲Association déconseillée
@@ -261,6 +264,7 @@ ANGIZAR 50 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1094/angizar-50mg-comprime-pellicule-secable
 3/6
 
+[page 4]
 ou antipyrétiques (>= 500 mg par prise et/ou < 3g par jour) :
 Insuffisance rénale aiguë chez le patient à risque (âgé,
 déshydraté, sous diurétiques, avec une fonction rénale altérée),
@@ -334,6 +338,7 @@ ANGIZAR 50 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1094/angizar-50mg-comprime-pellicule-secable
 4/6
 
+[page 5]
 Oui, ANGIZAR 50MG figure dans la nomenclature nationale des produits pharmaceutiques (date d'enregistrement : 2012-01-18, échéance : 2012-01-18).
 ANGIZAR 50MG est-il un générique ?
 ANGIZAR 50MG est classé dans la nomenclature nationale comme un médicament générique.
@@ -363,6 +368,7 @@ ANGIZAR 50 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1094/angizar-50mg-comprime-pellicule-secable
 5/6
 
+[page 6]
 Voir plus
 Pharmaceutiques
 Trouver un soin

@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 Statut critique: Ce médicament figure sur la liste ministérielle des médicaments critiques.
 ✷Interactions médicamenteuses
@@ -59,6 +60,7 @@ DICLOFENAC 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/384/diclofenac-100mg-suppositoire
 1/7
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -127,6 +129,7 @@ DICLOFENAC 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/384/diclofenac-100mg-suppositoire
 2/7
 
+[page 3]
 Selon la nomenclature (LISTE II / HOP), ce médicament est inscrit sur la liste II, délivré sur ordonnance et réservé à l'usage hospitalier. Seul un
 professionnel de santé peut conseiller dans votre situation.
 Présentations de DICLOFENAC enregistrées
@@ -208,6 +211,7 @@ DICLOFENAC 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/384/diclofenac-100mg-suppositoire
 3/7
 
+[page 4]
 RISQUES
 Majoration du risque ulcérogène et hémorragique digestif.
 CONDUITE À TENIR
@@ -290,6 +294,7 @@ DICLOFENAC 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/384/diclofenac-100mg-suppositoire
 4/7
 
+[page 5]
 égales à 20 mg par semaine), contrôle hebdomadaire de
 l'hémogramme durant les premières semaines de l'association.
 Surveillance accrue en cas d'altération (même légère) de la
@@ -375,6 +380,7 @@ DICLOFENAC 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/384/diclofenac-100mg-suppositoire
 5/7
 
+[page 6]
 Substances de la classe (19)
 Source : ANSM
 via la classe ANTI-INFLAMMATOIRES NON STÉROÏDIENS
@@ -440,6 +446,7 @@ DICLOFENAC 100 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/384/diclofenac-100mg-suppositoire
 6/7
 
+[page 7]
 Quelle est la substance active de DICLOFENAC 100MG ?
 La substance active de DICLOFENAC 100MG est DICLOFENAC SODIQUE (DCI), selon la nomenclature nationale des produits pharmaceutiques (MIPH).
 DICLOFENAC 100MG est-il enregistré en Algérie ?

@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 BIOPROFEN 100
@@ -54,6 +55,7 @@ fabrication
 
 1/9
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -108,6 +110,7 @@ KETONEED - LES LABORATOIRES FRATER RAZES
 
 2/9
 
+[page 3]
 PROFENID - SANOFI AVENTIS FRANCE
 PROHEFEN - HUPP PHARMA
 Le laboratoire BIOTHERA compte 48 autres produits enregistrés en Algérie. Voir le laboratoire →
@@ -159,6 +162,7 @@ MIFAMURTIDE
 
 3/9
 
+[page 4]
 Aux doses élevées d'AINS, risque de moindre
 efficacité du mifamurtide.
 ▲Association déconseillée
@@ -191,6 +195,7 @@ HÉPARINES (DOSES CURATIVES ET/OU SUJET ÂGÉ)
 
 4/9
 
+[page 5]
 Augmentation du risque hémorragique
 (agression de la muqueuse gastroduodénale par
 les anti-inflammatoires non stéroïdiens).
@@ -231,6 +236,7 @@ NICORANDIL
 
 5/9
 
+[page 6]
 Majoration du risque ulcérogène et
 PEMETREXED
 Précaution d'emploi
@@ -261,6 +267,7 @@ COBIMÉTINIB
 
 6/9
 
+[page 7]
 Augmentation du risque hémorragique.
 Surveillance clinique.
 DIURÉTIQUES
@@ -293,6 +300,7 @@ En cas d'association, surveiller la fonction rénale.
 
 7/9
 
+[page 8]
 l'anti-inflammatoire ou en présence de facteurs
 de risque d'insuffisance rénale.
 ○
@@ -324,6 +332,7 @@ BIOPROFEN 100MG/2ML est-il un générique ?
 
 8/9
 
+[page 9]
 BIOPROFEN 100MG/2ML est classé dans la nomenclature nationale comme un médicament générique.
 Quel laboratoire fabrique BIOPROFEN 100MG/2ML ?
 BIOPROFEN 100MG/2ML est produit par le laboratoire BIOTHERA (ALGERIE) ; il est fabriqué en Algérie.

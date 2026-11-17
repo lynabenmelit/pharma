@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 27 contre-indication
@@ -57,6 +58,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 1/19
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -105,6 +107,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 2/19
 
+[page 3]
 📊 ARICLARE en Algérie : équivalents, laboratoire, validité
 6 autres présentations enregistrées en Algérie ont la même substance active (CLARITHROMYCINE), le même dosage et la
 même forme que ARICLARE 500MG, issues de 6 laboratoires dont 6 fabriquées localement. 14 autres produits
@@ -150,6 +153,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 3/19
 
+[page 4]
 Interactions médicamenteuses
 Interactions de la substance active avec d'autres médicaments, selon le Thesaurus de l'ANSM (France). Elles
 valent pour toutes les spécialités qui contiennent cette substance.
@@ -210,6 +214,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 4/19
 
+[page 5]
 patient à fonction rénale et hépatique normales,
 réduire la dose à 4 mg ou 5 mg, respectivement,
 en cas d'association à un inhibiteur puissant du
@@ -273,6 +278,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 5/19
 
+[page 6]
 de l'alcaloïde de l’ergot de seigle).
 Source : ANSM
 via la classe MACROLIDES (SAUF SPIRAMYCINE)
@@ -338,6 +344,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 6/19
 
+[page 7]
 Source : ANSM
 via la classe MACROLIDES (SAUF SPIRAMYCINE)
 ESZOPICLONE
@@ -404,6 +411,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 7/19
 
+[page 8]
 métabolisme hépatique par l’inhibiteur.
 Précaution d'emploi:
 - avec les autres inhibiteurs puissants du CYP3A4
@@ -466,6 +474,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 8/19
 
+[page 9]
 Augmentation des concentrations plasmatiques
 de la bithérapie par diminution de son
 métabolisme hépatique par l’inhibiteur.
@@ -531,6 +540,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 9/19
 
+[page 10]
 Risque de majoration des effets indésirables,
 notamment à type de troubles du rythme
 cardiaque.
@@ -597,6 +607,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 10/19
 
+[page 11]
 Substances de la classe (10)
 Source : ANSM
 ALCALOÏDES DE L'ERGOT DE SEIGLE DOPAMINERGIQUES
@@ -654,6 +665,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 11/19
 
+[page 12]
 Augmentation des concentrations plasmatiques
 de l’apixaban par l'inhibiteur, avec majoration du
 risque de saignement.
@@ -715,6 +727,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 12/19
 
+[page 13]
 HALOFANTRINE
 SUBSTANCE
 Aucun médicament à cette substance dans la nomenclature
@@ -777,6 +790,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 13/19
 
+[page 14]
 préalable du QT et surveillance ECG monitorée.
 Source : ANSM
 via la classe INHIBITEURS PUISSANTS DU CYP3A4
@@ -843,6 +857,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 14/19
 
+[page 15]
 RISQUES
 Risque de majoration des effets indésirables de la
 quinine, notamment troubles du rythme
@@ -910,6 +925,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 15/19
 
+[page 16]
 Source : ANSM
 via la classe INHIBITEURS PUISSANTS DU CYP3A4
 TAMSULOSINE
@@ -971,6 +987,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 16/19
 
+[page 17]
 RISQUES
 Risque majoré d'effets indésirables
 (concentration-dépendants) à type de
@@ -1032,6 +1049,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 17/19
 
+[page 18]
 Voir les 21 autres
 ○
 À prendre en compte
@@ -1063,6 +1081,7 @@ ARICLARE 500 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/3024/ariclare-500mg-comprime-pellicule
 18/19
 
+[page 19]
 Mention de prescription dans la nomenclature : HOP. Pour votre situation, demandez conseil à un médecin ou à un
 pharmacien.
 Où trouver la posologie et les effets secondaires de ARICLARE 500MG ?

@@ -1,3 +1,4 @@
+[page 1]
 Dernière mise à jour le 03/11/2026
 DOXYCYCLINE SANDOZ 100 mg, comprimé sécable
  remboursable
@@ -31,6 +32,7 @@ Base de Données Publique des Médicaments
 https://base-donnees-publique.medicaments.gouv.fr/medicament/60982364/extrait
 1/4
 
+[page 2]
 Code CIP : 376 663-6 ou 34009 376 663 6 7
 Déclaration de commercialisation : 29/05/2008
 Cette présentation est agréée aux collectivités
@@ -67,6 +69,7 @@ Base de Données Publique des Médicaments
 https://base-donnees-publique.medicaments.gouv.fr/medicament/60982364/extrait
 2/4
 
+[page 3]
 Auteur : Haute autorité de santé
 Type : Recommandation de bonne pratique
 Date de mise à jour :Mai 2025
@@ -103,6 +106,7 @@ Base de Données Publique des Médicaments
 https://base-donnees-publique.medicaments.gouv.fr/medicament/60982364/extrait
 3/4
 
+[page 4]
 legifrance.gouv.fr
 gouvernement.fr
 service-public.fr

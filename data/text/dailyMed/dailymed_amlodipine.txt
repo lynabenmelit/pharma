@@ -1,4 +1,5 @@
-AMLODIPINE- amlodipine besylate tablet  
+[page 1]
+AMLODIPINE- amlodipine besylate tablet 
 CARACO PHARMACEUTICAL LABORATORIES, LTD.
 ----------
 DESCRIPTION
@@ -38,6 +39,7 @@ reduction in peripheral vascular resistance and reduction in blood pressure.
 3
 a
 
+[page 2]
 The precise mechanisms by which amlodipine relieves angina have not been fully delineated, but are
 thought to include the following:
 Exertional Angina
@@ -84,6 +86,7 @@ greater response than patients with mild hypertension (diastolic pressure 90-104
 subjects experienced no clinically significant change in blood pressures (+1/-2 mmHg).
 2
 
+[page 3]
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a
 decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal
 plasma flow without change in filtration fraction or proteinuria.
@@ -130,6 +133,7 @@ The effectiveness of 5 to 10 mg/day of amlodipine in exercise-induced angina has
 placebo-controlled, double-blind clinical trials of up to 6 weeks duration involving 1038 patients (684
 amlodipine, 354 placebo) with chronic stable angina. In 5 of the 8 studies significant increases in
 
+[page 4]
 exercise time (bicycle or treadmill) were seen with the 10 mg dose. Increases in symptom-limited
 exercise time averaged 12.8% (63 sec) for amlodipine 10 mg, and averaged 7.9% (38 sec) for
 amlodipine 5 mg. Amlodipine 10 mg also increased time to 1 mm ST segment deviation in several
@@ -166,15 +170,11 @@ In a angiographic substudy (n=274) conducted within CAMELOT, there was no signif
 between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed
 by intravascular ultrasound.
 Figure 1: Kaplan-Meier analysis of composite clinical outcomes for amlodipine versus placebo
- 
- 
 
- 
+[page 5]
 Figure 2 – Effects on primary endpoint of amlodipine versus placebo across sub-groups
- 
- 
 
- 
+[page 6]
 Table 1 below summarizes the significant clinical outcomes from the composites of the primary
 endpoint. The other components of the primary endpoint including cardiovascular death, resuscitated
 cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral
@@ -214,8 +214,9 @@ Revascularization*
 103
 (15.7)
 27%
-(0.033) 
+(0.033)
 
+[page 7]
 *Total patients with these events
 Studies in Patients with Congestive Heart Failure
 Amlodipine has been compared to placebo in four 8-12 week studies of patients with NYHA class II/III
@@ -238,7 +239,7 @@ amlodipine and placebo in the primary endpoint of all cause mortality (95% confi
 reduction to 29% increase on amlodipine). With amlodipine there were more reports of pulmonary
 edema.
 INDICATIONS AND USAGE
-1.  Hypertension
+1. Hypertension
 Amlodipine is indicated for the treatment of hypertension. It may be used alone or in combination with
 other antihypertensive agents.
 2. Coronary Artery Disease (CAD)
@@ -256,6 +257,7 @@ CONTRAINDICATIONS
 Amlodipine is contraindicated in patients with known sensitivity to amlodipine.
 WARNINGS
 
+[page 8]
 Increased Angina and/or Myocardial Infarction
 Rarely, patients, particularly those with severe obstructive coronary artery disease, have developed
 documented increased frequency, duration and/or severity of angina or acute myocardial infarction on
@@ -301,6 +303,7 @@ in combination, each agent independently exerted its own blood pressure lowering
 1/2
 ®
 
+[page 9]
 Effect of amlodipine on other agents
 ATORVASTATIN: Coadministration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin
 resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.
@@ -354,6 +357,7 @@ The effect of amlodipine on blood pressure in patients less than 6 years of age 
 2
 *
 
+[page 10]
 Geriatric Use
 Clinical studies of amlodipine did not include sufficient numbers of subjects aged 65 and over to
 determine whether they respond differently from younger subjects. Other reported clinical experience
@@ -456,6 +460,7 @@ Somnolence
 0.8
 0.3
 
+[page 11]
 The following events occurred in <1% but >0.1% of patients in controlled clinical trials or under
 conditions of open trials or marketing experience where a causal relationship is uncertain; they are
 listed to alert the physician to a possible relationship:
@@ -515,6 +520,7 @@ Amlodipine has been used safely in patients with chronic obstructive pulmonary d
 ** 
 **
 
+[page 12]
 compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes
 mellitus, and abnormal lipid profiles.
 OVERDOSAGE
@@ -561,33 +567,34 @@ daily. Doses in excess of 5 mg daily have not been studied in pediatric patients
 PHARMACOLOGY.
 2
 
+[page 13]
 Coadministration with Other Antihypertensive and/or Antianginal Drugs
 Amlodipine has been safely administered with thiazides, ACE inhibitors, beta-blockers, long-acting
 nitrates, and/or sublingual nitroglycerin.
 HOW SUPPLIED
 Amlodipine besylate tablets, 2.5 mg are white to off-white colored, diamond-shaped, flat-faced,
 beveled-edge tablets, debossed with 568 on one side and plain on the other side available as follows:
-Bottles of 90                      NDC 57664-568-99
-Bottles of 100                    NDC 57664-568-88 
-Bottles of 500                    NDC 57664-568-13 
-Bottles of 1000                  NDC 57664-568-18
+Bottles of 90 NDC 57664-568-99
+Bottles of 100 NDC 57664-568-88 
+Bottles of 500 NDC 57664-568-13 
+Bottles of 1000 NDC 57664-568-18
 Amlodipine besylate tablets, 5 mg are white to off-white colored, octagonal, flat-faced, beveled-edge
 tablets, debossed with 569 on one side and plain on the other side available as follows:
-Bottles of 90                      NDC 57664-569-99
-Bottles of 100                    NDC 57664-569-88
-Bottles of 500                    NDC 57664-569-13
-Bottles of 1000                  NDC 57664-569-18
+Bottles of 90 NDC 57664-569-99
+Bottles of 100 NDC 57664-569-88
+Bottles of 500 NDC 57664-569-13
+Bottles of 1000 NDC 57664-569-18
 Amlodipine besylate tablets, 10 mg are white to off-white colored, circular, flat-faced, beveled-edge
 tablets, debossed with 570 on one side and plain on the other side available as follows:
-Bottles of 90                      NDC 57664-570-99
-Bottles of 100                    NDC 57664-570-88
-Bottles of 500                    NDC 57664-570-13
-Bottles of 1000                  NDC 57664-570-18
+Bottles of 90 NDC 57664-570-99
+Bottles of 100 NDC 57664-570-88
+Bottles of 500 NDC 57664-570-13
+Bottles of 1000 NDC 57664-570-18
 Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled
 Room Temperature].
 Protect from light and moisture
-Viagra  is a registered trademark of Pfizer.
-Maalox  is a registered trademark of Novartis.
+Viagra is a registered trademark of Pfizer.
+Maalox is a registered trademark of Novartis.
 Manufactured by:
 Caraco Pharmaceutical Laboratories, Ltd.
 1150 Elijah McCoy Drive
@@ -605,6 +612,7 @@ other medicines to treat these conditions.
 ®
 ®
 
+[page 14]
 High Blood Pressure (hypertension)
 High blood pressure comes from blood pushing too hard against your blood vessels. Amlodipine
 relaxes your blood vessels which lets your blood flow more easily and helps lower your blood
@@ -649,6 +657,7 @@ swelling of your legs or ankles
 tiredness, extreme sleepiness
 stomach pain, nausea
 
+[page 15]
 p
 ,
 dizziness
@@ -672,7 +681,7 @@ You can ask your pharmacist or doctor for information about amlodipine.
 Manufactured by:
 CARACO PHARMACEUTICAL LABORATORIES, LTD.
 DETROIT, MI 48202
-AMLODIPINE  
+AMLODIPINE 
 amlodipine besylate tablet
 Product Information
 Product T ype
@@ -699,8 +708,8 @@ microcrystalline cellulose (UNII: OP1R32D61U)
 sodium starch glycolate ()
  
 magnesium stearate (UNII: 70097M6I30)
- 
 
+[page 16]
 Product Characteristics
 Color
 white (White to Off-White)
@@ -714,7 +723,7 @@ Flavor
 Imprint Code
 568
 Contains
-    
+ 
 Coating
 false
 Symbol
@@ -733,7 +742,7 @@ Marketing End Date
 500 in 1 BOTTLE
 4 NDC:57664-568-18
 1000 in 1 BOTTLE
-AMLODIPINE  
+AMLODIPINE 
 amlodipine besylate tablet
 Product Information
 Product T ype
@@ -774,12 +783,13 @@ Flavor
 Imprint Code
 569
 Contains
-    
+ 
 Coating
 false
 Symbol
 false
 
+[page 17]
 Packaging
 #
 Item Code
@@ -794,7 +804,7 @@ Marketing End Date
 500 in 1 BOTTLE
 4 NDC:57664-569-18
 1000 in 1 BOTTLE
-AMLODIPINE  
+AMLODIPINE 
 amlodipine besylate tablet
 Product Information
 Product T ype
@@ -835,7 +845,7 @@ Flavor
 Imprint Code
 570
 Contains
-    
+ 
 Coating
 false
 Symbol
@@ -855,6 +865,7 @@ Marketing End Date
 4 NDC:57664-570-18
 1000 in 1 BOTTLE
 
+[page 18]
 CARACO PHARMACEUTICAL LABORATORIES, LTD.
 Labeler - CARACO PHARMACEUTICAL LABORATORIES, LTD.
  

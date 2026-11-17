@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 Statut critique: Ce médicament figure sur la liste ministérielle des médicaments critiques.
 ✷Interactions médicamenteuses
@@ -54,6 +55,7 @@ mg suppositoire
 
 1/7
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -117,6 +119,7 @@ Télécharger
 
 2/7
 
+[page 3]
 Selon la nomenclature (LISTE II / HOP), ce médicament est inscrit sur la liste II, délivré sur ordonnance et réservé à l'usage hospitalier. Seul un
 professionnel de santé peut conseiller dans votre situation.
 Présentations de DICLOFENAC enregistrées
@@ -170,6 +173,7 @@ ACIDE ACETYLSALICYLIQUE
 
 3/7
 
+[page 4]
 Majoration du risque ulcérogène et hémorragique digestif.
 Association déconseillée avec :
 - des doses anti-inflammatoires d'acide acétylsalicylique (>=1g
@@ -217,6 +221,7 @@ Association nécessitant une précaution d'emploi :
 
 4/7
 
+[page 5]
 égales à 20 mg par semaine), contrôle hebdomadaire de
 l'hémogramme durant les premières semaines de l'association.
 Surveillance accrue en cas d'altération (même légère) de la
@@ -258,6 +263,7 @@ antihypertenseur.
 
 5/7
 
+[page 6]
 Substances de la classe (19)
 INHIBITEURS DE L'ENZYME DE CONVERSION
 Insuffisance rénale aiguë chez le patient à risque (âgé,
@@ -298,6 +304,7 @@ Comprendre cette section
 
 6/7
 
+[page 7]
 Quelle est la substance active de DICLOFENAC 100MG ?
 La substance active de DICLOFENAC 100MG est DICLOFENAC SODIQUE (DCI), selon la nomenclature nationale des produits pharmaceutiques (MIPH).
 DICLOFENAC 100MG est-il enregistré en Algérie ?

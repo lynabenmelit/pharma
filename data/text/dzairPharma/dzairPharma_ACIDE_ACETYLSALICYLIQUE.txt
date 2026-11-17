@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 2 contre-indication
@@ -86,6 +87,7 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 1/8
 
+[page 2]
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -153,6 +155,7 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 2/8
 
+[page 3]
 Toutes
 ⊗Contre-indication
 ▲Association déconseillée
@@ -241,6 +244,7 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 3/8
 
+[page 4]
 ANTI-INFLAMMATOIRES NON STÉROÏDIENS
 CLASSE
 Association déconseillée
@@ -321,6 +325,7 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 4/8
 
+[page 5]
 PEMETREXED
 SUBSTANCE
 Association déconseillée
@@ -409,6 +414,7 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 5/8
 
+[page 6]
 Source : ANSM
 via la classe SUBSTANCES À ABSORPTION RÉDUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS
 ◆Précaution d'emploi
@@ -485,6 +491,7 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 6/8
 
+[page 7]
 ○
 À prendre en compte
 8
@@ -531,6 +538,7 @@ ACEPRAL 500 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/197/acepral-500mg-comprime
 7/8
 
+[page 8]
 ← Retour
 📚 Toutes les présentations de ACEPRAL
 🔍 Tous les médicaments avec cette DCI

@@ -135,6 +135,24 @@ The scripts create the following Week 1 outputs:
 | `data/medicaments_clean.csv` | Cleaned and normalized nomenclature table |
 | `reports/week1_prep_report.json` | Summary of documents kept/rejected and quality flags |
 
+## Chunk preparation
+
+Run the chunking script from the project root:
+
+```powershell
+.\.venv\Scripts\python.exe src\search\chunk_documents.py
+```
+
+The script reads `data/text_clean/` and creates:
+
+| Output | Purpose |
+|---|---|
+| `data/chunks.jsonl` | One passage per line, with document and source metadata |
+| `data/chunks_report.json` | Chunk count and average/largest chunk size |
+
+Chunks are kept below 1500 characters. A 200-character overlap is added
+between passages so that a sentence is less likely to lose nearby context.
+
 Dose and length outliers are reported rather than automatically deleting
 medical content: a document can legitimately contain several therapeutic
 dosages. The flags should be reviewed before any later retrieval step.

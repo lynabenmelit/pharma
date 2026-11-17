@@ -1,5 +1,6 @@
+[page 1]
 BAYER ASPIRIN EXTRA STRENGTH CAPLETS- bayer aspirin extra
-strength tablet  
+strength tablet 
 Bayer HealthCare LLC.
 ----------
 BAYER Aspirin Extra Strength Caplets
@@ -38,6 +39,7 @@ take more or for a longer time than directed
 1
 nonsteroidal anti-inflammatory drug
 
+[page 2]
 Do not use
 if you are allergic to aspirin or any other pain reliever/fever reducer
 if you have ever had an allergic reaction to this product or any of its ingredients
@@ -77,6 +79,7 @@ Other Information
 save carton for full directions and warnings
 store at room temperature. Avoid excessive heat above 40ºC (104ºF).
 
+[page 3]
 Inactive ingredients
 carnauba wax, corn starch, D&C red #7 calcium lake, FD&C blue #2 aluminum lake,
 FD&C red #40 aluminum lake, hypromellose, powdered cellulose, propylene glycol,
@@ -84,7 +87,8 @@ shellac, titanium dioxide, triacetin
 Questions or comments?1-800-331-4536 (Mon – Fri 9AM – 5PM EST)
 Carton 100 caplets
 
-BAYER ASPIRIN  EXTRA STRENGTH CAPLETS 
+[page 4]
+BAYER ASPIRIN EXTRA STRENGTH CAPLETS 
 bayer aspirin extra strength tablet
 Product Information
 Product Type
@@ -94,6 +98,7 @@ NDC:0280-2020
 Route of Administration
 ORAL
 
+[page 5]
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of Strength
@@ -141,7 +146,7 @@ Flavor
 Imprint Code
 Extra;Strength;BAYER
 Contains
-    
+ 
 Packaging
 #
 Item Code
@@ -176,6 +181,7 @@ Address
 ID/FEI
 Business Operations
 
+[page 6]
 Bayer HealthCare LLC.
 Bayer HealthCare LLC Consumer Care
 072827066

@@ -1,4 +1,5 @@
-DOXYCYCLINE HYCLATE- doxycycline hyclate tablet  
+[page 1]
+DOXYCYCLINE HYCLATE- doxycycline hyclate tablet 
 Actavis Pharma, Inc.
 ----------
 Doxycycline Hyclate Caps and Tabs A062031 A062421
@@ -39,6 +40,7 @@ sodium lauryl sulfate and titanium dioxide.
 6
 2
 
+[page 2]
 CLINICAL PHARMACOLOGY
 Tetracyclines are readily absorbed and are bound to plasma proteins in varying degree.
 They are concentrated by the liver in the bile, and excreted in the urine and feces at high
@@ -82,6 +84,7 @@ Doxycycline has been shown to be active against most isolates of the following
 microorganisms, both in vitro and in clinical infections as described in the INDICATIONS
 AND USAGE section of the package insert for doxycycline hyclate.
 
+[page 3]
 Gram-Negative Bacteria
 Acinetobacter species
 Bartonella bacilliformis
@@ -116,9 +119,10 @@ Rickettsiae
 Treponema pallidum
 Treponema pallidum subspecies pertenue
 Ureaplasma urealyticum
-Parasites  
+Parasites 
 Balantidium coli
 
+[page 4]
 Entamoeba species
 Plasmodium falciparum*
 *Doxycycline has been found to be active against the asexual erythrocytic forms of
@@ -161,6 +165,7 @@ Brucellosis due to Brucella species (in conjunction with streptomycin).
 Bartonellosis due to Bartonella bacilliformis.
 Granuloma inguinale caused by Klebsiella granulomatis.
 
+[page 5]
 Because many strains of the following groups of microorganisms have been shown to
 be resistant to doxycycline, culture and susceptibility testing are recommended.
 Doxycycline is indicated for treatment of infections caused by the following gram-
@@ -177,7 +182,7 @@ positive microorganisms when bacteriologic testing indicates appropriate suscept
 the drug:
 Upper respiratory infections caused by Streptococcus pneumoniae.
 Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to
-reduce the incidence or progression of disease  following exposure to aerosolized
+reduce the incidence or progression of disease following exposure to aerosolized
 Bacillus anthracis.
 When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of
 the following infections:
@@ -201,6 +206,7 @@ tetracyclines.
 WARNINGS
 The use of drugs of the tetracycline class during tooth development (last half of
 
+[page 6]
 pregnancy, infancy and childhood to the age of 8 years) may cause permanent
 discoloration of the teeth (yellow-gray-brown). This adverse reaction is more common
 during long-term use of the drugs, but it has been observed following repeated short-
@@ -247,6 +253,7 @@ discontinued.
 Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal
 tissues, and can have toxic effects on the developing fetus (often related to retardation
 
+[page 7]
 of skeletal development). Evidence of embryotoxicity has also been noted in animals
 treated early in pregnancy. If any tetracycline is used during pregnancy or if the patient
 becomes pregnant while taking this drug, the patient should be apprised of the potential
@@ -289,6 +296,7 @@ area,
 returning from an endemic area,
 - should not exceed 4 months.
 
+[page 8]
 All patients taking doxycycline should be advised:
 - to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to
 discontinue therapy if phototoxicity (e.g., skin eruption, etc.) occurs. Sunscreen or
@@ -332,6 +340,7 @@ magnesium, and iron-containing preparations.
 Absorption of tetracyclines is impaired by bismuth subsalicylate.
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
+[page 9]
 Concurrent use of tetracycline may render oral contraceptives less effective.
 Drug/Laboratory Test Interactions
 False elevations of urinary catecholamine levels may occur due to interference with the
@@ -376,6 +385,7 @@ The effect of tetracyclines on labor and delivery is unknown.
 2
 3
 
+[page 10]
 Nursing Mothers
 Tetracyclines are excreted in human milk; however, the extent of absorption of
 tetracyclines, including doxycycline, by the breastfed infant is not known. Short-term
@@ -420,6 +430,7 @@ Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have be
 reported.
 4
 
+[page 11]
 Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams,
 hallucination.
 Other: Bulging fontanels in infants and intracranial hypertension in adults. (See
@@ -460,6 +471,7 @@ drugs in the tetracycline class is recommended to wash down the drugs and reduce
 risk of esophageal irritation and ulceration. (See ADVERSE REACTIONS.)
 If gastric irritation occurs, it is recommended that doxycycline be given with food or
 
+[page 12]
 milk. The absorption of doxycycline is not markedly influenced by simultaneous ingestion
 of food or milk.
 Studies to date have indicated that administration of doxycycline at the usual
@@ -487,8 +499,8 @@ the adult dose. Prophylaxis should begin 1 to 2 days before travel to the malari
 Prophylaxis should be continued daily during travel in the malarious area and for 4
 weeks after the traveler leaves the malarious area.
 Inhalational anthrax (post-exposure):
-        ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
-        CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a
+ ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
+ CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a
 day for 60 days. Children weighing 45 kg or more should receive the adult dose.
 HOW SUPPLIED
 Doxycycline Hyclate Tablets, USP (equivalent to 100 mg doxycycline) are round, film-
@@ -499,6 +511,7 @@ Dispense in a tight, light-resistant container with child-resistant closure.
 ANIMAL PHARMACOLOGY AND ANIMAL TOXICOLOGY
 Hyperpigmentation of the thyroid has been produced by members of the tetracycline
 
+[page 13]
 class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO ,
 and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO , and
 methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline.
@@ -538,9 +551,10 @@ Rx Only
 4
 4
 4
-th 
+th
 
-DOXYCYCLINE HYCLATE  
+[page 14]
+DOXYCYCLINE HYCLATE 
 doxycycline hyclate tablet
 Product Information
 Product Type
@@ -593,9 +607,10 @@ Flavor
 Imprint Code
 DAN;5553
 
+[page 15]
 Actavis Pharma, Inc.
 Contains
-    
+ 
 Packaging
 #
 Item Code

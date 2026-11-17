@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 2 contre-indication
@@ -59,6 +60,7 @@ CO-DOLYC 500 mg/30 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/232/co-dolyc-500mg-30mg-comprime
 1/9
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -105,6 +107,7 @@ CO-DOLYC 500 mg/30 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/232/co-dolyc-500mg-30mg-comprime
 2/9
 
+[page 3]
 📊 CO-DOLYC en Algérie : équivalents, laboratoire, validité
 3 autres présentations enregistrées en Algérie ont la même substance active (PARACETAMOL/CODEINE PHOSPHATE
 HEMIHYDRATE), le même dosage et la même forme que CO-DOLYC 500MG/30MG, issues de 3 laboratoires dont 3
@@ -144,6 +147,7 @@ CO-DOLYC 500 mg/30 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/232/co-dolyc-500mg-30mg-comprime
 3/9
 
+[page 4]
 Interactions de la substance active avec d'autres médicaments, selon le Thesaurus de l'ANSM (France). Elles
 valent pour toutes les spécialités qui contiennent cette substance.
 Information, pas une prescription. Ces interactions ne remplacent pas l'avis d'un médecin ou d'un
@@ -208,6 +212,7 @@ CO-DOLYC 500 mg/30 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/232/co-dolyc-500mg-30mg-comprime
 4/9
 
+[page 5]
 BUPROPION
 SUBSTANCE
 Aucun médicament à cette substance dans la nomenclature
@@ -269,6 +274,7 @@ CO-DOLYC 500 mg/30 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/232/co-dolyc-500mg-30mg-comprime
 5/9
 
+[page 6]
 PAROXETINE
 SUBSTANCE
 Médicaments contenant cette substance ›
@@ -328,6 +334,7 @@ CO-DOLYC 500 mg/30 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/232/co-dolyc-500mg-30mg-comprime
 6/9
 
+[page 7]
 MORPHINIQUES AGONISTES-ANTAGONISTES
 CLASSE
 RISQUES
@@ -379,6 +386,7 @@ CO-DOLYC 500 mg/30 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/232/co-dolyc-500mg-30mg-comprime
 7/9
 
+[page 8]
 Quelle est la substance active de CO-DOLYC 500MG/30MG ?
 La substance active de CO-DOLYC 500MG/30MG est PARACETAMOL/CODEINE PHOSPHATE HEMIHYDRATE (DCI), selon la
 nomenclature nationale des produits pharmaceutiques (MIPH).
@@ -409,6 +417,7 @@ CO-DOLYC 500 mg/30 mg : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/232/co-dolyc-500mg-30mg-comprime
 8/9
 
+[page 9]
 Voir plus
 Traiter la douleur
 Soigner la douleur
