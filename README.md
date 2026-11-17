@@ -23,6 +23,8 @@ pharma/
 │   ├── text/             # text extracted from PDFs and HTML
 │   ├── text_clean/       # cleaned text used by retrieval
 │   ├── vector_db/        # reserved for vector indexes
+│   ├── chunks.jsonl      # chunked documents with metadata
+│   ├── chunks_report.json # chunking statistics
 │   ├── clean_docs.csv
 │   ├── medicaments_40.xlsx
 │   ├── medicaments_clean.csv
@@ -151,7 +153,29 @@ The script reads `data/text_clean/` and creates:
 | `data/chunks_report.json` | Chunk count and average/largest chunk size |
 
 Chunks are kept below 1500 characters. A 200-character overlap is added
-between passages so that a sentence is less likely to lose nearby context.
+between passages so that nearby context is less likely to be lost.
+
+Each chunk contains:
+
+- a stable chunk identifier and chunk position;
+- the source document and source category;
+- normalized and original drug names;
+- the official source URL;
+- the document language and authority level;
+- the chunk text.
+
+The current chunking run produced 92 document entries and 3057 chunks.
+The average chunk size is 1209.5 characters.
+
+Run this script again whenever documents are added or the cleaned text is
+regenerated. It replaces the previous `data/chunks.jsonl` and
+`data/chunks_report.json` with a complete index of the current corpus:
+
+```powershell
+.\.venv\Scripts\python.exe src\extract\extractor.py
+.\.venv\Scripts\python.exe src\extract\prepare.py
+.\.venv\Scripts\python.exe src\search\chunk_documents.py
+```
 
 Dose and length outliers are reported rather than automatically deleting
 medical content: a document can legitimately contain several therapeutic
@@ -166,14 +190,15 @@ dosages. The flags should be reviewed before any later retrieval step.
 | `pandas`, `openpyxl` | Reading the teacher's Excel list and CSV files |
 | `beautifulsoup4` | Parsing saved web pages (HTML) |
 | `pymupdf` | Reading PDFs (notices, RCP, ANSM table) |
-| `rank_bm25` | Keyword search (BM25) |
+| `rank_bm25` | Reserved for the future BM25 keyword-search baseline |
 | `rapidfuzz` | Matching drug names with typos |
 | `streamlit` | The web interface |
 
-The Streamlit app currently uses local lexical retrieval over `data/text_clean/`
-(falling back to `data/text/`). It sends the top matching excerpts, not the
-whole corpus, to the Groq LLM. Set `GROQ_API_KEY` in `.env` before asking a
-question.
+The Streamlit app currently uses local keyword-style retrieval over
+`data/text_clean/` (falling back to `data/text/`). Its current score is based
+on shared normalized words and filename/document bonuses; it is not yet a
+BM25 implementation. It sends the top matching excerpts, not the whole corpus,
+to the Groq LLM. Set `GROQ_API_KEY` in `.env` before asking a question.
 
 ## Current question-answering workflow
 
