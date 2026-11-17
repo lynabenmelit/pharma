@@ -1,6 +1,5 @@
-[page 1]
 DICLOFENAC SODIUM DELAYED RELEASE- diclofenac sodium tablet, delayed
-release 
+release  
 Carlsbad Technology, Inc.
 ----------
 Diclofenac Sodium
@@ -41,7 +40,6 @@ glycol, sodium starch glycolate, talc, titanium dioxide, triethyl citrate and in
 2
 2
 
-[page 2]
 CLINICAL PHARMACOLOGY
 Mechanism of Action
 Diclofenac has analgesic, anti-inflammatory, and antipyretic properties.
@@ -98,7 +96,6 @@ Distribution
 The apparent volume of distribution (V/F) of diclofenac sodium is 1.4 L/kg.
 max
 
-[page 3]
 Diclofenac is more than 99% bound to human serum proteins, primarily to albumin.
 Serum protein binding is constant over the concentration range (0.15-105 mcg/ml)
 achieved with recommended doses.
@@ -142,7 +139,6 @@ detected in studies of patients with renal impairment. In patients with renal im
 (inulin clearance 60-90, 30-60, and <30 mL/min; N=6 in each group), AUC values and
 elimination rate were comparable to those in healthy subjects.
 
-[page 4]
 Drug Interactions Studies
 Voriconazole:When co-administered with voriconazole (inhibitor of CYP2C9, 2C19 and
 3A4 enzyme), the C 
@@ -185,7 +181,6 @@ and without known CV disease or risk factors for CVdisease. However, patients
 with known CV disease or risk factors had a higher absolute incidence of excess 
 max
 
-[page 5]
 serious CV thrombotic events, due to their increased baseline rate. Some 
 observational studies found that this increased risk of serious CV thrombotic 
 events began as early as the first weeks of treatment. The increase in CV 
@@ -230,7 +225,6 @@ or perforation caused by NSAIDs occurred in approximately 1% of patients treated
 for 3-6 months, and in about 2%-4% of patients treated for one year. However, even 
 short-term therapy is not without risk.
 
-[page 6]
 Risk Factors for GI Bleeding, Ulceration, and Perforation
 Patients with a prior history of peptic ulcer disease and/or GI bleeding who use 
 NSAIDs had a greater than 10-fold increased risk for developing a GI bleed 
@@ -270,9 +264,8 @@ and marked (greater than 8 times the ULN) elevations of ALT or AST was observed
 in patients receiving diclofenac when compared to other NSAIDs. Elevations in 
 transaminases were seen more frequently in patients with osteoarthritis than in 
 those with rheumatoid arthritis.
-Almost all meaningful elevations in transaminases were detected before patients
+Almost all meaningful elevations in transaminases were detected before patients 
 
-[page 7]
 became symptomatic. Abnormal tests occurred during the first 2 months of 
 therapy with diclofenac in 42 of the 51 patients in all trials who developed marked 
 transaminase elevations.
@@ -312,9 +305,8 @@ known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, antiepile
 Hypertension
 NSAIDs, including diclofenac, can lead to new onset of hypertension or worsening of 
 preexisting hypertension, either of which may contribute to the increased incidence 
-of CV events. Patients taking angiotensin converting enzyme (ACE) inhibitors,
+of CV events. Patients taking angiotensin converting enzyme (ACE) inhibitors, 
 
-[page 8]
 thiazides diuretics, or loop diuretics may have impaired response to these therapies 
 when taking NSAIDs. (see PRECAUTIONS; Drug Interactions).
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout 
@@ -357,7 +349,6 @@ Correct volume status in dehydrated or hypovolemic patients prior to initiating
 diclofenac. 
 Monitor renal function in patients with renal or hepatic impairment,heart
 
-[page 9]
 failure,dehydration, 
 or hypovolemia during use of diclofenac (see PRECAUTIONS; Drug Interactions). Avoid
 the 
@@ -402,7 +393,6 @@ of diclofenac at the first appearance of skin rash or any other sign of hypersen
 Diclofenac is contraindicated in patients with previous serious skin reactions to NSAIDs 
 (see CONTRAINDICATIONS).
 
-[page 10]
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported 
 in patients taking NSAIDs such as Diclofenac Sodium. Some of these events have been 
@@ -448,7 +438,6 @@ loss, fluid retention, or an incompletely described effect on erythropoiesis. If
 treated with diclofenac, has any signs or symptoms of anemia, monitor hemoglobin or 
 hematocrit. NSAIDs, including diclofenac, may increase the risk of bleeding events.
 
-[page 11]
 Comorbid 
 conditions such as coagulation disorders, concomitant use of warfarin, other 
 anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs)
@@ -489,7 +478,6 @@ fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness
 like” symptoms). If these occur, instruct patients to stop diclofenac and seek immediate
 medical therapy (see WARNINGS; Hepatotoxicity).
 
-[page 12]
 Heart Failure and Edema
 Advise patients to be alert for the symptoms of congestive heart failure including
 shortness of breath, unexplained weight gain, or edema and to contact their healthcare
@@ -528,7 +516,6 @@ The pharmacological activity of diclofenac in reducing inflammation, and possibl
 may diminish the utility of diagnostic signs in detecting infections.
 Laboratory Monitoring
 
-[page 13]
 Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning
 symptoms or signs, consider monitoring patients on long term NSAID treatment with a
 CBC and a chemistry profile periodically (see WARNINGS; Gastrointestinal Bleeding,
@@ -580,7 +567,6 @@ on diuretic therapy), or have renal impairment, co-
 administration of an NSAID with ACE inhibitors or ARBs may
 result in deterioration of renal function, including possible
 
-[page 14]
 acute renal failure. These effects are usually reversible
 Intervention:
 During concomitant use of diclofenac and
@@ -638,7 +624,6 @@ Clinical Impact:
 Concomitant use of diclofenac and cyclosporine may increase
 cyclosporine's nephrotoxicity.
 
-[page 15]
 Intervention:
 During concomitant use of diclofenac and cyclosporine, monitor
 patients for signs of worsening renal function.
@@ -693,7 +678,6 @@ times the MRHD based on BSA comparison) in males and 1 mg/kg/day (approximately
 0.02 times the MRHD based on BSA comparison) in females did not reveal any
 oncogenic potential.
 
-[page 16]
 Mutagenesis
 Diclofenac sodium did not show mutagenic activity in in vitropoint mutation assays in
 mammalian (mouse lymphoma) and microbial (yeast, Ames) test systems and was
@@ -733,7 +717,6 @@ approximately 0.5 and 1 times, respectively, the maximum recommended human dose
 (MRHD) of diclofenac sodium delayedrelease, 200mg/day, despite the presence of
 maternal and fetal toxicity at these doses (see Data).
 
-[page 17]
 The estimated background risk of major birth defects and miscarriage for the indicated
 population(s) is unknown. All pregnancies have a background risk of birth defect, loss,
 or other adverse outcomes. In the U.S. general population, the estimated background
@@ -780,7 +763,6 @@ diclofenac, 200 mg/day, based on body surface area (BSA) comparison), and in rat
 rabbits at oral doses up to 10 mg/kg/day (approximately 0.5 and 1 times, respectively,
 the MRHD based on BSA comparison). In a study in which pregnant rats were orally
 
-[page 18]
 administered 2 or 4 mg/kg diclofenac (0.1 and 0.2 times the MRHD based on BSA) from
 Gestation Day 15 through Lactation Day 21, significant maternal toxicity (peritonitis,
 mortality) was noted. These maternally toxic doses were associated with dystocia,
@@ -821,7 +803,6 @@ ADVERSE REACTIONS SECTION
 The following adverse reactions are discussed in greater detail in other sections of the
 labeling:
 
-[page 19]
 Cardiovascular Thrombotic Events (see WARNINGS)
 GI Bleeding, Ulceration and Perforation (see WARNINGS)
 Hepatotoxicity (see WARNINGS)
@@ -866,9 +847,8 @@ vasculitis
 Digestive System: colitis, eructation, fulminant hepatitis with and without jaundice, liver
 failure, liver necrosis, pancreatitis 
 Hemic and Lymphatic System: agranulocytosis, hemolytic anemia, aplastic anemia,
-lymphadenopathy, pancytopenia
+lymphadenopathy, pancytopenia 
 
-[page 20]
 Metabolic and Nutritional:hyperglycemia 
 Nervous System: convulsions, coma, hallucinations, meningitis 
 Respiratory System: respiratory depression, pneumonia 
@@ -909,7 +889,6 @@ HOW SUPPLIED
 Diclofenac sodium delayed-release tablets
 25 mg – white to off-white, biconvex, round-shaped, unscored (imprinted "CTI;101" on
 
-[page 21]
 one side and blank on the other side), supplied in bottles of 60, 100 and 1000.
 Bottles of 60 ..................................................................NDC 61442-101-60
 Bottles of 100 ................................................................NDC 61442-101-01
@@ -948,7 +927,6 @@ Do not take NSAIDs right before or after a heart surgery called a
 “coronary artery bypass graft (CABG).” Avoid taking NSAIDs after a
 recent heart attack, unless your healthcare provider tells you to. You may
 
-[page 22]
 have an increased risk of another heart attack if you take NSAIDs after a
 recent heart attack.
 Increased risk of bleeding, ulcers, and tears (perforation) of the
@@ -994,7 +972,6 @@ your baby.
 You should not take NSAIDs after 30 weeks of pregnancy.
 are breastfeeding or plan to breast feed.
 
-[page 23]
 Tell your healthcare provider about all of the medicines you take, including
 prescription or over-the-counter medicines, vitamins, or herbal
 supplements.NSAIDs and some other medicines can interact with each other and
@@ -1042,7 +1019,6 @@ healthcare provider or pharmacist about NSAIDs.
 Call your doctor for medical advice about side effects. You may report side effects to
 FDA at 1-800-FDA-1088.
 
-[page 24]
 Other information about NSAIDs
 Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
 Aspirin can cause bleeding in the brain, stomach, and intestines. Aspirin can also
@@ -1077,7 +1053,6 @@ Rx Only
 Carlsbad Technology, Inc.
 60 Tablets
 
-[page 25]
 Principal Display Panel – Bottle Label
 NDC 61442-226-60
 Diclofenac Sodium
@@ -1091,14 +1066,13 @@ Principal Display Panel – Bottle Label
 NDC 61442-227-60
 Diclofenac Sodium
 
-[page 26]
 Delayed-Release Tablets USP
 75 mg
 PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
 Rx Only
 Carlsbad Technology, Inc.
 60 Tablets
-DICLOFENAC SODIUM DELAYED RELEASE 
+DICLOFENAC SODIUM  DELAYED RELEASE 
 diclofenac sodium tablet, delayed release
 Product Information
 Product Type
@@ -1129,8 +1103,8 @@ METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1) (UNII: 74G4R6TH13)
 CELLULOSE, MICROCRYSTALLINE (UNII: OP1R32D61U)
  
 SHELLAC (UNII: 46N107B71O)
+ 
 
-[page 27]
 POLYETHYLENE GLYCOL 2000 (UNII: HAF0412YIT)
  
 POVIDONE (UNII: FZ989GH94E)
@@ -1154,7 +1128,7 @@ Flavor
 Imprint Code
 5
 Contains
- 
+    
 Packaging
 #
 Item Code
@@ -1196,7 +1170,7 @@ Date
 ANDA
 ANDA075185
 03/28/2025
-DICLOFENAC SODIUM DELAYED RELEASE 
+DICLOFENAC SODIUM  DELAYED RELEASE 
 diclofenac sodium tablet, delayed release
 Product Information
 Product Type
@@ -1212,7 +1186,6 @@ DICLOFENAC SODIUM (UNII: QTG126297Q) (DICLOFENAC - UNII:144O8QL0L1)
 DICLOFENAC SODIUM
 75 mg
 
-[page 28]
 Inactive Ingredients
 Ingredient Name
 Strength
@@ -1253,7 +1226,7 @@ Flavor
 Imprint Code
 7
 Contains
- 
+    
 Packaging
 #
 Item Code
@@ -1294,7 +1267,7 @@ Date
 ANDA
 ANDA075185
 03/28/2025
-DICLOFENAC SODIUM DELAYED RELEASE 
+DICLOFENAC SODIUM  DELAYED RELEASE 
 diclofenac sodium tablet, delayed release
 Product Information
 Product Type
@@ -1304,7 +1277,6 @@ NDC:61442-101
 Route of Administration
 ORAL
 
-[page 29]
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of Strength Strength
@@ -1351,7 +1323,7 @@ Flavor
 Imprint Code
 CTI;101
 Contains
- 
+    
 Packaging
 #
 Item Code
@@ -1391,7 +1363,6 @@ Date
 Marketing End
 Date
 
-[page 30]
 Carlsbad Technology, Inc.
 ANDA
 ANDA075185

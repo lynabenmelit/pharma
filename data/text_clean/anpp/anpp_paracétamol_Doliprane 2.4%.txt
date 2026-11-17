@@ -1,4 +1,3 @@
-[page 1]
 ANNEXE I
 RESUME DES CARACTERISTIQUES DU PRODUIT
 
@@ -53,7 +52,6 @@ Il est administré selon les besoins dans les intervalles de 6 heures, l'interva
 nécessaire, à 4 heures, mais une dose quotidienne totale ne doit pas être dépassée.
 Ne pas administrer plus de 4 doses dans les 24 heures.
 
-[page 2]
 La dose quotidienne totale ne doit pas dépasser 60 mg / kg de masse corporelle chez les enfants de
 moins de 6 ans, 1 500 mg chez les enfants de 6 à 12 ans avec une masse corporelle de 21 à 25 kg et
 2 000 mg chez les enfants de 26 à 40 kg.
@@ -154,7 +152,6 @@ Le flacon médicinal est fourni avec une fermeture de sécurité inviolable pour
 fermement sur le bouchon vers le bas et dévisser dans le sens inverse de l'aiguille d'une montre. Après
 utilisation, bien visser le bouchon à nouveau.
 
-[page 3]
 4.3. Contre-indications
 
 - Hypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique " Liste des
@@ -218,7 +215,6 @@ mg de sorbitol dans 1 ml de suspension buvable. L'effet additif des produits con
 du fructose) administrés concomitamment et l'apport alimentaire de sorbitol (ou de fructose) doit être
 pris en compte. La teneur en sorbitol dans les médicaments à usage oral peut affecter la
 
-[page 4]
 biodisponibilité d'autres médicaments à usage oral administrés de façon concomitante. Les patients
 présentant une intolérance héréditaire au fructose (IHF) ne doivent pas recevoir ce médicament.
 Ce médicament contient moins de 1 mmol (23 mg) de sodium à la dose individuelle la plus élevée de
@@ -284,7 +280,6 @@ effets rénaux indésirables.
 
 Isoniazide
 
-[page 5]
 Certains rapports indiquent que l'isoniazide peut augmenter le potentiel hépatotoxique du paracétamol.
 En cas d'administration concomitante, les signes cliniques et biologiques d'hépatotoxicité doivent être
 étroitement surveillés.
@@ -355,7 +350,6 @@ Très rarement, des réactions cutanées sévères et des
 exanthèmes médicamenteux fixes ont été rapportées.
 (voir rubrique 4.4)*
 
-[page 6]
 * En cas de survenue d'au moins un des effets indésirables mentionnés ci-dessus, ce médicament doit
 être définitivement arrêté.
 
@@ -417,7 +411,6 @@ tolérance gastro-intestinale, adapté aux patients pédiatriques et adultes. Il
 convient donc aux diabétiques. Étant donné qu'il n'affecte pas significativement la coagulation
 sanguine, même chez les patients sous anticoagulants oraux, il peut également être utilisé chez les
 
-[page 7]
 personnes hémophiles. Il n'affecte pas le niveau d'acide urique et son élimination dans l'urine. Il peut
 être utilisé dans tous les cas où les salicylates sont contre-indiqués.
 5.2. Propriétés pharmacocinétiques
@@ -472,7 +465,6 @@ xanthane, acide citrique monohydraté, saccharine sodique, arôme de fraise, eau
 
 6.2. Incompatibilités
 
-[page 8]
 Sans objet.
 
 6.3. Durée de conservation, si nécessaire après reconstitution du médicament ou lorsque
@@ -527,7 +519,6 @@ Zone d'activités Amara, groupe 04, lot 509 et 510, route Ouled Fayet, Cheraga. 
 9. Pour les médicaments radio pharmaceutiques, détails complets sur la dosimétrie interne
 des rayonnements ;
 
-[page 9]
 10. Conditions ou restrictions en vue d'une utilisation sure et efficace du médicament ;
 
 11. Pour les médicaments radio pharmaceutiques, instructions supplémentaires

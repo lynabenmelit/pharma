@@ -1,4 +1,3 @@
-[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 Statut critique: Ce médicament figure sur la liste ministérielle des médicaments critiques.
 ✷Interactions médicamenteuses
@@ -27,7 +26,6 @@ comprime secable
 
 1/7
 
-[page 2]
 REPÈRES
 PPA
 Prix non disponible
@@ -89,7 +87,6 @@ Pays d'origine
 
 2/7
 
-[page 3]
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -134,7 +131,6 @@ Trouver un soin
 
 3/7
 
-[page 4]
 🔁 Autres médicaments avec la même DCI
 1 médicament(s) enregistré(s) contenant DOXYCYCLINE
 Interactions médicamenteuses
@@ -175,7 +171,6 @@ source.
 
 4/7
 
-[page 5]
 TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS
 Association déconseillée
 Précaution d'emploi
@@ -213,7 +208,6 @@ de 2 heures, si possible).
 
 5/7
 
-[page 6]
 STRONTIUM
 Diminution de l'absorption digestive du strontium.
 Prendre le strontium à distance des cyclines (plus
@@ -239,7 +233,6 @@ Quel laboratoire fabrique DOTUR 100 MG ?
 
 6/7
 
-[page 7]
 DOTUR 100 MG est produit par le laboratoire SPA JAMJOOM ALGERIA LIL DAWA (ALGERIE) ; il est fabriqué en Algérie.
 Existe-t-il des équivalents ou génériques de DOTUR 100 MG ?
 D'autres médicaments enregistrés en Algérie contiennent la même substance active (DOXYCYCLINE), par exemple :

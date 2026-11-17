@@ -1,34 +1,11 @@
-[page 1]
 AC FAST- paracetamol capsule, coated
 Disclaimer: Most OTC drugs are not reviewed and approved by FDA, however they may
 be marketed if they comply with applicable regulations and policies. FDA has not
 evaluated whether this product complies.
 ----------
 
-[page 2]
-
-[page 3]
-
-[page 4]
-
-[page 5]
-
-[page 6]
-
-[page 7]
-
-[page 8]
-
-[page 9]
-
-[page 10]
-
-[page 11]
-
-[page 12]
 AC FAST
 
-[page 13]
 paracetamol capsule, coated
 Product Information
 Product Type
@@ -82,7 +59,6 @@ Marketing End
 Combination Product
 04/01/2021
 
-[page 14]
 Marketing Information
 Marketing
 Category

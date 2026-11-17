@@ -1,4 +1,3 @@
-[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 2 contre-indication
@@ -58,7 +57,6 @@ comprime
 
 1/9
 
-[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -103,7 +101,6 @@ Aout 2026
 
 2/9
 
-[page 3]
 📊 CO-DOLYC en Algérie : équivalents, laboratoire, validité
 3 autres présentations enregistrées en Algérie ont la même substance active (PARACETAMOL/CODEINE PHOSPHATE
 HEMIHYDRATE), le même dosage et la même forme que CO-DOLYC 500MG/30MG, issues de 3 laboratoires dont 3
@@ -141,7 +138,6 @@ pharmacien
 
 3/9
 
-[page 4]
 Interactions de la substance active avec d'autres médicaments, selon le Thesaurus de l'ANSM (France). Elles
 valent pour toutes les spécialités qui contiennent cette substance.
 Information, pas une prescription. Ces interactions ne remplacent pas l'avis d'un médecin ou d'un
@@ -192,7 +188,6 @@ via la classe MORPHINIQUES
 
 4/9
 
-[page 5]
 BUPROPION
 CINACALCET
 DULOXETINE
@@ -211,7 +206,6 @@ FLUOXETINE
 
 5/9
 
-[page 6]
 PAROXETINE
 QUINIDINE
 TERBINAFINE
@@ -232,7 +226,6 @@ via la classe ANALGÉSIQUES MORPHINIQUES DE PALIER II
 
 6/9
 
-[page 7]
 MORPHINIQUES AGONISTES-ANTAGONISTES
 Diminution de l'effet antalgique ou antitussif du
 morphinique, par blocage compétitif des
@@ -265,7 +258,6 @@ thésaurus. Une erreur ? Écrivez-nous
 
 7/9
 
-[page 8]
 Quelle est la substance active de CO-DOLYC 500MG/30MG ?
 La substance active de CO-DOLYC 500MG/30MG est PARACETAMOL/CODEINE PHOSPHATE HEMIHYDRATE (DCI), selon la
 nomenclature nationale des produits pharmaceutiques (MIPH).
@@ -294,7 +286,6 @@ boîte, ou demandez conseil à un médecin ou à un pharmacien.
 
 8/9
 
-[page 9]
 Voir plus
 Traiter la douleur
 Soigner la douleur
