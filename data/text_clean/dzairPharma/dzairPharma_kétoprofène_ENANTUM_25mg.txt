@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 DEXKETOPROFENE(TROMETAMOL)
@@ -51,6 +52,7 @@ fabrication
 
 1/4
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -105,6 +107,7 @@ Anatomical Therapeutic Chemical - Classification OMS
 
 2/4
 
+[page 3]
 M
 système musculo-squelettique ›
 M01
@@ -170,6 +173,7 @@ Une erreur ? Écrivez-nous
 
 3/4
 
+[page 4]
 Quelle est la substance active de ENANTUM 25 MG ?
 La substance active de ENANTUM 25 MG est DEXKETOPROFENE(TROMETAMOL) (DCI), selon la nomenclature nationale des
 produits pharmaceutiques (MIPH).

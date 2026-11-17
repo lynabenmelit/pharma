@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 2 contre-indication
@@ -81,6 +85,10 @@ comprime
 
 1/8
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -143,6 +151,10 @@ Télécharger
 
 2/8
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 Toutes
 ⊗Contre-indication
 ▲Association déconseillée
@@ -201,6 +213,10 @@ acétylsalicylique par l'acétazolamide.
 
 3/8
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 ANTI-INFLAMMATOIRES NON STÉROÏDIENS
 Majoration du risque ulcérogène et hémorragique digestif.
 et/ou <3g par jour)
@@ -229,6 +245,10 @@ Majoration du risque ulcérogène et hémorragique digestif.
 
 4/8
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 PEMETREXED
 Risque de majoration de la toxicité du pemetrexed (diminution
 de sa clairance rénale par l'acide acétylsalicylique à doses antiinflammatoires).
@@ -261,6 +281,10 @@ tout autre médicament (plus de 2 heures, si possible).
 
 5/8
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 via la classe SUBSTANCES À ABSORPTION RÉDUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS
 ◆Précaution d'emploi
 5
@@ -291,6 +315,10 @@ Surveillance clinique.
 
 6/8
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 ○
 8
 Source : ANSM. Textes de l'ANSM reproduits tels quels ; la substance du médicament est rapprochée automatiquement du thésaurus. Une erreur ? Écrivez-nous
@@ -332,6 +360,10 @@ un médecin ou à un pharmacien.
 
 7/8
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 ← Retour
 📚 Toutes les présentations de ACEPRAL
 🔍 Tous les médicaments avec cette DCI

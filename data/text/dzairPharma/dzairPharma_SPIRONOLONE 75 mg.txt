@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ — pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 2 contre-indication
@@ -59,6 +63,10 @@ SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 1/9
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -106,6 +114,10 @@ SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 2/9
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 📊 SPIRONOLONE en Algérie : équivalents, laboratoire, validité
 1 autre présentation enregistrée en Algérie a la même substance active (SPIRONOLACTONE MICRONISEE), le même dosage
 et la même forme que SPIRONOLONE 75MG, issue de 1 laboratoire.
@@ -142,6 +154,10 @@ SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 3/9
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 Information, pas une prescription. Ces interactions ne remplacent pas l'avis d'un médecin ou d'un
 pharmacien.
 Substances analysées :
@@ -203,6 +219,10 @@ SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 4/9
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Risque d'hyperkaliémie (potentiellement létale)
 surtout en cas d'insuffisance rénale (addition des
 effets hyperkaliémiants).
@@ -262,6 +282,10 @@ SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 5/9
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 Pour une quantité de potassium > à 1
 mmol/prise, hyperkaliémie potentiellement
 létale, notamment chez l'insuffisant rénal
@@ -326,6 +350,10 @@ SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 6/9
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 altérée), par diminution de la filtration
 glomérulaire secondaire à une diminution de la
 synthèse des prostaglandines rénales. Par ailleurs,
@@ -382,6 +410,10 @@ SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 7/9
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 RISQUES
 En cas de déshydratation provoquée par les
 diurétiques, risque majoré d'insuffisance rénale
@@ -420,6 +452,10 @@ SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
 8/9
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 Quelle est la classe thérapeutique (ATC) de SPIRONOLONE 75MG ?
 Le code ATC associé à SPIRONOLACTONE MICRONISEE est C03DA01 (spironolactone).
 SPIRONOLONE 75MG nécessite-t-il une ordonnance ?
@@ -438,4 +474,8 @@ Trouver un soin
 11/16/26, 7:41 PM
 SPIRONOLONE 75 mg : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/1588/spironolone-75mg-comprime-pellicule-secable
+<<<<<<< HEAD
 9/9
+=======
+9/9
+>>>>>>> code

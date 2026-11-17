@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ — pharmaveille-dz.vercel.app
 DCI — DÉNOMINATION COMMUNE INTERNATIONALE
 AMLODIPINE SOUS FORME BESYLATE
@@ -56,6 +60,10 @@ AMLIBON 10 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1034/amlibon-10mg-comprime
 1/7
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -108,6 +116,10 @@ AMLIBON 10 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1034/amlibon-10mg-comprime
 2/7
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 Enregistré depuis le 31 décembre 2007 (il y a environ 18 ans). La validité indiquée a pris fin le 23 juillet 2023 : vérifiez le
 renouvellement dans la nomenclature en vigueur.
 Selon la nomenclature (LISTE I / HOP), ce médicament est inscrit sur la liste I, délivré sur ordonnance et réservé à l'usage
@@ -170,6 +182,10 @@ AMLIBON 10 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1034/amlibon-10mg-comprime
 3/7
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 DANTROLENE
 SUBSTANCE
 Aucun médicament à cette substance dans la nomenclature
@@ -230,6 +246,10 @@ AMLIBON 10 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1034/amlibon-10mg-comprime
 4/7
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 RIFAMPICINE
 SUBSTANCE
 Association déconseillée
@@ -287,6 +307,10 @@ AMLIBON 10 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1034/amlibon-10mg-comprime
 5/7
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 ❓ Questions fréquentes
 Quelle est la substance active de AMLIBON 10MG ?
 La substance active de AMLIBON 10MG est AMLODIPINE SOUS FORME BESYLATE (DCI), selon la nomenclature nationale
@@ -319,7 +343,15 @@ AMLIBON 10 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1034/amlibon-10mg-comprime
 6/7
 
+<<<<<<< HEAD
 11/15/26, 11:06 PM
 AMLIBON 10 mg comprime : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1034/amlibon-10mg-comprime
 7/7
+=======
+[page 7]
+11/15/26, 11:06 PM
+AMLIBON 10 mg comprime : équivalents en Algérie | DwaDZ
+https://www.dzair-pharma.net/medicament/enregistrement/1034/amlibon-10mg-comprime
+7/7
+>>>>>>> code

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 Dernière mise à jour le 03/11/2026
 PARACETAMOL CODEINE ARROW 500 mg/30 mg, comprimé effervescent
 sécable
@@ -26,6 +30,10 @@ Bon usage
 
 1/4
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 > paracétamol
 500 mg
 > phosphate de codéine hémihydraté
@@ -51,6 +59,10 @@ dans la stratégie thérapeutique.
 
 2/4
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 Amélioration du service médical rendu (ASMR)
 Pas d'ASMR disponible pour ce médicament (plus d'informations dans l'aide )
 Autres informations
@@ -84,6 +96,10 @@ obstructive du sommeil.
 
 3/4
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 legifrance.gouv.fr
 gouvernement.fr
 service-public.fr

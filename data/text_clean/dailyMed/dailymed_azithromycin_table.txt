@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 AZITHROMYCIN DIHYDRATE- azithromycin dihydrate tablet, film coated
 ----------
 HIGHLIGHTS OF PRESCRIBING INFORMATION
@@ -56,6 +60,10 @@ Pharyngitis/tonsillitis (2 years of age and
 older)
 12 mg/kg once daily for 5 days
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 DOSAGE FORMS AND STRENGTHS
 Azithromycin tablets 500 mg (3)
 CONTRAINDICATIONS
@@ -104,6 +112,10 @@ FULL PRESCRIBING INFORMATION: CONTENTS*
 3 DOSAGE FORMS AND STRENGTHS
 4 CONTRAINDICATIONS
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 4.1 Hypersensitivity
 4.2 Hepatic Dysfunction
 5 WARNINGS AND PRECAUTIONS
@@ -148,6 +160,10 @@ FULL PRESCRIBING INFORMATION
 Azithromycin is a macrolide antibacterial drug indicated for the treatment of patients
 Sections or subsections omitted from the full prescribing information are not listed.
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 with mild to moderate infections caused by susceptible strains of the designated
 microorganisms in the specific conditions listed below. Recommended dosages and
 durations of therapy in adult and pediatric patient populations vary in these indications.
@@ -193,6 +209,10 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 azithromycin and other antibacterial drugs, azithromycin should be used only to treat
 infections that are proven or strongly suspected to be caused by susceptible bacteria.
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 When culture and susceptibility information are available, they should be considered in
 selecting or modifying antibacterial therapy. In the absence of such data, local
 epidemiology and susceptibility patterns may contribute to the empiric selection of
@@ -238,6 +258,10 @@ DUE TO THE INDICATED ORGANISMS [see Indications and Usage (1.1)]
 1
 DUE TO THE INDICATED ORGANISMS [see Indications and Usage (1.2)]
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 PEDIATRIC DOSAGE GUIDELINES FOR OTITIS MEDIA, ACUTE BACTERIAL
 SINUSITIS, AND COMMUNITY-ACQUIRED PNEUMONIA
 (Age 6 months and above, [see Use in Specific Populations (8.4)])
@@ -284,6 +308,10 @@ Days 1 to 3
 12.5 mL; (2½ tsp)
 Effectiveness of the 3-day or 1-day regimen in pediatric patients with communityacquired pneumonia has not been established.
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 OTITIS MEDIA: (1-Day Regimen)
 Dosing Calculated on 30 mg/kg as a single dose.
 1-Day Regimen
@@ -329,6 +357,10 @@ Effectiveness of the 5-day or 1-day regimen in pediatric patients with acute bac
 sinusitis has not been established.
 see dosing tables below for maximum doses evaluated by indication
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 equivalent to 500 mg azithromycin.
 4 CONTRAINDICATIONS
 4.1 Hypersensitivity
@@ -365,6 +397,10 @@ Prolonged cardiac repolarization and QT interval, imparting a risk of developing
 arrhythmia and torsades de pointes, have been seen with treatment with macrolides,
 including azithromycin. Cases of torsades de pointes have been spontaneously reported
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 during postmarketing surveillance in patients receiving azithromycin. Providers should
 consider the risk of QT prolongation which can be fatal when weighing the risks and
 benefits of azithromycin for at-risk groups including:
@@ -406,6 +442,10 @@ Prescribing azithromycin in the absence of a proven or strongly suspected bacter
 infection is unlikely to provide benefit to the patient and increases the risk of the
 development of drug-resistant bacteria.
 
+<<<<<<< HEAD
+=======
+[page 10]
+>>>>>>> code
 6 ADVERSE REACTIONS
 6.1 Clinical Trials Experience
 Because clinical trials are conducted under widely varying conditions, adverse reaction
@@ -450,6 +490,10 @@ occurred in patients in this study with a frequency of 1% or greater included na
 (18%), diarrhea/loose stools (14%), vomiting (7%), abdominal pain (7%), vaginitis (2%),
 dyspepsia (1%), and dizziness (1%). The majority of these complaints were mild in
 
+<<<<<<< HEAD
+=======
+[page 11]
+>>>>>>> code
 nature.
 Pediatric Patients
 Single and Multiple-dose regimens: The types of adverse reactions in pediatric patients
@@ -511,6 +555,10 @@ Gastrointestinal: Dyspepsia, constipation, anorexia, enteritis, flatulence, gast
 jaundice, loose stools, and oral moniliasis.
 Hematologic and Lymphatic: Anemia and leukopenia.
 
+<<<<<<< HEAD
+=======
+[page 12]
+>>>>>>> code
 Nervous System: Headache (otitis media dosage), hyperkinesia, dizziness, agitation,
 nervousness, and insomnia.
 General: Fever, face edema, fatigue, fungal infection, malaise, and pain.
@@ -557,6 +605,10 @@ phosphate. The majority of subjects with elevated serum creatinine also had abno
 values at baseline. When follow-up was provided, changes in laboratory tests appeared
 to be reversible.
 
+<<<<<<< HEAD
+=======
+[page 13]
+>>>>>>> code
 In multiple-dose clinical trials involving more than 5,000 patients, four patients
 discontinued therapy because of treatment-related liver enzyme abnormalities and one
 because of a renal function abnormality.
@@ -597,6 +649,10 @@ patients is advised.
 8 USE IN SPECIFIC POPULATIONS
 8.1 Pregnancy
 
+<<<<<<< HEAD
+=======
+[page 14]
+>>>>>>> code
 Risk Summary
 Available data from published literature and postmarketing experience over several
 decades with azithromycin use in pregnant women have not identified any drugassociated risks for major birth defects, miscarriage, or adverse maternal or fetal
@@ -640,6 +696,10 @@ beginning on day 15 of pregnancy until weaning.
 8.2 Lactation
 Risk Summary
 
+<<<<<<< HEAD
+=======
+[page 15]
+>>>>>>> code
 Azithromycin is present in human milk (see Data). Non-serious adverse reactions have
 been reported in breastfed infants after maternal administration of azithromycin (see
 Clinical Considerations). There are no available data on the effects of azithromycin on
@@ -681,6 +741,10 @@ Adverse reactions experienced at higher than recommended doses were similar to
 those seen at normal doses particularly nausea, diarrhea, and vomiting. In the event of
 overdosage, general symptomatic and supportive measures are indicated as required.
 
+<<<<<<< HEAD
+=======
+[page 16]
+>>>>>>> code
 11 DESCRIPTION
 Azithromycin Tablets, USP contain the active ingredient azithromycin, a macrolide
 antibacterial drug, for oral administration. Azithromycin has the chemical name
@@ -707,6 +771,10 @@ polyvinyl alcohol, pregelatinized starch, talc, and titanium dioxide.
 38
 72
 
+<<<<<<< HEAD
+=======
+[page 17]
+>>>>>>> code
 12.1 Mechanism of Action
 Azithromycin is a macrolide antibacterial drug. [see Microbiology (12.4)]
 12.2 Pharmacodynamics
@@ -765,6 +833,10 @@ Total AUC for the entire 3-day and 5-day regimens.
 0-∞
 1/2
 
+<<<<<<< HEAD
+=======
+[page 18]
+>>>>>>> code
 dose of azithromycin (two 250 mg tablets) with or without a high fat meal, food was
 shown to increase C
 by 23% but had no effect on AUC.
@@ -816,6 +888,10 @@ Patients with Hepatic Impairment
 0-120
 0-120
 
+<<<<<<< HEAD
+=======
+[page 19]
+>>>>>>> code
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been
 established.
 Male and Female Patients
@@ -870,6 +946,10 @@ the pharmacokinetics of azithromycin are shown in Table 2.
 Co-administration of azithromycin at therapeutic doses had a modest effect on the
 pharmacokinetics of the drugs listed in Table 1. No dosage adjustment of drugs listed in
 
+<<<<<<< HEAD
+=======
+[page 20]
+>>>>>>> code
 Table 1 is recommended when co-administered with azithromycin.
 Co-administration of azithromycin with efavirenz or fluconazole had a modest effect on
 the pharmacokinetics of azithromycin. Nelfinavir significantly increased the C
@@ -977,6 +1057,10 @@ orally for 3
 0.90
 0.85
 
+<<<<<<< HEAD
+=======
+[page 21]
+>>>>>>> code
 Nelfinavir
 for 11 days
 orally on day 914 (0.81 to
@@ -1090,6 +1174,10 @@ to 3.15)
 to 2.50)
 - 90% Confidence interval not reported
 
+<<<<<<< HEAD
+=======
+[page 22]
+>>>>>>> code
 12.4 Microbiology
 Mechanism of Action
 Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of
@@ -1134,6 +1222,10 @@ Mycoplasma pneumoniae
 Beta-hemolytic streptococci (Groups C, F, G)
 Viridans group streptococci
 
+<<<<<<< HEAD
+=======
+[page 23]
+>>>>>>> code
 Anaerobic Bacteria
 
 Other Bacteria
@@ -1178,6 +1270,10 @@ Prevotella bivia
 Peptostreptococcus species
 Ureaplasma urealyticum
 
+<<<<<<< HEAD
+=======
+[page 24]
+>>>>>>> code
 observed C
 of 0.821 mcg/mL at the adult dose of 2 g). Phospholipidosis was also
 observed in neonatal rats dosed for 18 days at 30 mg/kg/day, which is less than the
@@ -1226,6 +1322,10 @@ the following outcomes were the clinical success rates at the Day 7 and Day 28 v
 the modified intent to treat patients administered 500 mg of azithromycin once daily for
 3 days with the following pathogens:
 
+<<<<<<< HEAD
+=======
+[page 25]
+>>>>>>> code
 Clinical Success Rates of Azithromycin (500 mg per day for 3 Days)
 Day 7
 Day 28
@@ -1275,6 +1375,10 @@ compared to amoxicillin/clavulanate potassium (4:1). For the 553 patients who we
 evaluated for clinical efficacy, the clinical success rate (i.e., cure plus improvement) at
 the Day 11 visit was 88% for azithromycin and 88% for the control agent. For the 521
 
+<<<<<<< HEAD
+=======
+[page 26]
+>>>>>>> code
 patients who were evaluated at the Day 30 visit, the clinical success rate was 73% for
 azithromycin and 71% for the control agent.
 Trial 2
@@ -1336,6 +1440,10 @@ S. pyogenes
 37/45 (82%)
 30/37 (81%)
 
+<<<<<<< HEAD
+=======
+[page 27]
+>>>>>>> code
 Efficacy using azithromycin given over 3 days (10 mg/kg/day).
 Trial 4
 In a double-blind, controlled, randomized clinical study of acute otitis media in pediatric
@@ -1380,6 +1488,10 @@ Days 24 to 28
 105/130 (81%)
 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+<<<<<<< HEAD
+=======
+[page 28]
+>>>>>>> code
 Azithromycin Tablets USP, 500 mg are supplied as red, oval, film coated tablets
 containing azithromycin dihydrate equivalent to 500 mg of azithromycin.
 Azithromycin Tablets USP, 500 mg are debossed "OE" on one side and "500" on the
@@ -1423,6 +1535,10 @@ possible.
 See FDA-approved Patient Labeling
 Manufactured by:
 
+<<<<<<< HEAD
+=======
+[page 29]
+>>>>>>> code
 CSPC Ouyi Pharmaceutical Co., Ltd.
 Shijiazhuang, Hebei, China, 052160
 Manufactured for:
@@ -1465,6 +1581,10 @@ It is not known if azithromycin tablets are safe and effective for genital ulcer
 It is not known if azithromycin tablets are safe and effective for children with ear
 infections, sinus infections, and community-acquired pneumonia under 6 months of age.
 
+<<<<<<< HEAD
+=======
+[page 30]
+>>>>>>> code
 It is not known if azithromycin tablets are safe and effective for infected throat or tonsils
 in children under 2 years of age.
 Who should not take azithromycin tablets?
@@ -1508,6 +1628,10 @@ How should I take azithromycin tablets?
 Take azithromycin tablets exactly as your healthcare provider tells you to take it.
 Do not skip any doses of azithromycin tablets or stop taking it, even if you begin to
 
+<<<<<<< HEAD
+=======
+[page 31]
+>>>>>>> code
 p
 p
 g
@@ -1559,6 +1683,10 @@ These can be signs of a serious reaction to azithromycin tablets (a liver proble
 Serious heart rhythm changes (QT prolongation and torsades de pointes).
 Tell your healthcare provider right away if you have a change in your heartbeat (a fast
 
+<<<<<<< HEAD
+=======
+[page 32]
+>>>>>>> code
 or irregular heartbeat), or if you feel faint and dizzy. Azithromycin tablets may cause
 a rare heart problem known as prolongation of the QT interval. This condition can
 cause an abnormal heartbeat and can be very dangerous. The chances of this
@@ -1602,6 +1730,10 @@ What are the ingredients in azithromycin tablets?
 Active ingredient: azithromycin dihydrate
 Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous,
 
+<<<<<<< HEAD
+=======
+[page 33]
+>>>>>>> code
 FD&C Blue #1 aluminum lake and lecithin, FD&C Red #40 aluminum Lake, FD&C Yellow
 #6 aluminum Lake, macrogol/PEG, magnesium stearate, polyvinyl alcohol, pregelatinized
 starch, talc, and titanium dioxide.
@@ -1623,6 +1755,10 @@ CSPC
 PrecisionDose
 ®
 
+<<<<<<< HEAD
+=======
+[page 34]
+>>>>>>> code
 AZITHROMYCIN DIHYDRATE
 azithromycin dihydrate tablet, film coated
 Product Information
@@ -1634,6 +1770,10 @@ Route of Administration
 ORAL
 Active Ingredient/Active Moiety
 
+<<<<<<< HEAD
+=======
+[page 35]
+>>>>>>> code
 Ingredient Name
 Basis of
 Azithromycin dihydrate (UNII: 5FD1131I7S) (Azithromycin anhydrous -
@@ -1706,6 +1846,10 @@ Marketing End
 ANDA
 ANDA208249
 
+<<<<<<< HEAD
+=======
+[page 36]
+>>>>>>> code
 Labeler - Precision Dose, Inc. (035886746)
 Establishment
 Name

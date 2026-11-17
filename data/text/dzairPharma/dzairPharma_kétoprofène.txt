@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 DCI — DÉNOMINATION COMMUNE INTERNATIONALE
 KETOPROFENE
@@ -59,6 +60,7 @@ BIOPROFEN 100 mg/2 ml : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/401/bioprofen-100mg-2ml-solution-injectable-im
 1/9
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -115,6 +117,7 @@ BIOPROFEN 100 mg/2 ml : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/401/bioprofen-100mg-2ml-solution-injectable-im
 2/9
 
+[page 3]
 PROFENID — SANOFI AVENTIS FRANCE
 PROHEFEN — HUPP PHARMA
 Le laboratoire BIOTHERA compte 48 autres produits enregistrés en Algérie. Voir le laboratoire →
@@ -175,6 +178,7 @@ BIOPROFEN 100 mg/2 ml : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/401/bioprofen-100mg-2ml-solution-injectable-im
 3/9
 
+[page 4]
 Aux doses élevées d’AINS, risque de moindre
 efficacité du mifamurtide.
 Aucune conduite spécifique indiquée par la
@@ -236,6 +240,7 @@ BIOPROFEN 100 mg/2 ml : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/401/bioprofen-100mg-2ml-solution-injectable-im
 4/9
 
+[page 5]
 RISQUES
 Augmentation du risque hémorragique
 (agression de la muqueuse gastroduodénale par
@@ -297,6 +302,7 @@ BIOPROFEN 100 mg/2 ml : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/401/bioprofen-100mg-2ml-solution-injectable-im
 5/9
 
+[page 6]
 RISQUES
 Majoration du risque ulcérogène et
 hémorragique digestif.
@@ -364,6 +370,7 @@ BIOPROFEN 100 mg/2 ml : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/401/bioprofen-100mg-2ml-solution-injectable-im
 6/9
 
+[page 7]
 Augmentation du risque hémorragique.
 Surveillance clinique.
 Source : ANSM
@@ -428,6 +435,7 @@ BIOPROFEN 100 mg/2 ml : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/401/bioprofen-100mg-2ml-solution-injectable-im
 7/9
 
+[page 8]
 l'anti-inflammatoire ou en présence de facteurs
 de risque d'insuffisance rénale.
 Source : ANSM
@@ -465,6 +473,7 @@ BIOPROFEN 100 mg/2 ml : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/401/bioprofen-100mg-2ml-solution-injectable-im
 8/9
 
+[page 9]
 BIOPROFEN 100MG/2ML est classé dans la nomenclature nationale comme un médicament générique.
 Quel laboratoire fabrique BIOPROFEN 100MG/2ML ?
 BIOPROFEN 100MG/2ML est produit par le laboratoire BIOTHERA (ALGERIE) ; il est fabriqué en Algérie.

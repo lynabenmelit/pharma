@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 ARBITAN 80 mg
@@ -51,6 +55,10 @@ Installer
 
 1/7
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -100,6 +108,10 @@ DIVALAN - TASSILI ARAB PHARMACEUTICAL CO
 
 2/7
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 HUREG HUP - HUPP PHARMA
 SARTEG - EL KENDI INDUSTRIE DU MEDICAMENT
 TABUVAN - TABUK ALGERIE
@@ -148,6 +160,10 @@ pharmacien.
 
 3/7
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 Substances analysées : et leurs classes (3)
 Toutes
 ▲Association déconseillée
@@ -195,6 +211,10 @@ Sauf en cas d'hypokaliémie.
 
 4/7
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 chez l'insuffisant rénale (addition des effets
 hyperkaliémiants).
 ◆Précaution d'emploi
@@ -232,6 +252,10 @@ DIURÉTIQUES HYPOKALIÉMIANTS
 
 5/7
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 Risque d'hypotension artérielle brutale et/ou
 d'insuffisance rénale aiguë lors de l'instauration ou
 de l'augmentation de la posologie d'un traitement
@@ -269,6 +293,10 @@ ARBITAN 80MG est-il enregistré en Algérie ?
 
 6/7
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 Oui, ARBITAN 80MG figure dans la nomenclature nationale des produits pharmaceutiques (date d'enregistrement :
 2014-04-13, échéance : 2023-06-11).
 ARBITAN 80MG est-il un générique ?

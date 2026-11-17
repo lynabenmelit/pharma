@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 DCI — DÉNOMINATION COMMUNE INTERNATIONALE
 IBUPROFENE
@@ -56,6 +57,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 1/11
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -110,6 +112,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 2/11
 
+[page 3]
 Indications
 Selon la spécialité, le dosage et la forme :
 - traitement symptomatique de courte durée des douleurs d'intensité légère à modérée (maux de tête, douleurs
@@ -149,6 +152,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 3/11
 
+[page 4]
 cérébral.
 Arrêter le traitement et consulter en cas de signe digestif, cutané ou allergique inhabituel.
 Grossesse et allaitement
@@ -188,6 +192,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 4/11
 
+[page 5]
 IBUPROFAL — SOCIETE PHARMACEUTIQUE ALGERIENNE SOPHAL
 IBUPROFENE BEKER — LABORATOIRES BEKER
 NARUFENE — PHARMIDAL NS
@@ -246,6 +251,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 5/11
 
+[page 6]
 MIFAMURTIDE
 SUBSTANCE
 Aucun médicament à cette substance dans la nomenclature
@@ -308,6 +314,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 6/11
 
+[page 7]
 Source : ANSM
 via la classe ANTI-INFLAMMATOIRES NON STÉROÏDIENS
 HÉPARINES (DOSES CURATIVES ET/OU SUJET ÂGÉ)
@@ -370,6 +377,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 7/11
 
+[page 8]
 NICORANDIL
 SUBSTANCE
 Aucun médicament à cette substance dans la nomenclature
@@ -438,6 +446,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 8/11
 
+[page 9]
 RISQUES
 Augmentation du risque hémorragique.
 CONDUITE À TENIR
@@ -502,6 +511,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 9/11
 
+[page 10]
 Risque de majoration de la néphrotoxicité du
 ténofovir, notamment avec des doses élevées de
 l'anti-inflammatoire ou en présence de facteurs
@@ -537,6 +547,7 @@ IBUPRANE 600 mg : ibuprofene, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/521/ibuprane-600mg-comprime-pellicule
 10/11
 
+[page 11]
 Mention de prescription dans la nomenclature : HOP. Pour votre situation, demandez conseil à un médecin ou à un
 pharmacien.
 Où trouver la posologie et les effets secondaires de IBUPRANE 600MG ?

@@ -1,3 +1,4 @@
+[page 1]
 Page 1 sur 22
 
 Page 1 sur 22
@@ -27,6 +28,7 @@ Posologie
 L'utilisation de XAMADOL® doit être limitée aux patients dont la douleur modérée à intense
 nécessite un traitement par une association de paracétamol et de tramadol.
 
+[page 2]
 Page 2 sur 22
 
 Page 2 sur 22
@@ -72,6 +74,7 @@ Insuffisance hépatique:
 L'élimination du tramadol est retardée chez les insuffisants hépatiques. Chez ces patients, une
 augmentation de l'intervalle entre les prises doit être soigneusement évaluée en fonction des
 
+[page 3]
 Page 3 sur 22
 
 Page 3 sur 22
@@ -109,6 +112,7 @@ Chez l'adulte et l'adolescent à partir de 12 ans, la dose maximale de 8 comprim
 XAMADOL® ne doit pas être dépassée. Afin d'éviter tout risque de surdosage accidentel, les
 patients doivent être informés de ne pas dépasser la dose recommandée et de ne pas utiliser
 
+[page 4]
 Page 4 sur 22
 
 Page 4 sur 22
@@ -152,6 +156,7 @@ patients traités par le tramadol en association avec d'autres agents sérotonin
 tramadol seul (voir rubriques 4.5, 4.8 et 4.9). Si un traitement concomitant avec d'autres
 agents sérotoninergiques est justifié sur le plan clinique, il est conseillé d'observer
 
+[page 5]
 Page 5 sur 22
 
 Page 5 sur 22
@@ -187,6 +192,7 @@ Asiatique
 de 3,4 % à 6,5 %
 de 1,2 % à 2 %
 
+[page 6]
 Page 6 sur 22
 
 Page 6 sur 22
@@ -223,6 +229,7 @@ Précautions d'emploi
 Risques liés à l'utilisation concomitante de médicaments sédatifs tels que les benzodiazépines
 ou autres médicaments apparentés
 
+[page 7]
 Page 7 sur 22
 
 Page 7 sur 22
@@ -264,6 +271,7 @@ médecin.
 Les patients devront être surveillés pour détecter les signes de consommation excessive de
 médicament (par ex. des demandes de renouvellement trop précoces). Cela inclut l'examen
 
+[page 8]
 Page 8 sur 22
 
 Page 8 sur 22
@@ -303,6 +311,7 @@ tremblements, état confusionnel, voire coma.
 Manifestations d'excitation centrale évoquant un syndrome sérotoninergique: diarrhée,
 tachycardie, hyperhidrose, tremblements, état confusionnel, voire coma.
 
+[page 9]
 Page 9 sur 22
 
 Page 9 sur 22
@@ -345,6 +354,7 @@ baclofène.
 Ces médicaments peuvent majorer la dépression centrale. L'altération de la vigilance peut
 rendre dangereuse la conduite de véhicules et l'utilisation de machines.
 
+[page 10]
 Page 10 sur 22
 
 Page 10 sur 22
@@ -381,6 +391,7 @@ développement neurologique chez les enfants exposés au paracétamol in utero m
 résultats non concluants.
 Données concernant le tramadol:
 
+[page 11]
 Page 11 sur 22
 
 Page 11 sur 22
@@ -415,6 +426,7 @@ Aucune étude sur la fertilité n'a été réalisée avec l'association tramadol
 
 4.7. Effets sur la capacité à conduire des véhicules et à utiliser des machines :
 
+[page 12]
 Page 12 sur 22
 
 Page 12 sur 22
@@ -445,6 +457,7 @@ Troubles de l'oreille et du labyrinthe :
 Troubles gastro-intestinaux :
 · Très fréquents : nausées,
 
+[page 13]
 Page 13 sur 22
 
 Page 13 sur 22
@@ -473,6 +486,7 @@ Surveillance post-commercialisation :
 Troubles rénaux et urinaires:
 · Peu fréquents : albuminurie, troubles mictionnels (dysurie et rétention urinaire).
 
+[page 14]
 Page 14 sur 22
 
 Page 14 sur 22
@@ -506,6 +520,7 @@ individuelle et la durée du traitement). Ils incluent des modifications de l'hu
 (habituellement une humeur euphorique, occasionnellement dysphorie), des modifications de
 l'activité (habituellement une diminution de l'activité, occasionnellement un accroissement)
 
+[page 15]
 Page 15 sur 22
 
 Page 15 sur 22
@@ -543,6 +558,7 @@ Les professionnels de santé déclarent tout effet indésirable suspecté via :
 le système national de déclaration - Centre national de pharmacovigilance et de
 matériovigilance Tél : 020.39.66.18/ Email : cnpm@cnpm.org.dz
 
+[page 16]
 Page 16 sur 22
 
 Page 16 sur 22
@@ -586,6 +602,7 @@ Avant de commencer le traitement, un prélèvement de sang doit être réalisé 
 possible après le surdosage afin de mesurer les concentrations plasmatiques de paracétamol et
 de tramadol, et de réaliser les tests hépatiques.
 
+[page 17]
 Page 17 sur 22
 
 Page 17 sur 22
@@ -622,6 +639,7 @@ Indépendamment de la quantité de paracétamol rapportée avoir été ingérée
 paracétamol, la N-acétylcystéine, doit être administré par voie orale ou intraveineuse dans les
 plus brefs délais, si possible dans les 8 heures suivant l'intoxication
 
+[page 18]
 Page 18 sur 22
 
 Page 18 sur 22
@@ -664,6 +682,7 @@ unique et répétée du XAMADOL®, aucune modification significative des paramè
 cinétiques de chaque principe actif n'a été observée par rapport aux paramètres observés après
 administration de chacun des principes actifs utilisés seuls.
 
+[page 19]
 Page 19 sur 22
 
 Page 19 sur 22
@@ -712,6 +731,7 @@ Le paracétamol est essentiellement métabolisé au niveau du foie selon 2 voies
 majeures: la glycuroconjugaison et la sulfoconjugaison. Cette dernière voie peut être
 rapidement saturée aux posologies supérieures aux doses thérapeutiques. Une faible
 
+[page 20]
 Page 20 sur 22
 
 Page 20 sur 22
@@ -752,6 +772,7 @@ potentiel du chlorhydrate de tramadol chez l'homme.
 Les résultats des tests de cancérogenèse ne suggèrent pas de risque potentiel du chlorhydrate de
 tramadol chez l'homme.
 
+[page 21]
 Page 21 sur 22
 
 Page 21 sur 22
@@ -783,6 +804,7 @@ Etui de 20 comprimés, 02 blisters de 10.
 6.6 Précautions particulières d'élimination et de manipulation des médicaments utilisés
 ou des déchets dérivés de ces médicaments, le cas échéant :
 
+[page 22]
 Page 22 sur 22
 
 Page 22 sur 22

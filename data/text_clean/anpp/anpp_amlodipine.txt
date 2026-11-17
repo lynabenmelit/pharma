@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 1
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -49,6 +53,10 @@ Aucun ajustement posologique d'MIBRAL® n'est nécessaire lors de l'administrati
 concomitante de diurétiques thiazidiques, de bêtabloquants et d'inhibiteurs de l'enzyme de
 conversion de l'angiotensine.
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 2
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -103,6 +111,10 @@ degré élevé).
 
 La sécurité d'emploi et l'efficacité de l'amlodipine au cours d'une crise hypertensive n'ont
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 3
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -154,6 +166,10 @@ recommandée, car la biodisponibilité peut être augmentée chez certains patie
 entraîner une augmentation des effets hypotenseurs.
 o Dantrolène (perfusion)
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 4
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -206,6 +222,10 @@ nourrisson a été estimée à un intervalle interquartile de 3 à 7 %, avec un 
 de l'amlodipine sur les nourrissons est inconnu. La décision de poursuivre ou d'interrompre
 l'allaitement ou de poursuivre ou d'interrompre le traitement par l'amlodipine doit être prise en
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 5
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -263,6 +283,10 @@ Somnolence, sensation
 vertigineuse, céphalée (en
 particulier au début du traitement)
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 6
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -325,6 +349,10 @@ Trouble de la miction, nycturie,
 augmentation de la fréquence
 urinaire
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 7
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -381,6 +409,10 @@ probablement aucun bénéfice.
 
 5.1. Propriétés pharmacodynamiques
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 8
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -439,6 +471,10 @@ Risque relatif (IC
 Valeur de p
 Critère principal
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 9
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -539,6 +575,10 @@ thiazidique, la chlortalidone à la dose de 12,5 à 25 mg/jour dans l'hypertensi
 Au total, 33 357 patients hypertendus âgés de 55 ans ou plus ont été randomisés et suivis pendant
 une moyenne de 4,9 ans. Les patients présentaient au moins un facteur de risque de coronaropathie
 
+<<<<<<< HEAD
+=======
+[page 10]
+>>>>>>> code
 10
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -590,6 +630,10 @@ les patients présentant une insuffisance hépatique. Les patients atteints d'in
 une clairance de l'amlodipine diminuée résultant d'une demi-vie plus longue et d'une augmentation
 de l'ASC d'environ 40-60%.
 
+<<<<<<< HEAD
+=======
+[page 11]
+>>>>>>> code
 11
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -642,6 +686,10 @@ Composition de l'enveloppe de la gélule :
 Gélatine, jaune de quinoléine, oxyde de fer noir, dioxyde de titane.
 Encre d'impression :
 
+<<<<<<< HEAD
+=======
+[page 12]
+>>>>>>> code
 12
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82
@@ -693,6 +741,10 @@ ALGERIE
 8.4. Numéro de la décision d'enregistrement
 22/15/06 B 123/309
 
+<<<<<<< HEAD
+=======
+[page 13]
+>>>>>>> code
 13
 
 CONSTANTINE : Oued Hamimime - 25100 El Khroub - Tél.: 031 95 53 03 & 95 53 04 Fax.: 031 95 51 82

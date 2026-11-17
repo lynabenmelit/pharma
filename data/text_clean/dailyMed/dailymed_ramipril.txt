@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 RAMIPRIL - ramipril capsule
 ----------
 HIGHLIGHTS OF PRESCRIBING INFORMATION
@@ -42,6 +46,10 @@ administer ramipril capsules within 36 hours of switching to or from sacubitril/
 inhibitor (4).
 Do not co-administer aliskiren with ramipril capsules in patients with diabetes (4).
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 WARNINGS AND PRECAUTIONS
 Angioedema, increased risk in patients with a prior history (5.1)
 Hypotension and hyperkalemia (5.5, 5.8)
@@ -85,6 +93,10 @@ Causes
 5.4 Neutropenia and Agranulocytosis
 5.5 Hypotension
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 5.6 Fetal Toxicity
 5.7 Dual Blockade of the Renin-Angiotensin System
 5.8 Hyperkalemia
@@ -126,6 +138,10 @@ Inhibitors (COX-2 Inhibitors)
 FULL PRESCRIBING INFORMATION
 Sections or subsections omitted from the full prescribing information are not listed.
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 When pregnancy is detected, discontinue ramipril as soon as possible
 [see Warnings and Precautions (5.6)].
 Drugs that act directly on the renin-angiotensin system can cause
@@ -165,6 +181,10 @@ Black patients, and many antihypertensive drugs have additional approved indicat
 and effects (e.g., on angina, heart failure, or diabetic kidney disease). These
 considerations may guide selection of therapy.
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Ramipril capsules may be used alone or in combination with thiazide diuretics.
 1.2 Reduction in the Risk of Myocardial Infarction, Stroke, and Death from
 Ramipril capsules are indicated in patients 55 years or older at high risk of developing a
@@ -199,6 +219,10 @@ given as a divided dose.
 For the treatment of post-myocardial infarction patients who have shown signs of
 congestive heart failure, the recommended starting dose of ramipril capsules is 2.5 mg
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 twice daily (5 mg per day). A patient who becomes hypotensive at this dose may be
 switched to 1.25 mg twice daily. After one week at the starting dose, increase dose (if
 tolerated) toward a target dose of 5 mg twice daily, with dosage increases being about 3
@@ -236,6 +260,10 @@ For patients with heart failure and renal impairment, the recommended initial do
 and up to a maximum dose of 2.5 mg twice daily depending on clinical response and
 tolerability.
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 Volume Depletion or Renal Artery Stenosis
 Blood pressure decreases associated with any dose of ramipril capsules depend, in part,
 on the presence or absence of volume depletion (e.g., past and current diuretic use) or
@@ -269,6 +297,10 @@ Do not co-administer ramipril capsules with aliskiren:
 Presumably because drugs that act directly on the renin-angiotensin-aldosterone
 system (e.g., ACE inhibitors) affect the metabolism of eicosanoids and polypeptides,
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 including endogenous bradykinin, patients receiving these drugs (including ramipril) may
 be subject to a variety of adverse reactions, some of them serious.
 
@@ -303,6 +335,10 @@ ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibito
 Include intestinal angioedema in the differential diagnosis of patients on ACE inhibitors
 presenting with abdominal pain.
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 Anaphylactoid Reactions During Desensitization
 
 Two patients undergoing desensitizing treatment with hymenoptera venom while
@@ -341,6 +377,10 @@ diuretic. This is more likely to occur in patients with pre-existing renal impai
 Dosage reduction of ramipril and/or discontinuation of the diuretic may be required.
 5.4 Neutropenia and Agranulocytosis
 
+<<<<<<< HEAD
+=======
+[page 10]
+>>>>>>> code
 In rare instances, treatment with ACE inhibitors may be associated with mild reductions
 in red blood cell count and hemoglobin content, blood cell or platelet counts. In isolated
 cases, agranulocytosis, pancytopenia, and bone marrow depression may occur.
@@ -375,6 +415,10 @@ hypotension, ramipril may block angiotensin II formation that would otherwise oc
 secondary to compensatory renin release. Hypotension that occurs as a result of this
 mechanism can be corrected by volume expansion.
 
+<<<<<<< HEAD
+=======
+[page 11]
+>>>>>>> code
 5.6 Fetal Toxicity
 Use of drugs that act on the renin-angiotensin system during the second and third
 trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal
@@ -415,6 +459,10 @@ other drugs that raise serum potassium levels. Monitor serum potassium in such
 patients [see Drug Interactions (7.2)].
 5.9 Cough
 
+<<<<<<< HEAD
+=======
+[page 12]
+>>>>>>> code
 Presumably caused by inhibition of the degradation of endogenous bradykinin,
 persistent nonproductive cough has been reported with all ACE inhibitors, always
 resolving after discontinuation of therapy. Consider the possibility of angiotensin
@@ -456,6 +504,10 @@ cough was similar to that seen in the Acute Infarction Ramipril Efficacy (AIRE) 
 rate of angioedema was the same as in previous clinical trials [see Warnings and
 Precautions (5.1)].
 
+<<<<<<< HEAD
+=======
+[page 13]
+>>>>>>> code
 Table 1. Reasons for Discontinuation or Temporary Interruption of Treatment
 -HOPE Study
 (N=4652)
@@ -516,6 +568,10 @@ Cardiovascular: Symptomatic hypotension (reported in 0.5% of patients in U.S. tr
 [see Warnings and Precautions (5.5)], syncope, and palpitations.
 Hematologic: Pancytopenia, hemolytic anemia, and thrombocytopenia.
 
+<<<<<<< HEAD
+=======
+[page 14]
+>>>>>>> code
 Decreases in hemoglobin or hematocrit (a low value and a decrease of 5 g/dL or 5%,
 respectively) were rare, occurring in 0.4% of patients receiving ramipril alone and in
 1.5% of patients receiving ramipril plus a diuretic.
@@ -557,6 +613,10 @@ ramipril with a diuretic. None of these increases required discontinuation of tr
 Increases in these laboratory values are more likely to occur in patients with renal
 insufficiency or those pretreated with a diuretic and, based on experience with other
 
+<<<<<<< HEAD
+=======
+[page 15]
+>>>>>>> code
 ACE inhibitors, would be expected to be especially likely in patients with renal artery
 stenosis [see Warnings and Precautions (5.3)]. As ramipril decreases aldosterone
 secretion, elevation of serum potassium can occur. Use potassium supplements and
@@ -593,6 +653,10 @@ Contraindications (4)].
 Increased serum lithium levels and symptoms of lithium toxicity have been reported in
 patients receiving ACE inhibitors during therapy with lithium; therefore, frequent
 
+<<<<<<< HEAD
+=======
+[page 16]
+>>>>>>> code
 monitoring of serum lithium levels is recommended. If a diuretic is also used, the risk of
 lithium toxicity may be increased.
 7.5 Gold
@@ -628,6 +692,10 @@ fetus.
 In the unusual case that there is no appropriate alternative to therapy with drugs
 affecting the renin-angiotensin system for a particular patient, apprise the mother of the
 
+<<<<<<< HEAD
+=======
+[page 17]
+>>>>>>> code
 g
 g
 y
@@ -671,6 +739,10 @@ varying degrees of renal impairment who received a single 10 mg dose of ramipril
 Patients were stratified into four groups based on initial estimates of creatinine
 clearance: normal (>80 mL/min), mild impairment (40 to 80 mL/min), moderate
 
+<<<<<<< HEAD
+=======
+[page 18]
+>>>>>>> code
 impairment (15 to 40 mL/min), and severe impairment (<15 mL/min). On average, the
 AUC
 for ramiprilat was approximately 1.7-fold higher, 3-fold higher, and 3.2-fold
@@ -709,6 +781,10 @@ FD&C blue 1. The capsules are printed with edible ink containing black iron oxid
 shellac.
 0-24h
 
+<<<<<<< HEAD
+=======
+[page 19]
+>>>>>>> code
 The structural formula for ramipril is:
 Its molecular formula is C
 H
@@ -742,6 +818,10 @@ role in the therapeutic effects of ramipril remains to be elucidated.
 23
 32
 
+<<<<<<< HEAD
+=======
+[page 20]
+>>>>>>> code
 While the mechanism through which ramipril lowers blood pressure is believed to be
 primarily suppression of the renin-angiotensin-aldosterone system, ramipril has an
 antihypertensive effect even in patients with low-renin hypertension. Although ramipril
@@ -782,6 +862,10 @@ not strictly dose-proportional. The 24-hour AUC for ramiprilat, however, is dose
 ramipril and ramiprilat were 28% and 44%, respectively, when 5 mg of oral ramipril was
 max
 
+<<<<<<< HEAD
+=======
+[page 21]
+>>>>>>> code
 compared with the same dose of ramipril given intravenously.
 After once-daily dosing, steady-state plasma concentrations of ramiprilat are reached by
 the fourth dose. Steady-state concentrations of ramiprilat are somewhat higher than
@@ -821,6 +905,10 @@ longer times to peak concentrations.
 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 No evidence of a tumorigenic effect was found when ramipril was given by gavage to
 
+<<<<<<< HEAD
+=======
+[page 22]
+>>>>>>> code
 rats for up to 24 months at doses of up to 500 mg/kg/day or to mice for up to 18
 months at doses of up to 1000 mg/kg/day. (For either species, these doses are about
 200 times the maximum recommended human dose when compared on the basis of
@@ -862,6 +950,10 @@ compared with other ACE inhibitors, beta-blockers, and thiazide diuretics. Ramip
 approximately as effective as other ACE inhibitors and as atenolol. In both Caucasians
 and Blacks, hydrochlorothiazide (25 or 50 mg) was significantly more effective than
 
+<<<<<<< HEAD
+=======
+[page 23]
+>>>>>>> code
 Ramipril was less effective in blacks than in Caucasians. The effectiveness of ramipril was
 not influenced by age, sex, or weight.
 In a baseline controlled study of 10 patients with mild essential hypertension, blood
@@ -925,6 +1017,10 @@ Death from any cause
 0.84 (0.75 to 0.95)
 P=0.005
 
+<<<<<<< HEAD
+=======
+[page 24]
+>>>>>>> code
 Figure 1. Kaplan-Meier Estimates of the Composite Outcome of Myocardial
 Infarction, Stroke, or Death from Cardiovascular Causes in the Ramipril
 Group and the Placebo Group
@@ -955,6 +1051,10 @@ death from cardiovascular cause
 P=0.0004
 Component Endpoint
 
+<<<<<<< HEAD
+=======
+[page 25]
+>>>>>>> code
 Death from cardiovascular causes
 172 (9.7%)
 112 (6.2%)
@@ -982,6 +1082,10 @@ calcium channel blockers.
 14.3 Heart Failure Post-Myocardial Infarction
 Ramipril was studied in the AIRE trial. This was a multinational (mainly European) 161-
 
+<<<<<<< HEAD
+=======
+[page 26]
+>>>>>>> code
 center, 2006-patient, double-blind, randomized, parallel-group study comparing ramipril
 to placebo in stable patients, 2 to 9 days after an acute myocardial infarction, who had
 shown clinical signs of congestive heart failure at any time after the myocardial
@@ -1023,6 +1127,10 @@ Bottles of 1,000 NDC 65862-475-99
 10 x 10 Unit-dose Capsules NDC 65862-475-10
 Ramipril Capsules USP, 5 mg are red/red size '4' hard gelatin capsules imprinted with
 
+<<<<<<< HEAD
+=======
+[page 27]
+>>>>>>> code
 'D' on red cap and '07' on red body with black edible ink filled with white to almost white
 powder.
 Bottles of 30 NDC 65862-476-30
@@ -1061,6 +1169,10 @@ Pregnancy
 Tell female patients of childbearing age about the consequences of exposure to ramipril
 during pregnancy. Discuss treatment options with women planning to become
 
+<<<<<<< HEAD
+=======
+[page 28]
+>>>>>>> code
 pregnant. Ask patients to report pregnancies to their physicians as soon as possible.
 Hyperkalemia
 Advise patients not to use salt substitutes containing potassium without consulting their
@@ -1075,14 +1187,23 @@ Revised: 09/2026
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 1.25 mg (100 Capsule Bottle)
 NDC 65862-474-01
 
+<<<<<<< HEAD
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 1.25 mg Blister Carton (10 x 10
 NDC 65862-474-10
 
+=======
+[page 29]
+PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 1.25 mg Blister Carton (10 x 10
+NDC 65862-474-10
+
+[page 30]
+>>>>>>> code
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2.5 mg (100 Capsule Bottle)
 NDC 65862-475-01
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2.5 mg Blister Carton (10 x 10
 NDC 65862-475-10
 
+<<<<<<< HEAD
 PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 5 mg (100 Capsule Bottle)
 NDC 65862-476-01
 
@@ -1097,6 +1218,29 @@ NDC 65862-477-10
 
 NDC:65862-474
 
+=======
+[page 31]
+PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 5 mg (100 Capsule Bottle)
+NDC 65862-476-01
+
+[page 32]
+PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 5 mg Blister Carton (10 x 10
+NDC 65862-476-10
+
+[page 33]
+PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 10 mg (100 Capsule Bottle)
+NDC 65862-477-01
+
+[page 34]
+PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 10 mg Blister Carton (10 x 10
+NDC 65862-477-10
+
+[page 35]
+NDC:65862-474
+
+[page 36]
+
+>>>>>>> code
 FERRIC OXIDE YELLOW (UNII: EX438O2MRT)
 
 YELLOW
@@ -1109,6 +1253,11 @@ D;05
 4
 NDC:65862-475
 
+<<<<<<< HEAD
+=======
+[page 37]
+
+>>>>>>> code
 D&C YELLOW NO. 10 (UNII: 35SW5USQ3G)
 
 FD&C RED NO. 40 (UNII: WZB9127XOA)
@@ -1122,6 +1271,10 @@ D;06
 4 NDC:65862475-99
 5 NDC:65862475-10
 
+<<<<<<< HEAD
+=======
+[page 38]
+>>>>>>> code
 NDC:65862-476
 
 FD&C BLUE NO. 1 (UNII: H3R47K3TBD)
@@ -1137,6 +1290,10 @@ D;07
 4 NDC:65862476-99
 5 NDC:65862476-10
 
+<<<<<<< HEAD
+=======
+[page 39]
+>>>>>>> code
 NDC:65862-477
 
 FD&C BLUE NO. 1 (UNII: H3R47K3TBD)
@@ -1149,6 +1306,10 @@ D;08
 3 NDC:65862477-05
 4 NDC:65862477-99
 
+<<<<<<< HEAD
+=======
+[page 40]
+>>>>>>> code
 5 NDC:65862477-10
 Labeler - Aurobindo Pharma Limited (650082092)
 Establishment

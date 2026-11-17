@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ — pharmaveille-dz.vercel.app
 DCI — DÉNOMINATION COMMUNE INTERNATIONALE
 AMLODIPINE SOUS FORME BESYLATE
@@ -56,6 +60,10 @@ AMLOCARDINE 10 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1035/amlocardine-10mg-gelule
 1/6
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -108,6 +116,10 @@ AMLOCARDINE 10 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1035/amlocardine-10mg-gelule
 2/6
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 DIMLOR — BIOCARE
 DIPICARD — AT PHARMA
 HUMLOR — HUPP PHARMA
@@ -161,6 +173,10 @@ AMLOCARDINE 10 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1035/amlocardine-10mg-gelule
 3/6
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 ▲Association déconseillée
 4
 DANTROLENE
@@ -222,6 +238,10 @@ AMLOCARDINE 10 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1035/amlocardine-10mg-gelule
 4/6
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Source : ANSM
 via la classe ANTAGONISTES DES CANAUX CALCIQUES
 RIFAMPICINE
@@ -281,6 +301,10 @@ AMLOCARDINE 10 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1035/amlocardine-10mg-gelule
 5/6
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 ❓ Questions fréquentes
 Quelle est la substance active de AMLOCARDINE 10MG ?
 La substance active de AMLOCARDINE 10MG est AMLODIPINE SOUS FORME BESYLATE (DCI), selon la nomenclature
@@ -310,4 +334,8 @@ boîte, ou demandez conseil à un médecin ou à un pharmacien.
 11/15/26, 11:09 PM
 AMLOCARDINE 10 mg gelule : équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1035/amlocardine-10mg-gelule
+<<<<<<< HEAD
 6/6
+=======
+6/6
+>>>>>>> code

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 1 contre-indication
@@ -48,6 +52,10 @@ comprime
 ✅ Médicament actif
 1/9
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -89,6 +97,10 @@ Version source
 Aout 2026
 2/9
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 📊 RAMINORM en Algérie : équivalents, laboratoire, validité
 Aucune autre présentation de même substance active, dosage et forme que RAMINORM 5MG n'est enregistrée dans la
 nomenclature actuelle. 19 autres produits contiennent aussi RAMIPRIL, à d'autres dosages ou formes.
@@ -127,6 +139,10 @@ Pharma
 Lire des études
 3/9
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 Interactions médicamenteuses
 Interactions de la substance active avec d'autres médicaments, selon le Thesaurus de l'ANSM (France). Elles
 valent pour toutes les spécialités qui contiennent cette substance.
@@ -174,6 +190,10 @@ de la fonction rénale.
 8
 4/9
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Substances de la classe (7)
 ESTRAMUSTINE
 Risque de majoration des effets indésirables à
@@ -211,6 +231,10 @@ rénale en début de traitement et régulièrement
 pendant l'association.
 5/9
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 filtration glomérulaire secondaire à une
 diminution de la synthèse des prostaglandines
 rénales. Par ailleurs, réduction de l'effet
@@ -253,6 +277,10 @@ traitement par l'IEC.
 Substances de la classe (12)
 6/9
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 EPLERENONE
 Médicaments contenant cette substance ›
 Majoration du risque d'hyperkaliémie,
@@ -293,6 +321,10 @@ hypoglycémiques semble exceptionnelle
 Renforcer l'autosurveillance glycémique.
 7/9
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 aurait pour conséquence une réduction des
 besoins en sulfamides hypoglycémiants).
 Substances de la classe (7)
@@ -320,6 +352,10 @@ Quelle est la classe thérapeutique (ATC) de RAMINORM 5MG ?
 Le code ATC associé à RAMIPRIL est C09AA05 (ramipril).
 8/9
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 RAMINORM 5MG nécessite-t-il une ordonnance ?
 Mention de prescription dans la nomenclature : HOP. Pour votre situation, demandez conseil à un médecin ou à un
 pharmacien.

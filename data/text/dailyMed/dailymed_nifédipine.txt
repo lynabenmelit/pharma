@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 NIFEDIPINE- nifedipine capsule  
+=======
+[page 1]
+NIFEDIPINE- nifedipine capsule 
+>>>>>>> code
 Chartwell RX, LLC
 ----------
 Nifedipine Capsule, USP 
@@ -32,6 +37,10 @@ specific ion channels. Nifedipine selectively inhibits calcium ion influx across
 2
 6
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 membrane of cardiac muscle and vascular smooth muscle without changing serum
 calcium concentrations.
 Mechanism of Action
@@ -77,6 +86,10 @@ Like other slow-channel blockers, nifedipine exerts a negative inotropic effect 
 myocardial tissue. This is rarely, if ever, seen in intact animals or man, probably because
 of reflex responses to its vasodilating effects. In man, nifedipine causes decreased
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 peripheral vascular resistance and a fall in systolic and diastolic pressure, usually modest
 (5 to 10 mm Hg systolic), but sometimes larger. There is usually a small increase in heart
 rate, a reflex response to vasodilation. Measurements of cardiac function in patients
@@ -121,6 +134,10 @@ treatment, especially in patients with compromised left ventricular function or 
 conduction abnormalities. When introducing such concomitant therapy, care must be
 taken to monitor blood pressure closely since severe hypotension can occur from the
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 combined effects of the drugs. (See WARNINGS.)
 CONTRAINDICATIONS
 Known hypersensitivity reaction to nifedipine.
@@ -156,7 +173,11 @@ Several well-controlled, randomized trials studied the use of immediate-release 
 in patients who had just sustained myocardial infarctions. In none of these trials did
 immediate-release nifedipine appear to provide any benefit. In some of the trials, patients
 who received immediate-release nifedipine had significantly worse outcomes than
+<<<<<<< HEAD
 patients who received placebo.  Nifedipine capsules should not be administered
+=======
+patients who received placebo. Nifedipine capsules should not be administered
+>>>>>>> code
 within the first week or two after myocardial infarction, and they should also
 be avoided in the setting of acute coronary syndrome (when infarction may
 be imminent).
@@ -164,13 +185,21 @@ Use in Essential Hypertension
 Nifedipine and other immediate-release nifedipine capsules have also been used for the
 long-term control of essential hypertension, although nifedipine capsules have not been
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 g
 yp
 g
 p
 p
 approved for this purpose and no properly controlled studies have been conducted to
+<<<<<<< HEAD
 define an appropriate dose or dose interval for such treatment.  Nifedipine capsules
+=======
+define an appropriate dose or dose interval for such treatment. Nifedipine capsules
+>>>>>>> code
 should not be used for the control of essential hypertension.
 Beta Blocker Withdrawal
 Patients recently withdrawn from beta blockers may develop a withdrawal syndrome
@@ -191,7 +220,11 @@ Hypotension:
 Because nifedipine decreases peripheral vascular resistance, careful monitoring of blood
 pressure during the initial administration and titration of nifedipine is suggested. Close
 observation is especially recommended for patients already taking medications that are
+<<<<<<< HEAD
 known to lower blood pressure. (See  WARNINGS.)
+=======
+known to lower blood pressure. (See WARNINGS.)
+>>>>>>> code
 Peripheral Edema:
 Mild to moderate peripheral edema, typically associated with arterial vasodilation and not
 due to left ventricular dysfunction, occurs in about one in ten patients treated with
@@ -206,11 +239,19 @@ nifedipine therapy is uncertain in most cases, but probable in some. These labor
 abnormalities have rarely been associated with clinical symptoms; however, cholestasis
 with or without jaundice has been reported. Rare instances of allergic hepatitis have
 been reported.
+<<<<<<< HEAD
 Nifedipine, like other calcium channel blockers, decreases platelet aggregation  in vitro.
+=======
+Nifedipine, like other calcium channel blockers, decreases platelet aggregation in vitro.
+>>>>>>> code
 Limited clinical studies have demonstrated a moderate but statistically significant
 decrease in platelet aggregation and an increase in bleeding time in some nifedipine
 patients. This is thought to be a function of inhibition of calcium transport across the
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 platelet membrane. No clinical significance for these findings has been demonstrated.
 Positive direct Coombs Test with/without hemolytic anemia has been reported but a
 causal relationship between nifedipine administration and positivity of this laboratory
@@ -222,7 +263,11 @@ insufficiency. The relationship to nifedipine therapy is uncertain in most cases
 probable in some.
 Drug Interactions:
 Beta-adrenergic blocking agents:
+<<<<<<< HEAD
 (See  INDICATIONS AND USAGE and  WARNINGS.) Experience in over 1,400 patients
+=======
+(See INDICATIONS AND USAGE and WARNINGS.) Experience in over 1,400 patients
+>>>>>>> code
 in a non-comparative clinical trial has shown that concomitant administration of
 nifedipine and beta-blocking agents is usually well tolerated, but there have been
 occasional literature reports suggesting that the combination may increase the likelihood
@@ -253,6 +298,10 @@ currently receiving cimetidine, cautious titration is advised.
 Nifedipine is metabolized by CYP3A4. Co-administration of nifedipine with phenytoin, an
 inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%.
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 Avoid co-administration of nifedipine with phenytoin or any known CYP3A4 inducer or
 consider an alternative antihypertensive therapy.
 CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin,
@@ -273,7 +322,11 @@ carcinogenic. When given to rats prior to mating, nifedipine caused reduced fert
 dose approximately 5 times the maximum recommended human dose. There is a
 literature report of reversible reduction in the ability of human sperm obtained from a
 limited number of infertile men taking recommended doses of nifedipine to bind to and
+<<<<<<< HEAD
 fertilize an ovum  in vitro.  In vivo mutagenicity studies were negative.
+=======
+fertilize an ovum in vitro. In vivo mutagenicity studies were negative.
+>>>>>>> code
 Pregnancy:
 Pregnancy Category C:
 Nifedipine has been shown to produce teratogenic findings in rats and rabbits, including
@@ -286,11 +339,19 @@ underdeveloped chorionic villi (monkeys), embryonic and fetal deaths (rats, mice
 rabbits), and prolonged pregnancy/decreased neonatal survival (rats; not evaluated in
 other species). On a mg/kg basis, all of the doses associated with the teratogenic
 embryotoxic or fetotoxic effects in animals were higher (5 to 50 times) than the
+<<<<<<< HEAD
 maximum recommended human dose of 120 mg/day. On a mg/m  basis, some doses
 were higher and some were lower than the maximum recommended human dose but all
 were within an order of magnitude of it. The doses associated with placentotoxic effects
 in monkeys were equivalent to or lower than the maximum recommended human dose
 on a mg/m  basis.
+=======
+maximum recommended human dose of 120 mg/day. On a mg/m basis, some doses
+were higher and some were lower than the maximum recommended human dose but all
+were within an order of magnitude of it. The doses associated with placentotoxic effects
+in monkeys were equivalent to or lower than the maximum recommended human dose
+on a mg/m basis.
+>>>>>>> code
 There are no adequate and well-controlled studies in pregnant women. Nifedipine should
 be used during pregnancy only if the potential benefit justifies the potential risk.
 Lactation:
@@ -301,12 +362,20 @@ max
 2
 2
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 Safety and effectiveness in pediatric patients have not been established. Use in pediatric
 population is not recommended.
 Geriatric Use:
 Age appears to have a significant effect on the pharmacokinetics of nifedipine. The
 clearance is decreased resulting in a higher AUC in the elderly. These changes are not
+<<<<<<< HEAD
 due to changes in renal function (see  CLINICAL PHARMACOLOGY,
+=======
+due to changes in renal function (see CLINICAL PHARMACOLOGY,
+>>>>>>> code
 Pharmacokinetics).
 ADVERSE REACTIONS
 In multiple-dose United States and foreign controlled studies in which adverse reactions
@@ -364,6 +433,10 @@ Cardiovascular: transient hypotension
 Incidence 2% or Less
 Cardiovascular: palpitation
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 Respiratory: nasal and chest congestion, shortness of breath
 Gastrointestinal: diarrhea, constipation, cramps, flatulence
 Musculoskeletal: inflammation, joint stiffness, muscle cramps
@@ -399,11 +472,19 @@ Ventricular arrhythmias or conduction disturbances each occurred in fewer than 0
 of patients.
 In a subgroup of over 1,000 patients receiving nifedipine with concomitant beta blocker
 therapy, the pattern and incidence of adverse experiences were not different from that
+<<<<<<< HEAD
 of the entire group of nifedipine treated patients. (See  PRECAUTIONS.)
+=======
+of the entire group of nifedipine treated patients. (See PRECAUTIONS.)
+>>>>>>> code
 In a subgroup of approximately 250 patients with a diagnosis of congestive heart failure
 as well as angina pectoris (about 10% of the total patient population), dizziness or
 lightheadedness, peripheral edema, headache, or flushing each occurred in one in eight
 
+<<<<<<< HEAD
+=======
+[page 10]
+>>>>>>> code
 patients. Hypotension occurred in about one in 20 patients. Syncope occurred in
 approximately one patient in 250. Myocardial infarction or symptoms of congestive heart
 failure each occurred in about one patient in 15. Atrial or ventricular dysrhythmias each
@@ -446,6 +527,10 @@ due to ischemia. A single dose should rarely exceed 30 mg.
 Avoid co-administration of nifedipine with grapefruit juice (see CLINICAL
 PHARMACOLOGYand PRECAUTIONS: Other Interactions).
 
+<<<<<<< HEAD
+=======
+[page 11]
+>>>>>>> code
 No "rebound effect" has been observed upon discontinuation of nifedipine. However, if
 discontinuation of nifedipine is necessary, sound clinical practice suggests that the
 dosage should be decreased gradually with close physician supervision.
@@ -474,8 +559,14 @@ L71649
 PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 NIFEdipine Capsules, USP 10 mg - NDC 62135-739-90 - 90's Bottle Label
 
+<<<<<<< HEAD
 NIFEdipine Capsules, USP 20 mg - NDC 62135-740-90 - 90's Bottle Label
 NIFEDIPINE  
+=======
+[page 12]
+NIFEdipine Capsules, USP 20 mg - NDC 62135-740-90 - 90's Bottle Label
+NIFEDIPINE 
+>>>>>>> code
 nifedipine capsule
 Product Information
 Product Type
@@ -492,6 +583,10 @@ NIFEDIPINE (UNII: I9ZF7L6G2L) (NIFEDIPINE - UNII:I9ZF7L6G2L)
 NIFEDIPINE
 20 mg
 
+<<<<<<< HEAD
+=======
+[page 13]
+>>>>>>> code
 Inactive Ingredients
 Ingredient Name
 Strength
@@ -544,7 +639,11 @@ Flavor
 Imprint Code
 HP195
 Contains
+<<<<<<< HEAD
     
+=======
+ 
+>>>>>>> code
 Packaging
 #
 Item Code
@@ -570,7 +669,11 @@ Date
 ANDA
 ANDA202644
 12/07/2010
+<<<<<<< HEAD
 NIFEDIPINE  
+=======
+NIFEDIPINE 
+>>>>>>> code
 nifedipine capsule
 Product Information
 Product Type
@@ -580,6 +683,10 @@ NDC:62135-739
 Route of Administration
 ORAL
 
+<<<<<<< HEAD
+=======
+[page 14]
+>>>>>>> code
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of Strength
@@ -633,7 +740,11 @@ Flavor
 Imprint Code
 HP194
 Contains
+<<<<<<< HEAD
     
+=======
+ 
+>>>>>>> code
 Packaging
 #
 Item Code
@@ -661,6 +772,13 @@ ANDA202644
 12/07/2010
 Labeler - Chartwell RX, LLC (079394054)
 
+<<<<<<< HEAD
 Chartwell RX, LLC
  
 Revised: 12/2025
+=======
+[page 15]
+Chartwell RX, LLC
+ 
+Revised: 12/2025
+>>>>>>> code

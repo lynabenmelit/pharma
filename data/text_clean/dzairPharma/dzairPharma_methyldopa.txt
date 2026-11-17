@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ - pharmaveille-dz.vercel.app
 ✷Interactions médicamenteuses
 ⊗ 1 contre-indication
@@ -83,6 +87,10 @@ comprime pellicule
 
 1/5
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -143,6 +151,10 @@ Télécharger
 
 2/5
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 Majoration de la dépression centrale. L'altération de la vigilance
 peut rendre dangereuses la conduite de véhicules et l'utilisation
 de machines.
@@ -185,6 +197,10 @@ LEVODOPA
 
 3/5
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 Augmentation des effets de la lévodopa mais également de ses
 effets indésirables. Majoration de l'effet antihypertenseur de la
 méthyldopa.
@@ -225,6 +241,10 @@ un médecin ou à un pharmacien.
 
 4/5
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 ← Retour
 🔍 Tous les médicaments avec cette DCI
 🔎 Voir la boîte (Google)

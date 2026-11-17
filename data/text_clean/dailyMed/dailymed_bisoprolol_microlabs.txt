@@ -1,3 +1,4 @@
+[page 1]
 BISOPROLOL- bisoprolol fumarate tablet, film coated
 ----------
 Rx only
@@ -31,6 +32,7 @@ Pharmacokinetics and Metabolism
 66
 12
 
+[page 2]
 The absolute bioavailability after a 10 mg oral dose of bisoprolol fumarate is about 80%.
 Absorption is not affected by the presence of food. The first pass metabolism of
 bisoprolol fumarate is about 20%.
@@ -72,6 +74,7 @@ established. Factors which may be involved include:
 In normal volunteers, bisoprolol fumarate therapy resulted in a reduction of exerciseand isoproterenol-induced tachycardia. The maximal effect occurred within 1 to 4 hours
 post-dosing. Effects persisted for 24 hours at doses equal to or greater than 5 mg.
 
+[page 3]
 Electrophysiology studies in man have demonstrated that bisoprolol fumarate
 significantly decreases heart rate, increases sinus node recovery time, prolongs AV
 node refractory periods, and, with rapid atrial stimulation, prolongs AV nodal
@@ -140,6 +143,7 @@ Total ΔBP (mm Hg)
 4.6/4.4
 10.5/7.5
 
+[page 4]
 Total ΔHR (bpm)
 1.6
 10.7
@@ -182,6 +186,7 @@ physician's advice. Even in patients without overt coronary artery disease, it m
 advisable to taper therapy with bisoprolol fumarate over approximately one week with
 the patient under careful observation. If withdrawal symptoms occur, bisoprolol
 
+[page 5]
 fumarate therapy should be reinstituted, at least temporarily.
 Peripheral Vascular Disease
 Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients
@@ -223,6 +228,7 @@ fumarate may produce excessive reduction of sympathetic activity. In patients re
 concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that
 bisoprolol fumarate be discontinued for several days before the withdrawal of clonidine.
 
+[page 6]
 Bisoprolol fumarate should be used with care when myocardial depressants or inhibitors
 of AV conduction, such as certain calcium antagonists (particularly of the
 phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic
@@ -265,6 +271,7 @@ synthesis test, the micronucleus test in mice, and the cytogenetics assay in rat
 was no evidence of mutagenic potential in these in vitroand in vivoassays.
 Reproduction studies in rats did not show any impairment of fertility at doses up to 150
 
+[page 7]
 mg/kg/day of bisoprolol fumarate, or 375 and 77 times the MRHD on the basis of body
 weight and body surface area, respectively.
 Pregnancy
@@ -306,6 +313,7 @@ U.S. placebo-controlled studies.
 In Study A, doses of 5, 10, and 20 mg bisoprolol fumarate were administered for 4
 weeks. In Study B, doses of 2.5, 10, and 40 mg of bisoprolol fumarate were
 
+[page 8]
 administered for 12 weeks. A total of 273 patients were treated with 5 to 20 mg of
 bisoprolol fumarate; 132 received placebo.
 Withdrawal of therapy for adverse events was 3.3% for patients receiving bisoprolol
@@ -404,6 +412,7 @@ edema (peripheral)
 8.2
 3.0
 
+[page 9]
 percentage of patients with event
 The following is a comprehensive list of adverse experiences reported with bisoprolol
 fumarate in worldwide studies, or in postmarketing experience (in italics):
@@ -434,6 +443,7 @@ Respiratory
 Asthma/bronchospasm, bronchitis, coughing, dyspnea, pharyngitis, rhinitis, sinusitis,
 URI.
 
+[page 10]
 Genitourinary
 Decreased libido/impotence, Peyronie's disease, cystitis, renal colic, polyuria.
 Hematologic
@@ -467,6 +477,7 @@ concomitant elevations in SGOT and SGPT from 1 to 2 times normal was 3.9%,
 compared to 2.5% for placebo. No patient had concomitant elevations greater than
 twice normal.
 
+[page 11]
 In the long-term, uncontrolled experience with bisoprolol fumarate treatment for 6 to 18
 months, the incidence of one or more concomitant elevations in SGOT and SGPT from 1
 to 2 times normal was 6.2%. The incidence of multiple occurrences was 1.9%. For
@@ -506,6 +517,7 @@ transvenous cardiac pacemaker insertion, as appropriate.
 Congestive Heart Failure
 Initiate conventional therapy (i.e., digitalis, diuretics, inotropic agents, vasodilating
 
+[page 12]
 agents).
 Bronchospasm
 Administer bronchodilator therapy such as isoproterenol and/or aminophylline.
@@ -540,6 +552,7 @@ Bottles of 30 Unit-of-use with child-resistant closure: NDC 42571-470-30
 Bottles of 100 with child-resistant closure: NDC 42571-470-01
 Bottles of 500: NDC 42571-470-05
 
+[page 13]
 The 10 mg tablets are white to off-white, round, biconvex film-coated tablets debossed
 with ' ǀ ǀ ' on one side and plain on other side. They are supplied as follows:
 Bottles of 30 Unit-of-use with child-resistant closure: NDC 42571-471-30
@@ -565,6 +578,7 @@ NDC-42571-471-30
 Rx Only
 30 Tablets
 
+[page 14]
 Unit-of-use
 BISOPROLOL
 bisoprolol fumarate tablet, film coated
@@ -619,6 +633,7 @@ Imprint Code
 I
 Contains
 
+[page 15]
 Packaging
 #
 Item Code
@@ -687,6 +702,7 @@ Contains
 
 Packaging
 
+[page 16]
 #
 Item Code
 Package Description

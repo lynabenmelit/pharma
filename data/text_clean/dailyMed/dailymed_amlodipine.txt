@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 AMLODIPINE- amlodipine besylate tablet
 ----------
 DESCRIPTION
@@ -35,6 +39,10 @@ reduction in peripheral vascular resistance and reduction in blood pressure.
 3
 a
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 The precise mechanisms by which amlodipine relieves angina have not been fully delineated, but are
 thought to include the following:
 Exertional Angina
@@ -80,6 +88,10 @@ thus, individuals with moderate hypertension (diastolic pressure 105-114 mmHg) h
 greater response than patients with mild hypertension (diastolic pressure 90-104 mmHg). Normotensive
 subjects experienced no clinically significant change in blood pressures (+1/-2 mmHg).
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a
 decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal
 plasma flow without change in filtration fraction or proteinuria.
@@ -126,6 +138,10 @@ The effectiveness of 5 to 10 mg/day of amlodipine in exercise-induced angina has
 placebo-controlled, double-blind clinical trials of up to 6 weeks duration involving 1038 patients (684
 amlodipine, 354 placebo) with chronic stable angina. In 5 of the 8 studies significant increases in
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 exercise time (bicycle or treadmill) were seen with the 10 mg dose. Increases in symptom-limited
 exercise time averaged 12.8% (63 sec) for amlodipine 10 mg, and averaged 7.9% (38 sec) for
 amlodipine 5 mg. Amlodipine 10 mg also increased time to 1 mm ST segment deviation in several
@@ -163,8 +179,15 @@ between amlodipine and placebo on the change of atheroma volume in the coronary 
 by intravascular ultrasound.
 Figure 1: Kaplan-Meier analysis of composite clinical outcomes for amlodipine versus placebo
 
+<<<<<<< HEAD
 Figure 2 - Effects on primary endpoint of amlodipine versus placebo across sub-groups
 
+=======
+[page 5]
+Figure 2 - Effects on primary endpoint of amlodipine versus placebo across sub-groups
+
+[page 6]
+>>>>>>> code
 Table 1 below summarizes the significant clinical outcomes from the composites of the primary
 endpoint. The other components of the primary endpoint including cardiovascular death, resuscitated
 cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral
@@ -205,6 +228,10 @@ Revascularization*
 27%
 (0.033)
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 *Total patients with these events
 Studies in Patients with Congestive Heart Failure
 Amlodipine has been compared to placebo in four 8-12 week studies of patients with NYHA class II/III
@@ -245,6 +272,10 @@ CONTRAINDICATIONS
 Amlodipine is contraindicated in patients with known sensitivity to amlodipine.
 WARNINGS
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 Increased Angina and/or Myocardial Infarction
 Rarely, patients, particularly those with severe obstructive coronary artery disease, have developed
 documented increased frequency, duration and/or severity of angina or acute myocardial infarction on
@@ -288,6 +319,10 @@ no effect on the pharmacokinetic parameters of amlodipine. When amlodipine and s
 in combination, each agent independently exerted its own blood pressure lowering effect.
 1/2
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 Effect of amlodipine on other agents
 ATORVASTATIN: Coadministration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin
 resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.
@@ -331,6 +366,10 @@ recommended that nursing be discontinued while amlodipine is administered.
 Pediatric Use
 The effect of amlodipine on blood pressure in patients less than 6 years of age is not known.
 
+<<<<<<< HEAD
+=======
+[page 10]
+>>>>>>> code
 Geriatric Use
 Clinical studies of amlodipine did not include sufficient numbers of subjects aged 65 and over to
 determine whether they respond differently from younger subjects. Other reported clinical experience
@@ -414,6 +453,10 @@ Somnolence
 1.6
 0.8
 
+<<<<<<< HEAD
+=======
+[page 11]
+>>>>>>> code
 The following events occurred in <1% but >0.1% of patients in controlled clinical trials or under
 conditions of open trials or marketing experience where a causal relationship is uncertain; they are
 listed to alert the physician to a possible relationship:
@@ -465,6 +508,10 @@ consistent with cholestasis or hepatitis) in some cases severe enough to require
 been reported in association with use of amlodipine.
 Amlodipine has been used safely in patients with chronic obstructive pulmonary disease, well-
 
+<<<<<<< HEAD
+=======
+[page 12]
+>>>>>>> code
 compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes
 mellitus, and abnormal lipid profiles.
 OVERDOSAGE
@@ -509,6 +556,10 @@ The effective antihypertensive oral dose in pediatric patients ages 6-17 years i
 daily. Doses in excess of 5 mg daily have not been studied in pediatric patients. See CLINICAL
 PHARMACOLOGY.
 
+<<<<<<< HEAD
+=======
+[page 13]
+>>>>>>> code
 Coadministration with Other Antihypertensive and/or Antianginal Drugs
 Amlodipine has been safely administered with thiazides, ACE inhibitors, beta-blockers, long-acting
 nitrates, and/or sublingual nitroglycerin.
@@ -551,6 +602,10 @@ Amlodipine is a type of medicine known as a calcium channel blocker (CCB). It is
 blood pressure (hypertension) and a type of chest pain called angina. It can be used by itself or with
 other medicines to treat these conditions.
 
+<<<<<<< HEAD
+=======
+[page 14]
+>>>>>>> code
 High Blood Pressure (hypertension)
 High blood pressure comes from blood pushing too hard against your blood vessels. Amlodipine
 relaxes your blood vessels which lets your blood flow more easily and helps lower your blood
@@ -595,6 +650,10 @@ swelling of your legs or ankles
 tiredness, extreme sleepiness
 stomach pain, nausea
 
+<<<<<<< HEAD
+=======
+[page 15]
+>>>>>>> code
 p
 ,
 dizziness
@@ -620,6 +679,10 @@ DETROIT, MI 48202
 NDC:57664-568
 2.5 mg
 
+<<<<<<< HEAD
+=======
+[page 16]
+>>>>>>> code
 DIAMOND (DIAMOND)
 7mm
 568
@@ -635,6 +698,10 @@ OCTAGON (8 sided) (OCTAGON (8 sided))
 9mm
 569
 
+<<<<<<< HEAD
+=======
+[page 17]
+>>>>>>> code
 1 NDC:57664-569-99
 2 NDC:57664-569-88
 3 NDC:57664-569-13
@@ -651,6 +718,10 @@ ROUND (ROUND)
 3 NDC:57664-570-13
 4 NDC:57664-570-18
 
+<<<<<<< HEAD
+=======
+[page 18]
+>>>>>>> code
 Labeler - CARACO PHARMACEUTICAL LABORATORIES, LTD.
 
 Revised: 12/2008

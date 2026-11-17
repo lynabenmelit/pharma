@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 ACETADOL 0,03
@@ -49,6 +50,7 @@ fabrication
 
 1/5
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -102,6 +104,7 @@ PEDIAMOL - LABORATOIRE ALGERIEN DU MEDICAMENT
 
 2/5
 
+[page 3]
 Le laboratoire AFROPHARM SPA compte 9 autres produits enregistrés en Algérie. Voir le laboratoire →
 Enregistré depuis le 15 novembre 2016 (il y a environ 10 ans). La validité indiquée a pris fin le 15 novembre 2016 :
 vérifiez le renouvellement dans la nomenclature en vigueur.
@@ -153,6 +156,7 @@ Si l'association ne peut être évitée, surveillance
 
 3/5
 
+[page 4]
 chronique…), ainsi qu'en cas d'utilisation de
 paracétamol aux doses quotidiennes maximales.
 Source : ANSM
@@ -191,6 +195,7 @@ ANTALGAN, DOLI-BIEN, DOLIBON, DOLIDOL FLASH, DOLIPRANE. La liste complète figur
 
 4/5
 
+[page 5]
 Demandez conseil à un pharmacien avant toute substitution.
 Quelle est la classe thérapeutique (ATC) de ACETADOL 0,03 ?
 Le code ATC associé à PARACETAMOL est N02BE01 (paracétamol).

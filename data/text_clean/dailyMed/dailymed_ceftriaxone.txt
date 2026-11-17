@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 CEFTRIAXONE - ceftriaxone injection, powder, for solution
 Fresenius Kabi USA, LLC
 ----------
@@ -33,6 +37,10 @@ Administration
 7
 3
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 Dose/Route
 Average Plasma Concentrations (mcg/mL)
 
@@ -141,6 +149,10 @@ L/hour. Ceftriaxone is reversibly bound to human plasma proteins, and the bindin
 decreased from a value of 95% bound at plasma concentrations of < 25 mcg/mL to a
 value of 85% bound at 300 mcg/mL. Ceftriaxone crosses the blood placenta barrier.
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 The average values of maximum plasma concentration, elimination half-life, plasma
 clearance and volume of distribution after a 50 mg/kg IV dose and after a 75 mg/kg IV
 dose in pediatric patients suffering from bacterial meningitis are shown in Table 3.
@@ -221,6 +233,10 @@ The elimination of ceftriaxone is not altered when Ceftriaxone for Injection is 
 Pharmacokinetics in the Middle Ear Fluid
 In one study, total ceftriaxone concentrations (bound and unbound) were measured in
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 middle ear fluid obtained during the insertion of tympanostomy tubes in 42 pediatric
 patients with otitis media. Sampling times were from 1 to 50 hours after a single
 intramuscular injection of 50 mg/kg of ceftriaxone. Mean (± SD) ceftriaxone levels in the
@@ -263,6 +279,10 @@ Haemophilus parainfluenzae
 Klebsiella oxytoca
 Klebsiella pneumoniae
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Moraxella catarrhalis
 Morganella morganii
 Neisseria gonorrhoeae
@@ -299,6 +319,10 @@ Porphyromonas (Bacteroides) melaninogenicus
 Prevotella (Bacteroides) bivius
 Susceptibility Testing
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 For specific information regarding susceptibility test interpretive criteria and associated
 test methods and quality control standards recognized by FDA for this drug, please see:
 
@@ -346,6 +370,10 @@ Therefore, when cephalosporins are used in the treatment of patients with pelvic
 inflammatory disease and Chlamydia trachomatis is one of the suspected pathogens,
 appropriate antichlamydial coverage should be added.
 
+<<<<<<< HEAD
+=======
+[page 7]
+>>>>>>> code
 Bacterial Septicemia caused by Staphylococcus aureus, Streptococcus pneumoniae,
 Escherichia coli, Haemophilus influenzae or Klebsiella pneumoniae.
 Bone and Joint Infections caused by Staphylococcus aureus, Streptococcus
@@ -390,6 +418,10 @@ Neonates Requiring Calcium Containing IV Solutions
 Ceftriaxone for Injection is contraindicated in neonates (≤ 28 days) if they require (or
 are expected to require) treatment with calcium-containing IV solutions, including
 
+<<<<<<< HEAD
+=======
+[page 8]
+>>>>>>> code
 continuous calcium-containing infusions such as parenteral nutrition because of the risk
 of precipitation of ceftriaxone-calcium (see CLINICAL
 PHARMACOLOGY, WARNINGS and DOSAGE AND ADMINISTRATION).
@@ -434,6 +466,10 @@ precipitation of ceftriaxone-calcium (see CLINICAL
 PHARMACOLOGY, CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 Neurological Adverse Reactions
 
+<<<<<<< HEAD
+=======
+[page 9]
+>>>>>>> code
 Serious neurological adverse reactions have been reported during postmarketing
 surveillance with ceftriaxone use. These reactions include encephalopathy (disturbance
 of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus,
@@ -480,6 +516,10 @@ Patients with Renal or Hepatic Impairment
 Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL
 PHARMACOLOGY). Therefore, patients with renal failure normally require no
 
+<<<<<<< HEAD
+=======
+[page 10]
+>>>>>>> code
 adjustment in dosage when usual doses of Ceftriaxone for Injection are administered.
 Dosage adjustments should not be necessary in patients with hepatic dysfunction;
 however, in patients with both hepatic dysfunction and significant renal disease, caution
@@ -529,6 +569,10 @@ Information for Patients
 Advise patients that neurological adverse reactions could occur with Ceftriaxone for
 Injection use. Instruct patients or their caregivers to inform their healthcare provider
 
+<<<<<<< HEAD
+=======
+[page 11]
+>>>>>>> code
 at once of any neurological signs and symptoms, including encephalopathy
 (disturbance of consciousness including somnolence, lethargy, and confusion),
 seizures, myoclonus, and nonconvulsive status epilepticus, for immediate treatment,
@@ -571,6 +615,10 @@ dose approximately 3 times the human dose.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproductive studies are not always predictive of human response, this
 
+<<<<<<< HEAD
+=======
+[page 12]
+>>>>>>> code
 drug should be used during pregnancy only if clearly needed.
 Nonteratogenic Effects
 In rats, in the Segment I (fertility and general reproduction) and Segment III (perinatal
@@ -613,6 +661,10 @@ reactions, which were considered to be related to Ceftriaxone for Injection ther
 uncertain etiology, were observed:
 Local Reactions - pain, induration and tenderness was 1% overall. Phlebitis was
 
+<<<<<<< HEAD
+=======
+[page 13]
+>>>>>>> code
 p
 reported in < 1% after IV administration. The incidence of warmth, tightness or
 induration was 17% (3/17) after IM administration of 350 mg/mL and 5% (1/20) after IM
@@ -662,6 +714,10 @@ Gastrointestinal - pancreatitis, stomatitis and glossitis.
 Genitourinary - oliguria, ureteric obstruction, post-renal acute renal failure.
 Dermatologic - exanthema, allergic dermatitis, urticaria, edema; acute generalized
 
+<<<<<<< HEAD
+=======
+[page 14]
+>>>>>>> code
 exanthematous pustulosis (AGEP) and isolated cases of severe cutaneous adverse
 reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell's syndrome/toxic
 epidermal necrolysis) have been reported.
@@ -704,6 +760,10 @@ Do not use diluents containing calcium, such as Ringer's solution or Hartmann's 
 to reconstitute Ceftriaxone for Injection vials or to further dilute a reconstituted vial for
 3
 
+<<<<<<< HEAD
+=======
+[page 15]
+>>>>>>> code
 IV administration because a precipitate can form. Precipitation of ceftriaxone-calcium
 can also occur when Ceftriaxone for Injection is mixed with calcium-containing solutions
 in the same IV administration line. Ceftriaxone for Injection must not be administered
@@ -745,6 +805,10 @@ should be added, because ceftriaxone sodium has no activity against this organis
 For the treatment of uncomplicated gonococcal infections, a single intramuscular dose
 of 250 mg is recommended.
 
+<<<<<<< HEAD
+=======
+[page 16]
+>>>>>>> code
 For preoperative use (surgical prophylaxis), a single dose of 1 gram administered
 intravenously 1/2 to 2 hours before surgery is recommended.
 Generally, Ceftriaxone for Injection therapy should be continued for at least 2 days after
@@ -793,6 +857,10 @@ Added
 4.8 mL
 9.6 mL
 
+<<<<<<< HEAD
+=======
+[page 17]
+>>>>>>> code
 19.2 mL
 After reconstitution, each 1 mL of solution contains approximately 100 mg equivalent of
 ceftriaxone. Withdraw entire contents and dilute to the desired concentration with the
@@ -841,6 +909,10 @@ Bacteriostatic Water +
 1% Lidocaine Solution
 (without epinephrine)
 
+<<<<<<< HEAD
+=======
+[page 18]
+>>>>>>> code
 Ceftriaxone for Injection intravenous solutions, at concentrations of 10, 20 and 40
 mg/mL, remain stable (loss of potency less than 10%) for the following time periods
 stored in glass or PVC containers:
@@ -889,6 +961,10 @@ bile and the calcium content of human gallbladder bile is relatively low.
 HOW SUPPLIED:
 Ceftriaxone for Injection, USP is supplied as a sterile crystalline powder in glass vials. The
 
+<<<<<<< HEAD
+=======
+[page 19]
+>>>>>>> code
 following packages are available:
 Product Code
 Unit of Sale
@@ -972,6 +1048,10 @@ at
 0.0%)
 1
 
+<<<<<<< HEAD
+=======
+[page 20]
+>>>>>>> code
 study day
 14 and
 28.
@@ -1019,6 +1099,10 @@ F5381695
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ceftriaxone 1 gram Vial Label
 NDC 63323-346-01 304610
 
+<<<<<<< HEAD
+=======
+[page 21]
+>>>>>>> code
 1 gram
 Single-Dose Vial
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ceftriaxone 1 gram Carton
@@ -1026,9 +1110,17 @@ NDC 63323-346-10 304610
 1 gram
 25 Single-Dose Vials
 
+<<<<<<< HEAD
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ceftriaxone 2 grams Vial Label
 NDC 63323-347-01 304720
 
+=======
+[page 22]
+PACKAGE LABEL - PRINCIPAL DISPLAY - Ceftriaxone 2 grams Vial Label
+NDC 63323-347-01 304720
+
+[page 23]
+>>>>>>> code
 2 grams
 Single-Dose Vial
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ceftriaxone 2 grams Carton
@@ -1036,14 +1128,28 @@ NDC 63323-347-20 304720
 2 grams
 10 Single-Dose Vials
 
+<<<<<<< HEAD
+=======
+[page 24]
+
+[page 25]
+>>>>>>> code
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ceftriaxone 500 mg Vial Label
 NDC 63323-345-10 304510
 Single Dose Vial
 
+<<<<<<< HEAD
+=======
+[page 26]
+>>>>>>> code
 PACKAGE LABEL - PRINCIPAL DISPLAY - Ceftriaxone 500 mg Carton
 NDC 63323-345-10 304510
 25 Single Dose Vials
 
+<<<<<<< HEAD
+=======
+[page 27]
+>>>>>>> code
 NDC:63323-345
 1 NDC:63323-34510
 25 in 1 CARTON
@@ -1053,6 +1159,10 @@ NDC:63323-345
 NDC:63323-346
 1 NDC:63323-34625 in 1 CARTON
 
+<<<<<<< HEAD
+=======
+[page 28]
+>>>>>>> code
 1 10
 25 in 1 CARTON
 1 NDC:63323-34601
@@ -1073,6 +1183,10 @@ ACS
 Dobfar
 440886261 ANALYSIS(63323-345, 63323-346, 63323-347) , MANUFACTURE(63323-345, 63323-
 
+<<<<<<< HEAD
+=======
+[page 29]
+>>>>>>> code
 Fresenius Kabi USA, LLC
 Dobfar
 SpA

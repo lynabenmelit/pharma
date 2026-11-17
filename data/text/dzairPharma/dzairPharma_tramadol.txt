@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[page 1]
+>>>>>>> code
 DwaDZ — pharmaveille-dz.vercel.app
 DCI — DÉNOMINATION COMMUNE INTERNATIONALE
 TRAMADOL CHLORHYDRATE EXPRIME EN TRAMADOL
@@ -86,6 +90,10 @@ DOLEX 50 mg gelule : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/326/dolex-50mg-gelule
 1/6
 
+<<<<<<< HEAD
+=======
+[page 2]
+>>>>>>> code
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -144,6 +152,10 @@ DOLEX 50 mg gelule : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/326/dolex-50mg-gelule
 2/6
 
+<<<<<<< HEAD
+=======
+[page 3]
+>>>>>>> code
 Information, pas une prescription. Ces interactions ne remplacent pas l'avis d'un médecin ou d'un pharmacien.
 Substances analysées :
 TRAMADOL
@@ -235,6 +247,10 @@ DOLEX 50 mg gelule : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/326/dolex-50mg-gelule
 3/6
 
+<<<<<<< HEAD
+=======
+[page 4]
+>>>>>>> code
 Source : ANSM
 FLUOXETINE
 SUBSTANCE
@@ -312,6 +328,10 @@ DOLEX 50 mg gelule : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/326/dolex-50mg-gelule
 4/6
 
+<<<<<<< HEAD
+=======
+[page 5]
+>>>>>>> code
 Risque de diminution de l’effet antalgique.
 Aucune conduite spécifique indiquée par la source.
 Substances de la classe (2)
@@ -353,6 +373,10 @@ DOLEX 50 mg gelule : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/326/dolex-50mg-gelule
 5/6
 
+<<<<<<< HEAD
+=======
+[page 6]
+>>>>>>> code
 Voir plus
 PHARMACIE
 Suivre les essais
@@ -360,4 +384,8 @@ Pharmaceutiques
 11/15/26, 8:27 PM
 DOLEX 50 mg gelule : équivalents en Algérie | Dw aDZ
 https://w w w.dzair-pharma.net/medicament/enregistrement/326/dolex-50mg-gelule
+<<<<<<< HEAD
 6/6
+=======
+6/6
+>>>>>>> code
