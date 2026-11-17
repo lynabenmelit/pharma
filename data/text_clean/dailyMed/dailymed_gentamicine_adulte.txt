@@ -1,3 +1,4 @@
+[page 1]
 GENTAMICIN- gentamicin sulfate injection, solution
 ----------
 Gentamicin Injection, USP
@@ -6,6 +7,7 @@ Gentamicin Injection, USP and other antibacterial drugs, Gentamicin Injection, U
 should be used only to treat or prevent infections that are proven or strongly suspected
 to be caused by bacteria.
 
+[page 2]
 BOXED WARNING
 Patients treated with aminoglycosides should be under close clinical observation
 because of the potential toxicity associated with their use.
@@ -52,6 +54,7 @@ The concurrent use of gentamicin with potent diuretics, such as ethacrynic acid 
 furosemide, should be avoided, since certain diuretics by themselves may cause
 ototoxicity. In addition, when administered intravenously, diuretics may enhance
 
+[page 3]
 aminoglycoside toxicity by altering the antibiotic concentration in serum and tissue.
 Aminoglycosides can cause fetal harm when administered to a pregnant woman
 (see WARNINGS section).
@@ -87,6 +90,7 @@ dosages of 4 mg/kg/day or higher for 7 to 10 days may result in a slight, progre
 rise in both peak and trough concentrations. In patients with impaired renal function,
 gentamicin is cleared from the body more slowly than in patients with normal renal
 
+[page 4]
 function. The more severe the impairment, the slower the clearance. (Dosage must be
 adjusted.)
 Since gentamicin is distributed in extra-cellular fluid, peak serum concentrations may be
@@ -132,6 +136,7 @@ In vitro tests have demonstrated that gentamicin is a bactericidal antibiotic wh
 inhibiting normal protein synthesis in susceptible microorganisms. It is active against a
 wide variety of pathogenic bacteria including Escherichia coli, Proteus species, (indolepositive and indole-negative), Pseudomonas aeruginosa, species of the Klebsiella-
 
+[page 5]
 Enterobacter-Serratia group, Citrobacter species and Staphylococcus species (including
 penicillin- and methicillin-resistant strains). Gentamicin is also active in vitro against
 species of Salmonella and Shigella. The following bacteria are usually resistant to
@@ -175,6 +180,7 @@ and coagulase-negative).
 Clinical studies have shown gentamicin injection to be effective in bacterial neonatal
 sepsis; bacterial septicemia and serious bacterial infections of the central nervous
 
+[page 6]
 system (meningitis), urinary tract, respiratory tract, gastrointestinal tract (including
 peritonitis), skin, bone and soft tissue (including burns). Aminoglycosides, including
 gentamicin, are not indicated in uncomplicated initial episodes of urinary tract infections
@@ -217,6 +223,7 @@ Contains sodium metabisulfite, a sulfite that may cause allergic-type reactions 
 anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain
 susceptible people. The overall prevalence of sulfite sensitivity in the general population
 
+[page 7]
 y
 g
 p p
@@ -264,6 +271,7 @@ Elderly patients may have reduced renal function which may not be evident in the
 of routine screening tests such as BUN or serum creatinine. A creatinine clearance
 determination may be more useful. Monitoring of renal function during treatment with
 
+[page 8]
 gentamicin, as with other aminoglycosides, is particularly important in such patients. A
 Fanconi-like syndrome, with aminoaciduria and metabolic acidosis has been reported in
 some adults and infants being given gentamicin injections.
@@ -304,6 +312,7 @@ have been reported, primarily in patients with renal impairment (especially if h
 is required) and in patients on high doses and/or prolonged therapy. Symptoms include
 dizziness, vertigo, tinnitus, roaring in the ears and also hearing loss, which, as with the
 
+[page 9]
 other aminoglycosides, may be irreversible. Hearing loss is usually manifested initially by
 diminution of high-tone acuity. Other factors which may increase the risk of toxicity
 include excessive dosage, dehydration and previous exposure to other ototoxic drugs.
@@ -346,6 +355,7 @@ The recommended dosage of gentamicin injection for patients with serious infecti
 and normal renal function is 3 mg/kg/day, administered in three equal doses every eight
 hours (Table I).
 
+[page 10]
 For patients with life-threatening infections, dosages up to 5 mg/kg/day may be
 administered in three or four equal doses. This dosage should be reduced to 3
 mg/kg/day as soon as clinically indicated (Table I).
@@ -446,6 +456,7 @@ q8h
 150
 3.75
 
+[page 11]
 95
 (209)
 95
@@ -493,6 +504,7 @@ therapeutically adequate, but not excessive blood levels. Whenever possible seru
 concentration of gentamicin should be monitored. One method of dosage adjustment is
 to increase the interval between administration of the usual doses. Since the serum
 
+[page 12]
 creatinine concentration has a high correlation with the serum half-life of gentamicin, this
 laboratory test may provide guidance for adjustment of the interval between doses. The
 interval between doses (in hours) may be approximated by multiplying the serum
@@ -564,6 +576,7 @@ approximately 50%. The recommended dosage at the end of each dialysis period is 
 1.7 mg/kg depending upon the severity of the infection. In children, a dose of 2 mg/kg
 2
 
+[page 13]
 may be administered.
 The above dosage schedules are not intended as rigid recommendations but are
 provided as guides to dosage when measurement of gentamicin serum level is not
@@ -601,6 +614,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Gentamicin 20 mL Multiple Dose Vial
 Label
 NDC 63323-010-96
 
+[page 14]
 NP1020
 Gentamicin Injection, USP
 For IM or IV Use.
@@ -636,6 +650,7 @@ EDETATE DISODIUM (UNII: 7FLD91C86K)
 0.1 mg in 1 mL
 SODIUM HYDROXIDE (UNII: 55X04QC32I)
 
+[page 15]
 SULFURIC ACID (UNII: O40UQP6WCF)
 
 Packaging

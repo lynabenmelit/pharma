@@ -1,15 +1,16 @@
+[page 1]
 Annexe I – Résumé des Caractéristiques du Produit (RCP) 
  
 1. DENOMINATION DU MEDICAMENT 
 1.1. 
-Dénomination commerciale, dosage et forme pharmaceutique  
+Dénomination commerciale, dosage et forme pharmaceutique 
 Exforge® 5 mg/80 mg et 5 mg/160 mg et 10 mg/160 mg, Comprimés pelliculés. 
 1.2. 
 Dénomination commune internationale (DCI) 
  
-Amlodipine sous forme de bésilate d’amlodipine,Valsartan.  
+Amlodipine sous forme de bésilate d’amlodipine,Valsartan. 
 2. COMPOSITION QUALITATIVE ET QUANTITATIVE 
-2.1. Description Générale :  
+2.1. Description Générale : 
 Principes actifs : Amlodipine, valsartan. 
 Excipients : Qsp ……………. Un comprimé 
 Cellulose microcristalline, crospovidone, silice colloïdale anhydre, stéarate de magnésium 
@@ -19,7 +20,7 @@ Excipient d’enrobage (5mg /160mg) : Hypromellose, dioxyde de titane, talc, Mac
 fer jaune 
 Excipient d’enrobage (10mg /160mg) : Hypromellose, dioxyde de titane, talc, Macrogol, oxyde 
 de fer jaune, oxyde de fer rouge. 
-2.2. Formule centésimale  
+2.2. Formule centésimale 
 Exforge 5 mg/80 mg 
 Amlodipine ……………………………………….5mg 
 valsartan………………………..80mg 
@@ -30,15 +31,15 @@ Exforge 10 mg/160 mg
 Valsartan……………………………………….10mg 
 Hydrochlorothiazide………………………..160mg 
  
-3. FORME PHARMACEUTIQUE  
+3. FORME PHARMACEUTIQUE 
 Exforge 5 mg/80 mg 
 Comprimés pelliculés à 5 mg d’amlodipine et 80 mg de valsartan. 
 Exforge 5 mg/160 mg 
 Comprimés pelliculés à 5 mg d’amlodipine et 160 mg de valsartan. 
 Exforge 10 mg/160 mg 
-Comprimés pelliculés à 10 mg d’amlodipine et 160 mg de Valsartan 
+Comprimés pelliculés à 10 mg d’amlodipine et 160 mg de Valsartan
 
- 
+[page 2]
 4. DONNEES CLINIQUES 
 4.1. Indications thérapeutiques 
 Traitement de l’hypertension artérielle essentielle. 
@@ -73,8 +74,9 @@ Instructions posologiques particulières
 Patients présentant des troubles de la fonction hépatique 
 Contenant comme principes actifs de l’amlodipine et du valsartan, Exforge doit être utilisé avec 
 une prudence particulière chez les patients atteints d’insuffisance hépatique ou de troubles 
-obstructifs des voies biliaires. Il devrait être envisagé de commencer le traitement avec la dose 
+obstructifs des voies biliaires. Il devrait être envisagé de commencer le traitement avec la dose
 
+[page 3]
 la plus faible disponible d’amlodipine. La posologie la plus faible de Exforge contient 5 mg 
 d’amlodipine (voir rubrique «Mises en garde et précautions», «Propriétés/Effets» et 
 «Pharmacocinétique»). 
@@ -112,15 +114,16 @@ haut grade).
 Insuffisance cardiaque hémodynamiquement instable après infarctus du myocarde aigu. 
 4.4. Mises en garde spéciales et précautions d'emploi 
  
-Double blocage du système rénine-angiotensine-aldostérone (RAA) : Voir rubrique  
+Double blocage du système rénine-angiotensine-aldostérone (RAA) : Voir rubrique 
 « Interactions ». 
  
 Patients présentant une hyponatrémie et/ou une hypovolémie. 
 Une hypotension excessive a été observée chez 0.4% des patients présentant une 
 hypertension non compliquée traitée par Exforge dans des études contrôlées par placebo. Une 
 hypotension symptomatique peut survenir chez les patients dont le système rénine-
-angiotensine est activé (par exemple les patients avec déficit en liquide et/ou en sel recevant de 
+angiotensine est activé (par exemple les patients avec déficit en liquide et/ou en sel recevant de
 
+[page 4]
 fortes doses de diurétiques), et qui reçoivent des antagonistes de l’angiotensine II. La 
 compensation adéquate de cet état avant l’administration d’Exforge ou une surveillance 
 médicale étroite en début de traitement sont recommandées. 
@@ -154,8 +157,9 @@ Transplantation rénale
 patients qui ont bénéficié récemment d’une transplantation rénale. 
 Insuffisance hépatique 
 Le valsartan est éliminé principalement sous forme inchangée par la bile, alors que l’amlodipine 
-est fortement métabolisée par le foie. Une prudence particulière est recommandée en cas 
+est fortement métabolisée par le foie. Une prudence particulière est recommandée en cas
 
+[page 5]
 d’utilisation d’Exforge chez les patients présentant une insuffisance hépatique ou des troubles 
 obstructifs des voies biliaires. 
 Angioœdème 
@@ -187,11 +191,10 @@ chez les patients présentant une pathologie occlusive sévère des artères cor
 Sténose de la valve aortique ou mitrale, ou cardiomyopathie obstructive hypertrophique 
 Comme pour les autres vasodilatateurs, une prudence particulière est recommandée lors de 
 l’utilisation de l’amlodipine chez les patients souffrant de sténose de la valve aortique ou mitrale, 
-ou de cardiomyopathie obstructive hypertrophique. 
- 
- 
+ou de cardiomyopathie obstructive hypertrophique.
 
-4.5. Interactions avec d'autres médicaments et autres formes d'interactions  
+[page 6]
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions 
  
 Dantrolène (perfusion): dans les modèles animaux, des fibrillations ventriculaires et un 
 collapsus circulatoire létaux en lien avec une hypercaliémie ont été observés après 
@@ -224,8 +227,9 @@ substances en monothérapie, en particulier chez les patients normotendus ou hyp
 début du traitement. 
 Un double blocage du SRAA par utilisation concomitante d’inhibiteurs de l’ECA, d’ARA ou 
 d’aliskirène n’est donc pas recommandé. Lorsque le traitement avec un double blocage est 
-considéré comme absolument nécessaire, celui-ci doit se faire sous la surveillance d’un 
+considéré comme absolument nécessaire, celui-ci doit se faire sous la surveillance d’un
 
+[page 7]
 spécialiste et en effectuant des contrôles étroits de la fonction rénale, des électrolytes et de la 
 tension artérielle. 
 Les inhibiteurs de l’ECA et les antagonistes des récepteurs de l’angiotensine (ARA) - y compris 
@@ -240,7 +244,7 @@ augmenter l’exposition aux inhibiteurs de mTOR en cas d’utilisation concomit
 Autres interactions 
 - 
 Amlodipine 
-Simvastatine:  
+Simvastatine: 
 L’administration concomitante de doses multiples de 10 mg d’amlodipine et de 80 mg de 
 simvastatine a augmenté l’exposition à la simvastatine de 77% par rapport à l’administration de 
 la simvastatine seule. La dose quotidienne de simvastatine doit être limitée à 20 mg chez les 
@@ -260,8 +264,9 @@ nitrés à libération retardée, de la nitroglycérine sublinguale, des anti-in
 stéroïdiens, des antibiotiques et des antidiabétiques oraux. 
 Les antagonistes du calcium peuvent interférer avec la théophilline et l’ergotamine, dont le 
 métabolisme passe par le système du cytochrome P450. Comme on ne dispose actuellement 
-d’aucune étude d’interactions avec la théophilline ou l’ergotamine et l’amlodipine, ni in vitro, ni 
+d’aucune étude d’interactions avec la théophilline ou l’ergotamine et l’amlodipine, ni in vitro, ni
 
+[page 8]
 in vivo, il est conseillé de contrôler régulièrement en début de traitement les taux sériques de 
 théophilline, respectivement de l’ergotamine en cas d’administration simultanée. 
 Les essais in vitro sur du plasma humain montrent que l’amlodipine n’influence pas la liaison 
@@ -296,8 +301,9 @@ mis en évidence d’interactions reposant sur ce mécanisme avec une série d�
 Lithium 
 Une augmentation réversible de la concentration sérique de lithium et une toxicité du lithium ont 
 été observées lors de l’administration concomitante de lithium et d’inhibiteurs de l’ECA ou 
-d’antagonistes des récepteurs de l’angiotensine II, dont Exforge. Une surveillance étroite de la 
+d’antagonistes des récepteurs de l’angiotensine II, dont Exforge. Une surveillance étroite de la
 
+[page 9]
 concentration sérique de lithium est donc recommandée en cas d’administration concomitante. 
 Le risque de toxicité du lithium peut encore être augmenté lors de l’administration concomitante 
 de diurétiques et d’Exforge. 
@@ -329,8 +335,9 @@ pharmacocinétique de l’amlodipine.
 Sildénafil: Une dose unique de sildénafil (100 mg) prise par des personnes présentant une 
 hypertension essentielle n’a pas eu d’effet sur les paramètres pharmacocinétiques de 
 l’amlodipine. Lorsque l’amlodipine et le sildénafil ont été donnés simultanément, chaque 
-principe a produit son effet hypotenseur propre de manière indépendante. 
+principe a produit son effet hypotenseur propre de manière indépendante.
 
+[page 10]
 4.6. Fertilité, grossesse et allaitement 
 Grossesse 
 Exforge ne doit pas être administré pendant la grossesse («voir rubrique «Contre-indications»). 
@@ -363,10 +370,9 @@ effets de l’amlodipine sur les nourrissons ne sont pas connus. Le valsartan a 
 le lait maternel chez le rat. 
 Il n’existe pas de données relatives aux effets de l’amlodipine ou du valsartan sur la fertilité 
 humaine. Des études sur des rats n’ont montré aucun effet de l’amlodipine ou du valsartan sur 
-la fertilité (voir rubrique «Données précliniques»). 
- 
+la fertilité (voir rubrique «Données précliniques»).
 
- 
+[page 11]
 4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines 
 Aucune étude n’a été effectuée sur l’effet sur l’aptitude à la conduite et à l’utilisation de 
 machines. Lors de la conduite de véhicules ou de l’utilisation de machines, il faut cependant 
@@ -400,8 +406,9 @@ Occasionnel: tachycardie, palpitations.
 Rare: syncope. 
 Affections vasculaires 
 Occasionnel: hypotension orthostatique. 
-Rare: hypotension. 
+Rare: hypotension.
 
+[page 12]
 Affections respiratoires, thoraciques et médiastinales 
 Occasionnel: toux, douleurs au niveau du larynx. 
 Affections gastro-intestinales 
@@ -431,12 +438,9 @@ groupe amlodipine/valsartan (5.5%) et dans le groupe des patients traités par v
 monothérapie (5.5%) par rapport au groupe placebo (4.5%). 
 Information complémentaire sur les composants séparés 
 Les effets indésirables suivants n’ont pas été observés durant les études cliniques menées 
-avec Exforge, mais sont survenus lors du traitement par les principes actifs isolés: 
- 
- 
- 
- 
+avec Exforge, mais sont survenus lors du traitement par les principes actifs isolés:
 
+[page 13]
 Amlodipine 
 Les autres effets indésirables relevés pour l’amlodipine en monothérapie, sans lien de causalité 
 avec le médicament de l’étude sont énumérés ci-dessous. 
@@ -470,8 +474,9 @@ Occasionnel: rhinite.
 Affections gastro-intestinales 
 Fréquent: douleurs abdominales, nausées, dyspepsie, modification des habitudes de transit 
 intestinal (notamment diarrhée et constipation). 
-Occasionnel: vomissements, sécheresse buccale. 
+Occasionnel: vomissements, sécheresse buccale.
 
+[page 14]
 Très rare: pancréatite, gastrite, hyperplasie gingivale. 
 Affections hépatobiliaires 
 Très rare: hépatite, ictère, augmentation des enzymes hépatiques (le plus souvent due à une 
@@ -481,7 +486,7 @@ Occasionnel: alopécie, purpura, changement de coloration cutanée, photosensibi
 hyperhidrose, prurit, éruption cutanée, exanthème, urticaire. 
 Très rare: angiœdème, érythème multiforme, syndrome de Steven-Johnson, dermatite 
 exfoliative, sensibilité à la lumière. 
-Fréquence indéterminée: nécrolyse épidermique toxique  
+Fréquence indéterminée: nécrolyse épidermique toxique 
 Affections musculo-squelettiques et du tissu conjonctif 
 Fréquent: gonflement des chevilles, crampes musculaires. 
 Occasionnel: myalgies, arthralgies, douleurs dorsales. 
@@ -505,8 +510,9 @@ patients, en particulier en présence d’une coronaropathie sévère, ont souff
 myocarde aigu ou d’une aggravation d’une angine de poitrine (crises plus fréquentes, de durée 
 plus prolongée ou plus sévères) après le début d’un traitement par des antagonistes du calcium 
 ou après une augmentation de la dose. Des arythmies (dont bradycardie, tachycardie 
-ventriculaire et fibrillation auriculaire) ont également été rapportées lors d’un traitement par des 
+ventriculaire et fibrillation auriculaire) ont également été rapportées lors d’un traitement par des
 
+[page 15]
 antagonistes du calcium. Ces événements indésirables sont difficiles à différencier de la 
 maladie sous-jacente. 
 Valsartan 
@@ -540,8 +546,9 @@ dans le sang.
 Affections gastro-intestinales 
 Très rare: vomissements. 
 Affections de la peau et du tissu sous-cutané 
-Très rare: angio-œdème. 
+Très rare: angio-œdème.
 
+[page 16]
 Fréquence inconnue: dermatite bulleuse. 
 Affections musculo-squelettiques et du tissu conjonctif 
 Très rare: myalgie. 
@@ -574,21 +581,22 @@ Affections du système immunitaire
 Fréquence inconnue: hypersensibilité, y compris maladie sérique. 
 Affections hépatobiliaires 
 Fréquence inconnue: augmentation des paramètres hépatiques, y compris augmentation des 
-taux de bilirubine dans le sang. 
+taux de bilirubine dans le sang.
 
+[page 17]
 L’annonce d’effets secondaires présumés après l’autorisation est d’une grande importance. Elle 
 permet un suivi continu du rapport bénéfice-risque du médicament. 
-Déclaration des effets secondaires  
+Déclaration des effets secondaires 
 Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin, votre infirmier/ère 
 ou à votre pharmacien. Ceci s'applique aussi à tout effet indésirable qui ne serait pas mentionné 
 dans cette notice. Vous pouvez également déclarer les effets indésirables directement en 
-contactant le département de pharmacovigilance par :  
-Email : drug.safetymaghreb@novartis.com  
-Ou en contactant le Centre Nationale de Pharmacovigilance et de Matériovigilance:  
-Adresse : CNPM, Sis Route Petit Staoueli (NIPA) Dely Ibrahim Alger,  
-Numéro de téléphone : +213 20 39 66 18  
-Email : cnpm@cnpm.org.dz  
-Site : www.cnpm.org.dz  
+contactant le département de pharmacovigilance par : 
+Email : drug.safetymaghreb@novartis.com 
+Ou en contactant le Centre Nationale de Pharmacovigilance et de Matériovigilance: 
+Adresse : CNPM, Sis Route Petit Staoueli (NIPA) Dely Ibrahim Alger, 
+Numéro de téléphone : +213 20 39 66 18 
+Email : cnpm@cnpm.org.dz 
+Site : www.cnpm.org.dz 
 En signalant les effets indésirables, vous contribuez à fournir davantage d'informations sur la 
 sécurité du médicament. 
 4.9. Surdosage 
@@ -608,8 +616,9 @@ Un vasoconstricteur peut être utile pour rétablir le tonus vasculaire et la te
 condition qu’il n’existe pas de contre-indication à son emploi. Le gluconate de calcium 
 administré par voie intraveineuse peut favoriser une inversion de l’inhibition des canaux 
 calciques. Lorsque la prise du médicament est récente, on peut envisager de procéder à un 
-lavage de l’estomac. 
+lavage de l’estomac.
 
+[page 18]
 L’administration de charbon actif chez les volontaires sains tout de suite après la prise 
 d’amlodipine, ou au maximum deux heures après, a montré une diminution significative de 
 l’absorption de l’amlodipine. 
@@ -643,8 +652,9 @@ aussi bien chez les jeunes patients que chez les patients plus âgés.
 L’administration de doses thérapeutiques d’amlodipine à des patients hypertendus dont la 
 fonction rénale est normale aboutit à une baisse de la résistance vasculaire rénale et à une 
 hausse du taux de filtration glomérulaire et du flux plasmatique rénal effectif sans modification 
-de la fraction de filtration ou protéinurie. 
+de la fraction de filtration ou protéinurie.
 
+[page 19]
 Comme pour les autres antagonistes du calcium, des mesures hémodynamiques de la fonction 
 cardiaque au repos et en mouvement (ou sous stimulation) ont révélé, en général, dans le cas 
 de patients à fonction ventriculaire normale traités par amlodipine, une légère hausse de l’index 
@@ -676,8 +686,9 @@ l’ECA (2.6% contre 7.9%). Dans une étude clinique incluant les patients avec 
 de toux sèche sous inhibiteurs de l’ECA, cette toux est apparue chez 19.5% des patients sous 
 valsartan, chez 19.0% des patients sous diurétique thiazidique et chez 68.5% de ceux sous 
 inhibiteurs de l’ECA (p < 0.05). Le valsartan ne se lie ou ne bloque à aucun autre récepteur 
-hormonal ou aucun canal ionique jouant un rôle dans la régulation cardiovasculaire. 
+hormonal ou aucun canal ionique jouant un rôle dans la régulation cardiovasculaire.
 
+[page 20]
 Le valsartan diminue la tension artérielle des patients hypertendus sans toutefois influencer leur 
 fréquence cardiaque. 
 Chez la plupart des patients, l’effet antihypertenseur d’un dose orale unique se manifeste dans 
@@ -711,8 +722,9 @@ après l’adjonction d’amlodipine 10 mg, et de 3.9/2.9 mm Hg après adjonctio
 rapport aux patients qui continuaient de recevoir seulement du valsartan 160 mg. 
 Une étude multicentrique randomisée, en double aveugle, contrôlée par substance active 
 portant sur des groupes parallèles de patients dont le traitement par amlodipine 10 mg n’était 
-pas adéquat, a montré une normalisation de la tension artérielle (à la fin de l’étude: tension 
+pas adéquat, a montré une normalisation de la tension artérielle (à la fin de l’étude: tension
 
+[page 21]
 diastolique < 90 mm Hg en position assise) chez 78% des patients sous amlodipine/valsartan 
 10 mg/160 mg, comparée à 67% des patients qui continuaient à prendre seulement de 
 l’amlodipine 10 mg. L’adjonction de valsartan 160 mg a entraîné une baisse supplémentaire de 
@@ -745,8 +757,9 @@ par la prise d’aliments.
 Valsartan 
 Après administration orale, le valsartan est rapidement absorbé, la quantité de substance 
 absorbée variant cependant considérablement. La biodisponibilité absolue moyenne du 
-valsartan est de 23% (variabilité 23 ± 7). La pharmacocinétique du valsartan est linéaire dans la 
+valsartan est de 23% (variabilité 23 ± 7). La pharmacocinétique du valsartan est linéaire dans la
 
+[page 22]
 plage posologique examinée. Le valsartan s’accumule peu en cas de prise journalière unique. 
 Les concentrations plasmatiques étaient comparables chez l’homme et la femme. 
 La prise du valsartan avec les aliments diminue l’aire sous la courbe de concentrations 
@@ -780,8 +793,9 @@ Le valsartan et l’amlodipine montrent une pharmacocinétique linéaire.
 Cinétique pour certains groupes de patients 
 Troubles de la fonction hépatique 
 Les patients atteints d’une insuffisance hépatique ont une clairance diminuée de l’amlodipine, la 
-hausse de l’AUC étant d’environ 40–60%. En moyenne, l’exposition au valsartan (mesurée par 
+hausse de l’AUC étant d’environ 40–60%. En moyenne, l’exposition au valsartan (mesurée par
 
+[page 23]
 l’AUC) chez les patients souffrant d’insuffisance hépatique chronique légère à modérée est le 
 double de celle des volontaires sains (répartis également en fonction de l’âge, du sexe et du 
 poids). En conséquence, le traitement de patients souffrant d’insuffisance hépatique exige de la 
@@ -816,8 +830,9 @@ Des essais chez l’animal d’une durée de 13 semaines ont été réalisés av
 amlodipine:valsartan chez le rat et le singe, de même que des études chez le rat pour l’examen 
 de la toxicité embryofœtale. 
 Dans une étude sur le développement embryofœtal de rats avec des doses orales de 
-5:80 mg/kg d’amlodipine:valsartan/jour, de 10:160 mg/kg d’amlodipine:valsartan/jour et de 
+5:80 mg/kg d’amlodipine:valsartan/jour, de 10:160 mg/kg d’amlodipine:valsartan/jour et de
 
+[page 24]
 20:320 mg/kg d’amlodipine:valsartan/jour, des effets maternels et fœtaux liés au traitement 
 (retards et troubles du développement associés à une toxicité maternelle significative) n’ont été 
 observés qu’à la combinaison de dose élevée. Le No-Observed-Adverse-Effect-Level (NOAEL) 
@@ -851,8 +866,9 @@ espèces animales, aucun résultat, mis à part une fœtotoxicité, n’indique 
 thérapeutiques le valsartan ne doit pas être utilisé chez l’être humain. Lors des études 
 précliniques de sécurité, l’administration de doses élevées de valsartan (200–600 mg/kg de 
 poids corporel/jour) chez le rat a entraîné une diminution des paramètres relatifs aux globules 
-rouges (érythrocytes, hémoglobine, hématocrite) et des modifications de l’hémodynamique 
+rouges (érythrocytes, hémoglobine, hématocrite) et des modifications de l’hémodynamique
 
+[page 25]
 rénale (légère augmentation des taux d’urée dans le sang ainsi qu’hyperplasie tubulaire rénale 
 et basophilie chez les animaux mâles). Ces doses chez le rat (200 et 600 mg/kg/jour) 
 représentent environ 6 à 18 fois la dose recommandée pour l’être humain sur la base de mg/m² 
@@ -885,14 +901,15 @@ dose orale de 320 mg/jour et d’un patient pesant 60 kg).
  
 Mutagénicité : Aucun potentiel mutagène n’a pu être établi pour le valsartan dans différentes 
 études standards in vitro et in vivo de génotoxicité, que ce soit au niveau génique ou au niveau 
-chromosomique. 
+chromosomique.
 
+[page 26]
 Cancérogénicité : Il ne ressort aucun indice de cancérogénicité lors de l’administration du 
 valsartan avec la nourriture à des dosages de jusqu’à 160 et respectivement, 200 mg/kg/jour 
 pendant 2 ans à des souris et des rats. 
  
 6. DONNEES PHARMACEUTIQUES 
-6.1. Liste des excipients  
+6.1. Liste des excipients 
 Excipients : Qsp ……………. Un comprimé 
 Cellulose microcristalline, crospovidone, silice colloïdale anhydre, stéarate de magnésium 
 Excipient d’enrobage (5mg /80mg) : Hypromellose, dioxyde de titane, talc, Macrogol, oxyde de 
@@ -901,9 +918,9 @@ Excipient d’enrobage (5mg /160mg) : Hypromellose, dioxyde de titane, talc, Mac
 fer jaune 
 Excipient d’enrobage (10mg /160mg) : Hypromellose, dioxyde de titane, talc, Macrogol, oxyde 
 de fer jaune, oxyde de fer rouge. 
-6.2. Incompatibilités :  
+6.2. Incompatibilités : 
 NA 
-6.3. Durée de conservation:  
+6.3. Durée de conservation: 
 Le médicament ne doit pas être utilisé au-delà de la date figurant après la mention «EXP» sur 
 l’emballage. 
 Durée de stabilité : 36 mois 
@@ -911,13 +928,13 @@ Durée de stabilité : 36 mois
 Conserver dans l’emballage d’origine à une température ne dépassant pas 30 ° et protéger de 
 l’humidité. 
 Conserver les médicaments hors de portée des enfants. 
-6.5. Nature et contenu de l'emballage extérieur  
+6.5. Nature et contenu de l'emballage extérieur 
 28 comprimés pelliculés sous blister en OPA/ALU/PVC-ALU, conditionnés dans une boîte en 
 carton. 
 6.6. Précautions particulières d’élimination et de manipulation : 
 NA 
  
-7. CONDITIONS DE DÉLIVRANCE :  
+7. CONDITIONS DE DÉLIVRANCE : 
 List I 
  
 8. INFORMATIONS ADMINISTRATIVES : 
@@ -925,39 +942,40 @@ List I
 8.1 Nom et adresse du détenteur de la décision d’enregistrement : 
 Novartis Pharma Schweiz AG, 
 Risch ; Siège : 6343 Rotkreuz, 
-Switzerland 
+Switzerland
 
+[page 27]
 8.2 Nom et adresse de l’exploitant de la décision d’enregistrement 
 Clinica Group 
-Cité les dunes, Domaine propriétaire n°389,  
+Cité les dunes, Domaine propriétaire n°389, 
 Lotissement n°4, 16002 Cheraga, 
 Algiers – Algeria 
 8.3 Nom et adresse de du site fabricant, conditionneur et libérateur du produit fini : 
-Jamjoom Algeria Lil Dawa SPA  
+Jamjoom Algeria Lil Dawa SPA 
 Zone Industrielle Oued SMAR, CW n°118, BP 74M. 
 Algiers – Algeria 
-8.4. Numéro de la décision d’enregistrement :  
-Exforge®  5mg/80mg : 23/08/06 E 257/068 du 10/12/2023 
-Exforge®  5mg/160mg: 23/08/06 E 258/068 du 10/12/2023 
-Exforge®  10mg/160mg: 23/08/06 E 259/068 du 14/07/2024 
+8.4. Numéro de la décision d’enregistrement : 
+Exforge® 5mg/80mg : 23/08/06 E 257/068 du 10/12/2023 
+Exforge® 5mg/160mg: 23/08/06 E 258/068 du 10/12/2023 
+Exforge® 10mg/160mg: 23/08/06 E 259/068 du 14/07/2024 
  
 8.5 Présentation 
 Exforge 5 mg/80 mg comprimés pelliculés 28. 
 Exforge 5 mg/160 mg comprimés pelliculés 28. 
 Exforge 10 mg/160 mg comprimés pelliculés 28. 
 9.Pour les médicaments radio pharmaceutiques, détails complets sur la dosimétrie interne des 
-rayonnements  
+rayonnements 
 Non applicable. 
 10. Conditions ou restrictions en vue d’une utilisation sure et efficace du médicament : 
 Non applicable. 
 11. Pour les médicaments radiopharmaceutiques, instructions supplémentaires détaillées pour la 
-préparation :  
+préparation : 
 Non applicable. 
-12. DATE DE MISE A JOUR DU TEXTE :  
-Date de mise à jour de l’information médicale :  
+12. DATE DE MISE A JOUR DU TEXTE : 
+Date de mise à jour de l’information médicale : 
  
 Date de mise à jour de l’information médicale en Switzerland : 20 aout 2020 (RCP Suisse 2020-
 PSB/GLC-1150-l). 
 Date de mise à jour de l’information médicale en Algérie :22 septembre 2021. 
 Date de mise à jour du texte en Algérie :11 mai 2025 à la suite de la mise à jour des 
-coordonnées téléphonique du CNPM. 
+coordonnées téléphonique du CNPM.

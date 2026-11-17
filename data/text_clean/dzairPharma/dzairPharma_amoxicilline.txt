@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 AMOXICILLINE TRIHYDRATEE EXPRIME EN AMOXICILLINE
@@ -58,6 +59,7 @@ fabrication
 
 1/6
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -111,6 +113,7 @@ CLAMOXYL - GLAXOSMITHKLINE ALGERIE SPA
 
 2/6
 
+[page 3]
 LAMOXYL - LABORATOIRE ARAB PHARM
 PENAMOX D - HIKMA PHARMA ALGERIA
 Le laboratoire GROUPE SAIDAL compte 180 autres produits enregistrés en Algérie. Voir le laboratoire →
@@ -174,6 +177,7 @@ pharmacien.
 
 3/6
 
+[page 4]
 Substances analysées : et leurs classes (2)
 Toutes
 ▲Association déconseillée
@@ -215,6 +219,7 @@ pour toutes les spécialités qui la contiennent.
 
 4/6
 
+[page 5]
 Information, pas une contre-indication. Cette liste recense des allergies décrites ; elle ne remplace ni le
 RCP ni l'avis d'un médecin ou d'un pharmacien. L'absence d'une allergie ici ne signifie pas qu'il n'y a pas
 de risque. DwaDZ ne déduit aucune allergie croisée entre substances voisines.
@@ -253,6 +258,7 @@ liste complète figure plus bas sur la page. Demandez conseil à un pharmacien a
 
 5/6
 
+[page 6]
 Quelle est la classe thérapeutique (ATC) de AMOXYPEN 1G ?
 Le code ATC associé à AMOXICILLINE TRIHYDRATEE EXPRIME EN AMOXICILLINE est J01CA04 (amoxicilline).
 AMOXYPEN 1G nécessite-t-il une ordonnance ?

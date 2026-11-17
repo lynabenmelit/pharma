@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ - pharmaveille-dz.vercel.app
 DCI - DÉNOMINATION COMMUNE INTERNATIONALE
 TRAMADOL CHLORHYDRATE EXPRIME EN TRAMADOL
@@ -81,6 +82,7 @@ Pays d'origine
 🇩🇿ALGERIE
 1/6
 
+[page 2]
 DATES & ENREGISTREMENT
 Date
 d'enregistrement
@@ -136,6 +138,7 @@ claire sur PC.
 Télécharger
 2/6
 
+[page 3]
 Information, pas une prescription. Ces interactions ne remplacent pas l'avis d'un médecin ou d'un pharmacien.
 Substances analysées :
 et leurs classes (6)
@@ -183,6 +186,7 @@ DULOXETINE
 13
 3/6
 
+[page 4]
 FLUOXETINE
 IMAO-A RÉVERSIBLES, Y COMPRIS OXAZOLIDINONES ET BLEU DE MÉTHYLÈNE
 Risque d'apparition d'un syndrome sérotoninergique : diarrhée,
@@ -206,6 +210,7 @@ via la classe ANALGÉSIQUES MORPHINIQUES DE PALIER II
 MORPHINIQUES ANTAGONISTES PARTIELS
 4/6
 
+[page 5]
 Risque de diminution de l'effet antalgique.
 Substances de la classe (2)
 via la classe ANALGÉSIQUES MORPHINIQUES DE PALIER II
@@ -240,6 +245,7 @@ La nomenclature nationale (MIPH) ne publie ni posologie ni effets indésirables.
 🔎 Voir la boîte (Google)
 5/6
 
+[page 6]
 Voir plus
 PHARMACIE
 Suivre les essais

@@ -1,3 +1,4 @@
+[page 1]
 DwaDZ — pharmaveille-dz.vercel.app
 DCI — DÉNOMINATION COMMUNE INTERNATIONALE
 VALSARTAN
@@ -61,6 +62,7 @@ ARBITAN 80 mg : valsartan, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1136/arbitan-80mg-comprime-pellicule
 1/7
 
+[page 2]
 CONDITIONNEMENT
 Forme
 pharmaceutique
@@ -117,6 +119,7 @@ ARBITAN 80 mg : valsartan, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1136/arbitan-80mg-comprime-pellicule
 2/7
 
+[page 3]
 HUREG HUP — HUPP PHARMA
 SARTEG — EL KENDI INDUSTRIE DU MEDICAMENT
 TABUVAN — TABUK ALGERIE
@@ -178,6 +181,7 @@ ARBITAN 80 mg : valsartan, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1136/arbitan-80mg-comprime-pellicule
 3/7
 
+[page 4]
 Substances analysées : et leurs classes (3)
 Toutes
 ▲Association déconseillée
@@ -247,6 +251,7 @@ ARBITAN 80 mg : valsartan, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1136/arbitan-80mg-comprime-pellicule
 4/7
 
+[page 5]
 chez l'insuffisant rénale (addition des effets
 hyperkaliémiants).
 Source : ANSM
@@ -307,6 +312,7 @@ ARBITAN 80 mg : valsartan, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1136/arbitan-80mg-comprime-pellicule
 5/7
 
+[page 6]
 Risque d'hypotension artérielle brutale et/ou
 d'insuffisance rénale aiguë lors de l'instauration ou
 de l'augmentation de la posologie d'un traitement
@@ -359,6 +365,7 @@ ARBITAN 80 mg : valsartan, équivalents en Algérie | DwaDZ
 https://www.dzair-pharma.net/medicament/enregistrement/1136/arbitan-80mg-comprime-pellicule
 6/7
 
+[page 7]
 Oui, ARBITAN 80MG figure dans la nomenclature nationale des produits pharmaceutiques (date d'enregistrement :
 2014-04-13, échéance : 2023-06-11).
 ARBITAN 80MG est-il un générique ?

@@ -1,4 +1,5 @@
-AMOXICILLIN - amoxicillin capsule  
+[page 1]
+AMOXICILLIN - amoxicillin capsule 
 Micro Labs Limited
 ----------
 HIGHLIGHTS OF PRESCRIBING INFORMATION
@@ -7,7 +8,7 @@ safely and effectively. See full prescribing information for AMOXICILLIN CAPSULE
 AMOXICILLIN capsules, for oral use 
 Initial U.S. Approval: 1974 
 RECENT MAJOR CHANGES
-Warnings and Precautions, Drug-Induced Enterocolitis Syndrome (DIES) ( 5.2)                                     
+Warnings and Precautions, Drug-Induced Enterocolitis Syndrome (DIES) ( 5.2) 
 01/2024
 INDICATIONS AND USAGE
 Amoxicillin capsules are a penicillin-class antibacterial indicated for treatment of infections due to
@@ -19,7 +20,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 capsules and other antibacterial drugs, amoxicillin capsules should be used only to treat infections that
 are proven or strongly suspected to be caused by bacteria. ( 1.6)
 DOSAGE AND ADMINISTRATION
-   
+ 
 In adults, 750 to 1750 mg/day in divided doses every 8 to 12 hours. In Pediatric Patients > 3 Months of
 Age, 20 to 45 mg/kg/day in divided doses every 8 to 12 hours. Refer to full prescribing information for
 specific dosing regimens. ( 2.1, 2.2, 2.3)
@@ -44,6 +45,7 @@ occurs. ( 5.3)
 ADVERSE REACTIONS
 The most common adverse reactions (> 1%) observed in clinical trials of amoxicillin capsules, were
 
+[page 2]
 p
 diarrhea, rash, vomiting, and nausea. ( 6.1)
 To report SUSPECTED ADVERSE REACTIONS, contact Micro Labs USA, Inc. at 1-855-839-8195
@@ -90,6 +92,7 @@ FULL PRESCRIBING INFORMATION: CONTENTS*
 7.4 Oral Contraceptives
 7.5 Other Antibacterials
 
+[page 3]
 7.6 Effects on Laboratory Tests
 8 USE IN SPECIFIC POPULATIONS
 8.1 Pregnancy
@@ -128,6 +131,7 @@ Amoxicillin capsules are indicated in the treatment of infections due to suscept
 Staphylococcusspp., or E. coli.
 Sections or subsections omitted from the full prescribing information are not listed.
 
+[page 4]
 1.4 Infections of the Lower Respiratory Tract
 Amoxicillin capsules are indicated in the treatment of infections due to susceptible (ONLY
 β-lactamase-negative) isolates of Streptococcusspp. (α- and β-hemolytic isolates only),
@@ -138,7 +142,7 @@ Amoxicillin capsules, in combination with clarithromycin plus lansoprazole as tr
 therapy, is indicated for the treatment of patients with H. pyloriinfection and duodenal
 ulcer disease (active or 1-year history of a duodenal ulcer) to eradicate H. pylori.
 Eradication of H. pylorihas been shown to reduce the risk of duodenal ulcer recurrence.
-Dual therapy for  H. pyloriwith lansoprazole : Amoxicillin capsules, in combination with
+Dual therapy for H. pyloriwith lansoprazole : Amoxicillin capsules, in combination with
 lansoprazole delayed-release capsules as dual therapy, is indicated for the treatment of
 patients with H. pyloriinfection and duodenal ulcer disease (active or 1-year history of a
 duodenal ulcer) who are either allergic or intolerant to clarithromycin or in
@@ -164,13 +168,14 @@ continue clinical and/or bacteriological follow-up for several months after cess
 therapy.
 Table 1. Dosing Recommendations for Adult and Pediatric Patients > 3
 
+[page 5]
 Months of Age
  
 Infection 
-Severity  
+Severity 
 Usual Adult Dose 
 Usual Dose for Children >
-3 Months  
+3 Months 
 Ear/Nose/Throat
 Skin/Skin
 Structure
@@ -230,6 +235,7 @@ b
 a
 b
 
+[page 6]
 Please refer to clarithromycin and lansoprazole full prescribing information.
 2.4 Dosing in Renal Impairment
 Patients with impaired renal function do not generally require a reduction in dose
@@ -265,6 +271,7 @@ reports of individuals with a history of penicillin hypersensitivity who have ex
 severe reactions when treated with cephalosporins. Before initiating therapy with
 amoxicillin capsules, careful inquiry should be made regarding previous hypersensitivity
 
+[page 7]
 reactions to penicillins, cephalosporins, or other allergens. If an allergic reaction occurs,
 amoxicillin capsules should be discontinued and appropriate therapy instituted.
 5.2 Drug-Induced Enterocolitis Syndrome (DIES)
@@ -300,6 +307,7 @@ A high percentage of patients with mononucleosis who receive amoxicillin capsule
 develop an erythematous skin rash. Thus amoxicillin capsules should not be
 administered to patients with mononucleosis.
 
+[page 8]
 6 ADVERSE REACTIONS
 The following are discussed in more detail in other sections of the labeling:
 Anaphylactic reactions [see Warnings and Precautions ( 5.1)]
@@ -338,6 +346,7 @@ Liver:A moderate rise in AST and/or ALT has been noted, but the significance of 
 finding is unknown. Hepatic dysfunction including cholestatic jaundice, hepatic
 cholestasis and acute cytolytic hepatitis have been reported.
 
+[page 9]
 Renal:Crystalluria has been reported[see Overdosage ( 10)] .
 Hemic and Lymphatic Systems:Anemia, including hemolytic anemia,
 thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and
@@ -373,6 +382,7 @@ Chloramphenicol, macrolides, sulfonamides, and tetracyclines may interfere with 
 bactericidal effects of penicillin. This has been demonstrated in vitro; however, the clinical
 significance of this interaction is not well documented.
 
+[page 10]
 7.6 Effects on Laboratory Tests
 High urine concentrations of ampicillin may result in false-positive reactions when testing
 for the presence of glucose in urine using CLINITEST 
@@ -410,6 +420,7 @@ Administration ( 2.2).]
 ®
 ®
 
+[page 11]
 An analysis of clinical studies of amoxicillin capsules was conducted to determine
 whether subjects aged 65 and over respond differently from younger subjects. These
 analyses have not identified differences in responses between the elderly and younger
@@ -446,6 +457,7 @@ azabicyclo[3.2.0]heptane2-carboxylic acid trihydrate. It may be represented stru
 as:
 1
 
+[page 12]
 The amoxicillin USP molecular formula is C 
 H 
 N O S•3H O, and the molecular
@@ -479,6 +491,7 @@ can be delayed by concurrent administration of probenecid [see DRUG INTERACTIONS
 5
 2
 
+[page 13]
 12.4 Microbiology
 Mechanism of Action
 Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria
@@ -509,6 +522,7 @@ For specific information regarding susceptibility test interpretive criteria and
 test methods and quality control standards recognized by FDA for this drug, please see:
 https://www.fda.gov/STIC.
 
+[page 14]
 13 NONCLINICAL TOXICOLOGY
 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 Long-term studies in animals have not been performed to evaluate carcinogenic
@@ -534,7 +548,7 @@ capsules and clarithromycin tablets as triple 14-day therapy, or in combination 
 amoxicillin capsules as dual 14-day therapy, for the eradication of H. pylori. Based on the
 results of these studies, the safety and efficacy of 2 different eradication regimens were
 established: Triple therapy: Amoxicillin 1 gram twice daily/clarithromycin 500 mg twice
-daily/lansoprazole 30 mg twice daily (see Table 6).  Dual therapy:Amoxicillin 1 gram
+daily/lansoprazole 30 mg twice daily (see Table 6). Dual therapy:Amoxicillin 1 gram
 three times daily/lansoprazole 30 mg three times daily (see Table 7).All treatments were
 for 14 days. H. pylorieradication was defined as 2 negative tests (culture and histology)
 at 4 to 6 weeks following the end of treatment. Triple therapy was shown to be more
@@ -542,38 +556,39 @@ effective than all possible dual therapy combinations. Dual therapy was shown to
 more effective than both monotherapies. Eradication of H. pylorihas been shown to
 reduce the risk of duodenal ulcer recurrence.
 Table 6.H. pyloriEradication Rates When Amoxicillin is Administered as Part of
-a Triple Therapy Regimen                        
-   
-  Study 
+a Triple Therapy Regimen 
  
-  Triple Therapy 
+ Study 
  
-  Triple Therapy 
+ Triple Therapy 
  
-  Evaluable Analysis  
-  [95% Confidence Interval]  
-  (number of patients) 
+ Triple Therapy 
  
-  Intent-to-Treat Analysis  
-  [95% Confidence
+ Evaluable Analysis 
+ [95% Confidence Interval] 
+ (number of patients) 
+ 
+ Intent-to-Treat Analysis 
+ [95% Confidence
 Interval](number of patients) 
  
-   
+ 
  92 
  86 
 a
 b
 
- Study 1 
+[page 15]
+Study 1 
  
  [80 to 97.7] 
  (n = 48) 
-     
+ 
  [73.3 to 93.5] 
  (n = 55) 
-   
  
-   
+ 
+ 
  Study 2 
  
  86 
@@ -597,20 +612,20 @@ All dropouts were included as failures of therapy.
 Table 7.H. pyloriEradication Rates When Amoxicillin is Administered as Part of
 a Dual Therapy Regimen
  
-                     
-  Study 
  
-  Dual Therapy 
+ Study 
  
-  Dual Therapy 
+ Dual Therapy 
  
-  Evaluable Analysis  
-  [95% Confidence Interval] 
-  (number of patients) 
+ Dual Therapy 
  
-  Intent-to-Treat Analysis  
-  [95% Confidence Interval] 
-  (number of patients) 
+ Evaluable Analysis 
+ [95% Confidence Interval] 
+ (number of patients) 
+ 
+ Intent-to-Treat Analysis 
+ [95% Confidence Interval] 
+ (number of patients) 
  
  Study 1 
  
@@ -647,6 +662,7 @@ b
 a
 ®
 
+[page 16]
 Patients were included in the analysis if they had documented H. pyloriinfection at
 baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year).
 All dropouts were included as failures of therapy.
@@ -654,28 +670,29 @@ All dropouts were included as failures of therapy.
 1. Swanson-Biearman B, Dean BS, Lopez G, Krenzelok EP. The effects of penicillin and
 cephalosporin ingestions in children less than six years of age. Vet Hum Toxicol.
 1988; 30: 66 to 67.
-   
+ 
 16 HOW SUPPLIED/STORAGE AND HANDLING
 Amoxicillin Capsules, USP are supplied as follows:
 250 mg:Hard gelatin capsules with white opaque cap imprinted with ‘M’ and white
 opaque body imprinted with ‘33’ containing white to off-white granular powder and
 contains 250 mg amoxicillin as the trihydrate.
-Bottles of 30                           NDC 42571-233-30
-Bottles of 100                                     NDC 42571-233-01
-Bottles of 500                                     NDC 42571-233-05
-Bottles of 1000                       NDC 42571-233-10
+Bottles of 30 NDC 42571-233-30
+Bottles of 100 NDC 42571-233-01
+Bottles of 500 NDC 42571-233-05
+Bottles of 1000 NDC 42571-233-10
 500 mg:Hard gelatin capsules with white opaque cap imprinted with ‘M’ and white
 opaque body imprinted with ‘34’ containing white to off-white granular powder and
 contains 500 mg amoxicillin as the trihydrate.
-Bottles of 30                           NDC 42571-234-30
-Bottles of 100                                     NDC 42571-234-01
-Bottles of 500                                     NDC 42571-234-05
-Bottles of 1000                       NDC 42571-234-10
+Bottles of 30 NDC 42571-234-30
+Bottles of 100 NDC 42571-234-01
+Bottles of 500 NDC 42571-234-05
+Bottles of 1000 NDC 42571-234-10
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant
 closure (as required).
 b
 
+[page 17]
 17 PATIENT COUNSELING INFORMATION
 Information for Patients
 Patients should be advised that amoxicillin capsules may be taken every 8 hours or
@@ -711,8 +728,9 @@ PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 NDC 42571-233-30 
 Rx Only 
 Amoxicillin Capsules, USP 
-250 mg 
+250 mg
 
+[page 18]
 30 Capsules 
 MICRO LABS LIMITED
 NDC 42571-234-30 
@@ -722,7 +740,7 @@ Amoxicillin Capsules, USP
 30 Capsules 
 MICRO LABS LIMITED
  
-AMOXICILLIN   
+AMOXICILLIN 
 amoxicillin capsule
 Product Information
 Product Type
@@ -732,6 +750,7 @@ NDC:42571-233
 Route of Administration
 ORAL
 
+[page 19]
 Active Ingredient/Active Moiety
 Ingredient Name
 Basis of Strength
@@ -773,7 +792,7 @@ Flavor
 Imprint Code
 M;33
 Contains
-    
+ 
 Packaging
 #
 Item Code
@@ -814,9 +833,10 @@ Date
 ANDA
 ANDA207471
 11/01/2022
-AMOXICILLIN   
+AMOXICILLIN 
 amoxicillin capsule
 
+[page 20]
 Product Information
 Product Type
 HUMAN PRESCRIPTION DRUG
@@ -865,7 +885,7 @@ Flavor
 Imprint Code
 M;34
 Contains
-    
+ 
 Packaging
 #
 Item Code
@@ -907,6 +927,7 @@ ANDA
 ANDA207471
 11/01/2022
 
+[page 21]
 Micro Labs Limited
 Labeler - Micro Labs Limited (862174955)
 Establishment

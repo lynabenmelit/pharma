@@ -1,3 +1,4 @@
+[page 1]
 DIOVAN- valsartan tablet
 ----------
 HIGHLIGHTS OF PRESCRIBING INFORMATION
@@ -55,6 +56,7 @@ are hypotension, cough and increased blood creatinine (6.1)
 To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation
 at 1-888-669-6682 or FDA at 1-800-FDA-1088 or
 
+[page 2]
 g
 DRUG INTERACTIONS
 Potassium-sparing diuretics, potassium supplements or salt substitutes may lead to increases in
@@ -102,6 +104,7 @@ Inhibitors (COX-2 Inhibitors)
 8.2 Lactation
 8.4 Pediatric Use
 
+[page 3]
 8.5 Geriatric Use
 8.6 Renal Impairment
 8.7 Hepatic Impairment
@@ -142,6 +145,7 @@ patients will require more than one drug to achieve blood pressure goals. For sp
 advice on goals and management, see published guidelines, such as those of the
 Sections or subsections omitted from the full prescribing information are not listed.
 
+[page 4]
 National High Blood Pressure Education Program's Joint National Committee on
 Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
 Numerous antihypertensive drugs, from a variety of pharmacologic classes and with
@@ -184,6 +188,7 @@ in pediatric patients aged 1 to 5 years
 in patients >5 years of age who cannot swallow tablets and
 in pediatric patients for whom the calculated dose (mg/kg) does not correspond to
 
+[page 5]
 the available tablet strengths of Diovan.
 When switching between suspension and tablets, the dose of valsartan may need to be
 adjusted.
@@ -233,6 +238,7 @@ dose of concomitant diuretics. The maximum daily dose administered in clinical t
 ®*
 *
 
+[page 6]
 2.5 Post-Myocardial Infarction
 Diovan may be initiated as early as 12 hours after a myocardial infarction. The
 recommended starting dose of Diovan is 20 mg twice daily. Patients may be uptitrated
@@ -269,6 +275,7 @@ Do not coadminister aliskiren with Diovan in patients with diabetes [see Drug In
 (7.3)].
 5 WARNINGS AND PRECAUTIONS
 
+[page 7]
 5.1 Fetal Toxicity
 Diovan can cause fetal harm when administered to a pregnant woman. Use of drugs
 that act on the renin-angiotensin system during the second and third trimesters of
@@ -309,6 +316,7 @@ are usually minor and transient, and they are more likely to occur in patients w
 required [see Adverse Reactions (6.1)].
 6 ADVERSE REACTIONS
 
+[page 8]
 6.1 Clinical Trials Experience
 Because clinical studies are conducted under widely varying conditions, adverse reaction
 rates observed in the clinical studies of a drug cannot be directly compared to rates in
@@ -353,6 +361,7 @@ adverse reactions vs. 7% of placebo patients.
 The table shows adverse reactions in double-blind short-term heart failure trials,
 including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at
 
+[page 9]
 least 2% that were more frequent in valsartan-treated patients than in placebo-treated
 patients. All patients received standard drug therapy for heart failure, frequently as
 multiple medications, which could include diuretics, digitalis, beta-blockers. About 93% of
@@ -406,6 +415,7 @@ Creatinine: In heart failure trials, greater than 50% increases in creatinine we
 observed in 3.9% of Diovan-treated patients compared to 0.9% of placebo-treated
 patients. In post-myocardial infarction patients, doubling of serum creatinine was
 
+[page 10]
 observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
 Neutropenia: Neutropenia was observed in 1.9% of patients treated with Diovan and
 0.8% of patients treated with placebo.
@@ -444,6 +454,7 @@ NSAID therapy.
 The antihypertensive effect of angiotensin II receptor antagonists, including valsartan,
 may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
+[page 11]
 7.3 Dual Blockade of the Renin-Angiotensin System (RAS)
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren
 is associated with increased risks of hypotension, hyperkalemia, and changes in renal
@@ -485,6 +496,7 @@ intrauterine growth restriction and intrauterine death. Pregnant women with
 hypertension should be carefully monitored and managed accordingly.
 Fetal/Neonatal Adverse Reactions
 
+[page 12]
 Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin
 system in the second and third trimesters of pregnancy can result in the following:
 reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia,
@@ -528,6 +540,7 @@ pharmacokinetics of Diovan have been evaluated in pediatric patients 1 to 16 yea
 age [see Clinical Pharmacology (12.3)]. The adverse experience profile of Diovan was
 similar to that described for adults [see Adverse Reactions (6.1)].
 
+[page 13]
 In children and adolescents with hypertension where underlying renal abnormalities may
 be more common, renal function and serum potassium should be closely monitored as
 clinically indicated.
@@ -569,6 +582,7 @@ Diovan (valsartan) is not removed from the plasma by hemodialysis.
 Valsartan was without grossly observable adverse effects at single oral doses up to
 2000 mg/kg in rats and up to 1000 mg/kg in marmosets, except for salivation and
 
+[page 14]
 diarrhea in the rat and vomiting in the marmoset at the highest dose (60 and 31 times,
 respectively, the MRHD dose on a mg/m basis) (Calculations assume an oral dose of
 320 mg/day and a 60-kg patient).
@@ -607,6 +621,7 @@ unblocked AT receptor. The primary metabolite of valsartan is essentially inacti
 5
 3
 
+[page 15]
 unblocked AT receptor. The primary metabolite of valsartan is essentially inactive with
 an affinity for the AT receptor about one-200
 (1/200
@@ -657,6 +672,7 @@ With the tablet, food decreases the exposure (as measured by AUC) to valsartan b
 th
 th
 
+[page 16]
 about 40% and peak plasma concentration (C
 ) by about 50%. Diovan can be
 administered with or without food.
@@ -701,6 +717,7 @@ have twice the exposure (measured by AUC values) to valsartan of healthy volunte
 Drug Interaction Studies
 No clinically significant pharmacokinetic interactions were observed when Diovan
 
+[page 17]
 (valsartan) was coadministered with amlodipine, atenolol, cimetidine, digoxin,
 furosemide, glyburide, hydrochlorothiazide, or indomethacin. The valsartan-atenolol
 combination was more antihypertensive than either component, but it did not lower the
@@ -742,6 +759,7 @@ Populations (8.4)].
 14 CLINICAL STUDIES
 14.1 Hypertension
 
+[page 18]
 Adult Hypertension
 The antihypertensive effects of Diovan (valsartan) were demonstrated principally in 7
 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10
@@ -788,6 +806,7 @@ once daily or 80 mg twice daily, which resulted in a similar response in both gr
 In controlled trials, the antihypertensive effect of once-daily valsartan 80 mg was similar
 to that of once-daily enalapril 20 mg or once-daily lisinopril 10 mg.
 
+[page 19]
 There are no trials of Diovan demonstrating reductions in cardiovascular risk in patients
 with hypertension, but at least one pharmacologically similar drug has demonstrated
 such benefits.
@@ -834,6 +853,7 @@ valsartan was consistent across all the demographic subgroups.
 The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in
 which 5010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF less than
 
+[page 20]
 40%, on baseline therapy chosen by their physicians, were randomized to placebo or
 valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice
 daily) and followed for a mean of about 2 years. Although Val-HeFT's primary goal was
@@ -907,6 +927,7 @@ Sudden death with resuscitation 2 (1.1%)
 1 (0.5%)
 0.47 (0.04, 5.20)
 
+[page 21]
 CHF therapy
 1 (0.6%)
 0 (0.0%)
@@ -985,6 +1006,7 @@ CV mortality
 1.090)
 CV mortality,
 
+[page 22]
 hospitalization
 for HF, and
 recurrent
@@ -1015,6 +1037,7 @@ baseline therapies, as shown in the figure above.
 Diovan (valsartan) is available as tablets containing valsartan 40 mg, 80 mg, 160 mg, or
 320 mg. All strengths are packaged in bottles as described below.
 
+[page 23]
 Tablet Color Shape/coating
 Functional
 Scoring
@@ -1072,6 +1095,7 @@ Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and
 Protect from moisture.
 Dispense in tight container (USP).
 
+[page 24]
 17 PATIENT COUNSELING INFORMATION
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 Pregnancy: Advise female patients of childbearing age about the consequences of
@@ -1114,6 +1138,7 @@ a heart attack (myocardial infarction).
 DIOVAN should not be used to treat high blood pressure in children less than 1 year of
 age.
 
+[page 25]
 It is not known if DIOVAN is safe and effective in children with certain kidney problems.
 Do not take DIOVAN if you:
 are allergic to any of the ingredients in DIOVAN. See the end of this leaflet for a
@@ -1161,6 +1186,7 @@ For adults with heart failure or who have had a heart attack, take DIOVAN 2 time
 each day. Your healthcare provider may start you on a low dose of DIOVAN and may
 increase the dose during your treatment.
 
+[page 26]
 DIOVAN can be taken with or without food.
 If you miss a dose, take it as soon as you remember. If it is close to your next dose,
 do not take the missed dose. Take the next dose at your regular time.
@@ -1209,6 +1235,7 @@ cough
 high blood creatinine (decreased kidney function)
 You should not stop taking DIOVAN without talking to your healthcare provider. These
 
+[page 27]
 This Patient Information has been approved
 by the U.S. Food and Drug Administration.
 Revised: December 2024
@@ -1247,18 +1274,22 @@ NDC 0078-0423-15
 40 mg
 30 Scored Tablets
 
+[page 28]
 NDC 0078-0358-34
 
 NDC 0078-1245-34
 
+[page 29]
 NDC 0078-0359-34
 
 NDC 0078-1252-34
 
+[page 30]
 NDC 0078-0360-34
 
 NDC 0078-1259-34
 
+[page 31]
 NDC:0078-0423
 40 mg
 
@@ -1268,6 +1299,7 @@ OVAL (ovaloid with bevelled edges)
 6mm
 NVR;DO
 
+[page 32]
 1 NDC:0078-042315
 30 in 1 BOTTLE; Type 0: Not a Combination
 NDC:0078-0358
@@ -1276,6 +1308,7 @@ RED (pale red)
 10mm
 NVR;DV
 
+[page 33]
 1 NDC:0078-035834
 NDC:0078-1245
 
@@ -1284,6 +1317,7 @@ ROUND (round with bevelled edges)
 10mm
 NVR;DV
 
+[page 34]
 1 NDC:0078-124534
 NDC:0078-0359
 
@@ -1291,6 +1325,7 @@ GRAY, ORANGE
 13mm
 NVR;DX
 
+[page 35]
 1 NDC:0078-035934
 NDC:0078-1252
 
@@ -1299,6 +1334,7 @@ OVAL (ovaloid, slightly convex)
 13mm
 NVR;DX
 
+[page 36]
 1 NDC:0078-125234
 NDC:0078-0360
 
@@ -1306,6 +1342,7 @@ GRAY (dark gray) , PURPLE (violet)
 16mm
 NVR;DXL
 
+[page 37]
 1 NDC:0078-036034
 NDC:0078-1259
 
@@ -1314,6 +1351,7 @@ OVAL (ovaloid with bevelled edges, slightly convex)
 16mm
 NVR;DC
 
+[page 38]
 1 NDC:0078-125934
 Labeler - Novartis Pharmaceuticals Corporation (002147023)
 
