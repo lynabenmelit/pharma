@@ -7,3 +7,5 @@ pymupdf
 rank_bm25
 rapidfuzz
 streamlit
+sentence-transformers
+faiss-cpu
