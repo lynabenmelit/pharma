@@ -1,9 +1,9 @@
-﻿{
-  "input_documents": 98,
-  "chunk_count": 3330,
+{
+  "input_documents": 107,
+  "chunk_count": 3598,
   "max_chunk_chars": 1500,
   "overlap_chars": 200,
-  "average_chunk_chars": 1211.4,
+  "average_chunk_chars": 1211.3,
   "largest_chunk_chars": 1500,
   "chunks_file": "data/chunks.jsonl"
 }
