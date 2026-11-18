@@ -1,20 +1,21 @@
-﻿{
-  "input_docs": 98,
-  "kept": 96,
+
+{
+  "input_docs": 101,
+  "kept": 99,
   "rejected": 2,
   "rejected_by_reason": {
     "too_short": 0,
     "ocr_garbage": 0,
     "duplicate_of": 2
   },
-  "length_outliers_flagged": 2,
-  "docs_with_dose_outliers": 65,
+  "length_outliers_flagged": 3,
+  "docs_with_dose_outliers": 67,
   "docs_per_source": {
-    "dailymed": 29,
-    "base-donnees_publique.medicaments": 2,
-    "anpp": 16,
     "ansm": 2,
     "nomenclature": 8,
-    "dzairpharma": 39
+    "anpp": 17,
+    "base-donnees_publique.medicaments": 2,
+    "dzairpharma": 40,
+    "dailymed": 30
   }
 }
