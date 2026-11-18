@@ -190,15 +190,14 @@ dosages. The flags should be reviewed before any later retrieval step.
 | `pandas`, `openpyxl` | Reading the teacher's Excel list and CSV files |
 | `beautifulsoup4` | Parsing saved web pages (HTML) |
 | `pymupdf` | Reading PDFs (notices, RCP, ANSM table) |
-| `rank_bm25` | Reserved for the future BM25 keyword-search baseline |
+| `rank_bm25` | BM25 keyword search over prepared chunks |
 | `rapidfuzz` | Matching drug names with typos |
 | `streamlit` | The web interface |
 
-The Streamlit app currently uses local keyword-style retrieval over
-`data/text_clean/` (falling back to `data/text/`). Its current score is based
-on shared normalized words and filename/document bonuses; it is not yet a
-BM25 implementation. It sends the top matching excerpts, not the whole corpus,
-to the Groq LLM. Set `GROQ_API_KEY` in `.env` before asking a question.
+The Streamlit app uses BM25 keyword retrieval over every chunk in
+`data/chunks.jsonl`. The index is tokenized with accent normalization and
+returns the highest-scoring chunks, not the whole corpus, to the Groq LLM.
+Set `GROQ_API_KEY` in `.env` before asking a question.
 
 ## Current question-answering workflow
 
