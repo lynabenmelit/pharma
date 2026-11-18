@@ -1,0 +1,291 @@
+DwaDZ - pharmaveille-dz.vercel.app
+✷Interactions médicamenteuses
+⊗ 1 contre-indication
+▲ 8 déconseillée
+◆ 19 précaution
+○ 12 à prendre en compte
+Partager cette fiche
+Facebook
+X (Twitter)
+WhatsApp
+Copier le lien
+Partager…
+Suivre la page
+بالعربية - عرض بطاقة الدواء بالعربية · Médicaments commençant par T
+TEMERIT 5MG est un médicament sous forme de comprime quadri-secable dont la substance active est NEBIVOLOL
+CHLORHYDRATE EXPRIME EN NEBIVOLOL, produit par le laboratoire MENARINI INTERNATIONAL OPERATIONS
+LUXEMBOURG SA (LUXEMBOURG). Il est enregistré auprès du Ministère de l'Industrie Pharmaceutique et importé.
+Prescription : HOP. Les génériques enregistrés avec la même substance active sont listés plus bas.
+DwaDZ - pharmaveille-dz.vercel.app
+DCI - DÉNOMINATION COMMUNE INTERNATIONALE
+NEBIVOLOL CHLORHYDRATE EXPRIME EN NEBIVOLOL
+TEMERIT 5 mg
+comprime quadrisecable
+✅ Médicament actif
+Installer
+✕
+
+1/9
+
+REPÈRES
+PPA
+Prix non disponible
+DCI
+NEBIVOLOL CHLORHYDRATE EXPRIME EN NEBIVOLOL
+PRESCRIPTION
+HOP
+FORME / DOSAGE
+COMPRIME QUADRI-SECABLE - 5MG
+ORIGINE
+🇱🇺📦 Importé
+IDENTIFICATION
+DCI (Substance
+active)
+CHLORHYDRATE
+EXPRIME EN
+Nom de marque
+TEMERIT
+N°
+d'enregistrement
+203/06 F 273/09/17
+Code produit
+06 F 273
+Code ATC
+C07AB12 -
+nébivolol
+Type de produit
+GÉNÉRIQUE
+Origine de
+fabrication
+📦 IMPORTÉ
+CONDITIONNEMENT
+Forme
+pharmaceutique
+COMPRIME
+QUADRI-SECABLE
+EDQM 10219000 ⊂
+Voie
+d'administration
+Voie orale
+EDQM 20053000
+Méthode
+d'administration
+Avaler
+EDQM 0019
+Dosage
+5MG
+UCUM mg
+Conditionnement
+B/30
+Liste
+LISTE I
+Prescription
+HOP
+Stabilité
+24 MOIS
+
+2/9
+
+FABRICANT
+Laboratoire
+MENARINI
+INTERNATIONAL
+OPERATIONS
+LUXEMBOURG SA
+Pays
+d'origine
+🇱🇺LUXEMBOURG
+DATES & ENREGISTREMENT
+Date
+d'enregistrement
+2009-02-28
+Date de fin de
+validité
+2017-06-29
+Année de
+nomenclature
+2026
+Version source
+Aout 2026
+📊 TEMERIT en Algérie : équivalents, laboratoire, validité
+Aucune autre présentation de même substance active, dosage et forme que TEMERIT 5MG n'est enregistrée dans la
+nomenclature actuelle.
+Enregistré depuis le 28 février 2009 (il y a environ 17 ans). La validité indiquée a pris fin le 29 juin 2017 : vérifiez le
+renouvellement dans la nomenclature en vigueur.
+Selon la nomenclature (LISTE I / HOP), ce médicament est inscrit sur la liste I, délivré sur ordonnance et réservé à
+l'usage hospitalier. Seul un professionnel de santé peut conseiller dans votre situation.
+🧬 Classification ATC
+Anatomical Therapeutic Chemical - Classification OMS
+C
+système cardiovasculaire ›
+C07
+bêtabloquants ›
+C07A
+bêtabloquants ›
+C07AB
+bêtabloquants sélectifs ›
+C07AB12
+nébivolol
+Interactions médicamenteuses
+
+3/9
+
+Interactions de la substance active avec d'autres médicaments, selon le Thesaurus de l'ANSM (France). Elles
+valent pour toutes les spécialités qui contiennent cette substance.
+Information, pas une prescription. Ces interactions ne remplacent pas l'avis d'un médecin ou d'un
+pharmacien.
+Substances analysées :
+et leurs classes (6)
+Toutes
+⊗Contre-indication
+▲Association déconseillée
+◆Précaution d'emploi
+○À prendre en compte
+Chercher une substance ou une cla
+Tout déplier
+Tout plier
+Tri
+Par gravité
+⊗Contre-indication
+1
+MEXILETINE
+décompensation cardiaque.
+▲Association déconseillée
+8
+ANTIHYPERTENSEURS CENTRAUX
+Diminution centrale du tonus sympathique et
+effet vasodilatateur des antihypertenseurs
+centraux, préjudiciables en cas d'insuffisance
+cardiaque traitée par bêta-bloquant et
+vasodilatateur.
+DILTIAZEM
+40
+1
+8
+19
+12
+
+4/9
+
+Troubles de l'automatisme (bradycardie
+excessive, arrêt sinusal), troubles de la
+conduction sino-auriculaire et auriculoventriculaire et défaillance cardiaque.
+Une telle association ne doit se faire que sous
+surveillance clinique et ECG étroite, en particulier
+chez le sujet âgé ou en début de traitement.
+DILTIAZEM
+décompensation de l'insuffisance cardiaque,
+troubles de l'automatisme (bradycardie, arrêt
+sinusal) et troubles de la conduction sinoauriculaire et auriculo-ventriculaire.
+FINGOLIMOD
+Surveillance clinique et ECG continu pendant les
+6 heures suivant la première dose voire 2 heures
+de plus, jusqu'au lendemain si nécessaire.
+OZANIMOD
+Surveillance clinique et ECG pendant au moins 6
+heures.
+PONÉSIMOD
+
+5/9
+
+Surveillance clinique et ECG continu pendant les
+4 heures suivant la première dose, jusqu'au
+lendemain si nécessaire.
+VERAPAMIL
+Troubles de l'automatisme (bradycardie
+excessive, arrêt sinusal), trouble de la conduction
+sino-auriculaire et auriculo-ventriculaire et
+défaillance cardiaque.
+Une telle association ne doit se faire que sous
+surveillance clinique et ECG étroite, en particulier
+chez le sujet âgé ou en début de traitement.
+VERAPAMIL
+décompensation de l'insuffisance cardiaque,
+troubles de l'automatisme (bradycardie, arrêt
+sinusal) et troubles de la conduction sinoauriculaire et auriculo-ventriculaire.
+◆Précaution d'emploi
+19
+FLUOXETINE
+Risque de majoration des effets indésirables du
+nébivolol avec notamment bradycardie
+excessive, par inhibition de son métabolisme par
+l'antidépresseur.
+Surveillance clinique accrue ; si besoin,
+adaptation de la posologie du nébivolol pendant
+la durée du traitement par l'antidépresseur et
+après son arrêt.
+PAROXETINE
+
+6/9
+
+Risque de majoration des effets indésirables du
+nébivolol avec notamment bradycardie
+excessive, par inhibition de son métabolisme par
+l'antidépresseur.
+Surveillance clinique accrue ; si besoin,
+adaptation de la posologie du nébivolol pendant
+la durée du traitement par l'antidépresseur et
+après son arrêt.
+AMIODARONE
+Troubles de l'automatisme et de la conduction
+(suppression des mécanismes sympathiques
+compensateurs).
+Surveillance clinique et ECG.
+via la classe BÊTA-BLOQUANTS (SAUF ESMOLOL ET SOTALOL) (Y COMPRIS COLLYRES)
+AMIODARONE
+Troubles de l'automatisme et de la conduction
+cardiaque avec risque de bradycardie excessive.
+Surveillance clinique et ECG régulière.
+ANESTHÉSIQUES VOLATILS HALOGÉNÉS
+Réduction des réactions cardiovasculaires de
+compensation par les bêta-bloquants.
+L'inhibition bêta-adrénergique peut être levée
+durant l'intervention par les bêta-mimétiques.
+En règle générale, ne pas arrêter le traitement
+bêta-bloquant et, de toute façon, éviter l'arrêt
+brutal. Informer l'anesthésiste de ce traitement.
+ANESTHÉSIQUES VOLATILS HALOGÉNÉS
+Réduction des réactions cardiovasculaires de
+compensation par les bêta-bloquants.
+L'inhibition bêta-adrénergique peut être levée
+durant l'intervention par les bêta-stimulants.
+En règle générale, ne pas arrêter le traitement
+bêta-bloquant et, de toute façon, éviter l'arrêt
+brutal. Informer l'anesthésiste de ce traitement.
+
+7/9
+
+Voir les 13 autres
+○
+À prendre en compte
+12
+Source : ANSM. Textes de l'ANSM reproduits tels quels ; la substance du médicament est rapprochée automatiquement du
+thésaurus. Une erreur ? Écrivez-nous
+❓ Questions fréquentes
+Quelle est la substance active de TEMERIT 5MG ?
+La substance active de TEMERIT 5MG est NEBIVOLOL CHLORHYDRATE EXPRIME EN NEBIVOLOL (DCI), selon la
+nomenclature nationale des produits pharmaceutiques (MIPH).
+TEMERIT 5MG est-il enregistré en Algérie ?
+Oui, TEMERIT 5MG figure dans la nomenclature nationale des produits pharmaceutiques (date d'enregistrement :
+2009-02-28, échéance : 2017-06-29).
+TEMERIT 5MG est-il un générique ?
+TEMERIT 5MG est classé dans la nomenclature nationale comme un médicament générique.
+Quel laboratoire fabrique TEMERIT 5MG ?
+TEMERIT 5MG est produit par le laboratoire MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG SA
+(LUXEMBOURG) ; il est importé.
+Quelle est la classe thérapeutique (ATC) de TEMERIT 5MG ?
+Le code ATC associé à NEBIVOLOL CHLORHYDRATE EXPRIME EN NEBIVOLOL est C07AB12 (nébivolol).
+TEMERIT 5MG nécessite-t-il une ordonnance ?
+Mention de prescription dans la nomenclature : HOP. Pour votre situation, demandez conseil à un médecin ou à un
+pharmacien.
+
+8/9
+
+Où trouver la posologie et les effets secondaires de TEMERIT 5MG ?
+La nomenclature nationale (MIPH) ne publie ni posologie ni effets indésirables. Reportez-vous à la notice fournie
+avec la boîte, ou demandez conseil à un médecin ou à un pharmacien.
+← Retour
+🔍 Tous les médicaments avec cette DCI
+🔎 Voir la boîte (Google)
+
+9/9
