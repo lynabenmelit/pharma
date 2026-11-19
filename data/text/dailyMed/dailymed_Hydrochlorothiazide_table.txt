@@ -32,7 +32,6 @@ equivalent amounts. Natriuresis may be accompanied by some loss of potassium and
 4
 2         
 
-
 bicarbonate.
 After oral use diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6
 to 12 hours.
@@ -71,7 +70,6 @@ CONTRAINDICATIONS:
 Anuria.
 Hypersensitivity to this product or to other sulfonamide-derived drugs.
 WARNINGS:
-
 
 Use with caution in severe renal disease. In patients with renal disease, thiazides may
 precipitate azotemia. Cumulative effects of the drug may develop in patients with
@@ -116,7 +114,6 @@ treatment except under extraordinary circumstances (as in liver disease or renal
 disease), chloride replacement may be required in the treatment of metabolic alkalosis.
 Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate
 
-
 therapy is water restriction, rather than administration of salt, except in rare instances
 when the hyponatremia is life threatening. In actual salt depletion, appropriate
 replacement is the therapy of choice. Hyperuricemia may occur or acute gout may be
@@ -157,7 +154,6 @@ Skeletal muscle relaxants, Nondepolarizing (e.g., Tubocurarine):Possible
 increased responsiveness to the muscle relaxant.
 Lithium:Generally should not be given with diuretics. Diuretic agents reduce the renal
 clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for
-
 
 lithium preparations before use of such preparations with hydrochlorothiazide.
 Non-Steroidal Anti-inflammatory Drugs:In some patients, the administration of a
@@ -201,7 +197,6 @@ adverse reactions that have occurred in adults.
 Nursing Mothers:
 Thiazides are excreted in breast milk. Because of the potential for serious adverse
 
-
 reactions in nursing infants, a decision should be made whether to discontinue nursing
 or to discontinue hydrochlorothiazide, taking into account the importance of the drug to
 the mother.
@@ -239,7 +234,6 @@ Urogenital:Impotence
 Whenever adverse reactions are moderate or severe, thiazide dosage should be
 reduced or therapy withdrawn.
 Postmarketing Experience
-
 
 Non-melanoma Skin Cancer 
 Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
@@ -284,7 +278,6 @@ HOW SUPPLIED:
 Hydrochlorothiazide tablets, USP are available containing 12.5 mg, 25 mg and 50 mg
 50
 
-
 hydrochlorothiazide, USP.
 The 12.5 mg tablets are light orange to peach colored, round, biconvex tablets
 debossed with H on one side and 1 on another side. They are available as follows:
@@ -324,7 +317,6 @@ Issued March 2025
 12.5 mg Container Label
 NDC 16729- 182-01
 
-
 100Tablets
 accord
 25 mg Container Label
@@ -335,7 +327,6 @@ accord
 NDC 16729- 184-01
 100Tablets
 accord
-
 
 HYDROCHLOROTHIAZIDE  
 hydrochlorothiazide tablet
@@ -388,7 +379,6 @@ Item Code
 Package Description
 Marketing Start
 Marketing End
-
 
 #
 Item Code
@@ -475,7 +465,6 @@ Date
 1 NDC:16729-182- 100 in 1 BOTTLE; Type 0: Not a Combination
 04/18/2013
 
-
 1 01
 Product
 04/18/2013
@@ -556,7 +545,6 @@ Product
 04/26/2013
 2 NDC:16729-184- 1000 in 1 BOTTLE; Type 0: Not a Combination
 04/10/2013
-
 
 Accord Healthcare Inc.
 2 17
