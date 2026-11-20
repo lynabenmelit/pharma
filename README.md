@@ -2,7 +2,8 @@
 
 DawaCheck is a local-first medicine-information assistant. It builds a
 searchable corpus from pharmaceutical documents, cleans and annotates the
-corpus, retrieves relevant passages with BM25, and asks a language model to
+corpus, retrieves relevant passages with BM25, semantic similarity, or a
+hybrid ranker, and asks a language model to
 answer only from those passages.
 
 The project is intended for document retrieval, experimentation, and
@@ -20,7 +21,7 @@ The complete workflow is:
 4. Clean text and reject empty, corrupt, or duplicate documents.
 5. Normalize medicine names, doses, forms, and ATC identifiers.
 6. Split cleaned documents into bounded overlapping chunks.
-7. Retrieve relevant chunks with an in-memory BM25 index.
+7. Retrieve relevant chunks with BM25, semantic similarity, or hybrid search.
 8. Send only the selected local context to Groq.
 9. Display the answer and the official URLs associated with the sources.
 10. Evaluate answers against a fixed set of expected facts.
@@ -51,7 +52,7 @@ pharma/
 │   ├── text/                   # extracted text, mirroring data/raw/
 │   ├── text_clean/             # cleaned text used for chunking
 │   ├── processed/              # space for processed source artifacts
-│   ├── vector_db/              # reserved for future vector indexes
+│   ├── vector_db/              # checked-in semantic vector index
 │   ├── provenance.csv          # source registry and provenance metadata
 │   ├── clean_docs.csv          # accepted-document quality metadata
 │   ├── rejected.csv            # rejected documents and reasons
@@ -76,7 +77,10 @@ pharma/
 │   ├── search/
 │   │   ├── chunk_documents.py  # chunk generation and metadata
 │   │   ├── bm25.py             # tokenization and BM25 retrieval
-│   │   └── rag_pipeline.py     # retrieval, context formatting, and answers
+│   │   ├── embedder.py         # shared embedding model helpers
+│   │   ├── semantic.py         # FAISS/cosine-similarity retrieval
+│   │   ├── vector_store.py     # vector index persistence
+│   │   └── rag_pipeline.py     # retrieval, fusion, context, and answers
 │   ├── reconcile/              # reserved for source conflict handling
 │   └── verify/                 # reserved for answer verification
 ├── tests/
@@ -87,6 +91,8 @@ pharma/
 │   ├── run_eval.py             # model evaluation script
 │   ├── results_week1.csv       # generated evaluation results
 │   └── results_week1.xlsx      # generated spreadsheet results
+├── reports/
+│   └── week2_comparison.xlsx   # BM25, semantic, and hybrid comparison
 └── notebooks/                  # exploratory notebook workspace
 ```
 
@@ -110,6 +116,8 @@ Install the dependencies listed in `requirements.txt`:
 | `rank_bm25` | BM25 keyword retrieval |
 | `rapidfuzz` | Typo-tolerant medicine matching |
 | `streamlit` | Web application |
+| `sentence-transformers` | Multilingual text embeddings |
+| `faiss-cpu` | Vector similarity search |
 
 ## Installation
 
@@ -330,16 +338,25 @@ For each non-empty question, the app:
 
 1. loads the local chunk corpus;
 2. tokenizes the question with lowercase and accent removal;
-3. retrieves BM25 matches using text and medicine metadata;
+3. retrieves matches using the configured retrieval mode;
 4. selects up to four distinct source documents;
 5. limits the combined model context to 12,000 characters;
 6. asks Groq to answer only from the supplied local excerpts;
 7. tells the model to disclose missing information instead of inventing it;
 8. displays the answer and deduplicated official URLs.
 
-The BM25 index is built in memory and cached for the process lifetime. It is
-rebuilt automatically if a different chunks-file path is passed, but the app
-process should be restarted after replacing `data/chunks.jsonl`.
+The BM25 index is built in memory and cached for the process lifetime. Semantic
+retrieval uses the checked-in FAISS index in `data/vector_db/`, built with
+`intfloat/multilingual-e5-small` (384-dimensional normalized vectors, with
+`query: ` and `passage: ` prefixes). Rebuild the vector index after changing
+the chunks corpus:
+
+```powershell
+.\.venv\Scripts\python.exe src\search\build_faiss_index.py
+```
+
+The app process should be restarted after replacing either the chunks file or
+the vector index.
 
 If no chunks match, the application reports that no source documents were
 retrieved. If `GROQ_API_KEY` is absent and the answer is not already cached,
@@ -351,10 +368,12 @@ The evaluation set is `tests/test_questions.json`. It currently contains 30
 validated questions with categories, medicines, expected answers, expected
 facts, reference authority, and reference passages.
 
-Choose a question by editing `QID` in `tests/run_eval.py`:
+Choose questions and retrieval modes by editing the configuration at the top
+of `tests/run_eval.py`:
 
 ```python
-QID = "Q10"
+QUESTION_IDS = ("Q01", "Q02", "Q09")
+MODES = ("bm25", "semantic", "hybrid")
 ```
 
 Then run:
@@ -379,6 +398,72 @@ Verdicts are:
 
 The expected answer and expected facts are grader-only data. They are not
 passed into the retrieval prompt.
+
+### Week 2 retrieval comparison
+
+This part adds two more retrieval modes next to BM25, lets the pipeline switch between them, and compares them with the existing evaluation script.
+
+Goals
+rag_pipeline.py accepts mode="bm25" | "semantic" | "hybrid".
+A hybrid mode fuses BM25 scores and cosine similarity.
+The results are integrated into the existing run_eval.py.
+A final comparison table is written to reports/week2_comparison.xlsx.
+
+All four goals are implemented.
+
+What was done
+
+1. Retrieval modes (src/search/rag_pipeline.py)
+
+retrieve_documents() and answer_question() take mode (default "bm25") and bm25_weight (default 0.5). An unknown mode or a weight outside [0, 1] raises ValueError.
+bm25 calls retrieve_bm25() (keyword search, src/search/bm25.py).
+semantic calls retrieve_semantic() (embedding similarity, src/search/semantic.py). Embedding model: [to complete].
+hybrid retrieves candidates from both, then fuses them:
+min-max normalize the BM25 scores and the cosine scores to [0, 1] (all scores equal to 1.0 if the range is 0);
+hybrid_score = bm25_weight * bm25_norm + (1 - bm25_weight) * cosine_norm (a candidate missing from one list gets 0 for that list);
+sort by hybrid_score, descending.
+Each mode retrieves top_k * 5 candidates. Results are then deduplicated by source file and cut to top_k = 4 distinct documents.
+The prompt is unchanged: answer only from the retrieved sources, cite files in brackets, say so when the sources lack the information.
+
+2. Tests (tests/test_rag_pipeline.py)
+
+unknown mode is rejected;
+invalid bm25_weight is rejected;
+hybrid fusion produces the expected order and scores on mocked retrievers;
+each mode calls the right retriever with top_k * 5 candidates.
+
+3. Evaluation (tests/run_eval.py)
+
+Runs each selected question in all three modes, RUNS = 3 times each, with temperature 0.3.
+Auto-grades each answer by checking that every expected_values entry appears in the answer (case-insensitive). The comparison normalizes apostrophes (' and ’), accents and spaces, because the model often writes a typographic apostrophe.
+Verdicts: correct (all facts found), partial (some), wrong (none). Out-of-scope questions (expected_behavior = refuse) are graded on whether the answer refuses.
+Records the retrieved sources of each run. Columns matched_sources, missing_sources and source_hit_rate_percent are computed from an expected_sources list in test_questions.json (see limitations).
+Writes tests/results_week1.csv and reports/week2_comparison.xlsx (sheets comparison, summary).
+
+How to run
+powershell
+.\.venv\Scripts\python.exe -m unittest tests\test_rag_pipeline.py
+.\.venv\Scripts\python.exe tests\run_eval.py
+
+Results
+
+Run of 2026-11-20: 10 questions (Q01, Q02, Q09, Q10, Q11, Q14, Q16, Q23, Q27, Q28), 3 modes, 3 runs each, model openai/gpt-oss-120b, temperature 0.3, bm25_weight = 0.5, top_k = 4.
+
+Questions that expect an answer (Q01, Q02, Q09, Q10, Q11, Q23), 18 runs per mode:
+
+Mode	Mean fact coverage	Correct	Partial	Wrong
+bm25	83.3 %	10	8	0
+semantic	79.2 %	9	9	0
+hybrid	72.7 %	5	13	0
+
+Observations:
+
+Direct lookups (Q01 méloxicam, Q02 amlodipine): all modes are at or near 100 %. The drug name is an exact keyword, so the mode matters little.
+Interaction questions are the weak point. Q09 stays at 50 % in every mode (the answer misses the interaction level and the renal risk), and Q10 (diclofénac + périndopril) scores 83.3 % (bm25), 58.3 % (semantic) and 66.7 % (hybrid).
+Hybrid was not better than BM25 alone in this run. Its Q11 score dropped to 75 % because the answer missed "association déconseillée".
+BM25 is slightly ahead, but with 6 answer questions and 3 runs per mode the differences are small and results vary between runs. This run does not show that one mode wins.
+
+Refusal questions: Q16 (couscous recipe) was refused correctly in all modes. Q27 (back pain) was not: all 9 answers recommended ibuprofen. The automatic grader passed 4 of them, so they were regraded manually as wrong, and the comparison workbook contains this correction. Q28 (ginseng) varies between runs and should be reviewed by hand.
 
 ## Tests
 
@@ -459,6 +544,6 @@ information and consult a qualified healthcare professional, especially for:
 
 No license file is currently included in this repository. Confirm the
 licensing terms for this project and every imported source before distributing
-it. The `reconcile/`, `verify/`, and `vector_db/` areas are reserved for
-future work; the current implemented retrieval path is local BM25 plus
-Groq-backed answer generation.
+it. The `reconcile/` and `verify/` areas are reserved for future work; the
+current implemented retrieval path is local BM25, semantic, or hybrid
+retrieval plus Groq-backed answer generation.
