@@ -16,11 +16,16 @@ def main() -> None:
     st.set_page_config(page_title="DawaCheck", page_icon="💊")
     st.title("DawaCheck")
     st.caption("Evidence-grounded medicine information assistant")
+    mode = st.selectbox(
+        "Retrieval mode",
+        options=["bm25", "semantic", "hybrid"],
+        index=0,
+    )
     question = st.text_area("Ask a question about a medicine")
     if st.button("Search") and question.strip():
         pipeline = load_pipeline()
-        documents = pipeline.retrieve_documents(question)
-        st.info(pipeline.answer_question(question, documents))
+        documents = pipeline.retrieve_documents(question, mode=mode)
+        st.info(pipeline.answer_question(question, documents, mode=mode))
         if documents:
             st.subheader("Sources utilisées")
             displayed_urls = set()

@@ -3,6 +3,7 @@ import unittest
 import pandas as pd
 
 from src.normalize.normalizer import MedicineResolver
+from src.normalizer import normalize_text
 
 
 class MedicineResolverTests(unittest.TestCase):
@@ -35,6 +36,14 @@ class MedicineResolverTests(unittest.TestCase):
             pd.DataFrame([{"dci": "Paracetamol", "dosage_mg": 500, "form": "Tablet"}])
         )
         self.assertEqual(resolver.records[0].canonical_key, "paracetamol|500|tablet")
+
+
+class TextNormalizerTests(unittest.TestCase):
+    def test_normalizes_accents_spaces_apostrophes_and_bold_markdown(self):
+        self.assertEqual(
+            normalize_text("  Pr\u00e9cautions\u00a0d’emploi **M\u00c9DICALES** "),
+            "precautions d'emploi medicales",
+        )
 
 
 if __name__ == "__main__":

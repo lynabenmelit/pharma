@@ -8,6 +8,7 @@ from pathlib import Path
 
 from src.llm import ask
 from src.search.bm25 import retrieve_bm25
+from src.search.semantic import retrieve_semantic
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -37,10 +38,88 @@ def _source_urls() -> dict[str, str]:
         raise RuntimeError(f"Could not read source metadata {provenance}") from error
 
 
-def retrieve_documents(question: str, top_k: int = 4) -> list[SourceDocument]:
+def _retrieve_candidates(
+    question: str,
+    top_k: int,
+    mode: str,
+    bm25_weight: float = 0.5,
+) -> list[dict[str, object]]:
+    """Retrieve candidates using one of the supported retrieval modes."""
+    normalized_mode = mode.lower()
+    if normalized_mode not in {"bm25", "semantic", "hybrid"}:
+        raise ValueError(
+            "mode must be one of: 'bm25', 'semantic', or 'hybrid'"
+        )
+    if not 0.0 <= bm25_weight <= 1.0:
+        raise ValueError("bm25_weight must be between 0 and 1")
+
+    candidate_count = top_k * 5
+    if normalized_mode == "bm25":
+        return retrieve_bm25(question, top_k=candidate_count)
+    if normalized_mode == "semantic":
+        return retrieve_semantic(question, top_k=candidate_count)
+
+    bm25_candidates = retrieve_bm25(question, top_k=candidate_count)
+    semantic_candidates = retrieve_semantic(question, top_k=candidate_count)
+
+    def normalize(candidates: list[dict[str, object]]) -> dict[str, float]:
+        if not candidates:
+            return {}
+        scores = [float(candidate["score"]) for candidate in candidates]
+        minimum = min(scores)
+        maximum = max(scores)
+        score_range = maximum - minimum
+        if score_range == 0:
+            return {
+                str(candidate["id"]): 1.0
+                for candidate in candidates
+            }
+        return {
+            str(candidate["id"]): (float(candidate["score"]) - minimum) / score_range
+            for candidate in candidates
+        }
+
+    bm25_scores = normalize(bm25_candidates)
+    semantic_scores = normalize(semantic_candidates)
+    hybrid_scores: dict[str, float] = {}
+    candidate_by_id: dict[str, dict[str, object]] = {}
+    for candidate in bm25_candidates:
+        candidate_id = str(candidate["id"])
+        candidate_by_id.setdefault(candidate_id, candidate)
+        hybrid_scores[candidate_id] = (
+            bm25_weight * bm25_scores.get(candidate_id, 0.0)
+            + (1.0 - bm25_weight) * semantic_scores.get(candidate_id, 0.0)
+        )
+    for candidate in semantic_candidates:
+        candidate_id = str(candidate["id"])
+        candidate_by_id.setdefault(candidate_id, candidate)
+        hybrid_scores[candidate_id] = (
+            bm25_weight * bm25_scores.get(candidate_id, 0.0)
+            + (1.0 - bm25_weight) * semantic_scores.get(candidate_id, 0.0)
+        )
+
+    ranked_ids = sorted(
+        hybrid_scores,
+        key=lambda candidate_id: hybrid_scores[candidate_id],
+        reverse=True,
+    )
+    ranked_candidates = []
+    for candidate_id in ranked_ids:
+        candidate = dict(candidate_by_id[candidate_id])
+        candidate["hybrid_score"] = hybrid_scores[candidate_id]
+        ranked_candidates.append(candidate)
+    return ranked_candidates
+
+
+def retrieve_documents(
+    question: str,
+    top_k: int = 4,
+    mode: str = "bm25",
+    bm25_weight: float = 0.5,
+) -> list[SourceDocument]:
     """Retrieve the most relevant local text excerpts for a question."""
     source_urls = _source_urls()
-    candidates = retrieve_bm25(question, top_k=top_k * 5)
+    candidates = _retrieve_candidates(question, top_k, mode, bm25_weight)
     selected: list[SourceDocument] = []
     selected_resources: set[str] = set()
     for candidate in candidates:
@@ -77,12 +156,18 @@ def answer_question(
     documents: list[SourceDocument] | None = None,
     run: int = 0,
     temperature: float = 0.3,
+    mode: str = "bm25",
+    bm25_weight: float = 0.5,
 ) -> str:
     """Answer a question using retrieved local source excerpts."""
     if not question.strip():
         raise ValueError("Question must not be empty.")
     if documents is None:
-        documents = retrieve_documents(question)
+        documents = retrieve_documents(
+            question,
+            mode=mode,
+            bm25_weight=bm25_weight,
+        )
     if not documents:
         return "No source documents were retrieved. Please add trusted documents first."
     prompt = f"""Réponds à la question uniquement à partir des sources locales ci-dessous.
