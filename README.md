@@ -52,7 +52,7 @@ pharma/
 │   ├── text/                   # extracted text, mirroring data/raw/
 │   ├── text_clean/             # cleaned text used for chunking
 │   ├── processed/              # space for processed source artifacts
-│   ├── vector_db/              # checked-in semantic vector index
+│   ├── vector_db/              # checked-in semantic vector artifacts
 │   ├── provenance.csv          # source registry and provenance metadata
 │   ├── clean_docs.csv          # accepted-document quality metadata
 │   ├── rejected.csv            # rejected documents and reasons
@@ -86,11 +86,13 @@ pharma/
 ├── tests/
 │   ├── test_questions.json     # 30-question evaluation set
 │   ├── test_bm25.py
+│   ├── test_build_faiss_index.py
 │   ├── test_chunk_documents.py
 │   ├── test_normalizer.py
+│   ├── test_rag_pipeline.py
 │   ├── run_eval.py             # model evaluation script
 │   ├── results_week1.csv       # generated evaluation results
-│   └── results_week1.xlsx      # generated spreadsheet results
+│   └── results_week1.xlsx      # previous spreadsheet evaluation results
 ├── reports/
 │   └── week2_comparison.xlsx   # BM25, semantic, and hybrid comparison
 └── notebooks/                  # exploratory notebook workspace
@@ -318,8 +320,8 @@ chunk_id, document, document_path, source, drug, drug_norm,
 url, language, authority, chunk_index, n_chunks, n_chars, text
 ```
 
-The current checked-in report describes 98 input documents, 3,330 chunks, an
-average chunk size of 1,211.4 characters, and a largest chunk of 1,500
+The current checked-in report describes 127 input documents, 3,982 chunks, an
+average chunk size of 1,214.6 characters, and a largest chunk of 1,500
 characters. Regenerate the report after changing the corpus; these numbers
 will change.
 
@@ -346,10 +348,12 @@ For each non-empty question, the app:
 8. displays the answer and deduplicated official URLs.
 
 The BM25 index is built in memory and cached for the process lifetime. Semantic
-retrieval uses the checked-in FAISS index in `data/vector_db/`, built with
+retrieval uses the checked-in vector artifacts in `data/vector_db/`, built with
 `intfloat/multilingual-e5-small` (384-dimensional normalized vectors, with
-`query: ` and `passage: ` prefixes). Rebuild the vector index after changing
-the chunks corpus:
+`query: ` and `passage: ` prefixes). The current `index_info.json` records a
+NumPy exact-search backend and 3,598 indexed chunks; this is older than the
+current 3,982-chunk corpus. Rebuild the vector index after changing the chunks
+corpus or before evaluating the semantic and hybrid modes:
 
 ```powershell
 .\.venv\Scripts\python.exe src\search\build_faiss_index.py
@@ -386,7 +390,8 @@ The script asks the selected question three times, with temperature `0.3`,
 and writes:
 
 - `tests/results_week1.csv`, semicolon-delimited and UTF-8 with BOM;
-- `tests/results_week1.xlsx`, with frozen headers and filters.
+- `reports/week2_comparison.xlsx`, with `comparison` and `summary` sheets,
+  frozen headers, and filters.
 
 Each result records the model, question, run, expected answer, matched facts,
 missing facts, factual coverage percentage, verdict, error type, and comment.
@@ -417,7 +422,7 @@ What was done
 
 retrieve_documents() and answer_question() take mode (default "bm25") and bm25_weight (default 0.5). An unknown mode or a weight outside [0, 1] raises ValueError.
 bm25 calls retrieve_bm25() (keyword search, src/search/bm25.py).
-semantic calls retrieve_semantic() (embedding similarity, src/search/semantic.py). Embedding model: [to complete].
+semantic calls retrieve_semantic() (embedding similarity, src/search/semantic.py). Embedding model: intfloat/multilingual-e5-small (384-dimensional normalized vectors, with query: and passage: prefixes).
 hybrid retrieves candidates from both, then fuses them:
 min-max normalize the BM25 scores and the cosine scores to [0, 1] (all scores equal to 1.0 if the range is 0);
 hybrid_score = bm25_weight * bm25_norm + (1 - bm25_weight) * cosine_norm (a candidate missing from one list gets 0 for that list);
@@ -486,7 +491,9 @@ The tests cover:
 - JSONL chunk loading and result shape;
 - empty and invalid chunking inputs;
 - exact, brand, ATC, typo, unknown, and ambiguous medicine resolution;
-- canonical medicine keys containing dose and form.
+- canonical medicine keys containing dose and form;
+- FAISS/NumPy vector-index construction and persistence;
+- retrieval-mode validation, hybrid score fusion, and retriever dispatch.
 
 ## Useful maintenance commands
 
@@ -544,6 +551,7 @@ information and consult a qualified healthcare professional, especially for:
 
 No license file is currently included in this repository. Confirm the
 licensing terms for this project and every imported source before distributing
-it. The `reconcile/` and `verify/` areas are reserved for future work; the
-current implemented retrieval path is local BM25, semantic, or hybrid
-retrieval plus Groq-backed answer generation.
+it. The `reconcile/` and `verify/` areas currently contain only `.gitkeep`
+placeholders and are reserved for future work. The current implemented
+retrieval path is local BM25, semantic, or hybrid retrieval plus Groq-backed
+answer generation.
