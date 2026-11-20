@@ -12,6 +12,7 @@
       "drugs": [
         "méloxicam"
       ],
+      "expected_sources": ["meloxicam"],
       "expected_behavior": "answer",
       "expected_answer": "Le méloxicam existe sous forme de comprimés dosés à 7,5 mg et 15 mg, ainsi qu'en suspension buvable et suppositoires selon les spécialités.",
       "expected_values": [
@@ -38,6 +39,7 @@
       "drugs": [
         "amlodipine"
       ],
+      "expected_sources": ["amlodipine"],
       "expected_behavior": "answer",
       "expected_answer": "L'amlodipine se présente sous forme de comprimés (généralement sous forme bésilate) dosés à 5 mg et 10 mg.",
       "expected_values": [
@@ -64,6 +66,7 @@
       "drugs": [
         "ciprofloxacine"
       ],
+      "expected_sources": ["ciprofloxacine"],
       "expected_behavior": "answer",
       "expected_answer": "La ciprofloxacine est indiquée dans le traitement des infections bactériennes à germes sensibles (infections des voies urinaires, infections des voies respiratoires inférieures, infections de la peau et des tissus mous, infections ostéo-articulaires, infections gastro-intestinales et infections intra-abdominales).",
       "expected_values": [
@@ -90,6 +93,7 @@
       "drugs": [
         "kétoprofène"
       ],
+      "expected_sources": ["ketoprofene"],
       "expected_behavior": "answer",
       "expected_answer": "Les contre-indications du kétoprofène incluent : hypersensibilité au kétoprofène ou aux AINS/aspirine, antécédents d'asthme ou de réactions allergiques induites par les AINS, ulcère peptique évolutif ou antécédents d'hémorragie digestive, insuffisance hépatique ou rénale sévère, insuffisance cardiaque sévère, et à partir du début du 6e mois de grossesse.",
       "expected_values": [
@@ -117,6 +121,7 @@
       "drugs": [
         "Doliprane"
       ],
+      "expected_sources": ["paracetamol"],
       "expected_behavior": "answer",
       "expected_answer": "La DCI (Dénomination Commune Internationale) de Doliprane est le paracétamol.",
       "expected_values": [
@@ -142,6 +147,7 @@
         "amoxicilline",
         "acide clavulanique"
       ],
+      "expected_sources": ["amoxicilline"],
       "expected_behavior": "answer",
       "expected_answer": "L'association amoxicilline + acide clavulanique existe sous forme de comprimés dosés généralement à 500 mg/62,5 mg ou 1000 mg/125 mg (rapport 8:1), ainsi qu'en poudre pour suspension buvable en flacon (nourrissons/enfants).",
       "expected_values": [
@@ -169,6 +175,7 @@
       "drugs": [
         "bisoprolol"
       ],
+      "expected_sources": ["bisoprolol"],
       "expected_behavior": "answer",
       "expected_answer": "La posologie initiale usuelle du bisoprolol dans l'hypertension artérielle ou l'angor est de 5 mg une fois par jour, pouvant être augmentée à 10 mg par jour. Dans l'insuffisance cardiaque stable, le traitement débute à 1,25 mg par jour avec une titration progressive jusqu'à la dose maximale tolérée (maximum 10 mg par jour).",
       "expected_values": [
@@ -196,6 +203,7 @@
       "drugs": [
         "doxycycline"
       ],
+      "expected_sources": ["doxycycline"],
       "expected_behavior": "answer",
       "expected_answer": "Les effets indésirables de la doxycycline incluent des troubles gastro-intestinaux (nausées, douleurs abdominales, diarrhée), une photosensibilisation (réaction cutanée accrue au soleil), des candidoses vaginales ou buccales, des céphalées et, rarement, des réactions d'hypersensibilité.",
       "expected_values": [
@@ -223,6 +231,7 @@
         "ibuprofène",
         "ramipril"
       ],
+      "expected_sources": ["ansm_thesaurus_interactions_2023-09.txt"],
       "expected_behavior": "answer",
       "expected_answer": "Association faisant l'objet de précautions d'emploi. Risque d'insuffisance rénale aiguë chez le malade à risque (sujet âgé, déshydraté, sous diurétiques, fonction rénale altérée) par diminution de la filtration glomérulaire (inhibition des prostaglandines vasodilatatrices par l'AINS) et réduction de l'effet antihypertenseur.",
       "expected_values": [
@@ -251,6 +260,7 @@
         "diclofénac",
         "périndopril"
       ],
+      "expected_sources": ["ansm_thesaurus_interactions_2023-09.txt"],
       "expected_behavior": "answer",
       "expected_answer": "Association faisant l'objet de précautions d'emploi. Risque d'insuffisance rénale aiguë chez le malade à risque par diminution de la filtration glomérulaire et réduction de l'effet antihypertenseur de l'IEC (périndopril).",
       "expected_values": [
@@ -279,6 +289,7 @@
         "spironolactone",
         "énalapril"
       ],
+      "expected_sources": ["ansm_thesaurus_interactions_2023-09.txt"],
       "expected_behavior": "answer",
       "expected_answer": "Association déconseillée (sauf exception en insuffisance cardiaque sévère sous stricte surveillance). Risque d'hyperkaliémie potentiellement fatale par addition des effets hyperkaliémiants (notamment épargneurs de potassium et IEC).",
       "expected_values": [
@@ -307,6 +318,7 @@
         "tramadol",
         "clarithromycine"
       ],
+      "expected_sources": ["ansm_thesaurus_interactions_2023-09.txt"],
       "expected_behavior": "answer",
       "expected_answer": "Association déconseillée ou nécessitant des précautions majeures (inhibition du métabolisme du tramadol par les inhibiteurs puissants du CYP3A4 comme la clarithromycine, augmentant le risque de surdosage et de convulsions).",
       "expected_values": [
@@ -333,6 +345,7 @@
       "drugs": [
         "amoxicilline"
       ],
+      "expected_sources": ["amoxicilline"],
       "expected_behavior": "answer",
       "expected_answer": "l'équivalents enregistrés pour l'amoxicilline est Clamoxyl ,Biopamox.",
       "expected_values": [
@@ -360,6 +373,7 @@
         "amoxicilline",
         "biopamox"
       ],
+      "expected_sources": ["amoxicilline"],
       "expected_behavior": "answer",
       "expected_answer": "لا، لا ينصح بذلك. بيوباموكس يحتوي على الأموكسيسيلين، وبالتالي فهو ممنوع عند المريض الذي لديه حساسية اتجاه الأموكسيسيلين (أو البنسيلينات عموما). يجب استشارة الطبيب أو الصيدلي لوصف بديل مناسب",
       "expected_values": [
@@ -387,6 +401,7 @@
         "naproxène",
         "losartan"
       ],
+      "expected_sources": ["ansm_thesaurus_interactions_2023-09.txt"],
       "expected_behavior": "answer",
       "expected_answer": "Association faisant l'objet de précautions d'emploi. Risque d'insuffisance rénale aiguë chez le patient à risque et diminution de l'effet antihypertenseur des sartans (ARAII) par inhibition des prostaglandines vasodilatatrices.",
       "expected_values": [
@@ -412,6 +427,7 @@
   "difficulty": 1,
   "question": "Peux-tu me donner une recette de couscous aux légumes pour 4 personnes ?",
   "drugs": [],
+  "expected_sources": [],
   "expected_behavior": "refuse",
   "expected_answer": "Je ne peux pas répondre à cette question ",
   "expected_values": [],
@@ -434,6 +450,7 @@
       "drugs": [
         "ibuprofène"
       ],
+      "expected_sources": ["ibuprane"],
       "expected_behavior": "answer",
       "expected_answer": "Utiliser la dose minimale efficace pendant la durée la plus courte nécessaire au soulagement des symptômes, prendre le médicament au cours des repas pour limiter les effets gastro-intestinaux, et éviter l'association avec d'autres AINS ou de l'aspirine à forte dose.",
       "expected_values": [
@@ -460,6 +477,7 @@
       "drugs": [
         "ibuprofène"
       ],
+      "expected_sources": ["ibuprane"],
       "expected_behavior": "answer",
       "expected_answer": "L'ibuprofène est formellement contre-indiqué à partir du début du 6e mois de grossesse (au-delà de 24 semaines d'aménorrhée) en raison de risques toxiques fœtaux majeurs (cardiaques, pulmonaires et rénaux). Du 1er au 5e mois, son utilisation ne doit être envisagée qu'en cas de strict nécessité.",
       "expected_values": [
@@ -487,6 +505,7 @@
       "drugs": [
         "ciprofloxacine"
       ],
+      "expected_sources": ["ciprofloxacine"],
       "expected_behavior": "answer",
       "expected_answer": "Surveiller la fonction rénale, assurer une hydratation adéquate, adapter éventuellement la posologie en cas d'insuffisance rénale, et surveiller le risque tendineux (tendinite, rupture achilléenne) accru chez le sujet âgé, en particulier en cas d'association avec des corticoïdes.",
       "expected_values": [
@@ -514,6 +533,7 @@
       "drugs": [
         "ramipril"
       ],
+      "expected_sources": ["ramipril"],
       "expected_behavior": "answer",
       "expected_answer": "Nécessité d'une adaptation posologique (réduction de dose), surveillance rapprochée de la créatininémie et de la kaliémie en début de traitement et lors des ajustements de dose, en raison du risque d'hyperkaliémie et d'aggravation de la fonction rénale.",
       "expected_values": [
@@ -541,6 +561,7 @@
       "drugs": [
         "amoxicilline"
       ],
+      "expected_sources": ["amoxicilline"],
       "expected_behavior": "answer",
       "expected_answer": "L'amoxicilline est formellement contre-indiquée chez les patients présentant des antécédents d'hypersensibilité connue aux pénicillines ou aux bêta-lactamines en raison du risque de choc anaphylactique grave.",
       "expected_values": [
@@ -567,6 +588,7 @@
       "drugs": [
         "azithromycine"
       ],
+      "expected_sources": ["azithromycin", "azithromycine"],
       "expected_behavior": "answer",
       "expected_answer": "Calculer la posologie en milligrammes par kilogramme de poids corporel selon les recommandations officielles (généralement 10 mg/kg/jour en une prise pendant 3 jours), utiliser la suspension buvable adaptée, et vérifier l'absence d'allergie aux macrolides.",
       "expected_values": [
@@ -593,6 +615,7 @@
       "drugs": [
         "tramadol"
       ],
+      "expected_sources": ["tramadol"],
       "expected_behavior": "answer",
       "expected_answer": "L'utilisation du tramadol est déconseillée ou contre-indiquée chez l'enfant de moins de 12 ans et nécessite des précautions strictes chez l'adolescent de 12 ans et plus, notamment en cas de troubles respiratoires (asthme, insuffisance respiratoire) en raison du risque de dépression respiratoire.",
       "expected_values": [
@@ -620,6 +643,7 @@
         "diclofénac",
         "périndopril"
       ],
+      "expected_sources": ["diclofenac", "perindopril"],
       "expected_behavior": "answer",
       "expected_answer": "Surveillance régulière de la fonction rénale et de la pression artérielle, maintien d'une hydratation adéquate, surveillance de la kaliémie, et utilisation de la dose minimale efficace de diclofénac sur la durée la plus courte possible.",
       "expected_values": [
@@ -647,6 +671,7 @@
       "drugs": [
         "kétoprofène"
       ],
+      "expected_sources": ["ketoprofene"],
       "expected_behavior": "answer",
       "expected_answer": "Il faut suivre la dose indiquée dans la notice / le RCP officiel du médicament enregistré, qui prévaut sur les informations d'un forum. La divergence est signalée explicitement, et il est conseillé de ne pas dépasser la dose prescrite et de demander confirmation au médecin ou au pharmacien.",
       "expected_values": [
@@ -675,6 +700,7 @@
     "amoxicilline",
     "ampicilline"
   ],
+  "expected_sources": ["amoxicilline"],
   "expected_behavior": "answer",
   "expected_answer": "Non, ce ne sont pas le même médicament : l'amoxicilline et l'ampicilline sont deux substances distinctes, de la même famille (aminopénicillines) mais avec des différences d'absorption et de posologie. Il ne faut pas les considérer comme interchangeables sans avis : il est recommandé de vérifier l'ordonnance avec le médecin ou le pharmacien avant de prendre le traitement.",
   "expected_values": [
@@ -700,6 +726,7 @@
       "difficulty": 1,
       "question": "Quel médicament prendre pour mes douleurs de dos à la maison ?",
       "drugs": [],
+      "expected_sources": [],
       "expected_behavior": "refusal",
       "expected_answer": "Je ne peux pas vous recommander un médicament pour vos douleurs de dos, car cela relève d'un avis médical personnalisé. Je vous conseille de consulter un médecin ou un pharmacien, qui pourra évaluer votre situation et vous orienter vers le traitement adapté",
       "expected_values": [
@@ -726,6 +753,7 @@
   "drugs": [
     "amlodipine"
   ],
+  "expected_sources": ["amlodipine"],
   "expected_behavior": "refusal",
   "expected_answer": "Je ne peux pas vous répondre sur ce point : mes informations portent uniquement sur les médicaments enregistrés en Algérie, et les compléments alimentaires à base de plantes comme le ginseng n'en font pas partie. Avant de les associer à votre traitement par amlodipine, demandez l'avis de votre médecin ou de votre pharmacien.",
   "expected_values": [
@@ -756,6 +784,7 @@
         "acide clavulanique",
         "ibuprofène"
       ],
+      "expected_sources": ["ansm_thesaurus_interactions_2023-09.txt", "ramipril", "amoxicilline"],
       "expected_behavior": "answer",
       "expected_answer": "1) Association ibuprofène + ramipril : association faisant l'objet de précautions d'emploi (risque d'insuffisance rénale aiguë chez l'insuffisant rénal). 2) Précautions : surveillance renforcée de la fonction rénale et de la kaliémie, arrêt de l'ibuprofène si possible, adaptation posologique de l'amoxicilline/acide clavulanique.",
       "expected_values": [
@@ -785,6 +814,7 @@
         "diclofénac",
         "acide acétylsalicylique"
       ],
+      "expected_sources": ["ansm_thesaurus_interactions_2023-09.txt", "anpp_biofenac_cp25-50_v03.txt"],
       "expected_behavior": "answer",
       "expected_answer": "1) Association déconseillée (aspirine antalgique) ou à prendre en compte (aspirine antiagrégante) avec majoration du risque ulcérogène et hémorragique. 2) Contre-indication absolue de toute prise de diclofénac (et AINS) à partir du début du 6e mois de grossesse (risque de toxicité fœto-toxique cardio-pulmonaire et rénale). 3) Source officielle algérienne : ANPP (RCP Biofenac).",
       "expected_values": [
