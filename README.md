@@ -81,8 +81,8 @@ pharma/
 │   │   ├── semantic.py         # FAISS/cosine-similarity retrieval
 │   │   ├── vector_store.py     # vector index persistence
 │   │   └── rag_pipeline.py     # retrieval, fusion, context, and answers
-│   ├── reconcile/              # reserved for source conflict handling
-│   └── verify/                 # reserved for answer verification
+│   ├── reconcile/              # provenance and accepted-document reconciliation
+│   └── verify/                  # answer citation verification
 ├── tests/
 │   ├── test_questions.json     # 30-question evaluation set
 │   ├── test_bm25.py
@@ -277,6 +277,56 @@ Outputs:
 Quality flags are for review. A large dose can be legitimate when a notice
 contains multiple strengths or concentration units.
 
+## Corpus and evaluation counts
+
+| Measure | Count | Meaning |
+|---|---:|---|
+| Collected/provenance entries | 119 rows | Entries recorded in `data/provenance.csv`; not a count of accepted cleaned files |
+| Accepted after cleaning | 127 rows | Entries in `data/clean_docs.csv` |
+| Rejected during cleaning | 2 rows | Entries and reasons in `data/rejected.csv` |
+| Retrieval passages | 3,982 | Non-empty records in `data/chunks.jsonl` |
+| Evaluation questions | 30 | Questions in `tests/test_questions.json` |
+| Historical comparison subset | 10 | 6 answer questions + 4 refusal/out-of-scope questions, 3 runs each |
+| Historical answer runs per mode | 18 | 6 answer questions × 3 runs; refusal runs are additional |
+| Full rerun | 270 | 30 questions × 3 retrieval modes × 3 runs |
+
+These are row counts, not a one-to-one accounting equation. Comparing unique
+file names found 14 accepted documents without a provenance entry and 4
+provenance entries without an accepted document. One provenance file is
+duplicated and one row has no `text_path`; all accepted rows have a cleaned
+text file. Run
+`.\.venv\Scripts\python.exe -m src.reconcile.provenance` to regenerate the
+details in `reports/provenance_reconciliation.json`.
+
+### Source collection and terms
+
+- **ANPP (18 entries):** the source documents were manually downloaded. The
+  provenance file does not record that terms of use were checked, so this
+  report does not claim that they were.
+- **dzair-pharma (52 provenance entries, 53 accepted clean rows):** the
+  repository contains locally stored source PDFs and extracted text, but does
+  not record whether the PDFs were manually saved or downloaded by a script.
+  `src/collect/scraper.py` is a
+  generic helper; there is no record that it collected these files. On
+  2026-11-25, the site's [`robots.txt`](https://www.dzair-pharma.net/robots.txt)
+  and [privacy page](https://www.dzair-pharma.net/privacy) were inspected. The
+  robots file permits generic paths but disallows several named crawlers; it
+  is not a reuse license. The tested `/terms` and `/mentions-legales` paths
+  returned 404, and no explicit content reuse license was found.
+  Terms/redistribution permission therefore remain unverified.
+- **DailyMed (35 provenance entries, 39 accepted clean rows), ANSM (2 and 2),
+  and the public medicines database (3 and 3):** these are publicly accessible
+  reference sources in the local corpus. Their precise acquisition methods and
+  terms reviews are not recorded in the provenance file.
+- **MIPH/nomenclature (9 MIPH provenance entries, 12 accepted rows labeled
+  `nomenclature`):** the provenance URLs identify the public national
+  nomenclature source. The precise acquisition method and terms review are
+  not recorded. Do not treat public accessibility as a reuse license.
+
+The reconciliation also shows differing source labels between the provenance
+and cleaning files (including `MIPH` and `nomenclature`); see the JSON report
+before attributing every cleaned document to a provenance source.
+
 ### 4. Normalize nomenclature
 
 ```powershell
@@ -320,10 +370,9 @@ chunk_id, document, document_path, source, drug, drug_norm,
 url, language, authority, chunk_index, n_chunks, n_chars, text
 ```
 
-The current checked-in report describes 127 input documents, 3,982 chunks, an
-average chunk size of 1,214.6 characters, and a largest chunk of 1,500
-characters. Regenerate the report after changing the corpus; these numbers
-will change.
+`data/chunks_report.json` records chunk-size statistics. Regenerate it after
+changing the corpus; the row counts above are refreshed independently from
+their CSV/JSONL sources.
 
 ## Running the application
 
@@ -350,13 +399,29 @@ For each non-empty question, the app:
 The BM25 index is built in memory and cached for the process lifetime. Semantic
 retrieval uses the checked-in vector artifacts in `data/vector_db/`, built with
 `intfloat/multilingual-e5-small` (384-dimensional normalized vectors, with
-`query: ` and `passage: ` prefixes). The current `index_info.json` records a
-NumPy exact-search backend and 3,598 indexed chunks; this is older than the
-current 3,982-chunk corpus. Rebuild the vector index after changing the chunks
-corpus or before evaluating the semantic and hybrid modes:
+`query: ` and `passage: ` prefixes). The current chunk hash, metadata order,
+embeddings, and FAISS index all match the corpus. The earlier 3,598 figure was
+stale report text, not 384 passages missing from the current index. The
+retrieval-only evaluator verifies these invariants before scoring and requires
+no LLM/API calls. Rebuild only after changing `data/chunks.jsonl`:
 
 ```powershell
 .\.venv\Scripts\python.exe src\search\build_faiss_index.py
+```
+
+Check all 30 questions against BM25, semantic, and hybrid retrieval:
+
+```powershell
+.\.venv\Scripts\python.exe tests\run_retrieval_eval.py
+```
+
+The per-question hits are saved to `reports/retrieval_only_30.csv`.
+If the embedding model is already cached and Hugging Face returns rate-limit
+errors, set offline mode in the same PowerShell session before running:
+
+```powershell
+$env:HF_HUB_OFFLINE = "1"
+$env:TRANSFORMERS_OFFLINE = "1"
 ```
 
 The app process should be restarted after replacing either the chunks file or
@@ -368,30 +433,28 @@ the request fails with an explicit missing-key error.
 
 ## Evaluation
 
-The evaluation set is `tests/test_questions.json`. It currently contains 30
-validated questions with categories, medicines, expected answers, expected
-facts, reference authority, and reference passages.
-
-Choose questions and retrieval modes by editing the configuration at the top
-of `tests/run_eval.py`:
-
-```python
-QUESTION_IDS = ("Q01", "Q02", "Q09")
-MODES = ("bm25", "semantic", "hybrid")
-```
-
-Then run:
+The evaluation set is `tests/test_questions.json`. Run all questions across
+all modes; the runner writes a checkpoint after each answer and resumes from
+that CSV if interrupted:
 
 ```powershell
-.\.venv\Scripts\python.exe tests\run_eval.py
+.\.venv\Scripts\python.exe tests\run_eval.py --pause-seconds 20
 ```
 
-The script asks the selected question three times, with temperature `0.3`,
-and writes:
+The script asks each question three times per mode, with temperature `0.3`,
+waits between generated answers to respect API throughput limits, and writes:
 
-- `tests/results_week1.csv`, semicolon-delimited and UTF-8 with BOM;
-- `reports/week2_comparison.xlsx`, with `comparison` and `summary` sheets,
-  frozen headers, and filters.
+- `tests/results_rerun_30.csv`, semicolon-delimited, appended and flushed after
+  every response so an interrupted run can resume;
+- `reports/rerun_30_comparison.xlsx`, with comparison, summary, and
+  per-question citation-audit sheets.
+
+For only the two required refusal cases, save a separate partial run with
+`.\.venv\Scripts\python.exe tests\run_eval.py --question-ids Q27 Q28 --output tests\refusal_27_28.csv --report reports\refusal_27_28.xlsx`.
+Personal medication recommendations, personal allergy decisions, and herbal
+supplement requests are refused before LLM answering. Q14, Q27, and Q28 are
+graded as refusals; Q16 is the out-of-scope non-medical control. Retrieval is
+still recorded separately for source-hit evaluation.
 
 Each result records the model, question, run, expected answer, matched facts,
 missing facts, factual coverage percentage, verdict, error type, and comment.
@@ -404,7 +467,7 @@ Verdicts are:
 The expected answer and expected facts are grader-only data. They are not
 passed into the retrieval prompt.
 
-### Week 2 retrieval comparison
+### Historical subset (not a mode conclusion)
 
 This part adds two more retrieval modes next to BM25, lets the pipeline switch between them, and compares them with the existing evaluation script.
 
@@ -428,7 +491,10 @@ min-max normalize the BM25 scores and the cosine scores to [0, 1] (all scores eq
 hybrid_score = bm25_weight * bm25_norm + (1 - bm25_weight) * cosine_norm (a candidate missing from one list gets 0 for that list);
 sort by hybrid_score, descending.
 Each mode retrieves top_k * 5 candidates. Results are then deduplicated by source file and cut to top_k = 4 distinct documents.
-The prompt is unchanged: answer only from the retrieved sources, cite files in brackets, say so when the sources lack the information.
+The answer prompt restricts answers to retrieved sources and asks for citations
+using retrieved filenames. Citations are checked against the selected source
+documents. Personal medication/allergy decisions and herbal-supplement
+questions in the configured out-of-scope set are refused before generation.
 
 2. Tests (tests/test_rag_pipeline.py)
 
@@ -437,22 +503,26 @@ invalid bm25_weight is rejected;
 hybrid fusion produces the expected order and scores on mocked retrievers;
 each mode calls the right retriever with top_k * 5 candidates.
 
-3. Evaluation (tests/run_eval.py)
+3. Evaluation (`tests/run_eval.py`)
 
-Runs each selected question in all three modes, RUNS = 3 times each, with temperature 0.3.
-Auto-grades each answer by checking that every expected_values entry appears in the answer (case-insensitive). The comparison normalizes apostrophes (' and ’), accents and spaces, because the model often writes a typographic apostrophe.
-Verdicts: correct (all facts found), partial (some), wrong (none). Out-of-scope questions (expected_behavior = refuse) are graded on whether the answer refuses.
-Records the retrieved sources of each run. Columns matched_sources, missing_sources and source_hit_rate_percent are computed from an expected_sources list in test_questions.json (see limitations).
-Writes tests/results_week1.csv and reports/week2_comparison.xlsx (sheets comparison, summary).
+Runs every question in all three modes three times, with temperature `0.3`.
+Expected facts and refusal behavior are auto-graded; each result also records
+retrieved/expected source hits and citation counts. Citations in both regular
+and full-width square brackets are checked against retrieved filenames. The
+CSV is flushed after each answer and resumes without repeating completed
+question/mode/run keys. Its workbook includes per-question citation validity
+and answers with no citations.
 
-How to run
-powershell
-.\.venv\Scripts\python.exe -m unittest tests\test_rag_pipeline.py
-.\.venv\Scripts\python.exe tests\run_eval.py
+Run unit tests and the resumable evaluation:
+
+```powershell
+.\.venv\Scripts\python.exe -m unittest discover -s tests -p "test_*.py"
+.\.venv\Scripts\python.exe tests\run_eval.py --pause-seconds 20
+```
 
 Results
 
-Run of 2026-11-20: 10 questions (Q01, Q02, Q09, Q10, Q11, Q14, Q16, Q23, Q27, Q28), 3 modes, 3 runs each, model openai/gpt-oss-120b, temperature 0.3, bm25_weight = 0.5, top_k = 4.
+Run of 2026-11-20: 10 questions (6 answer + 4 refusal/out-of-scope: Q14, Q16, Q27, Q28), 3 runs each, across 3 modes; model `openai/gpt-oss-120b`, temperature `0.3`, `bm25_weight = 0.5`, `top_k = 4`.
 
 Questions that expect an answer (Q01, Q02, Q09, Q10, Q11, Q23), 18 runs per mode:
 
@@ -461,14 +531,12 @@ bm25	83.3 %	10	8	0
 semantic	79.2 %	9	9	0
 hybrid	72.7 %	5	13	0
 
-Observations:
+This is a historical subset only. Do not conclude that BM25, semantic, or
+hybrid is better from these preliminary results; use the complete 30-question
+rerun and citation audit first.
 
-Direct lookups (Q01 méloxicam, Q02 amlodipine): all modes are at or near 100 %. The drug name is an exact keyword, so the mode matters little.
-Interaction questions are the weak point. Q09 stays at 50 % in every mode (the answer misses the interaction level and the renal risk), and Q10 (diclofénac + périndopril) scores 83.3 % (bm25), 58.3 % (semantic) and 66.7 % (hybrid).
-Hybrid was not better than BM25 alone in this run. Its Q11 score dropped to 75 % because the answer missed "association déconseillée".
-BM25 is slightly ahead, but with 6 answer questions and 3 runs per mode the differences are small and results vary between runs. This run does not show that one mode wins.
-
-Refusal questions: Q16 (couscous recipe) was refused correctly in all modes. Q27 (back pain) was not: all 9 answers recommended ibuprofen. The automatic grader passed 4 of them, so they were regraded manually as wrong, and the comparison workbook contains this correction. Q28 (ginseng) varies between runs and should be reviewed by hand.
+The old output is retained in `tests/results_week1.csv` and
+`reports/week2_comparison.xlsx`; it is not the complete or current evaluation.
 
 ## Tests
 
@@ -494,6 +562,8 @@ The tests cover:
 - canonical medicine keys containing dose and form;
 - FAISS/NumPy vector-index construction and persistence;
 - retrieval-mode validation, hybrid score fusion, and retriever dispatch.
+- provenance, accepted-document and rejected-row reconciliation;
+- citation extraction, retrieved-source validation, and refusal grading.
 
 ## Useful maintenance commands
 
@@ -551,7 +621,6 @@ information and consult a qualified healthcare professional, especially for:
 
 No license file is currently included in this repository. Confirm the
 licensing terms for this project and every imported source before distributing
-it. The `reconcile/` and `verify/` areas currently contain only `.gitkeep`
-placeholders and are reserved for future work. The current implemented
+it. The current implemented
 retrieval path is local BM25, semantic, or hybrid retrieval plus Groq-backed
 answer generation.

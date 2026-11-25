@@ -1,0 +1,63 @@
+{
+  "row_counts": {
+    "provenance_collected": 119,
+    "accepted_clean_docs": 127,
+    "rejected": 2
+  },
+  "unique_document_names": {
+    "provenance": 117,
+    "accepted_clean_docs": 127,
+    "clean_text_files": 129
+  },
+  "source_counts": {
+    "provenance": {
+      "ANPP": 18,
+      "ANSM": 2,
+      "Base de données publique": 3,
+      "DailyMed": 35,
+      "MIPH": 9,
+      "dzair-pharma": 52
+    },
+    "accepted_clean_docs": {
+      "anpp": 18,
+      "ansm": 2,
+      "base-donnees_publique.medicaments": 3,
+      "dailymed": 39,
+      "dzairpharma": 53,
+      "nomenclature": 12
+    }
+  },
+  "accepted_without_provenance": [
+    "dailymed_azithromycin_table.txt",
+    "dailymed_cefixime__table.txt",
+    "dailymed_céfixime.txt",
+    "dailymed_hydrochlrothiazide25mg.txt",
+    "dailymed_meloxicam15mg.txt",
+    "dzairpharma_ ceftriaxone.txt",
+    "dzairpharma_bisoprolol.txt",
+    "dzairpharma_clarithromycine_250mg.txt",
+    "dzairpharma_clarithromycine_500mg.txt",
+    "dzairpharma_diclofenac.txt",
+    "nomenclature_bisoprolol.txt",
+    "nomenclature_diclofenac.txt",
+    "nomenclature_gentamicine.txt",
+    "nomenclature_nefopam.txt"
+  ],
+  "provenance_without_accepted_document": [
+    "biprotens.txt",
+    "dzairpharma_ariclare_500mg.txt",
+    "dzairpharma_ceftriaxone.txt",
+    "dzairpharma_claridar_250mg.txt"
+  ],
+  "accepted_without_clean_text": [],
+  "clean_text_without_accepted_row": [
+    "anpp_diclofénac.txt",
+    "dzairpharma_ceftriaxone.txt"
+  ],
+  "duplicate_provenance_paths": {
+    "data/text/dailymed/dailymed_paracetamol.txt": 2
+  },
+  "provenance_rows_without_text_path": [
+    "nomenclature_gentamicine"
+  ]
+}

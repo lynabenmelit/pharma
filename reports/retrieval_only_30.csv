@@ -1,0 +1,91 @@
+﻿question_id;category;retrieval_mode;expected_sources;retrieved_sources;matched_sources;missing_sources;matched_source_count;expected_source_count;source_hit_rate_percent
+Q01;direct;bm25;meloxicam;dzairPharma_meloxicam15mg.txt, dzairPharma_meloxicam7,5mg.txt, dzairPharma_AMLOCARDINE 10 mg gelule.txt, dzairPharma_AMLIBON 10 mg comprime.txt;meloxicam;;1;1;100.0
+Q01;direct;semantic;meloxicam;dzairPharma_meloxicam7,5mg.txt, dzairPharma_meloxicam15mg.txt, dailymed_meloxicam7.5mg.txt, anpp_piroxicam.txt;meloxicam;;1;1;100.0
+Q01;direct;hybrid;meloxicam;dzairPharma_meloxicam7,5mg.txt, dzairPharma_meloxicam15mg.txt, dzairPharma_AMLOCARDINE 10 mg gelule.txt, dzairPharma_AMLIBON 10 mg comprime.txt;meloxicam;;1;1;100.0
+Q02;direct;bm25;amlodipine;dzairPharma_AMLOCARDINE 10 mg gelule.txt, dzairPharma_AMLIBON 10 mg comprime.txt, anpp_cardensiel_bisoprolol_2-5mg.txt, dzairPharma_AMLIBON 5 mg comprime.txt;;amlodipine;0;1;0.0
+Q02;direct;semantic;amlodipine;dzairPharma_AMLOCARDINE 10 mg gelule.txt, anpp_amlodipine.txt, anpp_cardensiel_bisoprolol_2-5mg.txt, dzairPharma_AMLIBON 5 mg comprime.txt;amlodipine;;1;1;100.0
+Q02;direct;hybrid;amlodipine;dzairPharma_AMLOCARDINE 10 mg gelule.txt, dzairPharma_AMLIBON 10 mg comprime.txt, anpp_amlodipine.txt, anpp_cardensiel_bisoprolol_2-5mg.txt;amlodipine;;1;1;100.0
+Q03;direct;bm25;ciprofloxacine;anpp_ciprofloxacine.txt, anpp_paracétamol_Rynza.txt;ciprofloxacine;;1;1;100.0
+Q03;direct;semantic;ciprofloxacine;anpp_ciprofloxacine.txt;ciprofloxacine;;1;1;100.0
+Q03;direct;hybrid;ciprofloxacine;anpp_ciprofloxacine.txt, anpp_paracétamol_Rynza.txt;ciprofloxacine;;1;1;100.0
+Q04;direct;bm25;ketoprofene;anpp_KETOPROFENE.txt, dzairPharma_kétoprofène_EVOFENID_100mg.txt, dzairPharma_kétoprofène.txt, dzairPharma_kétoprofène_ENANTUM_25mg.txt;ketoprofene;;1;1;100.0
+Q04;direct;semantic;ketoprofene;anpp_KETOPROFENE.txt, anpp_IBUPRANE.txt, anpp_paracétamol_Doliprane 2.4%.txt, ansm_thesaurus_interactions_2023-09.txt;ketoprofene;;1;1;100.0
+Q04;direct;hybrid;ketoprofene;anpp_KETOPROFENE.txt, dzairPharma_kétoprofène_EVOFENID_100mg.txt, dzairPharma_kétoprofène.txt, anpp_IBUPRANE.txt;ketoprofene;;1;1;100.0
+Q05;direct;bm25;paracetamol;anpp_paracétamol_Doliprane 2.4%.txt, dzairPharma_paracetamol_ACETADOL.txt, dzairPharma_paracetamol_ANTALGAN1000.txt, dzairPharma_paracetamol_ANTALGAN500.txt;paracetamol;;1;1;100.0
+Q05;direct;semantic;paracetamol;anpp_paracétamol_Doliprane 2.4%.txt, dzairPharma_valsartan.txt, dzairPharma_IBUPRANE.txt, dzairPharma_indapamide.txt;paracetamol;;1;1;100.0
+Q05;direct;hybrid;paracetamol;anpp_paracétamol_Doliprane 2.4%.txt, dzairPharma_paracetamol_ACETADOL.txt, dzairPharma_paracetamol_ANTALGAN1000.txt, dzairPharma_paracetamol_ANTALGAN500.txt;paracetamol;;1;1;100.0
+Q06;direct;bm25;amoxicilline;dzairPharma_amoxicilline.txt, dzairPharma_ACIDE_ACETYLSALICYLIQUE.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt, ansm_thesaurus_interactions_2023-09.txt;amoxicilline;;1;1;100.0
+Q06;direct;semantic;amoxicilline;dzairPharma_losartan.txt, dzairPharma_amoxicilline.txt, ansm_thesaurus_interactions_2023-09.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt;amoxicilline;;1;1;100.0
+Q06;direct;hybrid;amoxicilline;dzairPharma_amoxicilline.txt, dzairPharma_losartan.txt, dzairPharma_ACIDE_ACETYLSALICYLIQUE.txt, ansm_thesaurus_interactions_2023-09.txt;amoxicilline;;1;1;100.0
+Q07;direct;bm25;bisoprolol;anpp_cardensiel_bisoprolol_2-5mg.txt, dzairPharma_bisoprolol.txt, anpp_ciprofloxacine.txt;bisoprolol;;1;1;100.0
+Q07;direct;semantic;bisoprolol;anpp_amlodipine.txt, ansm_thesaurus_interactions_2023-09.txt, anpp_piroxicam.txt, anpp_biofenac_cp25-50_v03.txt;;bisoprolol;0;1;0.0
+Q07;direct;hybrid;bisoprolol;anpp_cardensiel_bisoprolol_2-5mg.txt, anpp_amlodipine.txt, ansm_thesaurus_interactions_2023-09.txt, dzairPharma_bisoprolol.txt;bisoprolol;;1;1;100.0
+Q08;direct;bm25;doxycycline;dzairpharma_doxycycline.txt, doxycycline_bdpm.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt, dzairPharma_naproxène_275mg.txt;doxycycline;;1;1;100.0
+Q08;direct;semantic;doxycycline;ansm_thesaurus_interactions_2023-09.txt, anpp_biofenac_supp100_v02.txt, anpp_losartan.txt, dzairPharma_indapamide.txt;;doxycycline;0;1;0.0
+Q08;direct;hybrid;doxycycline;dzairpharma_doxycycline.txt, ansm_thesaurus_interactions_2023-09.txt, doxycycline_bdpm.txt, anpp_biofenac_supp100_v02.txt;doxycycline;;1;1;100.0
+Q09;croisee;bm25;ansm_thesaurus_interactions_2023-09.txt;anpp_ACIDE_ACETYLSALICYLIQUE.txt, ansm_thesaurus_interactions_2023-09.txt, dzairPharma_ramipril.txt, anpp_IBUPRANE.txt;ansm_thesaurus_interactions_2023-09.txt;;1;1;100.0
+Q09;croisee;semantic;ansm_thesaurus_interactions_2023-09.txt;anpp_ACIDE_ACETYLSALICYLIQUE.txt, dzairPharma_IBUPRANE.txt, dzairPharma_valsartan.txt, ansm_thesaurus_index-substances_2023-09.txt;;ansm_thesaurus_interactions_2023-09.txt;0;1;0.0
+Q09;croisee;hybrid;ansm_thesaurus_interactions_2023-09.txt;anpp_ACIDE_ACETYLSALICYLIQUE.txt, dzairPharma_IBUPRANE.txt, ansm_thesaurus_interactions_2023-09.txt, anpp_IBUPRANE.txt;ansm_thesaurus_interactions_2023-09.txt;;1;1;100.0
+Q10;croisee;bm25;ansm_thesaurus_interactions_2023-09.txt;anpp_biofenac_cp25-50_v03.txt, anpp_diclofénac.txt, anpp_biofenac-lp_cp75_v04.txt, anpp_biofenac_supp100_v02.txt;;ansm_thesaurus_interactions_2023-09.txt;0;1;0.0
+Q10;croisee;semantic;ansm_thesaurus_interactions_2023-09.txt;anpp_biofenac-lp_cp75_v04.txt, anpp_biofenac_cp25-50_v03.txt, anpp_diclofénac.txt, anpp_biofenac_supp100_v02.txt;;ansm_thesaurus_interactions_2023-09.txt;0;1;0.0
+Q10;croisee;hybrid;ansm_thesaurus_interactions_2023-09.txt;anpp_biofenac_cp25-50_v03.txt, anpp_diclofénac.txt, anpp_biofenac-lp_cp75_v04.txt, anpp_biofenac_supp100_v02.txt;;ansm_thesaurus_interactions_2023-09.txt;0;1;0.0
+Q11;croisee;bm25;ansm_thesaurus_interactions_2023-09.txt;dzairPharma_énalapril_20mg.txt, dzairPharma_énalapril_5mg.txt, ansm_thesaurus_interactions_2023-09.txt, dzairPharma_SPIRONOLONE 75 mg.txt;ansm_thesaurus_interactions_2023-09.txt;;1;1;100.0
+Q11;croisee;semantic;ansm_thesaurus_interactions_2023-09.txt;dzairPharma_énalapril_20mg.txt, dzairPharma_énalapril_5mg.txt, ansm_thesaurus_interactions_2023-09.txt, ansm_thesaurus_index-substances_2023-09.txt;ansm_thesaurus_interactions_2023-09.txt;;1;1;100.0
+Q11;croisee;hybrid;ansm_thesaurus_interactions_2023-09.txt;dzairPharma_énalapril_20mg.txt, dzairPharma_énalapril_5mg.txt, ansm_thesaurus_interactions_2023-09.txt, ansm_thesaurus_index-substances_2023-09.txt;ansm_thesaurus_interactions_2023-09.txt;;1;1;100.0
+Q12;croisee;bm25;ansm_thesaurus_interactions_2023-09.txt;dzairPharma_CLARITHROMYCINE_500mg.txt, dzairPharma_clarithromycine_250mg.txt, anpp_paracétamol_Xamadol.txt, ansm_thesaurus_interactions_2023-09.txt;ansm_thesaurus_interactions_2023-09.txt;;1;1;100.0
+Q12;croisee;semantic;ansm_thesaurus_interactions_2023-09.txt;dzairPharma_tramadol.txt, anpp_paracétamol_Xamadol.txt, dzairPharma_valsartan.txt, ansm_thesaurus_interactions_2023-09.txt;ansm_thesaurus_interactions_2023-09.txt;;1;1;100.0
+Q12;croisee;hybrid;ansm_thesaurus_interactions_2023-09.txt;dzairPharma_CLARITHROMYCINE_500mg.txt, dzairPharma_tramadol.txt, anpp_paracétamol_Xamadol.txt, dzairPharma_clarithromycine_250mg.txt;;ansm_thesaurus_interactions_2023-09.txt;0;1;0.0
+Q13;substitution;bm25;amoxicilline;dzairPharma_amoxicilline.txt, dzairPharma_ramipril.txt, dzairPharma_IBUPRANE.txt, dzairPharma_paracetamol_ACETADOL.txt;amoxicilline;;1;1;100.0
+Q13;substitution;semantic;amoxicilline;dzairPharma_amoxicilline.txt, dzairPharma_CLARITHROMYCINE_500mg.txt, dzairPharma_losartan.txt, dzairPharma_AMLOCARDINE 10 mg gelule.txt;amoxicilline;;1;1;100.0
+Q13;substitution;hybrid;amoxicilline;dzairPharma_amoxicilline.txt, dzairPharma_CLARITHROMYCINE_500mg.txt, dzairPharma_ramipril.txt, dzairPharma_losartan.txt;amoxicilline;;1;1;100.0
+Q14;contraindication;bm25;amoxicilline;;;amoxicilline;0;1;0.0
+Q14;contraindication;semantic;amoxicilline;dzairPharma_losartan.txt, nomenclature_cotrimoxazole.txt, nomenclature_metronidazole.txt, ansm_thesaurus_interactions_2023-09.txt;;amoxicilline;0;1;0.0
+Q14;contraindication;hybrid;amoxicilline;dzairPharma_losartan.txt, nomenclature_cotrimoxazole.txt, nomenclature_metronidazole.txt, ansm_thesaurus_interactions_2023-09.txt;;amoxicilline;0;1;0.0
+Q15;croisee;bm25;ansm_thesaurus_interactions_2023-09.txt;anpp_losartan.txt, dzairPharma_naproxène_275mg.txt, dzairPharma_naproxéne_550mg.txt, ansm_thesaurus_interactions_2023-09.txt;ansm_thesaurus_interactions_2023-09.txt;;1;1;100.0
+Q15;croisee;semantic;ansm_thesaurus_interactions_2023-09.txt;dzairPharma_losartan.txt, dzairPharma_naproxène_275mg.txt, dzairPharma_valsartan.txt, anpp_losartan.txt;;ansm_thesaurus_interactions_2023-09.txt;0;1;0.0
+Q15;croisee;hybrid;ansm_thesaurus_interactions_2023-09.txt;anpp_losartan.txt, dzairPharma_losartan.txt, dzairPharma_naproxène_275mg.txt, dzairPharma_naproxéne_550mg.txt;;ansm_thesaurus_interactions_2023-09.txt;0;1;0.0
+Q16;hors_perimetre;bm25;;anpp_paracétamol_Panadol 1g.txt, doxycycline_bdpm.txt, anpp_célécoxib.txt, anpp_piroxicam.txt;;;0;0;
+Q16;hors_perimetre;semantic;;ansm_thesaurus_index-substances_2023-09.txt, anpp_métronidazole.txt, dzairPharma_CEFROZINE 250 mg.txt, dzairPharma_losartan.txt;;;0;0;
+Q16;hors_perimetre;hybrid;;anpp_paracétamol_Panadol 1g.txt, ansm_thesaurus_index-substances_2023-09.txt, doxycycline_bdpm.txt, anpp_métronidazole.txt;;;0;0;
+Q17;contexte_patient;bm25;ibuprane;anpp_paracétamol_Rynza.txt, ansm_thesaurus_interactions_2023-09.txt, dzairPharma_IBUPRANE.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt;ibuprane;;1;1;100.0
+Q17;contexte_patient;semantic;ibuprane;dzairPharma_IBUPRANE.txt, anpp_célécoxib.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt, anpp_cardensiel_bisoprolol_2-5mg.txt;ibuprane;;1;1;100.0
+Q17;contexte_patient;hybrid;ibuprane;anpp_paracétamol_Rynza.txt, dzairPharma_IBUPRANE.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt, ansm_thesaurus_interactions_2023-09.txt;ibuprane;;1;1;100.0
+Q18;contexte_patient;bm25;ibuprane;anpp_paracétamol_Xamadol.txt, anpp_IBUPRANE.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt, anpp_célécoxib.txt;ibuprane;;1;1;100.0
+Q18;contexte_patient;semantic;ibuprane;dzairPharma_IBUPRANE.txt, anpp_biofenac-lp_cp75_v04.txt, anpp_biofenac_supp100_v02.txt, anpp_diclofénac.txt;ibuprane;;1;1;100.0
+Q18;contexte_patient;hybrid;ibuprane;dzairPharma_IBUPRANE.txt, anpp_paracétamol_Xamadol.txt, anpp_IBUPRANE.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt;ibuprane;;1;1;100.0
+Q19;contexte_patient;bm25;ciprofloxacine;anpp_ciprofloxacine.txt, dzairPharma_ciprofloxacine_500mg.txt, dzairPharma_périndopril_10mg.txt, dzairPharma_périndopril_5mg.txt;ciprofloxacine;;1;1;100.0
+Q19;contexte_patient;semantic;ciprofloxacine;anpp_ciprofloxacine.txt, dailymed_ciprofloxacine.txt, anpp_piroxicam.txt;ciprofloxacine;;1;1;100.0
+Q19;contexte_patient;hybrid;ciprofloxacine;anpp_ciprofloxacine.txt, dzairPharma_ciprofloxacine_500mg.txt, dailymed_ciprofloxacine.txt, anpp_piroxicam.txt;ciprofloxacine;;1;1;100.0
+Q20;contexte_patient;bm25;ramipril;dzairPharma_ramipril.txt, dailymed_ramipril.txt, ansm_thesaurus_interactions_2023-09.txt;ramipril;;1;1;100.0
+Q20;contexte_patient;semantic;ramipril;anpp_piroxicam.txt, ansm_thesaurus_interactions_2023-09.txt, anpp_paracétamol_Doliprane 2.4%.txt, anpp_biofenac-lp_cp75_v04.txt;;ramipril;0;1;0.0
+Q20;contexte_patient;hybrid;ramipril;ansm_thesaurus_interactions_2023-09.txt, dzairPharma_ramipril.txt, anpp_piroxicam.txt, anpp_paracétamol_Doliprane 2.4%.txt;ramipril;;1;1;100.0
+Q21;contexte_patient;bm25;amoxicilline;dzairPharma_amoxicilline.txt, ansm_thesaurus_interactions_2023-09.txt, anpp_paracétamol_Rynza.txt, dzairPharma_IBUPRANE.txt;amoxicilline;;1;1;100.0
+Q21;contexte_patient;semantic;amoxicilline;ansm_thesaurus_interactions_2023-09.txt, anpp_diclofénac.txt, anpp_biofenac_cp25-50_v03.txt, anpp_célécoxib.txt;;amoxicilline;0;1;0.0
+Q21;contexte_patient;hybrid;amoxicilline;ansm_thesaurus_interactions_2023-09.txt, dzairPharma_amoxicilline.txt, anpp_diclofénac.txt, anpp_biofenac_cp25-50_v03.txt;amoxicilline;;1;1;100.0
+Q22;contexte_patient;bm25;azithromycin, azithromycine;ansm_thesaurus_interactions_2023-09.txt, anpp_cardensiel_bisoprolol_2-5mg.txt, anpp_paracétamol_Rynza.txt, anpp_paracétamol_Doliprane 2.4%.txt;;azithromycin, azithromycine;0;2;0.0
+Q22;contexte_patient;semantic;azithromycin, azithromycine;anpp_biofenac_cp25-50_v03.txt, anpp_diclofénac.txt, anpp_ciprofloxacine.txt, anpp_losartan.txt;;azithromycin, azithromycine;0;2;0.0
+Q22;contexte_patient;hybrid;azithromycin, azithromycine;ansm_thesaurus_interactions_2023-09.txt, anpp_biofenac_cp25-50_v03.txt, anpp_diclofénac.txt, anpp_cardensiel_bisoprolol_2-5mg.txt;;azithromycin, azithromycine;0;2;0.0
+Q23;contexte_patient;bm25;tramadol;anpp_paracétamol_Xamadol.txt, anpp_paracétamol_Doliprane 2.4%.txt, anpp_paracétamol_Rynza.txt, dzairPharma_tramadol.txt;tramadol;;1;1;100.0
+Q23;contexte_patient;semantic;tramadol;anpp_paracétamol_Xamadol.txt, anpp_KETOPROFENE.txt, anpp_paracétamol_Doliprane 2.4%.txt, anpp_losartan.txt;;tramadol;0;1;0.0
+Q23;contexte_patient;hybrid;tramadol;anpp_paracétamol_Xamadol.txt, anpp_paracétamol_Doliprane 2.4%.txt, anpp_paracétamol_Rynza.txt, dzairPharma_tramadol.txt;tramadol;;1;1;100.0
+Q24;contexte_patient;bm25;diclofenac, perindopril;dzairPharma_périndopril_10mg.txt, dzairPharma_périndopril_5mg.txt, dailymed_PERINDOPRIL.txt, anpp_biofenac_cp25-50_v03.txt;perindopril;diclofenac;1;2;50.0
+Q24;contexte_patient;semantic;diclofenac, perindopril;anpp_biofenac-lp_cp75_v04.txt, anpp_biofenac_cp25-50_v03.txt, anpp_diclofénac.txt, anpp_biofenac_supp100_v02.txt;diclofenac;perindopril;1;2;50.0
+Q24;contexte_patient;hybrid;diclofenac, perindopril;dzairPharma_périndopril_10mg.txt, dzairPharma_périndopril_5mg.txt, anpp_biofenac-lp_cp75_v04.txt, anpp_biofenac_cp25-50_v03.txt;perindopril;diclofenac;1;2;50.0
+Q25;conflict;bm25;ketoprofene;anpp_amlodipine.txt, anpp_KETOPROFENE.txt, anpp_célécoxib.txt, anpp_cardensiel_bisoprolol_2-5mg.txt;ketoprofene;;1;1;100.0
+Q25;conflict;semantic;ketoprofene;dzairPharma_CEFROZINE 250 mg.txt, dzairPharma_indapamide.txt, ansm_thesaurus_interactions_2023-09.txt, dzairPharma_losartan.txt;;ketoprofene;0;1;0.0
+Q25;conflict;hybrid;ketoprofene;dzairPharma_CEFROZINE 250 mg.txt, anpp_amlodipine.txt, anpp_célécoxib.txt, dzairPharma_indapamide.txt;;ketoprofene;0;1;0.0
+Q26;ambiguity;bm25;amoxicilline;ansm_thesaurus_interactions_2023-09.txt, anpp_paracétamol_Panadol 1g.txt, dzairPharma_amoxicilline.txt, dzairPharma_COTRIMOXAL.txt;amoxicilline;;1;1;100.0
+Q26;ambiguity;semantic;amoxicilline;dzairPharma_valsartan.txt, dzairPharma_losartan.txt, ansm_thesaurus_interactions_2023-09.txt, anpp_cardensiel_bisoprolol_2-5mg.txt;;amoxicilline;0;1;0.0
+Q26;ambiguity;hybrid;amoxicilline;ansm_thesaurus_interactions_2023-09.txt, dzairPharma_valsartan.txt, anpp_paracétamol_Panadol 1g.txt, dzairPharma_amoxicilline.txt;amoxicilline;;1;1;100.0
+Q27;hors_perimetre;bm25;;dzairPharma_IBUPRANE.txt, dzairpharma_doxycycline.txt, dzairPharma_ramipril.txt, dzairPharma_énalapril_20mg.txt;;;0;0;
+Q27;hors_perimetre;semantic;;dzairPharma_losartan.txt, dzairPharma_IBUPRANE.txt, dzairPharma_indapamide.txt, ansm_thesaurus_interactions_2023-09.txt;;;0;0;
+Q27;hors_perimetre;hybrid;;dzairPharma_IBUPRANE.txt, dzairPharma_losartan.txt, dzairpharma_doxycycline.txt, anpp_biofenac-lp_cp75_v04.txt;;;0;0;
+Q28;hors_perimetre;bm25;amlodipine;anpp_amlodipine.txt, dzairPharma_AMLIBON 5 mg comprime.txt, dzairPharma_AMLIBON 10 mg comprime.txt, dzairPharma_AMLOCARDINE 10 mg gelule.txt;amlodipine;;1;1;100.0
+Q28;hors_perimetre;semantic;amlodipine;dzairPharma_losartan.txt, dzairPharma_AMLIBON 5 mg comprime.txt, dzairPharma_indapamide.txt, anpp_amlodipine.txt;amlodipine;;1;1;100.0
+Q28;hors_perimetre;hybrid;amlodipine;anpp_amlodipine.txt, dzairPharma_losartan.txt, dzairPharma_AMLIBON 5 mg comprime.txt, dzairPharma_indapamide.txt;amlodipine;;1;1;100.0
+Q29;multietapes;bm25;ansm_thesaurus_interactions_2023-09.txt, ramipril, amoxicilline;anpp_ACIDE_ACETYLSALICYLIQUE.txt, dzairPharma_ramipril.txt, anpp_diclofénac.txt, anpp_métronidazole.txt;ramipril;ansm_thesaurus_interactions_2023-09.txt, amoxicilline;1;3;33.3
+Q29;multietapes;semantic;ansm_thesaurus_interactions_2023-09.txt, ramipril, amoxicilline;anpp_cardensiel_bisoprolol_2-5mg.txt, anpp_ACIDE_ACETYLSALICYLIQUE.txt, ansm_thesaurus_index-substances_2023-09.txt, anpp_célécoxib.txt;;ansm_thesaurus_interactions_2023-09.txt, ramipril, amoxicilline;0;3;0.0
+Q29;multietapes;hybrid;ansm_thesaurus_interactions_2023-09.txt, ramipril, amoxicilline;anpp_ACIDE_ACETYLSALICYLIQUE.txt, anpp_cardensiel_bisoprolol_2-5mg.txt, dzairPharma_ramipril.txt, anpp_diclofénac.txt;ramipril;ansm_thesaurus_interactions_2023-09.txt, amoxicilline;1;3;33.3
+Q30;multietapes;bm25;ansm_thesaurus_interactions_2023-09.txt, anpp_biofenac_cp25-50_v03.txt;anpp_ACIDE_ACETYLSALICYLIQUE.txt, dzairPharma_ACIDE_ACETYLSALICYLIQUE.txt, anpp_diclofénac.txt, anpp_biofenac_cp25-50_v03.txt;anpp_biofenac_cp25-50_v03.txt;ansm_thesaurus_interactions_2023-09.txt;1;2;50.0
+Q30;multietapes;semantic;ansm_thesaurus_interactions_2023-09.txt, anpp_biofenac_cp25-50_v03.txt;anpp_biofenac_supp100_v02.txt, anpp_KETOPROFENE.txt, anpp_cardensiel_bisoprolol_2-5mg.txt, anpp_biofenac-lp_cp75_v04.txt;;ansm_thesaurus_interactions_2023-09.txt, anpp_biofenac_cp25-50_v03.txt;0;2;0.0
+Q30;multietapes;hybrid;ansm_thesaurus_interactions_2023-09.txt, anpp_biofenac_cp25-50_v03.txt;anpp_ACIDE_ACETYLSALICYLIQUE.txt, anpp_biofenac_supp100_v02.txt, anpp_KETOPROFENE.txt, dzairPharma_ACIDE_ACETYLSALICYLIQUE.txt;;ansm_thesaurus_interactions_2023-09.txt, anpp_biofenac_cp25-50_v03.txt;0;2;0.0

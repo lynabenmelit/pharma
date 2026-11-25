@@ -9,6 +9,7 @@ from pathlib import Path
 from src.llm import ask
 from src.search.bm25 import retrieve_bm25
 from src.search.semantic import retrieve_semantic
+from src.verify.citations import verify_citations
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -151,6 +152,38 @@ def build_context(documents: list[SourceDocument]) -> str:
     return context[:MAX_CONTEXT_CHARS]
 
 
+def _must_refuse_personal_request(question: str) -> bool:
+    normalized = question.casefold()
+    herbal_terms = (
+        "ginseng",
+        "complément alimentaire",
+        "complement alimentaire",
+        "plante médicinale",
+        "plante medicinale",
+        "herbal supplement",
+    )
+    personal_medication_terms = (
+        "quel médicament prendre",
+        "quel medicament prendre",
+        "que prendre",
+        "puis-je prendre",
+        "peux-je prendre",
+        "mes douleurs",
+        "mon traitement",
+        "should i take",
+        "what should i take",
+        "can i take",
+    )
+    if any(term in normalized for term in herbal_terms + personal_medication_terms):
+        return True
+
+    arabic_allergy_question = (
+        any(term in normalized for term in ("حساسية", "حساسيه", "حسيسة"))
+        and any(term in normalized for term in ("مريض", "يمكنه", "هل يمكن"))
+    )
+    return arabic_allergy_question
+
+
 def answer_question(
     question: str,
     documents: list[SourceDocument] | None = None,
@@ -162,6 +195,18 @@ def answer_question(
     """Answer a question using retrieved local source excerpts."""
     if not question.strip():
         raise ValueError("Question must not be empty.")
+    if _must_refuse_personal_request(question):
+        if any("\u0600" <= character <= "\u06ff" for character in question):
+            return (
+                "لا أستطيع التوصية بدواء أو تأكيد ملاءمته لشخص لديه أعراض أو "
+                "حساسية أو يتناول علاجًا. يُرجى استشارة طبيب أو صيدلي."
+            )
+        return (
+            "Je ne peux pas recommander un médicament ni confirmer qu'il convient "
+            "à une personne selon ses symptômes, allergies ou traitements. "
+            "Demandez conseil à un médecin ou à un pharmacien avant de prendre "
+            "un médicament ou un complément."
+        )
     if documents is None:
         documents = retrieve_documents(
             question,
@@ -172,20 +217,31 @@ def answer_question(
         return "No source documents were retrieved. Please add trusted documents first."
     prompt = f"""Réponds à la question uniquement à partir des sources locales ci-dessous.
 Si les sources ne contiennent pas l'information, dis-le clairement et n'invente pas.
-Cite les sources utilisées entre crochets, par exemple [nom_du_fichier].
+Cite uniquement les noms de fichiers présents dans la section Sources locales.
+Utilise exactement la forme [nom_du_fichier].
 
 Question : {question}
 
 Sources locales :
 {build_context(documents)}
 """
-    return ask(
+    answer = ask(
         prompt,
         system=(
             "Tu es un assistant pharmaceutique prudent. "
-            "Tu utilises exclusivement le contexte fourni et tu signales les limites."
+            "Tu utilises exclusivement le contexte fourni, tu signales les limites "
+            "et tu ne cites aucun fichier absent du contexte."
         ),
         run=run,
         temperature=temperature,
     )
+    verification = verify_citations(answer, documents)
+    if verification["unsupported"]:
+        names = ", ".join(verification["unsupported"])
+        answer = (
+            f"{answer}\n\n"
+            f"Vérification des citations : citation(s) non trouvée(s) dans les "
+            f"passages retrouvés — {names}."
+        )
+    return answer
 
