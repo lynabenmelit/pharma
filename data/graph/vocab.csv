@@ -1,0 +1,18 @@
+kind,name,domain,range,description
+entity_type,medicament,,,A commercial medicine or brand name found in a source.
+entity_type,active_ingredient,,,"A medicine's active substance, usually identified by its DCI."
+entity_type,therapeutic_class,,,A therapeutic class recorded in the nomenclature.
+entity_type,indication,,,A condition or symptom a source says a medicine is used for.
+entity_type,adverse_effect,,,An unwanted effect reported by a source.
+entity_type,contraindication,,,"A condition or situation in which a source says a medicine must not be used."
+entity_type,atc_code,,,An ATC classification code.
+entity_type,literal,,,A text value such as a strength or dosage form.
+predicate,brand_of,medicament,active_ingredient,A commercial medicine name associated with an active ingredient.
+predicate,has_ATC,active_ingredient,atc_code,The ATC code listed for an active ingredient.
+predicate,belongs_to,active_ingredient,therapeutic_class,The therapeutic class listed for an active ingredient.
+predicate,has_strength,active_ingredient,literal,The strength listed for an active ingredient in the nomenclature; not brand-specific.
+predicate,has_form,active_ingredient,literal,The form listed for an active ingredient in the nomenclature; not brand-specific.
+predicate,indicated_for,medicament,indication,An indication stated by a source.
+predicate,may_cause,medicament,adverse_effect,An adverse effect stated by a source.
+predicate,contraindicated_in,medicament,contraindication,A contraindication stated by a source.
+predicate,interacts_with,active_ingredient,active_ingredient,An interaction stated between active ingredients.

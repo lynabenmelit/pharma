@@ -58,9 +58,17 @@ pharma/
 │   ├── rejected.csv            # rejected documents and reasons
 │   ├── medicaments_40.xlsx     # input nomenclature workbook
 │   ├── medicaments_clean.csv   # normalized nomenclature output
+│   ├── graph/
+│   │   ├── vocab.csv            # graph entity and relation vocabulary
+│   │   ├── triples_template.csv # working triples for the graph
+│   │   ├── triples_sample.csv   # 10 sample triples from the nomenclature
+│   │   └── evidence_candidates.csv # source excerpts awaiting review
 │   ├── chunks.jsonl            # retrieval corpus: one JSON object per line
 │   └── chunks_report.json      # chunking statistics
 ├── src/
+│   ├── graph/
+│   │   ├── extract_evidence_candidates.py # extract source excerpts for review
+│   │   └── check_triples.py    # validate triples against the vocabulary
 │   ├── llm.py                  # Groq API call, retries, and response cache
 │   ├── collect/
 │   │   ├── scraper.py          # download helper with no import side effects
@@ -91,12 +99,55 @@ pharma/
 │   ├── test_normalizer.py
 │   ├── test_rag_pipeline.py
 │   ├── run_eval.py             # model evaluation script
+│   ├── test_graph_candidate_extraction.py # graph evidence extraction checks
+│   ├── test_graph_validator.py # graph vocabulary and triple checks
 │   ├── results_week1.csv       # generated evaluation results
 │   └── results_week1.xlsx      # previous spreadsheet evaluation results
 ├── reports/
 │   └── week2_comparison.xlsx   # BM25, semantic, and hybrid comparison
 └── notebooks/                  # exploratory notebook workspace
 ```
+
+## Week 3 graph ontology
+
+The starter ontology is in `data/graph/vocab.csv`. It defines the allowed
+entity types, relations, and the entity types each relation can connect.
+`data/graph/triples_template.csv` is the working file and currently contains
+316 nomenclature-based triples for all 40 medicine records: brand names,
+indicative ATC codes, therapeutic classes, forms, and listed strengths.
+Forms and strengths are linked to active ingredients, not individual brands,
+because the source lists them at ingredient level. Each row keeps its source,
+source location, and supporting text. The 10 rows in
+`data/graph/triples_sample.csv` demonstrate the format. The working file is
+not yet a complete graph: indications, adverse effects, contraindications,
+and interactions still need review and normalization.
+`data/graph/evidence_candidates.csv` contains source excerpts found
+automatically for these topics. They are review material, not validated
+triples, so do not copy them into the working graph until checked.
+
+Validate a triples CSV from the repository root with:
+
+```powershell
+python -m src.graph.check_triples
+python -m src.graph.check_triples data/graph/triples_sample.csv
+```
+
+The default command checks the 316-triple working file. Pass a different
+triples CSV or vocabulary with `python -m src.graph.check_triples path\to\triples.csv`
+and `--vocabulary path\to\vocab.csv`.
+
+Generate a review file of source excerpts with:
+
+```powershell
+python -m src.graph.extract_evidence_candidates
+```
+
+`data/graph/evidence_candidates.csv` contains unverified excerpts about
+indications, contraindications, adverse effects, interactions, forms, and
+strengths. `source_check=quote_found` means the excerpt appears in the named
+source; it does not confirm the medical claim. Review and normalize candidates
+before adding them to the working triples file. The extractor does not decide
+whether a medical claim is correct.
 
 ## Requirements
 
