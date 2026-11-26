@@ -111,19 +111,57 @@ pharma/
 ## Week 3 graph ontology
 
 The starter ontology is in `data/graph/vocab.csv`. It defines the allowed
-entity types, relations, and the entity types each relation can connect.
-`data/graph/triples_template.csv` is the working file and currently contains
-316 nomenclature-based triples for all 40 medicine records: brand names,
+entity types, relations, the entity types each relation can connect, and
+controlled entity IDs with readable labels. IDs use lowercase, unaccented
+ASCII words separated by underscores; literal values remain readable text.
+`data/graph/triples_template.csv` uses the columns
+`subject, subject_type, relation, object, object_type, source_file,
+authority_level, collected_on, passage`. The relation carries the relationship;
+there is no separate interaction-level column. `source_file` is repository
+relative, and each `passage` must be found in that file. `authority_level` is
+1–4. Leave `collected_on` blank only when the collection date is not known.
+The working file currently contains 318 nomenclature-based triples for all 40
+medicine records: brand names,
 indicative ATC codes, therapeutic classes, forms, and listed strengths.
 Forms and strengths are linked to active ingredients, not individual brands,
 because the source lists them at ingredient level. Each row keeps its source,
-source location, and supporting text. The 10 rows in
+authority level, collection date when known, and supporting passage. The 10 rows in
 `data/graph/triples_sample.csv` demonstrate the format. The working file is
 not yet a complete graph: indications, adverse effects, contraindications,
 and interactions still need review and normalization.
 `data/graph/evidence_candidates.csv` contains source excerpts found
 automatically for these topics. They are review material, not validated
 triples, so do not copy them into the working graph until checked.
+
+### Ontology summary
+
+Examples below illustrate the entity types only; the clinical examples do not
+assert that a particular medicine has that indication, adverse effect, or
+contraindication. `Interaction` is modeled as a relation between two active
+ingredients, not as a separate entity type.
+
+| Type | Definition | Example | Possible relations |
+|---|---|---|---|
+| `medicament` | A commercial medicine or brand name found in a source. | DOLI-BIEN | Subject of `brand_of`, `indicated_for`, `may_cause`, `contraindicated_in`. |
+| `active_ingredient` | A medicine's active substance, usually identified by its DCI. | paracetamol | Object of `brand_of`; subject of `has_atc`, `belongs_to`, `has_form`, `has_strength`, `interacts_with`. |
+| `therapeutic_class` | A therapeutic class recorded in the nomenclature. | Antalgiques et anti-inflammatoires | Object of `belongs_to`. |
+| `indication` | A condition or symptom a source says a medicine is used for. | Pain (illustrative) | Object of `indicated_for`. |
+| `adverse_effect` | An unwanted effect reported by a source. | Nausea (illustrative) | Object of `may_cause`. |
+| `contraindication` | A condition or situation in which a source says a medicine must not be used. | Hypersensitivity (illustrative) | Object of `contraindicated_in`. |
+| `atc_code` | An ATC classification code. | N02BE01 | Object of `has_atc`. |
+| `literal` | A text value such as a strength or dosage form. | 500 mg (illustrative) | Object of `has_strength` or `has_form`. |
+
+| Relation | Subject type | Object type | Meaning |
+|---|---|---|---|
+| `brand_of` | `medicament` | `active_ingredient` | The commercial name is associated with the active ingredient. |
+| `has_atc` | `active_ingredient` | `atc_code` | The ATC code is listed for the active ingredient. |
+| `belongs_to` | `active_ingredient` | `therapeutic_class` | The active ingredient is listed in the therapeutic class. |
+| `has_strength` | `active_ingredient` | `literal` | The listed strength belongs to the active ingredient. |
+| `has_form` | `active_ingredient` | `literal` | The listed dosage form belongs to the active ingredient. |
+| `indicated_for` | `medicament` | `indication` | A source states that the medicine is used for the indication. |
+| `may_cause` | `medicament` | `adverse_effect` | A source reports the adverse effect for the medicine. |
+| `contraindicated_in` | `medicament` | `contraindication` | A source says not to use the medicine in the situation. |
+| `interacts_with` | `active_ingredient` | `active_ingredient` | A source reports an interaction between the two ingredients. |
 
 Validate a triples CSV from the repository root with:
 
@@ -132,7 +170,7 @@ python -m src.graph.check_triples
 python -m src.graph.check_triples data/graph/triples_sample.csv
 ```
 
-The default command checks the 316-triple working file. Pass a different
+The default command checks the working file. Pass a different
 triples CSV or vocabulary with `python -m src.graph.check_triples path\to\triples.csv`
 and `--vocabulary path\to\vocab.csv`.
 

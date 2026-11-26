@@ -1,319 +1,319 @@
-subject,subject_type,predicate,object,object_type,source,source_locator,evidence,interaction_level
-DOLI-BIEN,medicament,brand_of,paracétamol,active_ingredient,data/medicaments_clean.csv,n=1,"DOLI-BIEN, DOLYC, EFFERALGAN",
-DOLYC,medicament,brand_of,paracétamol,active_ingredient,data/medicaments_clean.csv,n=1,"DOLI-BIEN, DOLYC, EFFERALGAN",
-EFFERALGAN,medicament,brand_of,paracétamol,active_ingredient,data/medicaments_clean.csv,n=1,"DOLI-BIEN, DOLYC, EFFERALGAN",
-paracétamol,active_ingredient,has_ATC,N02BE01,atc_code,data/medicaments_clean.csv,n=1,code_atc_indicatif=N02BE01,
-paracétamol,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=1,classe=Antalgiques et anti-inflammatoires,
-ADFEN,medicament,brand_of,ibuprofène,active_ingredient,data/medicaments_clean.csv,n=2,"ADFEN, CALMOFEN, HUBIFEN",
-CALMOFEN,medicament,brand_of,ibuprofène,active_ingredient,data/medicaments_clean.csv,n=2,"ADFEN, CALMOFEN, HUBIFEN",
-HUBIFEN,medicament,brand_of,ibuprofène,active_ingredient,data/medicaments_clean.csv,n=2,"ADFEN, CALMOFEN, HUBIFEN",
-ibuprofène,active_ingredient,has_ATC,M01AE01,atc_code,data/medicaments_clean.csv,n=2,code_atc_indicatif=M01AE01,
-ibuprofène,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=2,classe=Antalgiques et anti-inflammatoires,
-CLOFENAL,medicament,brand_of,diclofénac,active_ingredient,data/medicaments_clean.csv,n=3,"CLOFENAL, DICLAMID, VOLTAFENE",
-DICLAMID,medicament,brand_of,diclofénac,active_ingredient,data/medicaments_clean.csv,n=3,"CLOFENAL, DICLAMID, VOLTAFENE",
-VOLTAFENE,medicament,brand_of,diclofénac,active_ingredient,data/medicaments_clean.csv,n=3,"CLOFENAL, DICLAMID, VOLTAFENE",
-diclofénac,active_ingredient,has_ATC,M01AB05,atc_code,data/medicaments_clean.csv,n=3,code_atc_indicatif=M01AB05,
-diclofénac,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=3,classe=Antalgiques et anti-inflammatoires,
-ENANTUM,medicament,brand_of,kétoprofène,active_ingredient,data/medicaments_clean.csv,n=4,"ENANTUM, KETOMEX, PROFENID",
-KETOMEX,medicament,brand_of,kétoprofène,active_ingredient,data/medicaments_clean.csv,n=4,"ENANTUM, KETOMEX, PROFENID",
-PROFENID,medicament,brand_of,kétoprofène,active_ingredient,data/medicaments_clean.csv,n=4,"ENANTUM, KETOMEX, PROFENID",
-kétoprofène,active_ingredient,has_ATC,M01AE03,atc_code,data/medicaments_clean.csv,n=4,code_atc_indicatif=M01AE03,
-kétoprofène,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=4,classe=Antalgiques et anti-inflammatoires,
-NAPROLGIC,medicament,brand_of,naproxène,active_ingredient,data/medicaments_clean.csv,n=5,"NAPROLGIC, NAPROX, NEXOPAIN",
-NAPROX,medicament,brand_of,naproxène,active_ingredient,data/medicaments_clean.csv,n=5,"NAPROLGIC, NAPROX, NEXOPAIN",
-NEXOPAIN,medicament,brand_of,naproxène,active_ingredient,data/medicaments_clean.csv,n=5,"NAPROLGIC, NAPROX, NEXOPAIN",
-naproxène,active_ingredient,has_ATC,M01AE02,atc_code,data/medicaments_clean.csv,n=5,code_atc_indicatif=M01AE02,
-naproxène,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=5,classe=Antalgiques et anti-inflammatoires,
-ACEPRAL,medicament,brand_of,acide acétylsalicylique,active_ingredient,data/medicaments_clean.csv,n=6,"ACEPRAL, ASPIGAL, ASPEGIC",
-ASPIGAL,medicament,brand_of,acide acétylsalicylique,active_ingredient,data/medicaments_clean.csv,n=6,"ACEPRAL, ASPIGAL, ASPEGIC",
-ASPEGIC,medicament,brand_of,acide acétylsalicylique,active_ingredient,data/medicaments_clean.csv,n=6,"ACEPRAL, ASPIGAL, ASPEGIC",
-acide acétylsalicylique,active_ingredient,has_ATC,N02BA01,atc_code,data/medicaments_clean.csv,n=6,code_atc_indicatif=N02BA01,
-acide acétylsalicylique,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=6,classe=Antalgiques et anti-inflammatoires,
-MELOX,medicament,brand_of,méloxicam,active_ingredient,data/medicaments_clean.csv,n=7,MELOX,
-méloxicam,active_ingredient,has_ATC,M01AC06,atc_code,data/medicaments_clean.csv,n=7,code_atc_indicatif=M01AC06,
-méloxicam,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=7,classe=Antalgiques et anti-inflammatoires,
-CYCLADOL,medicament,brand_of,piroxicam,active_ingredient,data/medicaments_clean.csv,n=8,"CYCLADOL, FELCAM FAST, FENOXAM",
-FELCAM FAST,medicament,brand_of,piroxicam,active_ingredient,data/medicaments_clean.csv,n=8,"CYCLADOL, FELCAM FAST, FENOXAM",
-FENOXAM,medicament,brand_of,piroxicam,active_ingredient,data/medicaments_clean.csv,n=8,"CYCLADOL, FELCAM FAST, FENOXAM",
-piroxicam,active_ingredient,has_ATC,M01AC01,atc_code,data/medicaments_clean.csv,n=8,code_atc_indicatif=M01AC01,
-piroxicam,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=8,classe=Antalgiques et anti-inflammatoires,
-ARBREX,medicament,brand_of,célécoxib,active_ingredient,data/medicaments_clean.csv,n=9,"ARBREX, CEBREX, CELEBREX",
-CEBREX,medicament,brand_of,célécoxib,active_ingredient,data/medicaments_clean.csv,n=9,"ARBREX, CEBREX, CELEBREX",
-CELEBREX,medicament,brand_of,célécoxib,active_ingredient,data/medicaments_clean.csv,n=9,"ARBREX, CEBREX, CELEBREX",
-célécoxib,active_ingredient,has_ATC,M01AH01,atc_code,data/medicaments_clean.csv,n=9,code_atc_indicatif=M01AH01,
-célécoxib,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=9,classe=Antalgiques et anti-inflammatoires,
-DOLEX,medicament,brand_of,tramadol,active_ingredient,data/medicaments_clean.csv,n=10,"DOLEX, SUPRAMADOL, TRAMADIS",
-SUPRAMADOL,medicament,brand_of,tramadol,active_ingredient,data/medicaments_clean.csv,n=10,"DOLEX, SUPRAMADOL, TRAMADIS",
-TRAMADIS,medicament,brand_of,tramadol,active_ingredient,data/medicaments_clean.csv,n=10,"DOLEX, SUPRAMADOL, TRAMADIS",
-tramadol,active_ingredient,has_ATC,N02AX02,atc_code,data/medicaments_clean.csv,n=10,code_atc_indicatif=N02AX02,
-tramadol,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=10,classe=Antalgiques et anti-inflammatoires,
-CODOL,medicament,brand_of,paracétamol + codéine,active_ingredient,data/medicaments_clean.csv,n=11,"CODOL, COEXPANDOL, COPARALGAN",
-COEXPANDOL,medicament,brand_of,paracétamol + codéine,active_ingredient,data/medicaments_clean.csv,n=11,"CODOL, COEXPANDOL, COPARALGAN",
-COPARALGAN,medicament,brand_of,paracétamol + codéine,active_ingredient,data/medicaments_clean.csv,n=11,"CODOL, COEXPANDOL, COPARALGAN",
-paracétamol + codéine,active_ingredient,has_ATC,N02AA59,atc_code,data/medicaments_clean.csv,n=11,code_atc_indicatif=N02AA59,
-paracétamol + codéine,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=11,classe=Antalgiques et anti-inflammatoires,
-ANTAPAM,medicament,brand_of,néfopam,active_ingredient,data/medicaments_clean.csv,n=12,ANTAPAM,
-néfopam,active_ingredient,has_ATC,N02BG06,atc_code,data/medicaments_clean.csv,n=12,code_atc_indicatif=N02BG06,
-néfopam,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=12,classe=Antalgiques et anti-inflammatoires,
-AMOXYPEN,medicament,brand_of,amoxicilline,active_ingredient,data/medicaments_clean.csv,n=13,"AMOXYPEN, BIOPAMOX, CLAMOXYL",
-BIOPAMOX,medicament,brand_of,amoxicilline,active_ingredient,data/medicaments_clean.csv,n=13,"AMOXYPEN, BIOPAMOX, CLAMOXYL",
-CLAMOXYL,medicament,brand_of,amoxicilline,active_ingredient,data/medicaments_clean.csv,n=13,"AMOXYPEN, BIOPAMOX, CLAMOXYL",
-amoxicilline,active_ingredient,has_ATC,J01CA04,atc_code,data/medicaments_clean.csv,n=13,code_atc_indicatif=J01CA04,
-amoxicilline,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=13,classe=Antibiotiques,
-CLAVODEX,medicament,brand_of,amoxicilline + acide clavulanique,active_ingredient,data/medicaments_clean.csv,n=14,"CLAVODEX, KLAVOX, AUGMENTIN",
-KLAVOX,medicament,brand_of,amoxicilline + acide clavulanique,active_ingredient,data/medicaments_clean.csv,n=14,"CLAVODEX, KLAVOX, AUGMENTIN",
-AUGMENTIN,medicament,brand_of,amoxicilline + acide clavulanique,active_ingredient,data/medicaments_clean.csv,n=14,"CLAVODEX, KLAVOX, AUGMENTIN",
-amoxicilline + acide clavulanique,active_ingredient,has_ATC,J01CR02,atc_code,data/medicaments_clean.csv,n=14,code_atc_indicatif=J01CR02,
-amoxicilline + acide clavulanique,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=14,classe=Antibiotiques,
-OROKAL,medicament,brand_of,céfixime,active_ingredient,data/medicaments_clean.csv,n=15,"OROKAL, CEFIMAX, OROKEN",
-CEFIMAX,medicament,brand_of,céfixime,active_ingredient,data/medicaments_clean.csv,n=15,"OROKAL, CEFIMAX, OROKEN",
-OROKEN,medicament,brand_of,céfixime,active_ingredient,data/medicaments_clean.csv,n=15,"OROKAL, CEFIMAX, OROKEN",
-céfixime,active_ingredient,has_ATC,J01DD08,atc_code,data/medicaments_clean.csv,n=15,code_atc_indicatif=J01DD08,
-céfixime,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=15,classe=Antibiotiques,
-CEFROZINE,medicament,brand_of,céfuroxime,active_ingredient,data/medicaments_clean.csv,n=16,"CEFROZINE, CEFUCARE, DAROXIME",
-CEFUCARE,medicament,brand_of,céfuroxime,active_ingredient,data/medicaments_clean.csv,n=16,"CEFROZINE, CEFUCARE, DAROXIME",
-DAROXIME,medicament,brand_of,céfuroxime,active_ingredient,data/medicaments_clean.csv,n=16,"CEFROZINE, CEFUCARE, DAROXIME",
-céfuroxime,active_ingredient,has_ATC,J01DC02,atc_code,data/medicaments_clean.csv,n=16,code_atc_indicatif=J01DC02,
-céfuroxime,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=16,classe=Antibiotiques,
-CETRIAL,medicament,brand_of,ceftriaxone,active_ingredient,data/medicaments_clean.csv,n=17,"CETRIAL, CETRIAXONE HUP, ZAFOTRIAXONE",
-CETRIAXONE HUP,medicament,brand_of,ceftriaxone,active_ingredient,data/medicaments_clean.csv,n=17,"CETRIAL, CETRIAXONE HUP, ZAFOTRIAXONE",
-ZAFOTRIAXONE,medicament,brand_of,ceftriaxone,active_ingredient,data/medicaments_clean.csv,n=17,"CETRIAL, CETRIAXONE HUP, ZAFOTRIAXONE",
-ceftriaxone,active_ingredient,has_ATC,J01DD04,atc_code,data/medicaments_clean.csv,n=17,code_atc_indicatif=J01DD04,
-ceftriaxone,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=17,classe=Antibiotiques,
-AZIMYCINE,medicament,brand_of,azithromycine,active_ingredient,data/medicaments_clean.csv,n=18,"AZIMYCINE, BINOZYT, ZETRON",
-BINOZYT,medicament,brand_of,azithromycine,active_ingredient,data/medicaments_clean.csv,n=18,"AZIMYCINE, BINOZYT, ZETRON",
-ZETRON,medicament,brand_of,azithromycine,active_ingredient,data/medicaments_clean.csv,n=18,"AZIMYCINE, BINOZYT, ZETRON",
-azithromycine,active_ingredient,has_ATC,J01FA10,atc_code,data/medicaments_clean.csv,n=18,code_atc_indicatif=J01FA10,
-azithromycine,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=18,classe=Antibiotiques,
-ARICLARE,medicament,brand_of,clarithromycine,active_ingredient,data/medicaments_clean.csv,n=19,"ARICLARE, CLARIDAR, CLARITAL",
-CLARIDAR,medicament,brand_of,clarithromycine,active_ingredient,data/medicaments_clean.csv,n=19,"ARICLARE, CLARIDAR, CLARITAL",
-CLARITAL,medicament,brand_of,clarithromycine,active_ingredient,data/medicaments_clean.csv,n=19,"ARICLARE, CLARIDAR, CLARITAL",
-clarithromycine,active_ingredient,has_ATC,J01FA09,atc_code,data/medicaments_clean.csv,n=19,code_atc_indicatif=J01FA09,
-clarithromycine,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=19,classe=Antibiotiques,
-CIPROFLOXAL,medicament,brand_of,ciprofloxacine,active_ingredient,data/medicaments_clean.csv,n=20,"CIPROFLOXAL, CIPROTEK, CIFLOXACINE",
-CIPROTEK,medicament,brand_of,ciprofloxacine,active_ingredient,data/medicaments_clean.csv,n=20,"CIPROFLOXAL, CIPROTEK, CIFLOXACINE",
-CIFLOXACINE,medicament,brand_of,ciprofloxacine,active_ingredient,data/medicaments_clean.csv,n=20,"CIPROFLOXAL, CIPROTEK, CIFLOXACINE",
-ciprofloxacine,active_ingredient,has_ATC,J01MA02,atc_code,data/medicaments_clean.csv,n=20,code_atc_indicatif=J01MA02,
-ciprofloxacine,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=20,classe=Antibiotiques,
-MATADOR,medicament,brand_of,lévofloxacine,active_ingredient,data/medicaments_clean.csv,n=21,"MATADOR, LEVOFLOX, LEVOQUIN",
-LEVOFLOX,medicament,brand_of,lévofloxacine,active_ingredient,data/medicaments_clean.csv,n=21,"MATADOR, LEVOFLOX, LEVOQUIN",
-LEVOQUIN,medicament,brand_of,lévofloxacine,active_ingredient,data/medicaments_clean.csv,n=21,"MATADOR, LEVOFLOX, LEVOQUIN",
-lévofloxacine,active_ingredient,has_ATC,J01MA12,atc_code,data/medicaments_clean.csv,n=21,code_atc_indicatif=J01MA12,
-lévofloxacine,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=21,classe=Antibiotiques,
-XYLINE,medicament,brand_of,doxycycline,active_ingredient,data/medicaments_clean.csv,n=22,"XYLINE, DOTUR, DOXYNUP",
-DOTUR,medicament,brand_of,doxycycline,active_ingredient,data/medicaments_clean.csv,n=22,"XYLINE, DOTUR, DOXYNUP",
-DOXYNUP,medicament,brand_of,doxycycline,active_ingredient,data/medicaments_clean.csv,n=22,"XYLINE, DOTUR, DOXYNUP",
-doxycycline,active_ingredient,has_ATC,J01AA02,atc_code,data/medicaments_clean.csv,n=22,code_atc_indicatif=J01AA02,
-doxycycline,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=22,classe=Antibiotiques,
-BACTISOL,medicament,brand_of,cotrimoxazole (sulfaméthoxazole + triméthoprime),active_ingredient,data/medicaments_clean.csv,n=23,"BACTISOL, COTRIM, DIPRIM",
-COTRIM,medicament,brand_of,cotrimoxazole (sulfaméthoxazole + triméthoprime),active_ingredient,data/medicaments_clean.csv,n=23,"BACTISOL, COTRIM, DIPRIM",
-DIPRIM,medicament,brand_of,cotrimoxazole (sulfaméthoxazole + triméthoprime),active_ingredient,data/medicaments_clean.csv,n=23,"BACTISOL, COTRIM, DIPRIM",
-cotrimoxazole (sulfaméthoxazole + triméthoprime),active_ingredient,has_ATC,J01EE01,atc_code,data/medicaments_clean.csv,n=23,code_atc_indicatif=J01EE01,
-cotrimoxazole (sulfaméthoxazole + triméthoprime),active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=23,classe=Antibiotiques,
-METROZEX,medicament,brand_of,métronidazole,active_ingredient,data/medicaments_clean.csv,n=24,"METROZEX, ROZEX, PYLORIX",
-ROZEX,medicament,brand_of,métronidazole,active_ingredient,data/medicaments_clean.csv,n=24,"METROZEX, ROZEX, PYLORIX",
-PYLORIX,medicament,brand_of,métronidazole,active_ingredient,data/medicaments_clean.csv,n=24,"METROZEX, ROZEX, PYLORIX",
-métronidazole,active_ingredient,has_ATC,J01XD01,atc_code,data/medicaments_clean.csv,n=24,code_atc_indicatif=J01XD01,
-métronidazole,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=24,classe=Antibiotiques,
-GENTA 10,medicament,brand_of,gentamicine,active_ingredient,data/medicaments_clean.csv,n=25,"GENTA 10, GENTA 40, GENTAXYN",
-GENTA 40,medicament,brand_of,gentamicine,active_ingredient,data/medicaments_clean.csv,n=25,"GENTA 10, GENTA 40, GENTAXYN",
-GENTAXYN,medicament,brand_of,gentamicine,active_ingredient,data/medicaments_clean.csv,n=25,"GENTA 10, GENTA 40, GENTAXYN",
-gentamicine,active_ingredient,has_ATC,J01GB03,atc_code,data/medicaments_clean.csv,n=25,code_atc_indicatif=J01GB03,
-gentamicine,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=25,classe=Antibiotiques,
-CLINARAM,medicament,brand_of,clindamycine,active_ingredient,data/medicaments_clean.csv,n=26,CLINARAM en gélule ; CLEAN-ACNE en gel,
-CLEAN-ACNE,medicament,brand_of,clindamycine,active_ingredient,data/medicaments_clean.csv,n=26,CLINARAM en gélule ; CLEAN-ACNE en gel,
-clindamycine,active_ingredient,has_ATC,J01FF01,atc_code,data/medicaments_clean.csv,n=26,code_atc_indicatif=J01FF01,
-clindamycine,active_ingredient,belongs_to,Antibiotiques,therapeutic_class,data/medicaments_clean.csv,n=26,classe=Antibiotiques,
-AMLIBON,medicament,brand_of,amlodipine,active_ingredient,data/medicaments_clean.csv,n=27,"AMLIBON, AMLODAL",
-AMLODAL,medicament,brand_of,amlodipine,active_ingredient,data/medicaments_clean.csv,n=27,"AMLIBON, AMLODAL",
-amlodipine,active_ingredient,has_ATC,C08CA01,atc_code,data/medicaments_clean.csv,n=27,code_atc_indicatif=C08CA01,
-amlodipine,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=27,classe=Antihypertenseurs,
-Aucune spécialité à base de nifédipine n’est enregistrée dans la nomenclature algérienne de décembre 2025,medicament,brand_of,nifédipine,active_ingredient,data/medicaments_clean.csv,n=28,Aucune spécialité à base de nifédipine n’est enregistrée dans la nomenclature algérienne de décembre 2025,
-nifédipine,active_ingredient,has_ATC,C08CA05,atc_code,data/medicaments_clean.csv,n=28,code_atc_indicatif=C08CA05,
-nifédipine,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=28,classe=Antihypertenseurs,
-PERINDOPRIL BEKER,medicament,brand_of,périndopril,active_ingredient,data/medicaments_clean.csv,n=29,"PERINDOPRIL BEKER, EVERYL",
-EVERYL,medicament,brand_of,périndopril,active_ingredient,data/medicaments_clean.csv,n=29,"PERINDOPRIL BEKER, EVERYL",
-périndopril,active_ingredient,has_ATC,C09AA04,atc_code,data/medicaments_clean.csv,n=29,code_atc_indicatif=C09AA04,
-périndopril,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=29,classe=Antihypertenseurs,
-RAMIPRIL BEKER,medicament,brand_of,ramipril,active_ingredient,data/medicaments_clean.csv,n=30,"RAMIPRIL BEKER, RAMITRIM",
-RAMITRIM,medicament,brand_of,ramipril,active_ingredient,data/medicaments_clean.csv,n=30,"RAMIPRIL BEKER, RAMITRIM",
-ramipril,active_ingredient,has_ATC,C09AA05,atc_code,data/medicaments_clean.csv,n=30,code_atc_indicatif=C09AA05,
-ramipril,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=30,classe=Antihypertenseurs,
-ENALAPRIL MYLAN,medicament,brand_of,énalapril,active_ingredient,data/medicaments_clean.csv,n=31,ENALAPRIL MYLAN,
-énalapril,active_ingredient,has_ATC,C09AA02,atc_code,data/medicaments_clean.csv,n=31,code_atc_indicatif=C09AA02,
-énalapril,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=31,classe=Antihypertenseurs,
-ANGIZAR,medicament,brand_of,losartan,active_ingredient,data/medicaments_clean.csv,n=32,"ANGIZAR, BEKTAL, COZZAR",
-BEKTAL,medicament,brand_of,losartan,active_ingredient,data/medicaments_clean.csv,n=32,"ANGIZAR, BEKTAL, COZZAR",
-COZZAR,medicament,brand_of,losartan,active_ingredient,data/medicaments_clean.csv,n=32,"ANGIZAR, BEKTAL, COZZAR",
-losartan,active_ingredient,has_ATC,C09CA01,atc_code,data/medicaments_clean.csv,n=32,code_atc_indicatif=C09CA01,
-losartan,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=32,classe=Antihypertenseurs,
-VALACLOR,medicament,brand_of,valsartan,active_ingredient,data/medicaments_clean.csv,n=33,"VALACLOR, ARBITAN, DIVALAN",
-ARBITAN,medicament,brand_of,valsartan,active_ingredient,data/medicaments_clean.csv,n=33,"VALACLOR, ARBITAN, DIVALAN",
-DIVALAN,medicament,brand_of,valsartan,active_ingredient,data/medicaments_clean.csv,n=33,"VALACLOR, ARBITAN, DIVALAN",
-valsartan,active_ingredient,has_ATC,C09CA03,atc_code,data/medicaments_clean.csv,n=33,code_atc_indicatif=C09CA03,
-valsartan,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=33,classe=Antihypertenseurs,
-BIPROTENS,medicament,brand_of,bisoprolol,active_ingredient,data/medicaments_clean.csv,n=34,"BIPROTENS, BISOPROLOL BEKER",
-BISOPROLOL BEKER,medicament,brand_of,bisoprolol,active_ingredient,data/medicaments_clean.csv,n=34,"BIPROTENS, BISOPROLOL BEKER",
-bisoprolol,active_ingredient,has_ATC,C07AB07,atc_code,data/medicaments_clean.csv,n=34,code_atc_indicatif=C07AB07,
-bisoprolol,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=34,classe=Antihypertenseurs,
-CARDINOL BGL,medicament,brand_of,aténolol,active_ingredient,data/medicaments_clean.csv,n=35,"CARDINOL BGL, DAGHTAN, TENORMED",
-DAGHTAN,medicament,brand_of,aténolol,active_ingredient,data/medicaments_clean.csv,n=35,"CARDINOL BGL, DAGHTAN, TENORMED",
-TENORMED,medicament,brand_of,aténolol,active_ingredient,data/medicaments_clean.csv,n=35,"CARDINOL BGL, DAGHTAN, TENORMED",
-aténolol,active_ingredient,has_ATC,C07AB03,atc_code,data/medicaments_clean.csv,n=35,code_atc_indicatif=C07AB03,
-aténolol,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=35,classe=Antihypertenseurs,
-NEBCAR,medicament,brand_of,nébivolol,active_ingredient,data/medicaments_clean.csv,n=36,"NEBCAR, TEMERIT, TEMERIVOL",
-TEMERIT,medicament,brand_of,nébivolol,active_ingredient,data/medicaments_clean.csv,n=36,"NEBCAR, TEMERIT, TEMERIVOL",
-TEMERIVOL,medicament,brand_of,nébivolol,active_ingredient,data/medicaments_clean.csv,n=36,"NEBCAR, TEMERIT, TEMERIVOL",
-nébivolol,active_ingredient,has_ATC,C07AB12,atc_code,data/medicaments_clean.csv,n=36,code_atc_indicatif=C07AB12,
-nébivolol,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=36,classe=Antihypertenseurs,
-hydrochlorothiazide,active_ingredient,has_ATC,C03AA03,atc_code,data/medicaments_clean.csv,n=37,code_atc_indicatif=C03AA03,
-hydrochlorothiazide,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=37,classe=Antihypertenseurs,
-EVERYL,medicament,brand_of,indapamide,active_ingredient,data/medicaments_clean.csv,n=38,"EVERYL, FLUTERAX, PRETERAX",
-FLUTERAX,medicament,brand_of,indapamide,active_ingredient,data/medicaments_clean.csv,n=38,"EVERYL, FLUTERAX, PRETERAX",
-PRETERAX,medicament,brand_of,indapamide,active_ingredient,data/medicaments_clean.csv,n=38,"EVERYL, FLUTERAX, PRETERAX",
-indapamide,active_ingredient,has_ATC,C03BA11,atc_code,data/medicaments_clean.csv,n=38,code_atc_indicatif=C03BA11,
-indapamide,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=38,classe=Antihypertenseurs,
-ALDACTONE,medicament,brand_of,spironolactone,active_ingredient,data/medicaments_clean.csv,n=39,"ALDACTONE, SPIRONOLONE, SPIROZIDE",
-SPIRONOLONE,medicament,brand_of,spironolactone,active_ingredient,data/medicaments_clean.csv,n=39,"ALDACTONE, SPIRONOLONE, SPIROZIDE",
-SPIROZIDE,medicament,brand_of,spironolactone,active_ingredient,data/medicaments_clean.csv,n=39,"ALDACTONE, SPIRONOLONE, SPIROZIDE",
-spironolactone,active_ingredient,has_ATC,C03DA01,atc_code,data/medicaments_clean.csv,n=39,code_atc_indicatif=C03DA01,
-spironolactone,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=39,classe=Antihypertenseurs,
-ALDOMET,medicament,brand_of,méthyldopa,active_ingredient,data/medicaments_clean.csv,n=40,"ALDOMET, DOPAMET, METHYCARE",
-DOPAMET,medicament,brand_of,méthyldopa,active_ingredient,data/medicaments_clean.csv,n=40,"ALDOMET, DOPAMET, METHYCARE",
-METHYCARE,medicament,brand_of,méthyldopa,active_ingredient,data/medicaments_clean.csv,n=40,"ALDOMET, DOPAMET, METHYCARE",
-méthyldopa,active_ingredient,has_ATC,C02AB01,atc_code,data/medicaments_clean.csv,n=40,code_atc_indicatif=C02AB01,
-méthyldopa,active_ingredient,belongs_to,Antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,n=40,classe=Antihypertenseurs,
-paracétamol,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=1,"Formes : comprimé, sachet",
-paracétamol,active_ingredient,has_form,sachet,literal,data/medicaments_clean.csv,n=1,"Formes : comprimé, sachet",
-paracétamol,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=1,"Dosages : 500 mg, 1 g, 100 mg). Source : Nomenclature ANPP Déc. 2025.",
-paracétamol,active_ingredient,has_strength,1 g,literal,data/medicaments_clean.csv,n=1,"Dosages : 500 mg, 1 g, 100 mg). Source : Nomenclature ANPP Déc. 2025.",
-paracétamol,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,n=1,"Dosages : 500 mg, 1 g, 100 mg). Source : Nomenclature ANPP Déc. 2025.",
-ibuprofène,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=2,"Formes : comprimé, gélule",
-ibuprofène,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=2,"Formes : comprimé, gélule",
-ibuprofène,active_ingredient,has_strength,200 mg,literal,data/medicaments_clean.csv,n=2,"Dosages : 200 mg, 400 mg). Source : Nomenclature ANPP Déc. 2025.",
-ibuprofène,active_ingredient,has_strength,400 mg,literal,data/medicaments_clean.csv,n=2,"Dosages : 200 mg, 400 mg). Source : Nomenclature ANPP Déc. 2025.",
-diclofénac,active_ingredient,has_form,comprimé gastro-résistant,literal,data/medicaments_clean.csv,n=3,"Formes : comprimé gastro-résistant, injectable",
-diclofénac,active_ingredient,has_form,injectable,literal,data/medicaments_clean.csv,n=3,"Formes : comprimé gastro-résistant, injectable",
-diclofénac,active_ingredient,has_strength,25 mg,literal,data/medicaments_clean.csv,n=3,"Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025.",
-diclofénac,active_ingredient,has_strength,50 mg,literal,data/medicaments_clean.csv,n=3,"Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025.",
-diclofénac,active_ingredient,has_strength,75 mg/3ml,literal,data/medicaments_clean.csv,n=3,"Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025.",
-kétoprofène,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=4,"Formes : comprimé, suppositoire, injectable",
-kétoprofène,active_ingredient,has_form,suppositoire,literal,data/medicaments_clean.csv,n=4,"Formes : comprimé, suppositoire, injectable",
-kétoprofène,active_ingredient,has_form,injectable,literal,data/medicaments_clean.csv,n=4,"Formes : comprimé, suppositoire, injectable",
-kétoprofène,active_ingredient,has_strength,25 mg,literal,data/medicaments_clean.csv,n=4,"Dosages : 25 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025.",
-kétoprofène,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,n=4,"Dosages : 25 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025.",
-naproxène,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,n=5,Formes : comprimé pelliculé,
-naproxène,active_ingredient,has_strength,275 mg,literal,data/medicaments_clean.csv,n=5,"Dosages : 275 mg, 550 mg). Source : Nomenclature ANPP Déc. 2025.",
-naproxène,active_ingredient,has_strength,550 mg,literal,data/medicaments_clean.csv,n=5,"Dosages : 275 mg, 550 mg). Source : Nomenclature ANPP Déc. 2025.",
-acide acétylsalicylique,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=6,"Formes : comprimé, poudre injectable",
-acide acétylsalicylique,active_ingredient,has_form,poudre injectable,literal,data/medicaments_clean.csv,n=6,"Formes : comprimé, poudre injectable",
-acide acétylsalicylique,active_ingredient,has_strength,330 mg,literal,data/medicaments_clean.csv,n=6,"Dosages : 330 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-acide acétylsalicylique,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=6,"Dosages : 330 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-méloxicam,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=7,Forme : comprimé,
-méloxicam,active_ingredient,has_strength,"7,5 mg",literal,data/medicaments_clean.csv,n=7,"Dosages : 7,5 mg, 15 mg). Source : Nomenclature ANPP Déc. 2025.",
-méloxicam,active_ingredient,has_strength,15 mg,literal,data/medicaments_clean.csv,n=7,"Dosages : 7,5 mg, 15 mg). Source : Nomenclature ANPP Déc. 2025.",
-piroxicam,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=8,"Formes : comprimé, gélule, suppositoire",
-piroxicam,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=8,"Formes : comprimé, gélule, suppositoire",
-piroxicam,active_ingredient,has_form,suppositoire,literal,data/medicaments_clean.csv,n=8,"Formes : comprimé, gélule, suppositoire",
-piroxicam,active_ingredient,has_strength,20 mg,literal,data/medicaments_clean.csv,n=8,Dosages : 20 mg). Source : Nomenclature ANPP Déc. 2025.,
-célécoxib,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=9,Forme : gélule,
-célécoxib,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,n=9,"Dosages : 100 mg, 200 mg). Source : Nomenclature ANPP Déc. 2025.",
-célécoxib,active_ingredient,has_strength,200 mg,literal,data/medicaments_clean.csv,n=9,"Dosages : 100 mg, 200 mg). Source : Nomenclature ANPP Déc. 2025.",
-tramadol,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=10,"Formes : gélule, comprimé LP, injectable",
-tramadol,active_ingredient,has_form,comprimé LP,literal,data/medicaments_clean.csv,n=10,"Formes : gélule, comprimé LP, injectable",
-tramadol,active_ingredient,has_form,injectable,literal,data/medicaments_clean.csv,n=10,"Formes : gélule, comprimé LP, injectable",
-tramadol,active_ingredient,has_strength,50 mg,literal,data/medicaments_clean.csv,n=10,"Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025",
-tramadol,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,n=10,"Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025",
-paracétamol + codéine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=11,Forme : comprimé,
-paracétamol + codéine,active_ingredient,has_strength,500 mg/30 mg,literal,data/medicaments_clean.csv,n=11,Dosages : 500 mg/30 mg). Source : Nomenclature ANPP Déc. 2025.,
-néfopam,active_ingredient,has_form,injectable IV/IM,literal,data/medicaments_clean.csv,n=12,Forme : injectable IV/IM,
-néfopam,active_ingredient,has_strength,20 mg/2ml,literal,data/medicaments_clean.csv,n=12,Dosage : 20 mg/2ml). Source : Nomenclature ANPP Déc. 2025.,
-amoxicilline,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=13,"Formes : gélule, poudre buvable, injectable",
-amoxicilline,active_ingredient,has_form,poudre buvable,literal,data/medicaments_clean.csv,n=13,"Formes : gélule, poudre buvable, injectable",
-amoxicilline,active_ingredient,has_form,injectable,literal,data/medicaments_clean.csv,n=13,"Formes : gélule, poudre buvable, injectable",
-amoxicilline,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=13,"Dosages : 500 mg, 1 g). Source : Nomenclature ANPP Déc. 2025.",
-amoxicilline,active_ingredient,has_strength,1 g,literal,data/medicaments_clean.csv,n=13,"Dosages : 500 mg, 1 g). Source : Nomenclature ANPP Déc. 2025.",
-amoxicilline + acide clavulanique,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=14,"Formes : comprimé, suspension",
-amoxicilline + acide clavulanique,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,n=14,"Formes : comprimé, suspension",
-amoxicilline + acide clavulanique,active_ingredient,has_strength,500 mg/125 mg,literal,data/medicaments_clean.csv,n=14,"Dosages : 500 mg/125 mg, 1 g). Source : Nomenclature ANPP Déc. 2025.",
-amoxicilline + acide clavulanique,active_ingredient,has_strength,1 g,literal,data/medicaments_clean.csv,n=14,"Dosages : 500 mg/125 mg, 1 g). Source : Nomenclature ANPP Déc. 2025.",
-céfixime,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=15,"Formes : comprimé, suspension",
-céfixime,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,n=15,"Formes : comprimé, suspension",
-céfixime,active_ingredient,has_strength,200 mg,literal,data/medicaments_clean.csv,n=15,Dosages : 200 mg). Source : Nomenclature ANPP Déc. 2025,
-céfuroxime,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=16,"Formes : comprimé, suspension",
-céfuroxime,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,n=16,"Formes : comprimé, suspension",
-céfuroxime,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,n=16,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-céfuroxime,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=16,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-ceftriaxone,active_ingredient,has_form,injectable IV/IM,literal,data/medicaments_clean.csv,n=17,Forme : injectable IV/IM,
-ceftriaxone,active_ingredient,has_strength,1 g,literal,data/medicaments_clean.csv,n=17,Dosage : 1 g). Source : Nomenclature ANPP Déc. 2025.,
-azithromycine,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=18,"Formes : gélule, comprimé, poudre",
-azithromycine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=18,"Formes : gélule, comprimé, poudre",
-azithromycine,active_ingredient,has_form,poudre,literal,data/medicaments_clean.csv,n=18,"Formes : gélule, comprimé, poudre",
-azithromycine,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,n=18,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-azithromycine,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=18,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-clarithromycine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=19,"Formes : comprimé, suspension",
-clarithromycine,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,n=19,"Formes : comprimé, suspension",
-clarithromycine,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,n=19,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-clarithromycine,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=19,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-ciprofloxacine,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,n=20,Formes : comprimé pelliculé,
-ciprofloxacine,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,n=20,"Dosages : 250 mg, 500 mg, 750 mg). Source : Nomenclature ANPP Déc. 2025.",
-ciprofloxacine,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=20,"Dosages : 250 mg, 500 mg, 750 mg). Source : Nomenclature ANPP Déc. 2025.",
-ciprofloxacine,active_ingredient,has_strength,750 mg,literal,data/medicaments_clean.csv,n=20,"Dosages : 250 mg, 500 mg, 750 mg). Source : Nomenclature ANPP Déc. 2025.",
-lévofloxacine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=21,"Formes : comprimé, perfusion",
-lévofloxacine,active_ingredient,has_form,perfusion,literal,data/medicaments_clean.csv,n=21,"Formes : comprimé, perfusion",
-lévofloxacine,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,n=21,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-lévofloxacine,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=21,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025.",
-doxycycline,active_ingredient,has_form,comprimé sécable/orodispersible,literal,data/medicaments_clean.csv,n=22,Formes : comprimé sécable/orodispersible,
-doxycycline,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,n=22,Dosage : 100 mg). Source : Nomenclature ANPP Déc. 2025.,
-cotrimoxazole (sulfaméthoxazole + triméthoprime),active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=23,"Formes : comprimé, suspension",
-cotrimoxazole (sulfaméthoxazole + triméthoprime),active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,n=23,"Formes : comprimé, suspension",
-cotrimoxazole (sulfaméthoxazole + triméthoprime),active_ingredient,has_strength,400 mg/80 mg,literal,data/medicaments_clean.csv,n=23,Dosages : 400 mg/80 mg). Source : Nomenclature ANPP Déc. 2025.,
-métronidazole,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=24,"Formes : gélule, ovule, gel",
-métronidazole,active_ingredient,has_form,ovule,literal,data/medicaments_clean.csv,n=24,"Formes : gélule, ovule, gel",
-métronidazole,active_ingredient,has_form,gel,literal,data/medicaments_clean.csv,n=24,"Formes : gélule, ovule, gel",
-métronidazole,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,n=24,Dosages : 500 mg). Source : Nomenclature ANPP Déc. 2025.,
-gentamicine,active_ingredient,has_form,injectable IM/IV,literal,data/medicaments_clean.csv,n=25,"Formes : injectable IM/IV, collyre",
-gentamicine,active_ingredient,has_form,collyre,literal,data/medicaments_clean.csv,n=25,"Formes : injectable IM/IV, collyre",
-gentamicine,active_ingredient,has_strength,10 mg,literal,data/medicaments_clean.csv,n=25,"Dosages : 10 mg, 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025.",
-gentamicine,active_ingredient,has_strength,40 mg,literal,data/medicaments_clean.csv,n=25,"Dosages : 10 mg, 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025.",
-gentamicine,active_ingredient,has_strength,80 mg,literal,data/medicaments_clean.csv,n=25,"Dosages : 10 mg, 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025.",
-clindamycine,active_ingredient,has_strength,150 mg [gélule],literal,data/medicaments_clean.csv,n=26,"Dosages : 150 mg [gélule], 1% [gel topique]). Source : Nomenclature ANPP Déc. 2025.",
-clindamycine,active_ingredient,has_strength,1% [gel topique],literal,data/medicaments_clean.csv,n=26,"Dosages : 150 mg [gélule], 1% [gel topique]). Source : Nomenclature ANPP Déc. 2025.",
-clindamycine,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=26,CLINARAM en gélule ; CLEAN-ACNE en gel,
-clindamycine,active_ingredient,has_form,gel,literal,data/medicaments_clean.csv,n=26,CLINARAM en gélule ; CLEAN-ACNE en gel,
-amlodipine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=27,"Formes : comprimé, gélule",
-amlodipine,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=27,"Formes : comprimé, gélule",
-amlodipine,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,n=27,"Dosages : 5 mg, 10 mg). Source : Nomenclature ANPP Déc. 2025.",
-amlodipine,active_ingredient,has_strength,10 mg,literal,data/medicaments_clean.csv,n=27,"Dosages : 5 mg, 10 mg). Source : Nomenclature ANPP Déc. 2025.",
-périndopril,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,n=29,Formes : comprimé sécable,
-périndopril,active_ingredient,has_strength,4 mg [ou en association],literal,data/medicaments_clean.csv,n=29,Dosages : 4 mg [ou en association]). Source : Nomenclature ANPP Déc. 2025.,
-ramipril,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,n=30,"Formes : comprimé sécable, gélule",
-ramipril,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,n=30,"Formes : comprimé sécable, gélule",
-ramipril,active_ingredient,has_strength,"2,5 mg",literal,data/medicaments_clean.csv,n=30,"Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025.",
-ramipril,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,n=30,"Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025.",
-énalapril,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,n=31,Forme : comprimé sécable,
-énalapril,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,n=31,"Dosages : 5 mg, 20 mg). Source : Nomenclature ANPP Déc. 2025.",
-énalapril,active_ingredient,has_strength,20 mg,literal,data/medicaments_clean.csv,n=31,"Dosages : 5 mg, 20 mg). Source : Nomenclature ANPP Déc. 2025.",
-losartan,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,n=32,Forme : comprimé pelliculé,
-losartan,active_ingredient,has_strength,50 mg,literal,data/medicaments_clean.csv,n=32,Dosage : 50 mg). Source : Nomenclature ANPP Déc. 2025.,
-valsartan,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,n=33,Forme : comprimé pelliculé,
-valsartan,active_ingredient,has_strength,40 mg,literal,data/medicaments_clean.csv,n=33,"Dosages : 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025.",
-valsartan,active_ingredient,has_strength,80 mg,literal,data/medicaments_clean.csv,n=33,"Dosages : 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025.",
-bisoprolol,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,n=34,Forme : comprimé pelliculé,
-bisoprolol,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,n=34,"Dosages : 5 mg, 10 mg). Source : Nomenclature ANPP Déc. 2025.",
-bisoprolol,active_ingredient,has_strength,10 mg,literal,data/medicaments_clean.csv,n=34,"Dosages : 5 mg, 10 mg). Source : Nomenclature ANPP Déc. 2025.",
-aténolol,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,n=35,Forme : comprimé sécable,
-aténolol,active_ingredient,has_strength,50 mg,literal,data/medicaments_clean.csv,n=35,"Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025.",
-aténolol,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,n=35,"Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025.",
-nébivolol,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,n=36,Forme : comprimé sécable,
-nébivolol,active_ingredient,has_strength,"2,5 mg",literal,data/medicaments_clean.csv,n=36,"Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025.",
-nébivolol,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,n=36,"Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025.",
-hydrochlorothiazide,active_ingredient,has_strength,"12,5 mg",literal,data/medicaments_clean.csv,n=37,"Dosages : 12,5 mg, 25 mg). Source : Nomenclature ANPP Déc. 2025.",
-hydrochlorothiazide,active_ingredient,has_strength,25 mg,literal,data/medicaments_clean.csv,n=37,"Dosages : 12,5 mg, 25 mg). Source : Nomenclature ANPP Déc. 2025.",
-indapamide,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=38,Forme : comprimé,
-indapamide,active_ingredient,has_strength,"1,5 mg",literal,data/medicaments_clean.csv,n=38,"Dosages : 1,5 mg, 2,5 mg). Source : Nomenclature ANPP Déc. 2025.",
-indapamide,active_ingredient,has_strength,"2,5 mg",literal,data/medicaments_clean.csv,n=38,"Dosages : 1,5 mg, 2,5 mg). Source : Nomenclature ANPP Déc. 2025.",
-spironolactone,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=39,Forme : comprimé,
-spironolactone,active_ingredient,has_strength,75 mg [ou associations],literal,data/medicaments_clean.csv,n=39,Dosages : 75 mg [ou associations]). Source : Nomenclature ANPP Déc. 2025.,
-méthyldopa,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,n=40,Forme : comprimé,
-méthyldopa,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,n=40,Dosage : 250 mg). Source : Nomenclature ANPP Déc. 2025.,
+subject,subject_type,relation,object,object_type,source_file,authority_level,collected_on,passage
+medicament_doli_bien,medicament,brand_of,active_ingredient_paracetamol,active_ingredient,data/medicaments_clean.csv,1,,"DOLI-BIEN, DOLYC, EFFERALGAN"
+medicament_dolyc,medicament,brand_of,active_ingredient_paracetamol,active_ingredient,data/medicaments_clean.csv,1,,"DOLI-BIEN, DOLYC, EFFERALGAN"
+medicament_efferalgan,medicament,brand_of,active_ingredient_paracetamol,active_ingredient,data/medicaments_clean.csv,1,,"DOLI-BIEN, DOLYC, EFFERALGAN"
+active_ingredient_paracetamol,active_ingredient,has_atc,atc_code_n02be01,atc_code,data/medicaments_clean.csv,1,,N02BE01
+active_ingredient_paracetamol,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_adfen,medicament,brand_of,active_ingredient_ibuprofene,active_ingredient,data/medicaments_clean.csv,1,,"ADFEN, CALMOFEN, HUBIFEN"
+medicament_calmofen,medicament,brand_of,active_ingredient_ibuprofene,active_ingredient,data/medicaments_clean.csv,1,,"ADFEN, CALMOFEN, HUBIFEN"
+medicament_hubifen,medicament,brand_of,active_ingredient_ibuprofene,active_ingredient,data/medicaments_clean.csv,1,,"ADFEN, CALMOFEN, HUBIFEN"
+active_ingredient_ibuprofene,active_ingredient,has_atc,atc_code_m01ae01,atc_code,data/medicaments_clean.csv,1,,M01AE01
+active_ingredient_ibuprofene,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_clofenal,medicament,brand_of,active_ingredient_diclofenac,active_ingredient,data/medicaments_clean.csv,1,,"CLOFENAL, DICLAMID, VOLTAFENE"
+medicament_diclamid,medicament,brand_of,active_ingredient_diclofenac,active_ingredient,data/medicaments_clean.csv,1,,"CLOFENAL, DICLAMID, VOLTAFENE"
+medicament_voltafene,medicament,brand_of,active_ingredient_diclofenac,active_ingredient,data/medicaments_clean.csv,1,,"CLOFENAL, DICLAMID, VOLTAFENE"
+active_ingredient_diclofenac,active_ingredient,has_atc,atc_code_m01ab05,atc_code,data/medicaments_clean.csv,1,,M01AB05
+active_ingredient_diclofenac,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_enantum,medicament,brand_of,active_ingredient_ketoprofene,active_ingredient,data/medicaments_clean.csv,1,,"ENANTUM, KETOMEX, PROFENID"
+medicament_ketomex,medicament,brand_of,active_ingredient_ketoprofene,active_ingredient,data/medicaments_clean.csv,1,,"ENANTUM, KETOMEX, PROFENID"
+medicament_profenid,medicament,brand_of,active_ingredient_ketoprofene,active_ingredient,data/medicaments_clean.csv,1,,"ENANTUM, KETOMEX, PROFENID"
+active_ingredient_ketoprofene,active_ingredient,has_atc,atc_code_m01ae03,atc_code,data/medicaments_clean.csv,1,,M01AE03
+active_ingredient_ketoprofene,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_naprolgic,medicament,brand_of,active_ingredient_naproxene,active_ingredient,data/medicaments_clean.csv,1,,"NAPROLGIC, NAPROX, NEXOPAIN"
+medicament_naprox,medicament,brand_of,active_ingredient_naproxene,active_ingredient,data/medicaments_clean.csv,1,,"NAPROLGIC, NAPROX, NEXOPAIN"
+medicament_nexopain,medicament,brand_of,active_ingredient_naproxene,active_ingredient,data/medicaments_clean.csv,1,,"NAPROLGIC, NAPROX, NEXOPAIN"
+active_ingredient_naproxene,active_ingredient,has_atc,atc_code_m01ae02,atc_code,data/medicaments_clean.csv,1,,M01AE02
+active_ingredient_naproxene,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_acepral,medicament,brand_of,active_ingredient_acide_acetylsalicylique,active_ingredient,data/medicaments_clean.csv,1,,"ACEPRAL, ASPIGAL, ASPEGIC"
+medicament_aspigal,medicament,brand_of,active_ingredient_acide_acetylsalicylique,active_ingredient,data/medicaments_clean.csv,1,,"ACEPRAL, ASPIGAL, ASPEGIC"
+medicament_aspegic,medicament,brand_of,active_ingredient_acide_acetylsalicylique,active_ingredient,data/medicaments_clean.csv,1,,"ACEPRAL, ASPIGAL, ASPEGIC"
+active_ingredient_acide_acetylsalicylique,active_ingredient,has_atc,atc_code_n02ba01,atc_code,data/medicaments_clean.csv,1,,N02BA01
+active_ingredient_acide_acetylsalicylique,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_melox,medicament,brand_of,active_ingredient_meloxicam,active_ingredient,data/medicaments_clean.csv,1,,MELOX
+active_ingredient_meloxicam,active_ingredient,has_atc,atc_code_m01ac06,atc_code,data/medicaments_clean.csv,1,,M01AC06
+active_ingredient_meloxicam,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_cycladol,medicament,brand_of,active_ingredient_piroxicam,active_ingredient,data/medicaments_clean.csv,1,,"CYCLADOL, FELCAM FAST, FENOXAM"
+medicament_felcam_fast,medicament,brand_of,active_ingredient_piroxicam,active_ingredient,data/medicaments_clean.csv,1,,"CYCLADOL, FELCAM FAST, FENOXAM"
+medicament_fenoxam,medicament,brand_of,active_ingredient_piroxicam,active_ingredient,data/medicaments_clean.csv,1,,"CYCLADOL, FELCAM FAST, FENOXAM"
+active_ingredient_piroxicam,active_ingredient,has_atc,atc_code_m01ac01,atc_code,data/medicaments_clean.csv,1,,M01AC01
+active_ingredient_piroxicam,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_arbrex,medicament,brand_of,active_ingredient_celecoxib,active_ingredient,data/medicaments_clean.csv,1,,"ARBREX, CEBREX, CELEBREX"
+medicament_cebrex,medicament,brand_of,active_ingredient_celecoxib,active_ingredient,data/medicaments_clean.csv,1,,"ARBREX, CEBREX, CELEBREX"
+medicament_celebrex,medicament,brand_of,active_ingredient_celecoxib,active_ingredient,data/medicaments_clean.csv,1,,"ARBREX, CEBREX, CELEBREX"
+active_ingredient_celecoxib,active_ingredient,has_atc,atc_code_m01ah01,atc_code,data/medicaments_clean.csv,1,,M01AH01
+active_ingredient_celecoxib,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_dolex,medicament,brand_of,active_ingredient_tramadol,active_ingredient,data/medicaments_clean.csv,1,,"DOLEX, SUPRAMADOL, TRAMADIS"
+medicament_supramadol,medicament,brand_of,active_ingredient_tramadol,active_ingredient,data/medicaments_clean.csv,1,,"DOLEX, SUPRAMADOL, TRAMADIS"
+medicament_tramadis,medicament,brand_of,active_ingredient_tramadol,active_ingredient,data/medicaments_clean.csv,1,,"DOLEX, SUPRAMADOL, TRAMADIS"
+active_ingredient_tramadol,active_ingredient,has_atc,atc_code_n02ax02,atc_code,data/medicaments_clean.csv,1,,N02AX02
+active_ingredient_tramadol,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_codol,medicament,brand_of,active_ingredient_paracetamol_codeine,active_ingredient,data/medicaments_clean.csv,1,,"CODOL, COEXPANDOL, COPARALGAN"
+medicament_coexpandol,medicament,brand_of,active_ingredient_paracetamol_codeine,active_ingredient,data/medicaments_clean.csv,1,,"CODOL, COEXPANDOL, COPARALGAN"
+medicament_coparalgan,medicament,brand_of,active_ingredient_paracetamol_codeine,active_ingredient,data/medicaments_clean.csv,1,,"CODOL, COEXPANDOL, COPARALGAN"
+active_ingredient_paracetamol_codeine,active_ingredient,has_atc,atc_code_n02aa59,atc_code,data/medicaments_clean.csv,1,,N02AA59
+active_ingredient_paracetamol_codeine,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_antapam,medicament,brand_of,active_ingredient_nefopam,active_ingredient,data/medicaments_clean.csv,1,,ANTAPAM
+active_ingredient_nefopam,active_ingredient,has_atc,atc_code_n02bg06,atc_code,data/medicaments_clean.csv,1,,N02BG06
+active_ingredient_nefopam,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_amoxypen,medicament,brand_of,active_ingredient_amoxicilline,active_ingredient,data/medicaments_clean.csv,1,,"AMOXYPEN, BIOPAMOX, CLAMOXYL"
+medicament_biopamox,medicament,brand_of,active_ingredient_amoxicilline,active_ingredient,data/medicaments_clean.csv,1,,"AMOXYPEN, BIOPAMOX, CLAMOXYL"
+medicament_clamoxyl,medicament,brand_of,active_ingredient_amoxicilline,active_ingredient,data/medicaments_clean.csv,1,,"AMOXYPEN, BIOPAMOX, CLAMOXYL"
+active_ingredient_amoxicilline,active_ingredient,has_atc,atc_code_j01ca04,atc_code,data/medicaments_clean.csv,1,,J01CA04
+active_ingredient_amoxicilline,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_clavodex,medicament,brand_of,active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,data/medicaments_clean.csv,1,,"CLAVODEX, KLAVOX, AUGMENTIN"
+medicament_klavox,medicament,brand_of,active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,data/medicaments_clean.csv,1,,"CLAVODEX, KLAVOX, AUGMENTIN"
+medicament_augmentin,medicament,brand_of,active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,data/medicaments_clean.csv,1,,"CLAVODEX, KLAVOX, AUGMENTIN"
+active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,has_atc,atc_code_j01cr02,atc_code,data/medicaments_clean.csv,1,,J01CR02
+active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_orokal,medicament,brand_of,active_ingredient_cefixime,active_ingredient,data/medicaments_clean.csv,1,,"OROKAL, CEFIMAX, OROKEN"
+medicament_cefimax,medicament,brand_of,active_ingredient_cefixime,active_ingredient,data/medicaments_clean.csv,1,,"OROKAL, CEFIMAX, OROKEN"
+medicament_oroken,medicament,brand_of,active_ingredient_cefixime,active_ingredient,data/medicaments_clean.csv,1,,"OROKAL, CEFIMAX, OROKEN"
+active_ingredient_cefixime,active_ingredient,has_atc,atc_code_j01dd08,atc_code,data/medicaments_clean.csv,1,,J01DD08
+active_ingredient_cefixime,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_cefrozine,medicament,brand_of,active_ingredient_cefuroxime,active_ingredient,data/medicaments_clean.csv,1,,"CEFROZINE, CEFUCARE, DAROXIME"
+medicament_cefucare,medicament,brand_of,active_ingredient_cefuroxime,active_ingredient,data/medicaments_clean.csv,1,,"CEFROZINE, CEFUCARE, DAROXIME"
+medicament_daroxime,medicament,brand_of,active_ingredient_cefuroxime,active_ingredient,data/medicaments_clean.csv,1,,"CEFROZINE, CEFUCARE, DAROXIME"
+active_ingredient_cefuroxime,active_ingredient,has_atc,atc_code_j01dc02,atc_code,data/medicaments_clean.csv,1,,J01DC02
+active_ingredient_cefuroxime,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_cetrial,medicament,brand_of,active_ingredient_ceftriaxone,active_ingredient,data/medicaments_clean.csv,1,,"CETRIAL, CETRIAXONE HUP, ZAFOTRIAXONE"
+medicament_cetriaxone_hup,medicament,brand_of,active_ingredient_ceftriaxone,active_ingredient,data/medicaments_clean.csv,1,,"CETRIAL, CETRIAXONE HUP, ZAFOTRIAXONE"
+medicament_zafotriaxone,medicament,brand_of,active_ingredient_ceftriaxone,active_ingredient,data/medicaments_clean.csv,1,,"CETRIAL, CETRIAXONE HUP, ZAFOTRIAXONE"
+active_ingredient_ceftriaxone,active_ingredient,has_atc,atc_code_j01dd04,atc_code,data/medicaments_clean.csv,1,,J01DD04
+active_ingredient_ceftriaxone,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_azimycine,medicament,brand_of,active_ingredient_azithromycine,active_ingredient,data/medicaments_clean.csv,1,,"AZIMYCINE, BINOZYT, ZETRON"
+medicament_binozyt,medicament,brand_of,active_ingredient_azithromycine,active_ingredient,data/medicaments_clean.csv,1,,"AZIMYCINE, BINOZYT, ZETRON"
+medicament_zetron,medicament,brand_of,active_ingredient_azithromycine,active_ingredient,data/medicaments_clean.csv,1,,"AZIMYCINE, BINOZYT, ZETRON"
+active_ingredient_azithromycine,active_ingredient,has_atc,atc_code_j01fa10,atc_code,data/medicaments_clean.csv,1,,J01FA10
+active_ingredient_azithromycine,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_ariclare,medicament,brand_of,active_ingredient_clarithromycine,active_ingredient,data/medicaments_clean.csv,1,,"ARICLARE, CLARIDAR, CLARITAL"
+medicament_claridar,medicament,brand_of,active_ingredient_clarithromycine,active_ingredient,data/medicaments_clean.csv,1,,"ARICLARE, CLARIDAR, CLARITAL"
+medicament_clarital,medicament,brand_of,active_ingredient_clarithromycine,active_ingredient,data/medicaments_clean.csv,1,,"ARICLARE, CLARIDAR, CLARITAL"
+active_ingredient_clarithromycine,active_ingredient,has_atc,atc_code_j01fa09,atc_code,data/medicaments_clean.csv,1,,J01FA09
+active_ingredient_clarithromycine,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_ciprofloxal,medicament,brand_of,active_ingredient_ciprofloxacine,active_ingredient,data/medicaments_clean.csv,1,,"CIPROFLOXAL, CIPROTEK, CIFLOXACINE"
+medicament_ciprotek,medicament,brand_of,active_ingredient_ciprofloxacine,active_ingredient,data/medicaments_clean.csv,1,,"CIPROFLOXAL, CIPROTEK, CIFLOXACINE"
+medicament_cifloxacine,medicament,brand_of,active_ingredient_ciprofloxacine,active_ingredient,data/medicaments_clean.csv,1,,"CIPROFLOXAL, CIPROTEK, CIFLOXACINE"
+active_ingredient_ciprofloxacine,active_ingredient,has_atc,atc_code_j01ma02,atc_code,data/medicaments_clean.csv,1,,J01MA02
+active_ingredient_ciprofloxacine,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_matador,medicament,brand_of,active_ingredient_levofloxacine,active_ingredient,data/medicaments_clean.csv,1,,"MATADOR, LEVOFLOX, LEVOQUIN"
+medicament_levoflox,medicament,brand_of,active_ingredient_levofloxacine,active_ingredient,data/medicaments_clean.csv,1,,"MATADOR, LEVOFLOX, LEVOQUIN"
+medicament_levoquin,medicament,brand_of,active_ingredient_levofloxacine,active_ingredient,data/medicaments_clean.csv,1,,"MATADOR, LEVOFLOX, LEVOQUIN"
+active_ingredient_levofloxacine,active_ingredient,has_atc,atc_code_j01ma12,atc_code,data/medicaments_clean.csv,1,,J01MA12
+active_ingredient_levofloxacine,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_xyline,medicament,brand_of,active_ingredient_doxycycline,active_ingredient,data/medicaments_clean.csv,1,,"XYLINE, DOTUR, DOXYNUP"
+medicament_dotur,medicament,brand_of,active_ingredient_doxycycline,active_ingredient,data/medicaments_clean.csv,1,,"XYLINE, DOTUR, DOXYNUP"
+medicament_doxynup,medicament,brand_of,active_ingredient_doxycycline,active_ingredient,data/medicaments_clean.csv,1,,"XYLINE, DOTUR, DOXYNUP"
+active_ingredient_doxycycline,active_ingredient,has_atc,atc_code_j01aa02,atc_code,data/medicaments_clean.csv,1,,J01AA02
+active_ingredient_doxycycline,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_bactisol,medicament,brand_of,active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,data/medicaments_clean.csv,1,,"BACTISOL, COTRIM, DIPRIM"
+medicament_cotrim,medicament,brand_of,active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,data/medicaments_clean.csv,1,,"BACTISOL, COTRIM, DIPRIM"
+medicament_diprim,medicament,brand_of,active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,data/medicaments_clean.csv,1,,"BACTISOL, COTRIM, DIPRIM"
+active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,has_atc,atc_code_j01ee01,atc_code,data/medicaments_clean.csv,1,,J01EE01
+active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_metrozex,medicament,brand_of,active_ingredient_metronidazole,active_ingredient,data/medicaments_clean.csv,1,,"METROZEX, ROZEX, PYLORIX"
+medicament_rozex,medicament,brand_of,active_ingredient_metronidazole,active_ingredient,data/medicaments_clean.csv,1,,"METROZEX, ROZEX, PYLORIX"
+medicament_pylorix,medicament,brand_of,active_ingredient_metronidazole,active_ingredient,data/medicaments_clean.csv,1,,"METROZEX, ROZEX, PYLORIX"
+active_ingredient_metronidazole,active_ingredient,has_atc,atc_code_j01xd01,atc_code,data/medicaments_clean.csv,1,,J01XD01
+active_ingredient_metronidazole,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_genta_10,medicament,brand_of,active_ingredient_gentamicine,active_ingredient,data/medicaments_clean.csv,1,,"GENTA 10, GENTA 40, GENTAXYN"
+medicament_genta_40,medicament,brand_of,active_ingredient_gentamicine,active_ingredient,data/medicaments_clean.csv,1,,"GENTA 10, GENTA 40, GENTAXYN"
+medicament_gentaxyn,medicament,brand_of,active_ingredient_gentamicine,active_ingredient,data/medicaments_clean.csv,1,,"GENTA 10, GENTA 40, GENTAXYN"
+active_ingredient_gentamicine,active_ingredient,has_atc,atc_code_j01gb03,atc_code,data/medicaments_clean.csv,1,,J01GB03
+active_ingredient_gentamicine,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_clinaram,medicament,brand_of,active_ingredient_clindamycine,active_ingredient,data/medicaments_clean.csv,1,,CLINARAM en gélule ; CLEAN-ACNE en gel
+medicament_clean_acne,medicament,brand_of,active_ingredient_clindamycine,active_ingredient,data/medicaments_clean.csv,1,,CLINARAM en gélule ; CLEAN-ACNE en gel
+active_ingredient_clindamycine,active_ingredient,has_atc,atc_code_j01ff01,atc_code,data/medicaments_clean.csv,1,,J01FF01
+active_ingredient_clindamycine,active_ingredient,belongs_to,therapeutic_class_antibiotiques,therapeutic_class,data/medicaments_clean.csv,1,,Antibiotiques
+medicament_amlibon,medicament,brand_of,active_ingredient_amlodipine,active_ingredient,data/medicaments_clean.csv,1,,"AMLIBON, AMLODAL"
+medicament_amlodal,medicament,brand_of,active_ingredient_amlodipine,active_ingredient,data/medicaments_clean.csv,1,,"AMLIBON, AMLODAL"
+active_ingredient_amlodipine,active_ingredient,has_atc,atc_code_c08ca01,atc_code,data/medicaments_clean.csv,1,,C08CA01
+active_ingredient_amlodipine,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_aucune_specialite_a_base_de_nifedipine_n_est_enregistree_dans_la_nomenclature_algerienne_de_decembre_2025,medicament,brand_of,active_ingredient_nifedipine,active_ingredient,data/medicaments_clean.csv,1,,Aucune spécialité à base de nifédipine n’est enregistrée dans la nomenclature algérienne de décembre 2025
+active_ingredient_nifedipine,active_ingredient,has_atc,atc_code_c08ca05,atc_code,data/medicaments_clean.csv,1,,C08CA05
+active_ingredient_nifedipine,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_perindopril_beker,medicament,brand_of,active_ingredient_perindopril,active_ingredient,data/medicaments_clean.csv,1,,"PERINDOPRIL BEKER, EVERYL"
+medicament_everyl,medicament,brand_of,active_ingredient_perindopril,active_ingredient,data/medicaments_clean.csv,1,,"PERINDOPRIL BEKER, EVERYL"
+active_ingredient_perindopril,active_ingredient,has_atc,atc_code_c09aa04,atc_code,data/medicaments_clean.csv,1,,C09AA04
+active_ingredient_perindopril,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_ramipril_beker,medicament,brand_of,active_ingredient_ramipril,active_ingredient,data/medicaments_clean.csv,1,,"RAMIPRIL BEKER, RAMITRIM"
+medicament_ramitrim,medicament,brand_of,active_ingredient_ramipril,active_ingredient,data/medicaments_clean.csv,1,,"RAMIPRIL BEKER, RAMITRIM"
+active_ingredient_ramipril,active_ingredient,has_atc,atc_code_c09aa05,atc_code,data/medicaments_clean.csv,1,,C09AA05
+active_ingredient_ramipril,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_enalapril_mylan,medicament,brand_of,active_ingredient_enalapril,active_ingredient,data/medicaments_clean.csv,1,,ENALAPRIL MYLAN
+active_ingredient_enalapril,active_ingredient,has_atc,atc_code_c09aa02,atc_code,data/medicaments_clean.csv,1,,C09AA02
+active_ingredient_enalapril,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_angizar,medicament,brand_of,active_ingredient_losartan,active_ingredient,data/medicaments_clean.csv,1,,"ANGIZAR, BEKTAL, COZZAR"
+medicament_bektal,medicament,brand_of,active_ingredient_losartan,active_ingredient,data/medicaments_clean.csv,1,,"ANGIZAR, BEKTAL, COZZAR"
+medicament_cozzar,medicament,brand_of,active_ingredient_losartan,active_ingredient,data/medicaments_clean.csv,1,,"ANGIZAR, BEKTAL, COZZAR"
+active_ingredient_losartan,active_ingredient,has_atc,atc_code_c09ca01,atc_code,data/medicaments_clean.csv,1,,C09CA01
+active_ingredient_losartan,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_valaclor,medicament,brand_of,active_ingredient_valsartan,active_ingredient,data/medicaments_clean.csv,1,,"VALACLOR, ARBITAN, DIVALAN"
+medicament_arbitan,medicament,brand_of,active_ingredient_valsartan,active_ingredient,data/medicaments_clean.csv,1,,"VALACLOR, ARBITAN, DIVALAN"
+medicament_divalan,medicament,brand_of,active_ingredient_valsartan,active_ingredient,data/medicaments_clean.csv,1,,"VALACLOR, ARBITAN, DIVALAN"
+active_ingredient_valsartan,active_ingredient,has_atc,atc_code_c09ca03,atc_code,data/medicaments_clean.csv,1,,C09CA03
+active_ingredient_valsartan,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_biprotens,medicament,brand_of,active_ingredient_bisoprolol,active_ingredient,data/medicaments_clean.csv,1,,"BIPROTENS, BISOPROLOL BEKER"
+medicament_bisoprolol_beker,medicament,brand_of,active_ingredient_bisoprolol,active_ingredient,data/medicaments_clean.csv,1,,"BIPROTENS, BISOPROLOL BEKER"
+active_ingredient_bisoprolol,active_ingredient,has_atc,atc_code_c07ab07,atc_code,data/medicaments_clean.csv,1,,C07AB07
+active_ingredient_bisoprolol,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_cardinol_bgl,medicament,brand_of,active_ingredient_atenolol,active_ingredient,data/medicaments_clean.csv,1,,"CARDINOL BGL, DAGHTAN, TENORMED"
+medicament_daghtan,medicament,brand_of,active_ingredient_atenolol,active_ingredient,data/medicaments_clean.csv,1,,"CARDINOL BGL, DAGHTAN, TENORMED"
+medicament_tenormed,medicament,brand_of,active_ingredient_atenolol,active_ingredient,data/medicaments_clean.csv,1,,"CARDINOL BGL, DAGHTAN, TENORMED"
+active_ingredient_atenolol,active_ingredient,has_atc,atc_code_c07ab03,atc_code,data/medicaments_clean.csv,1,,C07AB03
+active_ingredient_atenolol,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_nebcar,medicament,brand_of,active_ingredient_nebivolol,active_ingredient,data/medicaments_clean.csv,1,,"NEBCAR, TEMERIT, TEMERIVOL"
+medicament_temerit,medicament,brand_of,active_ingredient_nebivolol,active_ingredient,data/medicaments_clean.csv,1,,"NEBCAR, TEMERIT, TEMERIVOL"
+medicament_temerivol,medicament,brand_of,active_ingredient_nebivolol,active_ingredient,data/medicaments_clean.csv,1,,"NEBCAR, TEMERIT, TEMERIVOL"
+active_ingredient_nebivolol,active_ingredient,has_atc,atc_code_c07ab12,atc_code,data/medicaments_clean.csv,1,,C07AB12
+active_ingredient_nebivolol,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+active_ingredient_hydrochlorothiazide,active_ingredient,has_atc,atc_code_c03aa03,atc_code,data/medicaments_clean.csv,1,,C03AA03
+active_ingredient_hydrochlorothiazide,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_everyl,medicament,brand_of,active_ingredient_indapamide,active_ingredient,data/medicaments_clean.csv,1,,"EVERYL, FLUTERAX, PRETERAX"
+medicament_fluterax,medicament,brand_of,active_ingredient_indapamide,active_ingredient,data/medicaments_clean.csv,1,,"EVERYL, FLUTERAX, PRETERAX"
+medicament_preterax,medicament,brand_of,active_ingredient_indapamide,active_ingredient,data/medicaments_clean.csv,1,,"EVERYL, FLUTERAX, PRETERAX"
+active_ingredient_indapamide,active_ingredient,has_atc,atc_code_c03ba11,atc_code,data/medicaments_clean.csv,1,,C03BA11
+active_ingredient_indapamide,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_aldactone,medicament,brand_of,active_ingredient_spironolactone,active_ingredient,data/medicaments_clean.csv,1,,"ALDACTONE, SPIRONOLONE, SPIROZIDE"
+medicament_spironolone,medicament,brand_of,active_ingredient_spironolactone,active_ingredient,data/medicaments_clean.csv,1,,"ALDACTONE, SPIRONOLONE, SPIROZIDE"
+medicament_spirozide,medicament,brand_of,active_ingredient_spironolactone,active_ingredient,data/medicaments_clean.csv,1,,"ALDACTONE, SPIRONOLONE, SPIROZIDE"
+active_ingredient_spironolactone,active_ingredient,has_atc,atc_code_c03da01,atc_code,data/medicaments_clean.csv,1,,C03DA01
+active_ingredient_spironolactone,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+medicament_aldomet,medicament,brand_of,active_ingredient_methyldopa,active_ingredient,data/medicaments_clean.csv,1,,"ALDOMET, DOPAMET, METHYCARE"
+medicament_dopamet,medicament,brand_of,active_ingredient_methyldopa,active_ingredient,data/medicaments_clean.csv,1,,"ALDOMET, DOPAMET, METHYCARE"
+medicament_methycare,medicament,brand_of,active_ingredient_methyldopa,active_ingredient,data/medicaments_clean.csv,1,,"ALDOMET, DOPAMET, METHYCARE"
+active_ingredient_methyldopa,active_ingredient,has_atc,atc_code_c02ab01,atc_code,data/medicaments_clean.csv,1,,C02AB01
+active_ingredient_methyldopa,active_ingredient,belongs_to,therapeutic_class_antihypertenseurs,therapeutic_class,data/medicaments_clean.csv,1,,Antihypertenseurs
+active_ingredient_paracetamol,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, sachet"
+active_ingredient_paracetamol,active_ingredient,has_form,sachet,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, sachet"
+active_ingredient_paracetamol,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 500 mg, 1 g, 100 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_paracetamol,active_ingredient,has_strength,1 g,literal,data/medicaments_clean.csv,1,,"Dosages : 500 mg, 1 g, 100 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_paracetamol,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 500 mg, 1 g, 100 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ibuprofene,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, gélule"
+active_ingredient_ibuprofene,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, gélule"
+active_ingredient_ibuprofene,active_ingredient,has_strength,200 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 200 mg, 400 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ibuprofene,active_ingredient,has_strength,400 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 200 mg, 400 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_diclofenac,active_ingredient,has_form,comprimé gastro-résistant,literal,data/medicaments_clean.csv,1,,"Formes : comprimé gastro-résistant, injectable"
+active_ingredient_diclofenac,active_ingredient,has_form,injectable,literal,data/medicaments_clean.csv,1,,"Formes : comprimé gastro-résistant, injectable"
+active_ingredient_diclofenac,active_ingredient,has_strength,25 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_diclofenac,active_ingredient,has_strength,50 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_diclofenac,active_ingredient,has_strength,75 mg/3ml,literal,data/medicaments_clean.csv,1,,"Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ketoprofene,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suppositoire, injectable"
+active_ingredient_ketoprofene,active_ingredient,has_form,suppositoire,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suppositoire, injectable"
+active_ingredient_ketoprofene,active_ingredient,has_form,injectable,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suppositoire, injectable"
+active_ingredient_ketoprofene,active_ingredient,has_strength,25 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 25 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ketoprofene,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 25 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_naproxene,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,1,,Formes : comprimé pelliculé
+active_ingredient_naproxene,active_ingredient,has_strength,275 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 275 mg, 550 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_naproxene,active_ingredient,has_strength,550 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 275 mg, 550 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_acide_acetylsalicylique,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, poudre injectable"
+active_ingredient_acide_acetylsalicylique,active_ingredient,has_form,poudre injectable,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, poudre injectable"
+active_ingredient_acide_acetylsalicylique,active_ingredient,has_strength,330 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 330 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_acide_acetylsalicylique,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 330 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_meloxicam,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,Forme : comprimé
+active_ingredient_meloxicam,active_ingredient,has_strength,"7,5 mg",literal,data/medicaments_clean.csv,1,,"Dosages : 7,5 mg, 15 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_meloxicam,active_ingredient,has_strength,15 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 7,5 mg, 15 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_piroxicam,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, gélule, suppositoire"
+active_ingredient_piroxicam,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, gélule, suppositoire"
+active_ingredient_piroxicam,active_ingredient,has_form,suppositoire,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, gélule, suppositoire"
+active_ingredient_piroxicam,active_ingredient,has_strength,20 mg,literal,data/medicaments_clean.csv,1,,Dosages : 20 mg). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_celecoxib,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,Forme : gélule
+active_ingredient_celecoxib,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 100 mg, 200 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_celecoxib,active_ingredient,has_strength,200 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 100 mg, 200 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_tramadol,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,"Formes : gélule, comprimé LP, injectable"
+active_ingredient_tramadol,active_ingredient,has_form,comprimé LP,literal,data/medicaments_clean.csv,1,,"Formes : gélule, comprimé LP, injectable"
+active_ingredient_tramadol,active_ingredient,has_form,injectable,literal,data/medicaments_clean.csv,1,,"Formes : gélule, comprimé LP, injectable"
+active_ingredient_tramadol,active_ingredient,has_strength,50 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025"
+active_ingredient_tramadol,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025"
+active_ingredient_paracetamol_codeine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,Forme : comprimé
+active_ingredient_paracetamol_codeine,active_ingredient,has_strength,500 mg/30 mg,literal,data/medicaments_clean.csv,1,,Dosages : 500 mg/30 mg). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_nefopam,active_ingredient,has_form,injectable IV/IM,literal,data/medicaments_clean.csv,1,,Forme : injectable IV/IM
+active_ingredient_nefopam,active_ingredient,has_strength,20 mg/2ml,literal,data/medicaments_clean.csv,1,,Dosage : 20 mg/2ml). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_amoxicilline,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,"Formes : gélule, poudre buvable, injectable"
+active_ingredient_amoxicilline,active_ingredient,has_form,poudre buvable,literal,data/medicaments_clean.csv,1,,"Formes : gélule, poudre buvable, injectable"
+active_ingredient_amoxicilline,active_ingredient,has_form,injectable,literal,data/medicaments_clean.csv,1,,"Formes : gélule, poudre buvable, injectable"
+active_ingredient_amoxicilline,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 500 mg, 1 g). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_amoxicilline,active_ingredient,has_strength,1 g,literal,data/medicaments_clean.csv,1,,"Dosages : 500 mg, 1 g). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,has_strength,500 mg/125 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 500 mg/125 mg, 1 g). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,has_strength,1 g,literal,data/medicaments_clean.csv,1,,"Dosages : 500 mg/125 mg, 1 g). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_cefixime,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_cefixime,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_cefixime,active_ingredient,has_strength,200 mg,literal,data/medicaments_clean.csv,1,,Dosages : 200 mg). Source : Nomenclature ANPP Déc. 2025
+active_ingredient_cefuroxime,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_cefuroxime,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_cefuroxime,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_cefuroxime,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ceftriaxone,active_ingredient,has_form,injectable IV/IM,literal,data/medicaments_clean.csv,1,,Forme : injectable IV/IM
+active_ingredient_ceftriaxone,active_ingredient,has_strength,1 g,literal,data/medicaments_clean.csv,1,,Dosage : 1 g). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_azithromycine,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,"Formes : gélule, comprimé, poudre"
+active_ingredient_azithromycine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : gélule, comprimé, poudre"
+active_ingredient_azithromycine,active_ingredient,has_form,poudre,literal,data/medicaments_clean.csv,1,,"Formes : gélule, comprimé, poudre"
+active_ingredient_azithromycine,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_azithromycine,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_clarithromycine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_clarithromycine,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_clarithromycine,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_clarithromycine,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ciprofloxacine,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,1,,Formes : comprimé pelliculé
+active_ingredient_ciprofloxacine,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg, 750 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ciprofloxacine,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg, 750 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ciprofloxacine,active_ingredient,has_strength,750 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg, 750 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_levofloxacine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, perfusion"
+active_ingredient_levofloxacine,active_ingredient,has_form,perfusion,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, perfusion"
+active_ingredient_levofloxacine,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_levofloxacine,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 250 mg, 500 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_doxycycline,active_ingredient,has_form,comprimé sécable/orodispersible,literal,data/medicaments_clean.csv,1,,Formes : comprimé sécable/orodispersible
+active_ingredient_doxycycline,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,1,,Dosage : 100 mg). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,has_form,suspension,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, suspension"
+active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,has_strength,400 mg/80 mg,literal,data/medicaments_clean.csv,1,,Dosages : 400 mg/80 mg). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_metronidazole,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,"Formes : gélule, ovule, gel"
+active_ingredient_metronidazole,active_ingredient,has_form,ovule,literal,data/medicaments_clean.csv,1,,"Formes : gélule, ovule, gel"
+active_ingredient_metronidazole,active_ingredient,has_form,gel,literal,data/medicaments_clean.csv,1,,"Formes : gélule, ovule, gel"
+active_ingredient_metronidazole,active_ingredient,has_strength,500 mg,literal,data/medicaments_clean.csv,1,,Dosages : 500 mg). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_gentamicine,active_ingredient,has_form,injectable IM/IV,literal,data/medicaments_clean.csv,1,,"Formes : injectable IM/IV, collyre"
+active_ingredient_gentamicine,active_ingredient,has_form,collyre,literal,data/medicaments_clean.csv,1,,"Formes : injectable IM/IV, collyre"
+active_ingredient_gentamicine,active_ingredient,has_strength,10 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 10 mg, 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_gentamicine,active_ingredient,has_strength,40 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 10 mg, 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_gentamicine,active_ingredient,has_strength,80 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 10 mg, 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_clindamycine,active_ingredient,has_strength,150 mg [gélule],literal,data/medicaments_clean.csv,1,,"Dosages : 150 mg [gélule], 1% [gel topique]). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_clindamycine,active_ingredient,has_strength,1% [gel topique],literal,data/medicaments_clean.csv,1,,"Dosages : 150 mg [gélule], 1% [gel topique]). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_clindamycine,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,CLINARAM en gélule ; CLEAN-ACNE en gel
+active_ingredient_clindamycine,active_ingredient,has_form,gel,literal,data/medicaments_clean.csv,1,,CLINARAM en gélule ; CLEAN-ACNE en gel
+active_ingredient_amlodipine,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, gélule"
+active_ingredient_amlodipine,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,"Formes : comprimé, gélule"
+active_ingredient_amlodipine,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 5 mg, 10 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_amlodipine,active_ingredient,has_strength,10 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 5 mg, 10 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_perindopril,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,1,,Formes : comprimé sécable
+active_ingredient_perindopril,active_ingredient,has_strength,4 mg [ou en association],literal,data/medicaments_clean.csv,1,,Dosages : 4 mg [ou en association]). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_ramipril,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,1,,"Formes : comprimé sécable, gélule"
+active_ingredient_ramipril,active_ingredient,has_form,gélule,literal,data/medicaments_clean.csv,1,,"Formes : comprimé sécable, gélule"
+active_ingredient_ramipril,active_ingredient,has_strength,"2,5 mg",literal,data/medicaments_clean.csv,1,,"Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_ramipril,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_enalapril,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,1,,Forme : comprimé sécable
+active_ingredient_enalapril,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 5 mg, 20 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_enalapril,active_ingredient,has_strength,20 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 5 mg, 20 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_losartan,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,1,,Forme : comprimé pelliculé
+active_ingredient_losartan,active_ingredient,has_strength,50 mg,literal,data/medicaments_clean.csv,1,,Dosage : 50 mg). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_valsartan,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,1,,Forme : comprimé pelliculé
+active_ingredient_valsartan,active_ingredient,has_strength,40 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_valsartan,active_ingredient,has_strength,80 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 40 mg, 80 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_bisoprolol,active_ingredient,has_form,comprimé pelliculé,literal,data/medicaments_clean.csv,1,,Forme : comprimé pelliculé
+active_ingredient_bisoprolol,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 5 mg, 10 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_bisoprolol,active_ingredient,has_strength,10 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 5 mg, 10 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_atenolol,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,1,,Forme : comprimé sécable
+active_ingredient_atenolol,active_ingredient,has_strength,50 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_atenolol,active_ingredient,has_strength,100 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_nebivolol,active_ingredient,has_form,comprimé sécable,literal,data/medicaments_clean.csv,1,,Forme : comprimé sécable
+active_ingredient_nebivolol,active_ingredient,has_strength,"2,5 mg",literal,data/medicaments_clean.csv,1,,"Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_nebivolol,active_ingredient,has_strength,5 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_hydrochlorothiazide,active_ingredient,has_strength,"12,5 mg",literal,data/medicaments_clean.csv,1,,"Dosages : 12,5 mg, 25 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_hydrochlorothiazide,active_ingredient,has_strength,25 mg,literal,data/medicaments_clean.csv,1,,"Dosages : 12,5 mg, 25 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_indapamide,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,Forme : comprimé
+active_ingredient_indapamide,active_ingredient,has_strength,"1,5 mg",literal,data/medicaments_clean.csv,1,,"Dosages : 1,5 mg, 2,5 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_indapamide,active_ingredient,has_strength,"2,5 mg",literal,data/medicaments_clean.csv,1,,"Dosages : 1,5 mg, 2,5 mg). Source : Nomenclature ANPP Déc. 2025."
+active_ingredient_spironolactone,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,Forme : comprimé
+active_ingredient_spironolactone,active_ingredient,has_strength,75 mg [ou associations],literal,data/medicaments_clean.csv,1,,Dosages : 75 mg [ou associations]). Source : Nomenclature ANPP Déc. 2025.
+active_ingredient_methyldopa,active_ingredient,has_form,comprimé,literal,data/medicaments_clean.csv,1,,Forme : comprimé
+active_ingredient_methyldopa,active_ingredient,has_strength,250 mg,literal,data/medicaments_clean.csv,1,,Dosage : 250 mg). Source : Nomenclature ANPP Déc. 2025.

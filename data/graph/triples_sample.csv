@@ -1,11 +1,11 @@
-subject,subject_type,predicate,object,object_type,source,source_locator,evidence,interaction_level
-DOLI-BIEN,medicament,brand_of,paracétamol,active_ingredient,data/medicaments_clean.csv,n=1,"DOLI-BIEN, DOLYC, EFFERALGAN",
-DOLYC,medicament,brand_of,paracétamol,active_ingredient,data/medicaments_clean.csv,n=1,"DOLI-BIEN, DOLYC, EFFERALGAN",
-EFFERALGAN,medicament,brand_of,paracétamol,active_ingredient,data/medicaments_clean.csv,n=1,"DOLI-BIEN, DOLYC, EFFERALGAN",
-paracétamol,active_ingredient,has_ATC,N02BE01,atc_code,data/medicaments_clean.csv,n=1,N02BE01,
-paracétamol,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=1,Antalgiques et anti-inflammatoires,
-ADFEN,medicament,brand_of,ibuprofène,active_ingredient,data/medicaments_clean.csv,n=2,"ADFEN, CALMOFEN, HUBIFEN",
-CALMOFEN,medicament,brand_of,ibuprofène,active_ingredient,data/medicaments_clean.csv,n=2,"ADFEN, CALMOFEN, HUBIFEN",
-HUBIFEN,medicament,brand_of,ibuprofène,active_ingredient,data/medicaments_clean.csv,n=2,"ADFEN, CALMOFEN, HUBIFEN",
-ibuprofène,active_ingredient,has_ATC,M01AE01,atc_code,data/medicaments_clean.csv,n=2,M01AE01,
-ibuprofène,active_ingredient,belongs_to,Antalgiques et anti-inflammatoires,therapeutic_class,data/medicaments_clean.csv,n=2,Antalgiques et anti-inflammatoires,
+subject,subject_type,relation,object,object_type,source_file,authority_level,collected_on,passage
+medicament_doli_bien,medicament,brand_of,active_ingredient_paracetamol,active_ingredient,data/medicaments_clean.csv,1,,"DOLI-BIEN, DOLYC, EFFERALGAN"
+medicament_dolyc,medicament,brand_of,active_ingredient_paracetamol,active_ingredient,data/medicaments_clean.csv,1,,"DOLI-BIEN, DOLYC, EFFERALGAN"
+medicament_efferalgan,medicament,brand_of,active_ingredient_paracetamol,active_ingredient,data/medicaments_clean.csv,1,,"DOLI-BIEN, DOLYC, EFFERALGAN"
+active_ingredient_paracetamol,active_ingredient,has_atc,atc_code_n02be01,atc_code,data/medicaments_clean.csv,1,,N02BE01
+active_ingredient_paracetamol,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires
+medicament_adfen,medicament,brand_of,active_ingredient_ibuprofene,active_ingredient,data/medicaments_clean.csv,1,,"ADFEN, CALMOFEN, HUBIFEN"
+medicament_calmofen,medicament,brand_of,active_ingredient_ibuprofene,active_ingredient,data/medicaments_clean.csv,1,,"ADFEN, CALMOFEN, HUBIFEN"
+medicament_hubifen,medicament,brand_of,active_ingredient_ibuprofene,active_ingredient,data/medicaments_clean.csv,1,,"ADFEN, CALMOFEN, HUBIFEN"
+active_ingredient_ibuprofene,active_ingredient,has_atc,atc_code_m01ae01,atc_code,data/medicaments_clean.csv,1,,M01AE01
+active_ingredient_ibuprofene,active_ingredient,belongs_to,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,data/medicaments_clean.csv,1,,Antalgiques et anti-inflammatoires

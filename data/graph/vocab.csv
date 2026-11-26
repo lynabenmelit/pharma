@@ -4,11 +4,11 @@ entity_type,active_ingredient,,,"A medicine's active substance, usually identifi
 entity_type,therapeutic_class,,,A therapeutic class recorded in the nomenclature.
 entity_type,indication,,,A condition or symptom a source says a medicine is used for.
 entity_type,adverse_effect,,,An unwanted effect reported by a source.
-entity_type,contraindication,,,"A condition or situation in which a source says a medicine must not be used."
+entity_type,contraindication,,,A condition or situation in which a source says a medicine must not be used.
 entity_type,atc_code,,,An ATC classification code.
 entity_type,literal,,,A text value such as a strength or dosage form.
 predicate,brand_of,medicament,active_ingredient,A commercial medicine name associated with an active ingredient.
-predicate,has_ATC,active_ingredient,atc_code,The ATC code listed for an active ingredient.
+predicate,has_atc,active_ingredient,atc_code,The ATC code listed for an active ingredient.
 predicate,belongs_to,active_ingredient,therapeutic_class,The therapeutic class listed for an active ingredient.
 predicate,has_strength,active_ingredient,literal,The strength listed for an active ingredient in the nomenclature; not brand-specific.
 predicate,has_form,active_ingredient,literal,The form listed for an active ingredient in the nomenclature; not brand-specific.
@@ -16,3 +16,189 @@ predicate,indicated_for,medicament,indication,An indication stated by a source.
 predicate,may_cause,medicament,adverse_effect,An adverse effect stated by a source.
 predicate,contraindicated_in,medicament,contraindication,A contraindication stated by a source.
 predicate,interacts_with,active_ingredient,active_ingredient,An interaction stated between active ingredients.
+entity,active_ingredient_acide_acetylsalicylique,active_ingredient,,acide acétylsalicylique
+entity,active_ingredient_amlodipine,active_ingredient,,amlodipine
+entity,active_ingredient_amoxicilline,active_ingredient,,amoxicilline
+entity,active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,,amoxicilline + acide clavulanique
+entity,active_ingredient_atenolol,active_ingredient,,aténolol
+entity,active_ingredient_azithromycine,active_ingredient,,azithromycine
+entity,active_ingredient_bisoprolol,active_ingredient,,bisoprolol
+entity,active_ingredient_cefixime,active_ingredient,,céfixime
+entity,active_ingredient_ceftriaxone,active_ingredient,,ceftriaxone
+entity,active_ingredient_cefuroxime,active_ingredient,,céfuroxime
+entity,active_ingredient_celecoxib,active_ingredient,,célécoxib
+entity,active_ingredient_ciprofloxacine,active_ingredient,,ciprofloxacine
+entity,active_ingredient_clarithromycine,active_ingredient,,clarithromycine
+entity,active_ingredient_clindamycine,active_ingredient,,clindamycine
+entity,active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,,cotrimoxazole (sulfaméthoxazole + triméthoprime)
+entity,active_ingredient_diclofenac,active_ingredient,,diclofénac
+entity,active_ingredient_doxycycline,active_ingredient,,doxycycline
+entity,active_ingredient_enalapril,active_ingredient,,énalapril
+entity,active_ingredient_gentamicine,active_ingredient,,gentamicine
+entity,active_ingredient_hydrochlorothiazide,active_ingredient,,hydrochlorothiazide
+entity,active_ingredient_ibuprofene,active_ingredient,,ibuprofène
+entity,active_ingredient_indapamide,active_ingredient,,indapamide
+entity,active_ingredient_ketoprofene,active_ingredient,,kétoprofène
+entity,active_ingredient_levofloxacine,active_ingredient,,lévofloxacine
+entity,active_ingredient_losartan,active_ingredient,,losartan
+entity,active_ingredient_meloxicam,active_ingredient,,méloxicam
+entity,active_ingredient_methyldopa,active_ingredient,,méthyldopa
+entity,active_ingredient_metronidazole,active_ingredient,,métronidazole
+entity,active_ingredient_naproxene,active_ingredient,,naproxène
+entity,active_ingredient_nebivolol,active_ingredient,,nébivolol
+entity,active_ingredient_nefopam,active_ingredient,,néfopam
+entity,active_ingredient_nifedipine,active_ingredient,,nifédipine
+entity,active_ingredient_paracetamol,active_ingredient,,paracétamol
+entity,active_ingredient_paracetamol_codeine,active_ingredient,,paracétamol + codéine
+entity,active_ingredient_perindopril,active_ingredient,,périndopril
+entity,active_ingredient_piroxicam,active_ingredient,,piroxicam
+entity,active_ingredient_ramipril,active_ingredient,,ramipril
+entity,active_ingredient_spironolactone,active_ingredient,,spironolactone
+entity,active_ingredient_tramadol,active_ingredient,,tramadol
+entity,active_ingredient_valsartan,active_ingredient,,valsartan
+entity,atc_code_c02ab01,atc_code,,C02AB01
+entity,atc_code_c03aa03,atc_code,,C03AA03
+entity,atc_code_c03ba11,atc_code,,C03BA11
+entity,atc_code_c03da01,atc_code,,C03DA01
+entity,atc_code_c07ab03,atc_code,,C07AB03
+entity,atc_code_c07ab07,atc_code,,C07AB07
+entity,atc_code_c07ab12,atc_code,,C07AB12
+entity,atc_code_c08ca01,atc_code,,C08CA01
+entity,atc_code_c08ca05,atc_code,,C08CA05
+entity,atc_code_c09aa02,atc_code,,C09AA02
+entity,atc_code_c09aa04,atc_code,,C09AA04
+entity,atc_code_c09aa05,atc_code,,C09AA05
+entity,atc_code_c09ca01,atc_code,,C09CA01
+entity,atc_code_c09ca03,atc_code,,C09CA03
+entity,atc_code_j01aa02,atc_code,,J01AA02
+entity,atc_code_j01ca04,atc_code,,J01CA04
+entity,atc_code_j01cr02,atc_code,,J01CR02
+entity,atc_code_j01dc02,atc_code,,J01DC02
+entity,atc_code_j01dd04,atc_code,,J01DD04
+entity,atc_code_j01dd08,atc_code,,J01DD08
+entity,atc_code_j01ee01,atc_code,,J01EE01
+entity,atc_code_j01fa09,atc_code,,J01FA09
+entity,atc_code_j01fa10,atc_code,,J01FA10
+entity,atc_code_j01ff01,atc_code,,J01FF01
+entity,atc_code_j01gb03,atc_code,,J01GB03
+entity,atc_code_j01ma02,atc_code,,J01MA02
+entity,atc_code_j01ma12,atc_code,,J01MA12
+entity,atc_code_j01xd01,atc_code,,J01XD01
+entity,atc_code_m01ab05,atc_code,,M01AB05
+entity,atc_code_m01ac01,atc_code,,M01AC01
+entity,atc_code_m01ac06,atc_code,,M01AC06
+entity,atc_code_m01ae01,atc_code,,M01AE01
+entity,atc_code_m01ae02,atc_code,,M01AE02
+entity,atc_code_m01ae03,atc_code,,M01AE03
+entity,atc_code_m01ah01,atc_code,,M01AH01
+entity,atc_code_n02aa59,atc_code,,N02AA59
+entity,atc_code_n02ax02,atc_code,,N02AX02
+entity,atc_code_n02ba01,atc_code,,N02BA01
+entity,atc_code_n02be01,atc_code,,N02BE01
+entity,atc_code_n02bg06,atc_code,,N02BG06
+entity,medicament_acepral,medicament,,ACEPRAL
+entity,medicament_adfen,medicament,,ADFEN
+entity,medicament_aldactone,medicament,,ALDACTONE
+entity,medicament_aldomet,medicament,,ALDOMET
+entity,medicament_amlibon,medicament,,AMLIBON
+entity,medicament_amlodal,medicament,,AMLODAL
+entity,medicament_amoxypen,medicament,,AMOXYPEN
+entity,medicament_angizar,medicament,,ANGIZAR
+entity,medicament_antapam,medicament,,ANTAPAM
+entity,medicament_arbitan,medicament,,ARBITAN
+entity,medicament_arbrex,medicament,,ARBREX
+entity,medicament_ariclare,medicament,,ARICLARE
+entity,medicament_aspegic,medicament,,ASPEGIC
+entity,medicament_aspigal,medicament,,ASPIGAL
+entity,medicament_aucune_specialite_a_base_de_nifedipine_n_est_enregistree_dans_la_nomenclature_algerienne_de_decembre_2025,medicament,,Aucune spécialité à base de nifédipine n’est enregistrée dans la nomenclature algérienne de décembre 2025
+entity,medicament_augmentin,medicament,,AUGMENTIN
+entity,medicament_azimycine,medicament,,AZIMYCINE
+entity,medicament_bactisol,medicament,,BACTISOL
+entity,medicament_bektal,medicament,,BEKTAL
+entity,medicament_binozyt,medicament,,BINOZYT
+entity,medicament_biopamox,medicament,,BIOPAMOX
+entity,medicament_biprotens,medicament,,BIPROTENS
+entity,medicament_bisoprolol_beker,medicament,,BISOPROLOL BEKER
+entity,medicament_calmofen,medicament,,CALMOFEN
+entity,medicament_cardinol_bgl,medicament,,CARDINOL BGL
+entity,medicament_cebrex,medicament,,CEBREX
+entity,medicament_cefimax,medicament,,CEFIMAX
+entity,medicament_cefrozine,medicament,,CEFROZINE
+entity,medicament_cefucare,medicament,,CEFUCARE
+entity,medicament_celebrex,medicament,,CELEBREX
+entity,medicament_cetrial,medicament,,CETRIAL
+entity,medicament_cetriaxone_hup,medicament,,CETRIAXONE HUP
+entity,medicament_cifloxacine,medicament,,CIFLOXACINE
+entity,medicament_ciprofloxal,medicament,,CIPROFLOXAL
+entity,medicament_ciprotek,medicament,,CIPROTEK
+entity,medicament_clamoxyl,medicament,,CLAMOXYL
+entity,medicament_claridar,medicament,,CLARIDAR
+entity,medicament_clarital,medicament,,CLARITAL
+entity,medicament_clavodex,medicament,,CLAVODEX
+entity,medicament_clean_acne,medicament,,CLEAN-ACNE
+entity,medicament_clinaram,medicament,,CLINARAM
+entity,medicament_clofenal,medicament,,CLOFENAL
+entity,medicament_codol,medicament,,CODOL
+entity,medicament_coexpandol,medicament,,COEXPANDOL
+entity,medicament_coparalgan,medicament,,COPARALGAN
+entity,medicament_cotrim,medicament,,COTRIM
+entity,medicament_cozzar,medicament,,COZZAR
+entity,medicament_cycladol,medicament,,CYCLADOL
+entity,medicament_daghtan,medicament,,DAGHTAN
+entity,medicament_daroxime,medicament,,DAROXIME
+entity,medicament_diclamid,medicament,,DICLAMID
+entity,medicament_diprim,medicament,,DIPRIM
+entity,medicament_divalan,medicament,,DIVALAN
+entity,medicament_dolex,medicament,,DOLEX
+entity,medicament_doli_bien,medicament,,DOLI-BIEN
+entity,medicament_dolyc,medicament,,DOLYC
+entity,medicament_dopamet,medicament,,DOPAMET
+entity,medicament_dotur,medicament,,DOTUR
+entity,medicament_doxynup,medicament,,DOXYNUP
+entity,medicament_efferalgan,medicament,,EFFERALGAN
+entity,medicament_enalapril_mylan,medicament,,ENALAPRIL MYLAN
+entity,medicament_enantum,medicament,,ENANTUM
+entity,medicament_everyl,medicament,,EVERYL
+entity,medicament_felcam_fast,medicament,,FELCAM FAST
+entity,medicament_fenoxam,medicament,,FENOXAM
+entity,medicament_fluterax,medicament,,FLUTERAX
+entity,medicament_genta_10,medicament,,GENTA 10
+entity,medicament_genta_40,medicament,,GENTA 40
+entity,medicament_gentaxyn,medicament,,GENTAXYN
+entity,medicament_hubifen,medicament,,HUBIFEN
+entity,medicament_ketomex,medicament,,KETOMEX
+entity,medicament_klavox,medicament,,KLAVOX
+entity,medicament_levoflox,medicament,,LEVOFLOX
+entity,medicament_levoquin,medicament,,LEVOQUIN
+entity,medicament_matador,medicament,,MATADOR
+entity,medicament_melox,medicament,,MELOX
+entity,medicament_methycare,medicament,,METHYCARE
+entity,medicament_metrozex,medicament,,METROZEX
+entity,medicament_naprolgic,medicament,,NAPROLGIC
+entity,medicament_naprox,medicament,,NAPROX
+entity,medicament_nebcar,medicament,,NEBCAR
+entity,medicament_nexopain,medicament,,NEXOPAIN
+entity,medicament_orokal,medicament,,OROKAL
+entity,medicament_oroken,medicament,,OROKEN
+entity,medicament_perindopril_beker,medicament,,PERINDOPRIL BEKER
+entity,medicament_preterax,medicament,,PRETERAX
+entity,medicament_profenid,medicament,,PROFENID
+entity,medicament_pylorix,medicament,,PYLORIX
+entity,medicament_ramipril_beker,medicament,,RAMIPRIL BEKER
+entity,medicament_ramitrim,medicament,,RAMITRIM
+entity,medicament_rozex,medicament,,ROZEX
+entity,medicament_spironolone,medicament,,SPIRONOLONE
+entity,medicament_spirozide,medicament,,SPIROZIDE
+entity,medicament_supramadol,medicament,,SUPRAMADOL
+entity,medicament_temerit,medicament,,TEMERIT
+entity,medicament_temerivol,medicament,,TEMERIVOL
+entity,medicament_tenormed,medicament,,TENORMED
+entity,medicament_tramadis,medicament,,TRAMADIS
+entity,medicament_valaclor,medicament,,VALACLOR
+entity,medicament_voltafene,medicament,,VOLTAFENE
+entity,medicament_xyline,medicament,,XYLINE
+entity,medicament_zafotriaxone,medicament,,ZAFOTRIAXONE
+entity,medicament_zetron,medicament,,ZETRON
+entity,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,,Antalgiques et anti-inflammatoires
+entity,therapeutic_class_antibiotiques,therapeutic_class,,Antibiotiques
+entity,therapeutic_class_antihypertenseurs,therapeutic_class,,Antihypertenseurs
