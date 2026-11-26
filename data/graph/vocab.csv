@@ -202,3 +202,7 @@ entity,medicament_zetron,medicament,,ZETRON
 entity,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,,Antalgiques et anti-inflammatoires
 entity,therapeutic_class_antibiotiques,therapeutic_class,,Antibiotiques
 entity,therapeutic_class_antihypertenseurs,therapeutic_class,,Antihypertenseurs
+entity,therapeutic_class_ains,therapeutic_class,,Anti-inflammatoires non stéroïdiens (AINS)
+entity,therapeutic_class_iec,therapeutic_class,,"Inhibiteurs de l'enzyme de conversion (IEC)"
+entity,therapeutic_class_ara2,therapeutic_class,,"Antagonistes des récepteurs de l'angiotensine II (ARA II)"
+entity,therapeutic_class_diuretiques_epargneurs_de_potassium,therapeutic_class,,Diurétiques épargneurs de potassium

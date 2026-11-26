@@ -106,6 +106,14 @@ class GraphTripleValidatorTests(unittest.TestCase):
             )
             self.assertIn(triple["object"], triple["passage"])
 
+    def test_p2_triples_match_the_vocabulary_and_sources(self):
+        triples_path = ROOT / "data" / "graph" / "triples_p2.csv"
+
+        errors, row_count = validate_triples(triples_path, DEFAULT_VOCABULARY)
+
+        self.assertEqual(errors, [])
+        self.assertEqual(row_count, 89)
+
     def test_rejects_an_invalid_subject_type_and_entity_id(self):
         row = dict(self.valid_row, subject_type="active_ingredient")
         self.write_triples(row)

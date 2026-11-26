@@ -60,6 +60,7 @@ pharma/
 │   ├── medicaments_clean.csv   # normalized nomenclature output
 │   ├── graph/
 │   │   ├── vocab.csv            # graph entity and relation vocabulary
+│   │   ├── triples_p2.csv       # P2 drug, brand, class, ATC, strength, and form triples
 │   │   ├── triples_template.csv # working triples for the graph
 │   │   ├── triples_sample.csv   # 10 sample triples from the nomenclature
 │   │   └── evidence_candidates.csv # source excerpts awaiting review
@@ -168,6 +169,7 @@ Validate a triples CSV from the repository root with:
 ```powershell
 python -m src.graph.check_triples
 python -m src.graph.check_triples data/graph/triples_sample.csv
+python -m src.graph.check_triples data/graph/triples_p2.csv
 ```
 
 The default command checks the working file. Pass a different
