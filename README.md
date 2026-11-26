@@ -60,7 +60,6 @@ pharma/
 │   ├── medicaments_clean.csv   # normalized nomenclature output
 │   ├── graph/
 │   │   ├── vocab.csv            # graph entity and relation vocabulary
-│   │   ├── triples_p2.csv       # P2 drug, brand, class, ATC, strength, and form triples
 │   │   ├── triples_template.csv # working triples for the graph
 │   │   ├── triples_sample.csv   # 10 sample triples from the nomenclature
 │   │   └── evidence_candidates.csv # source excerpts awaiting review
@@ -70,6 +69,8 @@ pharma/
 │   ├── graph/
 │   │   ├── extract_evidence_candidates.py # extract source excerpts for review
 │   │   └── check_triples.py    # validate triples against the vocabulary
+│   ├── reasoning/
+│   │   └── medicine_rules.py   # brand resolution and graph rule implementations
 │   ├── llm.py                  # Groq API call, retries, and response cache
 │   ├── collect/
 │   │   ├── scraper.py          # download helper with no import side effects
@@ -109,30 +110,36 @@ pharma/
 └── notebooks/                  # exploratory notebook workspace
 ```
 
-## Week 3 graph ontology
+## Knowledge graph ontology
 
-The starter ontology is in `data/graph/vocab.csv`. It defines the allowed
-entity types, relations, the entity types each relation can connect, and
-controlled entity IDs with readable labels. IDs use lowercase, unaccented
-ASCII words separated by underscores; literal values remain readable text.
-`data/graph/triples_template.csv` uses the columns
-`subject, subject_type, relation, object, object_type, source_file,
-authority_level, collected_on, passage`. The relation carries the relationship;
-there is no separate interaction-level column. `source_file` is repository
-relative, and each `passage` must be found in that file. `authority_level` is
-1–4. Leave `collected_on` blank only when the collection date is not known.
-The working file currently contains 318 nomenclature-based triples for all 40
-medicine records: brand names,
-indicative ATC codes, therapeutic classes, forms, and listed strengths.
-Forms and strengths are linked to active ingredients, not individual brands,
-because the source lists them at ingredient level. Each row keeps its source,
-authority level, collection date when known, and supporting passage. The 10 rows in
-`data/graph/triples_sample.csv` demonstrate the format. The working file is
-not yet a complete graph: indications, adverse effects, contraindications,
-and interactions still need review and normalization.
-`data/graph/evidence_candidates.csv` contains source excerpts found
-automatically for these topics. They are review material, not validated
-triples, so do not copy them into the working graph until checked.
+The knowledge graph is defined by `data/graph/vocab.csv`, which specifies
+allowed entity types, relations, and controlled entity identifiers. Identifiers
+use lowercase, unaccented ASCII words separated by underscores; readable text
+values, such as strengths or dosage forms, remain literal values.
+
+Graph triples use the following nine-column contract:
+
+```text
+subject, subject_type, relation, object, object_type, source_file,
+authority_level, collected_on, passage
+```
+
+Relations describe only the relationship itself; interaction severity is stored
+as part of the relation name. `source_file` is repository-relative, and every
+`passage` must appear in the referenced source. `authority_level` ranges from
+1 to 4. `collected_on` may be left blank when the collection date is unknown.
+
+The working nomenclature graph contains 318 triples covering 40 medicine
+records. It includes brand-to-active-ingredient mappings, ATC codes,
+therapeutic classes, strengths, and dosage forms. Strength and form attributes
+are associated with active ingredients rather than individual brands because
+the nomenclature records them at ingredient level.
+
+`data/graph/triples_sample.csv` demonstrates the CSV contract with 10 sample
+triples. `data/graph/evidence_candidates.csv` contains automatically extracted
+review excerpts for indications, adverse effects, contraindications, and
+interactions. Candidate excerpts are not validated triples and must be reviewed
+before inclusion in the working graph.
 
 ### Ontology summary
 
@@ -169,7 +176,6 @@ Validate a triples CSV from the repository root with:
 ```powershell
 python -m src.graph.check_triples
 python -m src.graph.check_triples data/graph/triples_sample.csv
-python -m src.graph.check_triples data/graph/triples_p2.csv
 ```
 
 The default command checks the working file. Pass a different

@@ -1,9 +1,11 @@
 import unittest
+from pathlib import Path
 
 import pandas as pd
 
-from src.normalize.normalizer import MedicineResolver
+from src.normalize.normalizer import MedicineResolver, normalize_name
 from src.normalizer import normalize_text
+from src.reasoning.medicine_rules import MedicineRules
 
 
 class MedicineResolverTests(unittest.TestCase):
@@ -36,6 +38,30 @@ class MedicineResolverTests(unittest.TestCase):
             pd.DataFrame([{"dci": "Paracetamol", "dosage_mg": 500, "form": "Tablet"}])
         )
         self.assertEqual(resolver.records[0].canonical_key, "paracetamol|500|tablet")
+
+
+class MedicineRuleTests(unittest.TestCase):
+    def setUp(self):
+        frame = pd.read_csv(Path(__file__).resolve().parents[1] / "data" / "medicaments_clean.csv")
+        self.resolver = MedicineResolver.from_dataframe(frame)
+        triples = Path(__file__).resolve().parents[1] / "data" / "graph" / "triples_p2.csv"
+        self.rules = MedicineRules(self.resolver, triples)
+
+    def test_r1_resolves_brand_and_stops_for_unknown(self):
+        resolved = self.rules.resolve_brand_to_drug("Clofenal")
+        self.assertEqual(resolved.status, "matched")
+        self.assertEqual(normalize_name(resolved.dci), "diclofenac")
+
+        stopped = self.rules.resolve_drug_names(["Clofenal", "invented-brand"])
+        self.assertEqual(stopped[-1].status, "unknown")
+
+    def test_r4_flags_same_dci_or_same_class(self):
+        same_class = self.rules.rule_r4("diclofénac", "ibuprofène")
+        self.assertTrue(same_class.same_class)
+        self.assertIn("therapeutic_class_ains", same_class.shared_classes)
+
+        same_dci = self.rules.rule_r4("diclofénac", "diclofenac")
+        self.assertTrue(same_dci.same_dci)
 
 
 class TextNormalizerTests(unittest.TestCase):
