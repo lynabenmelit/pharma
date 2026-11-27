@@ -1,0 +1,462 @@
+kind,name,domain,range,description
+entity_type,medicament,,,A commercial medicine or brand name found in a source.
+entity_type,active_ingredient,,,"A medicine's active substance, usually identified by its DCI."
+entity_type,therapeutic_class,,,A therapeutic class recorded in the nomenclature.
+entity_type,indication,,,A condition or symptom a source says a medicine is used for.
+entity_type,adverse_effect,,,An unwanted effect reported by a source.
+entity_type,contraindication,,,A condition or situation in which a source says a medicine must not be used.
+entity_type,atc_code,,,An ATC classification code.
+entity_type,literal,,,A text value such as a strength or dosage form.
+predicate,brand_of,medicament,active_ingredient,A commercial medicine name associated with an active ingredient.
+predicate,has_atc,active_ingredient,atc_code,The ATC code listed for an active ingredient.
+predicate,belongs_to,active_ingredient,therapeutic_class,The therapeutic class listed for an active ingredient.
+predicate,has_strength,active_ingredient,literal,The strength listed for an active ingredient in the nomenclature; not brand-specific.
+predicate,has_form,active_ingredient,literal,The form listed for an active ingredient in the nomenclature; not brand-specific.
+predicate,indicated_for,medicament,indication,An indication stated by a source.
+predicate,may_cause,medicament,adverse_effect,An adverse effect stated by a source.
+predicate,contraindicated_in,medicament,contraindication,A contraindication stated by a source.
+predicate,interacts_with,active_ingredient,active_ingredient,An interaction stated between active ingredients.
+entity,active_ingredient_acide_acetylsalicylique,active_ingredient,,acide acétylsalicylique
+entity,active_ingredient_amlodipine,active_ingredient,,amlodipine
+entity,active_ingredient_amoxicilline,active_ingredient,,amoxicilline
+entity,active_ingredient_amoxicilline_acide_clavulanique,active_ingredient,,amoxicilline + acide clavulanique
+entity,active_ingredient_atenolol,active_ingredient,,aténolol
+entity,active_ingredient_azithromycine,active_ingredient,,azithromycine
+entity,active_ingredient_bisoprolol,active_ingredient,,bisoprolol
+entity,active_ingredient_cefixime,active_ingredient,,céfixime
+entity,active_ingredient_ceftriaxone,active_ingredient,,ceftriaxone
+entity,active_ingredient_cefuroxime,active_ingredient,,céfuroxime
+entity,active_ingredient_celecoxib,active_ingredient,,célécoxib
+entity,active_ingredient_ciprofloxacine,active_ingredient,,ciprofloxacine
+entity,active_ingredient_clarithromycine,active_ingredient,,clarithromycine
+entity,active_ingredient_clindamycine,active_ingredient,,clindamycine
+entity,active_ingredient_cotrimoxazole_sulfamethoxazole_trimethoprime,active_ingredient,,cotrimoxazole (sulfaméthoxazole + triméthoprime)
+entity,active_ingredient_diclofenac,active_ingredient,,diclofénac
+entity,active_ingredient_doxycycline,active_ingredient,,doxycycline
+entity,active_ingredient_enalapril,active_ingredient,,énalapril
+entity,active_ingredient_gentamicine,active_ingredient,,gentamicine
+entity,active_ingredient_hydrochlorothiazide,active_ingredient,,hydrochlorothiazide
+entity,active_ingredient_ibuprofene,active_ingredient,,ibuprofène
+entity,active_ingredient_indapamide,active_ingredient,,indapamide
+entity,active_ingredient_ketoprofene,active_ingredient,,kétoprofène
+entity,active_ingredient_levofloxacine,active_ingredient,,lévofloxacine
+entity,active_ingredient_losartan,active_ingredient,,losartan
+entity,active_ingredient_meloxicam,active_ingredient,,méloxicam
+entity,active_ingredient_methyldopa,active_ingredient,,méthyldopa
+entity,active_ingredient_metronidazole,active_ingredient,,métronidazole
+entity,active_ingredient_naproxene,active_ingredient,,naproxène
+entity,active_ingredient_nebivolol,active_ingredient,,nébivolol
+entity,active_ingredient_nefopam,active_ingredient,,néfopam
+entity,active_ingredient_nifedipine,active_ingredient,,nifédipine
+entity,active_ingredient_paracetamol,active_ingredient,,paracétamol
+entity,active_ingredient_paracetamol_codeine,active_ingredient,,paracétamol + codéine
+entity,active_ingredient_perindopril,active_ingredient,,périndopril
+entity,active_ingredient_piroxicam,active_ingredient,,piroxicam
+entity,active_ingredient_ramipril,active_ingredient,,ramipril
+entity,active_ingredient_spironolactone,active_ingredient,,spironolactone
+entity,active_ingredient_tramadol,active_ingredient,,tramadol
+entity,active_ingredient_valsartan,active_ingredient,,valsartan
+entity,atc_code_c02ab01,atc_code,,C02AB01
+entity,atc_code_c03aa03,atc_code,,C03AA03
+entity,atc_code_c03ba11,atc_code,,C03BA11
+entity,atc_code_c03da01,atc_code,,C03DA01
+entity,atc_code_c07ab03,atc_code,,C07AB03
+entity,atc_code_c07ab07,atc_code,,C07AB07
+entity,atc_code_c07ab12,atc_code,,C07AB12
+entity,atc_code_c08ca01,atc_code,,C08CA01
+entity,atc_code_c08ca05,atc_code,,C08CA05
+entity,atc_code_c09aa02,atc_code,,C09AA02
+entity,atc_code_c09aa04,atc_code,,C09AA04
+entity,atc_code_c09aa05,atc_code,,C09AA05
+entity,atc_code_c09ca01,atc_code,,C09CA01
+entity,atc_code_c09ca03,atc_code,,C09CA03
+entity,atc_code_j01aa02,atc_code,,J01AA02
+entity,atc_code_j01ca04,atc_code,,J01CA04
+entity,atc_code_j01cr02,atc_code,,J01CR02
+entity,atc_code_j01dc02,atc_code,,J01DC02
+entity,atc_code_j01dd04,atc_code,,J01DD04
+entity,atc_code_j01dd08,atc_code,,J01DD08
+entity,atc_code_j01ee01,atc_code,,J01EE01
+entity,atc_code_j01fa09,atc_code,,J01FA09
+entity,atc_code_j01fa10,atc_code,,J01FA10
+entity,atc_code_j01ff01,atc_code,,J01FF01
+entity,atc_code_j01gb03,atc_code,,J01GB03
+entity,atc_code_j01ma02,atc_code,,J01MA02
+entity,atc_code_j01ma12,atc_code,,J01MA12
+entity,atc_code_j01xd01,atc_code,,J01XD01
+entity,atc_code_m01ab05,atc_code,,M01AB05
+entity,atc_code_m01ac01,atc_code,,M01AC01
+entity,atc_code_m01ac06,atc_code,,M01AC06
+entity,atc_code_m01ae01,atc_code,,M01AE01
+entity,atc_code_m01ae02,atc_code,,M01AE02
+entity,atc_code_m01ae03,atc_code,,M01AE03
+entity,atc_code_m01ah01,atc_code,,M01AH01
+entity,atc_code_n02aa59,atc_code,,N02AA59
+entity,atc_code_n02ax02,atc_code,,N02AX02
+entity,atc_code_n02ba01,atc_code,,N02BA01
+entity,atc_code_n02be01,atc_code,,N02BE01
+entity,atc_code_n02bg06,atc_code,,N02BG06
+entity,medicament_acepral,medicament,,ACEPRAL
+entity,medicament_adfen,medicament,,ADFEN
+entity,medicament_aldactone,medicament,,ALDACTONE
+entity,medicament_aldomet,medicament,,ALDOMET
+entity,medicament_amlibon,medicament,,AMLIBON
+entity,medicament_amlodal,medicament,,AMLODAL
+entity,medicament_amoxypen,medicament,,AMOXYPEN
+entity,medicament_angizar,medicament,,ANGIZAR
+entity,medicament_antapam,medicament,,ANTAPAM
+entity,medicament_arbitan,medicament,,ARBITAN
+entity,medicament_arbrex,medicament,,ARBREX
+entity,medicament_ariclare,medicament,,ARICLARE
+entity,medicament_aspegic,medicament,,ASPEGIC
+entity,medicament_aspigal,medicament,,ASPIGAL
+entity,medicament_aucune_specialite_a_base_de_nifedipine_n_est_enregistree_dans_la_nomenclature_algerienne_de_decembre_2025,medicament,,Aucune spécialité à base de nifédipine n’est enregistrée dans la nomenclature algérienne de décembre 2025
+entity,medicament_augmentin,medicament,,AUGMENTIN
+entity,medicament_azimycine,medicament,,AZIMYCINE
+entity,medicament_bactisol,medicament,,BACTISOL
+entity,medicament_bektal,medicament,,BEKTAL
+entity,medicament_binozyt,medicament,,BINOZYT
+entity,medicament_biopamox,medicament,,BIOPAMOX
+entity,medicament_biprotens,medicament,,BIPROTENS
+entity,medicament_bisoprolol_beker,medicament,,BISOPROLOL BEKER
+entity,medicament_calmofen,medicament,,CALMOFEN
+entity,medicament_cardinol_bgl,medicament,,CARDINOL BGL
+entity,medicament_cebrex,medicament,,CEBREX
+entity,medicament_cefimax,medicament,,CEFIMAX
+entity,medicament_cefrozine,medicament,,CEFROZINE
+entity,medicament_cefucare,medicament,,CEFUCARE
+entity,medicament_celebrex,medicament,,CELEBREX
+entity,medicament_cetrial,medicament,,CETRIAL
+entity,medicament_cetriaxone_hup,medicament,,CETRIAXONE HUP
+entity,medicament_cifloxacine,medicament,,CIFLOXACINE
+entity,medicament_ciprofloxal,medicament,,CIPROFLOXAL
+entity,medicament_ciprotek,medicament,,CIPROTEK
+entity,medicament_clamoxyl,medicament,,CLAMOXYL
+entity,medicament_claridar,medicament,,CLARIDAR
+entity,medicament_clarital,medicament,,CLARITAL
+entity,medicament_clavodex,medicament,,CLAVODEX
+entity,medicament_clean_acne,medicament,,CLEAN-ACNE
+entity,medicament_clinaram,medicament,,CLINARAM
+entity,medicament_clofenal,medicament,,CLOFENAL
+entity,medicament_codol,medicament,,CODOL
+entity,medicament_coexpandol,medicament,,COEXPANDOL
+entity,medicament_coparalgan,medicament,,COPARALGAN
+entity,medicament_cotrim,medicament,,COTRIM
+entity,medicament_cozzar,medicament,,COZZAR
+entity,medicament_cycladol,medicament,,CYCLADOL
+entity,medicament_daghtan,medicament,,DAGHTAN
+entity,medicament_daroxime,medicament,,DAROXIME
+entity,medicament_diclamid,medicament,,DICLAMID
+entity,medicament_diprim,medicament,,DIPRIM
+entity,medicament_divalan,medicament,,DIVALAN
+entity,medicament_dolex,medicament,,DOLEX
+entity,medicament_doli_bien,medicament,,DOLI-BIEN
+entity,medicament_dolyc,medicament,,DOLYC
+entity,medicament_dopamet,medicament,,DOPAMET
+entity,medicament_dotur,medicament,,DOTUR
+entity,medicament_doxynup,medicament,,DOXYNUP
+entity,medicament_efferalgan,medicament,,EFFERALGAN
+entity,medicament_enalapril_mylan,medicament,,ENALAPRIL MYLAN
+entity,medicament_enantum,medicament,,ENANTUM
+entity,medicament_everyl,medicament,,EVERYL
+entity,medicament_felcam_fast,medicament,,FELCAM FAST
+entity,medicament_fenoxam,medicament,,FENOXAM
+entity,medicament_fluterax,medicament,,FLUTERAX
+entity,medicament_genta_10,medicament,,GENTA 10
+entity,medicament_genta_40,medicament,,GENTA 40
+entity,medicament_gentaxyn,medicament,,GENTAXYN
+entity,medicament_hubifen,medicament,,HUBIFEN
+entity,medicament_ketomex,medicament,,KETOMEX
+entity,medicament_klavox,medicament,,KLAVOX
+entity,medicament_levoflox,medicament,,LEVOFLOX
+entity,medicament_levoquin,medicament,,LEVOQUIN
+entity,medicament_matador,medicament,,MATADOR
+entity,medicament_melox,medicament,,MELOX
+entity,medicament_methycare,medicament,,METHYCARE
+entity,medicament_metrozex,medicament,,METROZEX
+entity,medicament_naprolgic,medicament,,NAPROLGIC
+entity,medicament_naprox,medicament,,NAPROX
+entity,medicament_nebcar,medicament,,NEBCAR
+entity,medicament_nexopain,medicament,,NEXOPAIN
+entity,medicament_orokal,medicament,,OROKAL
+entity,medicament_oroken,medicament,,OROKEN
+entity,medicament_perindopril_beker,medicament,,PERINDOPRIL BEKER
+entity,medicament_preterax,medicament,,PRETERAX
+entity,medicament_profenid,medicament,,PROFENID
+entity,medicament_pylorix,medicament,,PYLORIX
+entity,medicament_ramipril_beker,medicament,,RAMIPRIL BEKER
+entity,medicament_ramitrim,medicament,,RAMITRIM
+entity,medicament_rozex,medicament,,ROZEX
+entity,medicament_spironolone,medicament,,SPIRONOLONE
+entity,medicament_spirozide,medicament,,SPIROZIDE
+entity,medicament_supramadol,medicament,,SUPRAMADOL
+entity,medicament_temerit,medicament,,TEMERIT
+entity,medicament_temerivol,medicament,,TEMERIVOL
+entity,medicament_tenormed,medicament,,TENORMED
+entity,medicament_tramadis,medicament,,TRAMADIS
+entity,medicament_valaclor,medicament,,VALACLOR
+entity,medicament_voltafene,medicament,,VOLTAFENE
+entity,medicament_xyline,medicament,,XYLINE
+entity,medicament_zafotriaxone,medicament,,ZAFOTRIAXONE
+entity,medicament_zetron,medicament,,ZETRON
+entity,therapeutic_class_antalgiques_et_anti_inflammatoires,therapeutic_class,,Antalgiques et anti-inflammatoires
+entity,therapeutic_class_antibiotiques,therapeutic_class,,Antibiotiques
+entity,therapeutic_class_antihypertenseurs,therapeutic_class,,Antihypertenseurs
+entity,therapeutic_class_ains,therapeutic_class,,Anti-inflammatoires non stéroïdiens (AINS)
+entity,therapeutic_class_iec,therapeutic_class,,"Inhibiteurs de l'enzyme de conversion (IEC)"
+entity,therapeutic_class_ara2,therapeutic_class,,"Antagonistes des récepteurs de l'angiotensine II (ARA II)"
+entity,therapeutic_class_diuretiques_epargneurs_de_potassium,therapeutic_class,,Diurétiques épargneurs de potassium
+entity,adverse_effect_abdominal_pain,adverse_effect,,abdominal pain
+entity,adverse_effect_acidose_metabolique,adverse_effect,,acidose métabolique
+entity,adverse_effect_acute_generalized_erythematous_pustulosis,adverse_effect,,acute generalized erythematous pustulosis
+entity,adverse_effect_agep,adverse_effect,,agep
+entity,adverse_effect_agranulocytosis,adverse_effect,,agranulocytosis
+entity,adverse_effect_allergic_skin_reaction,adverse_effect,,allergic skin reaction
+entity,adverse_effect_allongement_du_saignement,adverse_effect,,allongement du saignement
+entity,adverse_effect_anaphylactic_reaction,adverse_effect,,anaphylactic reaction
+entity,adverse_effect_anaphylaxie,adverse_effect,,anaphylaxie
+entity,adverse_effect_angio_oedeme,adverse_effect,,angio-oedème
+entity,adverse_effect_asthme,adverse_effect,,asthme
+entity,adverse_effect_atteinte_renale,adverse_effect,,atteinte rénale
+entity,adverse_effect_bilirubin_encephalopathy,adverse_effect,,bilirubin encephalopathy
+entity,adverse_effect_bouffee_vasomotrice,adverse_effect,,bouffée vasomotrice
+entity,adverse_effect_bronchospasme,adverse_effect,,bronchospasme
+entity,adverse_effect_cardiac_failure,adverse_effect,,cardiac failure
+entity,adverse_effect_central_nervous_system_effect,adverse_effect,,central nervous system effects
+entity,adverse_effect_cephalee,adverse_effect,,céphalée
+entity,adverse_effect_choc_anaphylactique,adverse_effect,,choc anaphylactique
+entity,adverse_effect_clostridioide_difficile_infection,adverse_effect,,clostridioides difficile infection
+entity,adverse_effect_clostridium_difficile_associated_diarrhea,adverse_effect,,clostridium difficile-associated diarrhea
+entity,adverse_effect_colitis,adverse_effect,,colitis
+entity,adverse_effect_complication_gastro_intestinale,adverse_effect,,complication gastro-intestinale
+entity,adverse_effect_crise_d_asthme,adverse_effect,,crise d'asthme
+entity,adverse_effect_desequilibre_electrolytique,adverse_effect,,déséquilibre électrolytique
+entity,adverse_effect_diarrhea,adverse_effect,,diarrhea
+entity,adverse_effect_douleur_abdominale,adverse_effect,,douleur abdominale
+entity,adverse_effect_dress,adverse_effect,,dress
+entity,adverse_effect_drug_induced_enterocolitis_syndrome,adverse_effect,,drug-induced enterocolitis syndrome
+entity,adverse_effect_dysfonctionnement_renal,adverse_effect,,dysfonctionnement rénal
+entity,adverse_effect_enterocolitis_syndrome,adverse_effect,,enterocolitis syndrome
+entity,adverse_effect_erytheme,adverse_effect,,érythème
+entity,adverse_effect_evenement_gastro_intestinal,adverse_effect,,événement gastro-intestinal
+entity,adverse_effect_fermeture_du_canal_arteriel,adverse_effect,,fermeture du canal artériel
+entity,adverse_effect_fertilite,adverse_effect,,fertilité
+entity,adverse_effect_fulminant_hepatic_necrosis,adverse_effect,,fulminant hepatic necrosis
+entity,adverse_effect_gastrointestinal_side_effect,adverse_effect,,gastrointestinal side effect
+entity,adverse_effect_hemorragie,adverse_effect,,hémorragie
+entity,adverse_effect_hepatotoxicite,adverse_effect,,hépatotoxicité
+entity,adverse_effect_hepatotoxicity,adverse_effect,,hepatotoxicity
+entity,adverse_effect_hyperkaliemie,adverse_effect,,hyperkaliémie
+entity,adverse_effect_hypersensitivity_reaction,adverse_effect,,hypersensitivity reaction
+entity,adverse_effect_hypertension_pulmonaire,adverse_effect,,hypertension pulmonaire
+entity,adverse_effect_hypotension,adverse_effect,,hypotension
+entity,adverse_effect_immunodepression,adverse_effect,,immunodépression
+entity,adverse_effect_infantile_hypertrophic_pyloric_stenosis,adverse_effect,,infantile hypertrophic pyloric stenosis
+entity,adverse_effect_insuffisance_hepatique,adverse_effect,,insuffisance hépatique
+entity,adverse_effect_irritation_cutanee,adverse_effect,,irritation cutanée
+entity,adverse_effect_liver_function_test_abnormal,adverse_effect,,liver function tests abnormal
+entity,adverse_effect_mort_foetale,adverse_effect,,mort foetale
+entity,adverse_effect_myasthenia_gravis,adverse_effect,,myasthenia gravis
+entity,adverse_effect_myocardial_depression,adverse_effect,,myocardial depression
+entity,adverse_effect_nausea,adverse_effect,,nausea
+entity,adverse_effect_nausee,adverse_effect,,nausée
+entity,adverse_effect_necrose_hepatique,adverse_effect,,nécrose hépatique
+entity,adverse_effect_neutropenie,adverse_effect,,neutropénie
+entity,adverse_effect_neutrophilic_dermatosis,adverse_effect,,neutrophilic dermatosis
+entity,adverse_effect_palpitation,adverse_effect,,palpitation
+entity,adverse_effect_perforation,adverse_effect,,perforation
+entity,adverse_effect_peripheral_neuropathy,adverse_effect,,peripheral neuropathy
+entity,adverse_effect_photosensibilite,adverse_effect,,photosensibilité
+entity,adverse_effect_precipitation,adverse_effect,,precipitation
+entity,adverse_effect_prurit,adverse_effect,,prurit
+entity,adverse_effect_pustulose_exanthematique_aigue_generalisee,adverse_effect,,pustulose exanthématique aiguë généralisée
+entity,adverse_effect_qt_prolongation,adverse_effect,,qt prolongation
+entity,adverse_effect_rash,adverse_effect,,rash
+entity,adverse_effect_reaction_allergique,adverse_effect,,réaction allergique
+entity,adverse_effect_reaction_cutanee,adverse_effect,,réaction cutanée
+entity,adverse_effect_reaction_dermatologique,adverse_effect,,réaction dermatologique
+entity,adverse_effect_saignement_menstruel,adverse_effect,,saignement menstruel
+entity,adverse_effect_somnolence,adverse_effect,,somnolence
+entity,adverse_effect_steven_johnson_syndrome,adverse_effect,,stevens-johnson syndrome
+entity,adverse_effect_syndrome_de_lyell,adverse_effect,,syndrome de lyell
+entity,adverse_effect_syndrome_de_reye,adverse_effect,,syndrome de reye
+entity,adverse_effect_syndrome_de_steven_johnson,adverse_effect,,syndrome de stevens-johnson
+entity,adverse_effect_syndrome_serotoninergique,adverse_effect,,syndrome sérotoninergique
+entity,adverse_effect_tendinitis,adverse_effect,,tendinitis
+entity,adverse_effect_tendon_rupture,adverse_effect,,tendon rupture
+entity,adverse_effect_torsade_de_pointe,adverse_effect,,torsades de pointes
+entity,adverse_effect_toxic_epidermal_necrolysis,adverse_effect,,toxic epidermal necrolysis
+entity,adverse_effect_toxicite_cardio_pulmonaire,adverse_effect,,toxicité cardio-pulmonaire
+entity,adverse_effect_toxicite_locale,adverse_effect,,toxicité locale
+entity,adverse_effect_ulcere,adverse_effect,,ulcère
+entity,adverse_effect_vertige,adverse_effect,,vertige
+entity,adverse_effect_vomiting,adverse_effect,,vomiting
+entity,contraindication_agep,contraindication,,agep
+entity,contraindication_allaitement,contraindication,,allaitement
+entity,contraindication_allergie,contraindication,,allergie
+entity,contraindication_allergie_au_ble,contraindication,,allergie au blé
+entity,contraindication_allergie_cutanee,contraindication,,allergie cutanée
+entity,contraindication_antecedent_allergique,contraindication,,antécédents allergiques
+entity,contraindication_asthme,contraindication,,asthme
+entity,contraindication_brulure,contraindication,,brûlure
+entity,contraindication_calcium_infusion,contraindication,,calcium infusion
+entity,contraindication_cardiac_failure,contraindication,,cardiac failure
+entity,contraindication_cardiogenic_shock,contraindication,,cardiogenic shock
+entity,contraindication_choc,contraindication,,choc
+entity,contraindication_cholestatic_jaundice,contraindication,,cholestatic jaundice
+entity,contraindication_dermatose_suintante,contraindication,,dermatose suintante
+entity,contraindication_diathese_hemorragique,contraindication,,diathèse hémorragique
+entity,contraindication_eczema,contraindication,,eczéma
+entity,contraindication_enfant,contraindication,,enfant
+entity,contraindication_grossesse,contraindication,,grossesse
+entity,contraindication_heart_block,contraindication,,heart block
+entity,contraindication_hemophilie,contraindication,,hémophilie
+entity,contraindication_hemorragie,contraindication,,hémorragie
+entity,contraindication_hemorragie_gastro_intestinale,contraindication,,hémorragie gastro-intestinale
+entity,contraindication_hepatic_damage,contraindication,,hepatic damage
+entity,contraindication_hepatic_dysfunction,contraindication,,hepatic dysfunction
+entity,contraindication_hepatite_aigue,contraindication,,hépatite aiguë
+entity,contraindication_hypersensibilite,contraindication,,hypersensibilité
+entity,contraindication_hypersensitivity,contraindication,,hypersensitivity
+entity,contraindication_hypotension,contraindication,,hypotension
+entity,contraindication_infant,contraindication,,infants
+entity,contraindication_insuffisance_cardiaque,contraindication,,insuffisance cardiaque
+entity,contraindication_insuffisance_hepatique,contraindication,,insuffisance hépatique
+entity,contraindication_insuffisance_hepatique_severe,contraindication,,insuffisance hépatique sévère
+entity,contraindication_insuffisance_renale_severe,contraindication,,insuffisance rénale sévère
+entity,contraindication_lesion_infectee,contraindication,,lésion infectée
+entity,contraindication_megaloblastic_anemia,contraindication,,megaloblastic anemia
+entity,contraindication_myasthenia_gravis,contraindication,,myasthenia gravis
+entity,contraindication_neonate,contraindication,,neonate
+entity,contraindication_nonbacterial_infection,contraindication,,nonbacterial infection
+entity,contraindication_obstruction_du_ventricule_gauche,contraindication,,obstruction du ventricule gauche
+entity,contraindication_peau_lesee,contraindication,,peau lésée
+entity,contraindication_perforation_digestive,contraindication,,perforation digestive
+entity,contraindication_perforation_gastro_intestinale,contraindication,,perforation gastro-intestinale
+entity,contraindication_photosensibilite,contraindication,,photosensibilité
+entity,contraindication_plaie,contraindication,,plaie
+entity,contraindication_premature_neonate,contraindication,,premature neonate
+entity,contraindication_pustulose_exanthematique_aigue_generalisee,contraindication,,pustulose exanthématique aiguë généralisée
+entity,contraindication_reaction_allergique_grave,contraindication,,réaction allergique grave
+entity,contraindication_rhinite_allergique,contraindication,,rhinite allergique
+entity,contraindication_saignement_gastro_intestinal,contraindication,,saignement gastro-intestinal
+entity,contraindication_severe_renal_insufficiency,contraindication,,severe renal insufficiency
+entity,contraindication_sinus_bradycardia,contraindication,,sinus bradycardia
+entity,contraindication_syndrome_de_lyell,contraindication,,syndrome de lyell
+entity,contraindication_syndrome_de_steven_johnson,contraindication,,syndrome de stevens-johnson
+entity,contraindication_thrombocytopenie,contraindication,,thrombocytopénie
+entity,contraindication_trouble_de_la_coagulation,contraindication,,troubles de la coagulation
+entity,contraindication_ulcere_gastroduodenal,contraindication,,ulcère gastroduodénal
+entity,contraindication_ulcere_peptique,contraindication,,ulcère peptique
+entity,indication_accident_ischemique_transitoire,indication,,accident ischémique transitoire
+entity,indication_accident_vasculaire_cerebral,indication,,accident vasculaire cérébral
+entity,indication_acne,indication,,acné
+entity,indication_acute_myocardial_infarction,indication,,acute myocardial infarction
+entity,indication_affection_rhumatismale_chronique,indication,,affection rhumatismale chronique
+entity,indication_amibiase,indication,,amibiase
+entity,indication_angina_pectoris,indication,,angina pectoris
+entity,indication_angioplastie_coronaire,indication,,angioplastie coronaire
+entity,indication_angor_chronique_stable,indication,,angor chronique stable
+entity,indication_angor_instable,indication,,angor instable
+entity,indication_angor_vasospastique,indication,,angor vasospastique
+entity,indication_arthrose,indication,,arthrose
+entity,indication_arthrose_petite_articulation,indication,,arthrose petite articulation
+entity,indication_atteinte_renale,indication,,atteinte rénale
+entity,indication_bacterial_infection,indication,,bacterial infection
+entity,indication_bone_infection,indication,,bone infection
+entity,indication_bronchitis,indication,,bronchitis
+entity,indication_broncho_pneumopathie_chronique_obstructive,indication,,broncho-pneumopathie chronique obstructive
+entity,indication_cephalee,indication,,céphalée
+entity,indication_cervicitis,indication,,cervicitis
+entity,indication_chronic_bronchitis,indication,,chronic bronchitis
+entity,indication_contusion,indication,,contusion
+entity,indication_cystite_aigue,indication,,cystite aiguë
+entity,indication_cystitis,indication,,cystitis
+entity,indication_diarrhea,indication,,diarrhea
+entity,indication_douleur_aigue,indication,,douleur aiguë
+entity,indication_douleur_dentaire,indication,,douleur dentaire
+entity,indication_douleur_moderee,indication,,douleur modérée
+entity,indication_douleur_post_operatoire,indication,,douleur post-opératoire
+entity,indication_duodenal_ulcer_disease,indication,,duodenal ulcer disease
+entity,indication_ear_infection,indication,,ear infection
+entity,indication_entorse,indication,,entorse
+entity,indication_fievre,indication,,fièvre
+entity,indication_genital_ulcer_disease,indication,,genital ulcer disease
+entity,indication_genitourinary_infection,indication,,genitourinary infection
+entity,indication_h_pylori_infection,indication,,h. pylori infection
+entity,indication_hypertension,indication,,hypertension
+entity,indication_hypertension_arterielle_essentielle,indication,,hypertension artérielle essentielle
+entity,indication_infarctus_du_myocarde,indication,,infarctus du myocarde
+entity,indication_infection,indication,,infection
+entity,indication_infection_anaerobie,indication,,infection anaérobie
+entity,indication_infection_bacterienne,indication,,infection bactérienne
+entity,indication_infection_bacterienne_aigue,indication,,infection bactérienne aiguë
+entity,indication_infection_broncho_pulmonaire,indication,,infection broncho-pulmonaire
+entity,indication_infection_cutanee,indication,,infection cutanée
+entity,indication_infection_generale,indication,,infection générale
+entity,indication_infection_genitale,indication,,infection génitale
+entity,indication_infection_oculaire,indication,,infection oculaire
+entity,indication_infection_respiratoire,indication,,infection respiratoire
+entity,indication_infection_respiratoire_basse,indication,,infection respiratoire basse
+entity,indication_infection_urinaire,indication,,infection urinaire
+entity,indication_infection_virale,indication,,infection virale
+entity,indication_infection_virale_aigue,indication,,infection virale aiguë
+entity,indication_insuffisance_cardiaque,indication,,insuffisance cardiaque
+entity,indication_insuffisance_cardiaque_chronique,indication,,insuffisance cardiaque chronique
+entity,indication_intra_abdominal_infection,indication,,intra-abdominal infection
+entity,indication_lambliase,indication,,lambliase
+entity,indication_lombalgie,indication,,lombalgie
+entity,indication_lombalgie_aigue,indication,,lombalgie aiguë
+entity,indication_lower_respiratory_infection,indication,,lower respiratory infection
+entity,indication_lower_respiratory_tract_infection,indication,,lower respiratory tract infection
+entity,indication_maladie_rhumatismale_inflammatoire,indication,,maladie rhumatismale inflammatoire
+entity,indication_morbidite_cardiovasculaire,indication,,morbidité cardiovasculaire
+entity,indication_nose_infection,indication,,nose infection
+entity,indication_occlusion_du_greffon,indication,,occlusion du greffon
+entity,indication_otite_moyenne_chronique_purulente,indication,,otite moyenne chronique purulente
+entity,indication_otitis_media,indication,,otitis media
+entity,indication_pneumonia,indication,,pneumonia
+entity,indication_pneumonie,indication,,pneumonie
+entity,indication_polyarthrite_rhumatoide,indication,,polyarthrite rhumatoïde
+entity,indication_poussee_aigue,indication,,poussées aiguës
+entity,indication_poussee_dentaire,indication,,poussée dentaire
+entity,indication_rosacee,indication,,rosacée
+entity,indication_shigellosis,indication,,shigellosis
+entity,indication_sinusite_chronique_aigue,indication,,sinusite chronique aiguë
+entity,indication_sinusitis,indication,,sinusitis
+entity,indication_skin_infection,indication,,skin infection
+entity,indication_spondylarthrite_ankylosante,indication,,spondylarthrite ankylosante
+entity,indication_tendinite_superficielle,indication,,tendinite superficielle
+entity,indication_throat_infection,indication,,throat infection
+entity,indication_traveler_diarrhea,indication,,travelers' diarrhea
+entity,indication_traveler_s_diarrhea,indication,,traveler's diarrhea
+entity,indication_trichomona_vaginalis,indication,,trichomonas vaginalis
+entity,indication_trichomonase_urogenitale,indication,,trichomonase urogénitale
+entity,indication_typhoid_fever,indication,,typhoid fever
+entity,indication_urethrite,indication,,urethrite
+entity,indication_urethritis,indication,,urethritis
+entity,indication_vaginite,indication,,vaginite
+entity,indication_vaginite_non_specifique,indication,,vaginite non spécifique
+entity,indication_veinite_post_sclerotherapie,indication,,veinite post-sclérothérapie
+entity,medicament_acide_acetylsalicylique,medicament,,acide acétylsalicylique
+entity,medicament_all,medicament,,all
+entity,medicament_amlodipine,medicament,,amlodipine
+entity,medicament_amoxicillin,medicament,,amoxicillin
+entity,medicament_atenolol,medicament,,aténolol
+entity,medicament_ceftriaxone,medicament,,ceftriaxone
+entity,medicament_celecoxib,medicament,,célécoxib
+entity,medicament_ciprofloxacin,medicament,,ciprofloxacin
+entity,medicament_ciprofloxacine,medicament,,ciprofloxacine
+entity,medicament_clindamycine,medicament,,clindamycine
+entity,medicament_cotrimoxazole_sulfamethoxazole_trimethoprime,medicament,,cotrimoxazole (sulfaméthoxazole + triméthoprime)
+entity,medicament_dailymed,medicament,,dailymed
+entity,medicament_diclofenac,medicament,,diclofenac
+entity,medicament_doxycycline,medicament,,doxycycline
+entity,medicament_ibuprofen,medicament,,ibuprofen
+entity,medicament_ketoprofene,medicament,,ketoprofene
+entity,medicament_losartan,medicament,,losartan
+entity,medicament_metronidazole,medicament,,metronidazole
+entity,medicament_nefopam,medicament,,nefopam
+entity,medicament_paracetamol,medicament,,paracétamol
+entity,medicament_paracetamol_codeine,medicament,,paracétamol + codéine
+entity,medicament_piroxicam,medicament,,piroxicam
