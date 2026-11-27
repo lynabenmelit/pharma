@@ -68,6 +68,9 @@ pharma/
 │   │   ├── triples_p4_rejected.csv # P4 model outputs rejected by source checks
 │   │   ├── vocab_p4_additions.csv # entities proposed by P4 extraction
 │   │   ├── vocab_p4_merged.csv  # base vocabulary plus P4 entities
+│   │   ├── triples_merged.csv   # merged P2-P4 triples
+│   │   ├── vocab_merged.csv     # base vocabulary plus P4 entities
+│   │   ├── pharma_knowledge_graph.graphml # loaded P2-P4 graph
 │   │   ├── evidence_candidates.csv # source excerpts awaiting review
 │   │   ├── triples_step3.csv    # extracted indications, effects, and contraindications
 │   │   ├── triples_step3_rejected.csv # candidates rejected during source checks
@@ -79,6 +82,7 @@ pharma/
 │   ├── graph/
 │   │   ├── extract_evidence_candidates.py # extract source excerpts for review
 │   │   ├── extract_contraindications.py # P4 RCP product-to-condition extraction
+│   │   ├── assemble_week3_graph.py # P5 merge, validate, load, and draw
 │   │   ├── extract_relations.py # LLM-assisted Step 3 relation extraction
 │   │   ├── verify_triples.py   # review extracted Step 3 triples
 │   │   └── check_triples.py    # validate triples against the vocabulary
@@ -312,6 +316,29 @@ they do not append to an existing full extraction. The source check verifies
 quote presence, not the clinical correctness of an LLM-extracted relation;
 review triples before relying on them. These steps document and validate the
 P4 graph only; they do not describe an application-level safety lookup.
+
+### P5: Merge, load, and visualize the graph
+
+Run the Week 3 graph assembly from the repository root:
+
+```powershell
+python -m src.graph.assemble_week3_graph
+```
+
+The script merges P2 nomenclature, P3 ANSM interactions, and P4 ANPP
+contraindications into `data/graph/triples_merged.csv`. It builds a fresh
+`vocab_merged.csv` from the current `vocab.csv` and P4 vocabulary additions,
+validates every merged triple and source passage, and loads the result as a
+directed multigraph in GraphML format. The focused PNG draws the ten requested
+active ingredients and their directly connected records. P4's
+product-and-form-specific nodes are preserved in the full graph and are not
+incorrectly linked to generic ingredients. The older `triples_step3.csv`
+dataset is excluded because it is a separate, unverified extraction.
+
+Outputs include `data/graph/pharma_knowledge_graph.graphml`,
+`reports/week3_ten_medicines_graph.png`, and
+`reports/week3_graph_report.md`. The report summarizes merge counts,
+validation, and graph-coverage limitations.
 
 ## Requirements
 

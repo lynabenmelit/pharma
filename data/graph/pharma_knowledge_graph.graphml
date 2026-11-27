@@ -1,0 +1,1933 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d9" for="edge" attr.name="passage" attr.type="string" />
+  <key id="d8" for="edge" attr.name="collected_on" attr.type="string" />
+  <key id="d7" for="edge" attr.name="authority_level" attr.type="string" />
+  <key id="d6" for="edge" attr.name="source_file" attr.type="string" />
+  <key id="d5" for="edge" attr.name="object_type" attr.type="string" />
+  <key id="d4" for="edge" attr.name="object" attr.type="string" />
+  <key id="d3" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d2" for="node" attr.name="value" attr.type="string" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="medicament_amoxypen">
+      <data key="d0">medicament</data>
+      <data key="d1">AMOXYPEN</data>
+      <data key="d2">medicament_amoxypen</data>
+    </node>
+    <node id="active_ingredient_amoxicilline">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">amoxicilline</data>
+      <data key="d2">active_ingredient_amoxicilline</data>
+    </node>
+    <node id="medicament_biopamox">
+      <data key="d0">medicament</data>
+      <data key="d1">BIOPAMOX</data>
+      <data key="d2">medicament_biopamox</data>
+    </node>
+    <node id="medicament_clamoxyl">
+      <data key="d0">medicament</data>
+      <data key="d1">CLAMOXYL</data>
+      <data key="d2">medicament_clamoxyl</data>
+    </node>
+    <node id="atc_code_j01ca04">
+      <data key="d0">atc_code</data>
+      <data key="d1">J01CA04</data>
+      <data key="d2">atc_code_j01ca04</data>
+    </node>
+    <node id="therapeutic_class_antibiotiques">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Antibiotiques</data>
+      <data key="d2">therapeutic_class_antibiotiques</data>
+    </node>
+    <node id="literal::500 mg">
+      <data key="d0">literal</data>
+      <data key="d1">500 mg</data>
+      <data key="d2">500 mg</data>
+    </node>
+    <node id="literal::1 g">
+      <data key="d0">literal</data>
+      <data key="d1">1 g</data>
+      <data key="d2">1 g</data>
+    </node>
+    <node id="literal::gélule">
+      <data key="d0">literal</data>
+      <data key="d1">gélule</data>
+      <data key="d2">gélule</data>
+    </node>
+    <node id="literal::poudre buvable">
+      <data key="d0">literal</data>
+      <data key="d1">poudre buvable</data>
+      <data key="d2">poudre buvable</data>
+    </node>
+    <node id="literal::injectable">
+      <data key="d0">literal</data>
+      <data key="d1">injectable</data>
+      <data key="d2">injectable</data>
+    </node>
+    <node id="medicament_clofenal">
+      <data key="d0">medicament</data>
+      <data key="d1">CLOFENAL</data>
+      <data key="d2">medicament_clofenal</data>
+    </node>
+    <node id="active_ingredient_diclofenac">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">diclofénac</data>
+      <data key="d2">active_ingredient_diclofenac</data>
+    </node>
+    <node id="medicament_diclamid">
+      <data key="d0">medicament</data>
+      <data key="d1">DICLAMID</data>
+      <data key="d2">medicament_diclamid</data>
+    </node>
+    <node id="medicament_voltafene">
+      <data key="d0">medicament</data>
+      <data key="d1">VOLTAFENE</data>
+      <data key="d2">medicament_voltafene</data>
+    </node>
+    <node id="atc_code_m01ab05">
+      <data key="d0">atc_code</data>
+      <data key="d1">M01AB05</data>
+      <data key="d2">atc_code_m01ab05</data>
+    </node>
+    <node id="therapeutic_class_antalgiques_et_anti_inflammatoires">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Antalgiques et anti-inflammatoires</data>
+      <data key="d2">therapeutic_class_antalgiques_et_anti_inflammatoires</data>
+    </node>
+    <node id="literal::25 mg">
+      <data key="d0">literal</data>
+      <data key="d1">25 mg</data>
+      <data key="d2">25 mg</data>
+    </node>
+    <node id="literal::50 mg">
+      <data key="d0">literal</data>
+      <data key="d1">50 mg</data>
+      <data key="d2">50 mg</data>
+    </node>
+    <node id="literal::75 mg/3ml">
+      <data key="d0">literal</data>
+      <data key="d1">75 mg/3ml</data>
+      <data key="d2">75 mg/3ml</data>
+    </node>
+    <node id="literal::comprimé gastro-résistant">
+      <data key="d0">literal</data>
+      <data key="d1">comprimé gastro-résistant</data>
+      <data key="d2">comprimé gastro-résistant</data>
+    </node>
+    <node id="medicament_enalapril_mylan">
+      <data key="d0">medicament</data>
+      <data key="d1">ENALAPRIL MYLAN</data>
+      <data key="d2">medicament_enalapril_mylan</data>
+    </node>
+    <node id="active_ingredient_enalapril">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">énalapril</data>
+      <data key="d2">active_ingredient_enalapril</data>
+    </node>
+    <node id="atc_code_c09aa02">
+      <data key="d0">atc_code</data>
+      <data key="d1">C09AA02</data>
+      <data key="d2">atc_code_c09aa02</data>
+    </node>
+    <node id="therapeutic_class_antihypertenseurs">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Antihypertenseurs</data>
+      <data key="d2">therapeutic_class_antihypertenseurs</data>
+    </node>
+    <node id="literal::5 mg">
+      <data key="d0">literal</data>
+      <data key="d1">5 mg</data>
+      <data key="d2">5 mg</data>
+    </node>
+    <node id="literal::20 mg">
+      <data key="d0">literal</data>
+      <data key="d1">20 mg</data>
+      <data key="d2">20 mg</data>
+    </node>
+    <node id="literal::comprimé sécable">
+      <data key="d0">literal</data>
+      <data key="d1">comprimé sécable</data>
+      <data key="d2">comprimé sécable</data>
+    </node>
+    <node id="medicament_adfen">
+      <data key="d0">medicament</data>
+      <data key="d1">ADFEN</data>
+      <data key="d2">medicament_adfen</data>
+    </node>
+    <node id="active_ingredient_ibuprofene">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">ibuprofène</data>
+      <data key="d2">active_ingredient_ibuprofene</data>
+    </node>
+    <node id="medicament_calmofen">
+      <data key="d0">medicament</data>
+      <data key="d1">CALMOFEN</data>
+      <data key="d2">medicament_calmofen</data>
+    </node>
+    <node id="medicament_hubifen">
+      <data key="d0">medicament</data>
+      <data key="d1">HUBIFEN</data>
+      <data key="d2">medicament_hubifen</data>
+    </node>
+    <node id="atc_code_m01ae01">
+      <data key="d0">atc_code</data>
+      <data key="d1">M01AE01</data>
+      <data key="d2">atc_code_m01ae01</data>
+    </node>
+    <node id="literal::200 mg">
+      <data key="d0">literal</data>
+      <data key="d1">200 mg</data>
+      <data key="d2">200 mg</data>
+    </node>
+    <node id="literal::400 mg">
+      <data key="d0">literal</data>
+      <data key="d1">400 mg</data>
+      <data key="d2">400 mg</data>
+    </node>
+    <node id="literal::comprimé">
+      <data key="d0">literal</data>
+      <data key="d1">comprimé</data>
+      <data key="d2">comprimé</data>
+    </node>
+    <node id="medicament_angizar">
+      <data key="d0">medicament</data>
+      <data key="d1">ANGIZAR</data>
+      <data key="d2">medicament_angizar</data>
+    </node>
+    <node id="active_ingredient_losartan">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">losartan</data>
+      <data key="d2">active_ingredient_losartan</data>
+    </node>
+    <node id="medicament_bektal">
+      <data key="d0">medicament</data>
+      <data key="d1">BEKTAL</data>
+      <data key="d2">medicament_bektal</data>
+    </node>
+    <node id="medicament_cozzar">
+      <data key="d0">medicament</data>
+      <data key="d1">COZZAR</data>
+      <data key="d2">medicament_cozzar</data>
+    </node>
+    <node id="atc_code_c09ca01">
+      <data key="d0">atc_code</data>
+      <data key="d1">C09CA01</data>
+      <data key="d2">atc_code_c09ca01</data>
+    </node>
+    <node id="literal::comprimé pelliculé">
+      <data key="d0">literal</data>
+      <data key="d1">comprimé pelliculé</data>
+      <data key="d2">comprimé pelliculé</data>
+    </node>
+    <node id="medicament_naprolgic">
+      <data key="d0">medicament</data>
+      <data key="d1">NAPROLGIC</data>
+      <data key="d2">medicament_naprolgic</data>
+    </node>
+    <node id="active_ingredient_naproxene">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">naproxène</data>
+      <data key="d2">active_ingredient_naproxene</data>
+    </node>
+    <node id="medicament_naprox">
+      <data key="d0">medicament</data>
+      <data key="d1">NAPROX</data>
+      <data key="d2">medicament_naprox</data>
+    </node>
+    <node id="medicament_nexopain">
+      <data key="d0">medicament</data>
+      <data key="d1">NEXOPAIN</data>
+      <data key="d2">medicament_nexopain</data>
+    </node>
+    <node id="atc_code_m01ae02">
+      <data key="d0">atc_code</data>
+      <data key="d1">M01AE02</data>
+      <data key="d2">atc_code_m01ae02</data>
+    </node>
+    <node id="literal::275 mg">
+      <data key="d0">literal</data>
+      <data key="d1">275 mg</data>
+      <data key="d2">275 mg</data>
+    </node>
+    <node id="literal::550 mg">
+      <data key="d0">literal</data>
+      <data key="d1">550 mg</data>
+      <data key="d2">550 mg</data>
+    </node>
+    <node id="medicament_perindopril_beker">
+      <data key="d0">medicament</data>
+      <data key="d1">PERINDOPRIL BEKER</data>
+      <data key="d2">medicament_perindopril_beker</data>
+    </node>
+    <node id="active_ingredient_perindopril">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">périndopril</data>
+      <data key="d2">active_ingredient_perindopril</data>
+    </node>
+    <node id="medicament_everyl">
+      <data key="d0">medicament</data>
+      <data key="d1">EVERYL</data>
+      <data key="d2">medicament_everyl</data>
+    </node>
+    <node id="atc_code_c09aa04">
+      <data key="d0">atc_code</data>
+      <data key="d1">C09AA04</data>
+      <data key="d2">atc_code_c09aa04</data>
+    </node>
+    <node id="literal::4 mg [ou en association]">
+      <data key="d0">literal</data>
+      <data key="d1">4 mg [ou en association]</data>
+      <data key="d2">4 mg [ou en association]</data>
+    </node>
+    <node id="medicament_ramipril_beker">
+      <data key="d0">medicament</data>
+      <data key="d1">RAMIPRIL BEKER</data>
+      <data key="d2">medicament_ramipril_beker</data>
+    </node>
+    <node id="active_ingredient_ramipril">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">ramipril</data>
+      <data key="d2">active_ingredient_ramipril</data>
+    </node>
+    <node id="medicament_ramitrim">
+      <data key="d0">medicament</data>
+      <data key="d1">RAMITRIM</data>
+      <data key="d2">medicament_ramitrim</data>
+    </node>
+    <node id="atc_code_c09aa05">
+      <data key="d0">atc_code</data>
+      <data key="d1">C09AA05</data>
+      <data key="d2">atc_code_c09aa05</data>
+    </node>
+    <node id="literal::2,5 mg">
+      <data key="d0">literal</data>
+      <data key="d1">2,5 mg</data>
+      <data key="d2">2,5 mg</data>
+    </node>
+    <node id="medicament_aldactone">
+      <data key="d0">medicament</data>
+      <data key="d1">ALDACTONE</data>
+      <data key="d2">medicament_aldactone</data>
+    </node>
+    <node id="active_ingredient_spironolactone">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">spironolactone</data>
+      <data key="d2">active_ingredient_spironolactone</data>
+    </node>
+    <node id="medicament_spironolone">
+      <data key="d0">medicament</data>
+      <data key="d1">SPIRONOLONE</data>
+      <data key="d2">medicament_spironolone</data>
+    </node>
+    <node id="medicament_spirozide">
+      <data key="d0">medicament</data>
+      <data key="d1">SPIROZIDE</data>
+      <data key="d2">medicament_spirozide</data>
+    </node>
+    <node id="atc_code_c03da01">
+      <data key="d0">atc_code</data>
+      <data key="d1">C03DA01</data>
+      <data key="d2">atc_code_c03da01</data>
+    </node>
+    <node id="literal::75 mg [ou associations]">
+      <data key="d0">literal</data>
+      <data key="d1">75 mg [ou associations]</data>
+      <data key="d2">75 mg [ou associations]</data>
+    </node>
+    <node id="medicament_dolex">
+      <data key="d0">medicament</data>
+      <data key="d1">DOLEX</data>
+      <data key="d2">medicament_dolex</data>
+    </node>
+    <node id="active_ingredient_tramadol">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">tramadol</data>
+      <data key="d2">active_ingredient_tramadol</data>
+    </node>
+    <node id="medicament_supramadol">
+      <data key="d0">medicament</data>
+      <data key="d1">SUPRAMADOL</data>
+      <data key="d2">medicament_supramadol</data>
+    </node>
+    <node id="medicament_tramadis">
+      <data key="d0">medicament</data>
+      <data key="d1">TRAMADIS</data>
+      <data key="d2">medicament_tramadis</data>
+    </node>
+    <node id="atc_code_n02ax02">
+      <data key="d0">atc_code</data>
+      <data key="d1">N02AX02</data>
+      <data key="d2">atc_code_n02ax02</data>
+    </node>
+    <node id="literal::100 mg">
+      <data key="d0">literal</data>
+      <data key="d1">100 mg</data>
+      <data key="d2">100 mg</data>
+    </node>
+    <node id="literal::comprimé LP">
+      <data key="d0">literal</data>
+      <data key="d1">comprimé LP</data>
+      <data key="d2">comprimé LP</data>
+    </node>
+    <node id="therapeutic_class_ains">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Anti-inflammatoires non stéroïdiens (AINS)</data>
+      <data key="d2">therapeutic_class_ains</data>
+    </node>
+    <node id="therapeutic_class_iec">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Inhibiteurs de l'enzyme de conversion (IEC)</data>
+      <data key="d2">therapeutic_class_iec</data>
+    </node>
+    <node id="therapeutic_class_ara2">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Antagonistes des récepteurs de l'angiotensine II (ARA II)</data>
+      <data key="d2">therapeutic_class_ara2</data>
+    </node>
+    <node id="therapeutic_class_diuretiques_epargneurs_de_potassium">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Diurétiques épargneurs de potassium</data>
+      <data key="d2">therapeutic_class_diuretiques_epargneurs_de_potassium</data>
+    </node>
+    <node id="therapeutic_class_opiaces">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Opiacés (ANSM Thesaurus)</data>
+      <data key="d2">therapeutic_class_opiaces</data>
+    </node>
+    <node id="active_ingredient_oxybate_de_sodium">
+      <data key="d0">active_ingredient</data>
+      <data key="d1">oxybate de sodium</data>
+      <data key="d2">active_ingredient_oxybate_de_sodium</data>
+    </node>
+    <node id="therapeutic_class_barbituriques">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Barbituriques (ANSM Thesaurus)</data>
+      <data key="d2">therapeutic_class_barbituriques</data>
+    </node>
+    <node id="therapeutic_class_medicaments_sedatifs">
+      <data key="d0">therapeutic_class</data>
+      <data key="d1">Médicaments sédatifs (ANSM Thesaurus)</data>
+      <data key="d2">therapeutic_class_medicaments_sedatifs</data>
+    </node>
+    <node id="medicament_aspirine_cardio_100_mg_en_gelules">
+      <data key="d0">medicament</data>
+      <data key="d1">ASPIRINE CARDIO® 100 mg en gélules</data>
+      <data key="d2">medicament_aspirine_cardio_100_mg_en_gelules</data>
+    </node>
+    <node id="contraindication_hypersensibilite">
+      <data key="d0">contraindication</data>
+      <data key="d1">hypersensibilité</data>
+      <data key="d2">contraindication_hypersensibilite</data>
+    </node>
+    <node id="contraindication_grossesse">
+      <data key="d0">contraindication</data>
+      <data key="d1">grossesse</data>
+      <data key="d2">contraindication_grossesse</data>
+    </node>
+    <node id="contraindication_asthme_induit_par_l_aspirine">
+      <data key="d0">contraindication</data>
+      <data key="d1">asthme induit par l'aspirine</data>
+      <data key="d2">contraindication_asthme_induit_par_l_aspirine</data>
+    </node>
+    <node id="contraindication_ulcere_gastroduodenal">
+      <data key="d0">contraindication</data>
+      <data key="d1">ulcère gastroduodénal</data>
+      <data key="d2">contraindication_ulcere_gastroduodenal</data>
+    </node>
+    <node id="contraindication_saignement_gastrique_intestinaux">
+      <data key="d0">contraindication</data>
+      <data key="d1">saignements gastriques/intestinaux</data>
+      <data key="d2">contraindication_saignement_gastrique_intestinaux</data>
+    </node>
+    <node id="contraindication_hemorragie_vasculaire_cerebrale">
+      <data key="d0">contraindication</data>
+      <data key="d1">hémorragies vasculaires cérébrales</data>
+      <data key="d2">contraindication_hemorragie_vasculaire_cerebrale</data>
+    </node>
+    <node id="contraindication_diathese_hemorragique">
+      <data key="d0">contraindication</data>
+      <data key="d1">diathèse hémorragique</data>
+      <data key="d2">contraindication_diathese_hemorragique</data>
+    </node>
+    <node id="contraindication_trouble_de_la_coagulation">
+      <data key="d0">contraindication</data>
+      <data key="d1">troubles de la coagulation</data>
+      <data key="d2">contraindication_trouble_de_la_coagulation</data>
+    </node>
+    <node id="contraindication_insuffisance_hepatique">
+      <data key="d0">contraindication</data>
+      <data key="d1">insuffisance hépatique</data>
+      <data key="d2">contraindication_insuffisance_hepatique</data>
+    </node>
+    <node id="contraindication_insuffisance_renale">
+      <data key="d0">contraindication</data>
+      <data key="d1">insuffisance rénale</data>
+      <data key="d2">contraindication_insuffisance_renale</data>
+    </node>
+    <node id="contraindication_insuffisance_cardiaque">
+      <data key="d0">contraindication</data>
+      <data key="d1">insuffisance cardiaque</data>
+      <data key="d2">contraindication_insuffisance_cardiaque</data>
+    </node>
+    <node id="medicament_mibral_5_mg_gelule">
+      <data key="d0">medicament</data>
+      <data key="d1">MIBRAL® 5 mg, gélule</data>
+      <data key="d2">medicament_mibral_5_mg_gelule</data>
+    </node>
+    <node id="contraindication_hypersensibilite_aux_derive_de_la_dihydropyridine_a_l_amlodipine_ou_aux_excipient">
+      <data key="d0">contraindication</data>
+      <data key="d1">hypersensibilité aux dérivés de la dihydropyridine, à l'amlodipine ou aux excipients</data>
+      <data key="d2">contraindication_hypersensibilite_aux_derive_de_la_dihydropyridine_a_l_amlodipine_ou_aux_excipient</data>
+    </node>
+    <node id="contraindication_hypotension_severe">
+      <data key="d0">contraindication</data>
+      <data key="d1">hypotension sévère</data>
+      <data key="d2">contraindication_hypotension_severe</data>
+    </node>
+    <node id="contraindication_choc">
+      <data key="d0">contraindication</data>
+      <data key="d1">choc</data>
+      <data key="d2">contraindication_choc</data>
+    </node>
+    <node id="contraindication_obstruction_de_la_voie_d_ejection_du_ventricule_gauche">
+      <data key="d0">contraindication</data>
+      <data key="d1">obstruction de la voie d'éjection du ventricule gauche</data>
+      <data key="d2">contraindication_obstruction_de_la_voie_d_ejection_du_ventricule_gauche</data>
+    </node>
+    <node id="contraindication_insuffisance_cardiaque_hemodynamiquement_instable_apre_un_infarctus_aigu_du_myocarde">
+      <data key="d0">contraindication</data>
+      <data key="d1">insuffisance cardiaque hémodynamiquement instable après un infarctus aigu du myocarde</data>
+      <data key="d2">contraindication_insuffisance_cardiaque_hemodynamiquement_instable_apre_un_infarctus_aigu_du_myocarde</data>
+    </node>
+    <node id="medicament_cebrex_200_mg_gelule">
+      <data key="d0">medicament</data>
+      <data key="d1">CEBREX 200 mg, gélule</data>
+      <data key="d2">medicament_cebrex_200_mg_gelule</data>
+    </node>
+    <node id="contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient">
+      <data key="d0">contraindication</data>
+      <data key="d1">hypersensibilité à la substance active ou aux excipients</data>
+      <data key="d2">contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient</data>
+    </node>
+    <node id="contraindication_hypersensibilite_connue_aux_sulfamide">
+      <data key="d0">contraindication</data>
+      <data key="d1">hypersensibilité connue aux sulfamides</data>
+      <data key="d2">contraindication_hypersensibilite_connue_aux_sulfamide</data>
+    </node>
+    <node id="contraindication_ulcere_peptique_evolutif_ou_saignement_gastro_intestinal">
+      <data key="d0">contraindication</data>
+      <data key="d1">ulcère peptique évolutif ou saignement gastro-intestinal</data>
+      <data key="d2">contraindication_ulcere_peptique_evolutif_ou_saignement_gastro_intestinal</data>
+    </node>
+    <node id="contraindication_antecedent_d_asthme_de_rhinite_aigue_de_polype_nasaux_d_oedeme_de_quincke_d_urticaire_ou_autre_reaction_allergique_aux_ains">
+      <data key="d0">contraindication</data>
+      <data key="d1">antécédents d'asthme, de rhinite aiguë, de polypes nasaux, d'oedème de Quincke, d'urticaire ou autres réactions allergiques aux AINS</data>
+      <data key="d2">contraindication_antecedent_d_asthme_de_rhinite_aigue_de_polype_nasaux_d_oedeme_de_quincke_d_urticaire_ou_autre_reaction_allergique_aux_ains</data>
+    </node>
+    <node id="contraindication_grossesse_et_femme_en_age_de_procreer_sans_contraception_efficace">
+      <data key="d0">contraindication</data>
+      <data key="d1">grossesse et femmes en âge de procréer sans contraception efficace</data>
+      <data key="d2">contraindication_grossesse_et_femme_en_age_de_procreer_sans_contraception_efficace</data>
+    </node>
+    <node id="medicament_gelfen_5_gel">
+      <data key="d0">medicament</data>
+      <data key="d1">GELFEN 5 %, Gel</data>
+      <data key="d2">medicament_gelfen_5_gel</data>
+    </node>
+    <node id="contraindication_peau_lesee">
+      <data key="d0">contraindication</data>
+      <data key="d1">peau lésée</data>
+      <data key="d2">contraindication_peau_lesee</data>
+    </node>
+    <node id="medicament_koprofen_2_5_gel">
+      <data key="d0">medicament</data>
+      <data key="d1">KOPROFEN® 2.5 %, Gel</data>
+      <data key="d2">medicament_koprofen_2_5_gel</data>
+    </node>
+    <node id="contraindication_reaction_de_photosensibilite">
+      <data key="d0">contraindication</data>
+      <data key="d1">Réactions de photosensibilité</data>
+      <data key="d2">contraindication_reaction_de_photosensibilite</data>
+    </node>
+    <node id="contraindication_reaction_d_hypersensibilite">
+      <data key="d0">contraindication</data>
+      <data key="d1">Réactions d'hypersensibilité</data>
+      <data key="d2">contraindication_reaction_d_hypersensibilite</data>
+    </node>
+    <node id="contraindication_allergie_cutanee">
+      <data key="d0">contraindication</data>
+      <data key="d1">Allergie cutanée</data>
+      <data key="d2">contraindication_allergie_cutanee</data>
+    </node>
+    <node id="medicament_lazartan_50_mg_comprime_pellicule_secables">
+      <data key="d0">medicament</data>
+      <data key="d1">LAZARTAN ® 50 mg, Comprimé pelliculé sécables</data>
+      <data key="d2">medicament_lazartan_50_mg_comprime_pellicule_secables</data>
+    </node>
+    <node id="contraindication_hypersensibilite_a_la_substance_active_ou_a_l_un_des_excipient">
+      <data key="d0">contraindication</data>
+      <data key="d1">hypersensibilité à la substance active ou à l'un des excipients</data>
+      <data key="d2">contraindication_hypersensibilite_a_la_substance_active_ou_a_l_un_des_excipient</data>
+    </node>
+    <node id="medicament_flagyl_250mg_comprime_pellicule">
+      <data key="d0">medicament</data>
+      <data key="d1">FLAGYL® 250mg, comprimé pelliculé</data>
+      <data key="d2">medicament_flagyl_250mg_comprime_pellicule</data>
+    </node>
+    <node id="contraindication_hypersensibilite_au_metronidazole_ou_a_la_famille_des_imidazole_ou_a_l_un_des_excipient">
+      <data key="d0">contraindication</data>
+      <data key="d1">hypersensibilité au métronidazole ou à la famille des imidazolés ou à l'un des excipients</data>
+      <data key="d2">contraindication_hypersensibilite_au_metronidazole_ou_a_la_famille_des_imidazole_ou_a_l_un_des_excipient</data>
+    </node>
+    <node id="contraindication_allergie_au_ble">
+      <data key="d0">contraindication</data>
+      <data key="d1">allergie au blé</data>
+      <data key="d2">contraindication_allergie_au_ble</data>
+    </node>
+    <node id="contraindication_enfant">
+      <data key="d0">contraindication</data>
+      <data key="d1">enfant</data>
+      <data key="d2">contraindication_enfant</data>
+    </node>
+    <node id="medicament_doliprane_2_4_pour_cent_sans_sucre_suspension_buvable_a_la_saccharine_sodique">
+      <data key="d0">medicament</data>
+      <data key="d1">DOLIPRANE 2.4 POUR CENT SANS SUCRE, SUSPENSION BUVABLE A LA SACCHARINE SODIQUE</data>
+      <data key="d2">medicament_doliprane_2_4_pour_cent_sans_sucre_suspension_buvable_a_la_saccharine_sodique</data>
+    </node>
+    <node id="contraindication_hepatite_aigue">
+      <data key="d0">contraindication</data>
+      <data key="d1">hépatite aiguë</data>
+      <data key="d2">contraindication_hepatite_aigue</data>
+    </node>
+    <node id="medicament_panadol_1g">
+      <data key="d0">medicament</data>
+      <data key="d1">PANADOL® 1g</data>
+      <data key="d2">medicament_panadol_1g</data>
+    </node>
+    <node id="contraindication_hypersensibilite_au_paracetamol_ou_a_l_un_des_autre_constituant">
+      <data key="d0">contraindication</data>
+      <data key="d1">hypersensibilité au paracétamol ou à l'un des autres constituants</data>
+      <data key="d2">contraindication_hypersensibilite_au_paracetamol_ou_a_l_un_des_autre_constituant</data>
+    </node>
+    <node id="medicament_painoxam_suppositoire_a_20_mg">
+      <data key="d0">medicament</data>
+      <data key="d1">PAINOXAM ®, suppositoire à 20 mg</data>
+      <data key="d2">medicament_painoxam_suppositoire_a_20_mg</data>
+    </node>
+    <node id="contraindication_antecedent_d_allergie_ou_d_asthme">
+      <data key="d0">contraindication</data>
+      <data key="d1">antécédents d'allergie ou d'asthme</data>
+      <data key="d2">contraindication_antecedent_d_allergie_ou_d_asthme</data>
+    </node>
+    <node id="contraindication_antecedent_de_reaction_medicamenteuse_allergique_grave">
+      <data key="d0">contraindication</data>
+      <data key="d1">antécédents de réactions médicamenteuses allergiques graves</data>
+      <data key="d2">contraindication_antecedent_de_reaction_medicamenteuse_allergique_grave</data>
+    </node>
+    <node id="contraindication_ulcere_hemorragie_ou_perforation_gastro_intestinale">
+      <data key="d0">contraindication</data>
+      <data key="d1">ulcère, hémorragie ou perforation gastro-intestinale</data>
+      <data key="d2">contraindication_ulcere_hemorragie_ou_perforation_gastro_intestinale</data>
+    </node>
+    <node id="contraindication_rectocolite_hemorragique_maladie_de_crohn_cancer_gastrointestinaux_ou_diverticulite">
+      <data key="d0">contraindication</data>
+      <data key="d1">rectocolite hémorragique, maladie de Crohn, cancers gastrointestinaux ou diverticulite</data>
+      <data key="d2">contraindication_rectocolite_hemorragique_maladie_de_crohn_cancer_gastrointestinaux_ou_diverticulite</data>
+    </node>
+    <node id="contraindication_ulcere_peptique_evolutif_trouble_gastro_intestinal_inflammatoire_ou_hemorragie_gastro_intestinale">
+      <data key="d0">contraindication</data>
+      <data key="d1">ulcère peptique évolutif, trouble gastro-intestinal inflammatoire ou hémorragie gastro-intestinale</data>
+      <data key="d2">contraindication_ulcere_peptique_evolutif_trouble_gastro_intestinal_inflammatoire_ou_hemorragie_gastro_intestinale</data>
+    </node>
+    <node id="contraindication_insuffisance_hepatocellulaire">
+      <data key="d0">contraindication</data>
+      <data key="d1">insuffisance hépatocellulaire</data>
+      <data key="d2">contraindication_insuffisance_hepatocellulaire</data>
+    </node>
+    <node id="contraindication_rectite_ou_rectorragie">
+      <data key="d0">contraindication</data>
+      <data key="d1">rectites ou rectorragies</data>
+      <data key="d2">contraindication_rectite_ou_rectorragie</data>
+    </node>
+    <edge source="medicament_amoxypen" target="active_ingredient_amoxicilline" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_amoxicilline</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">AMOXYPEN, BIOPAMOX, CLAMOXYL</data>
+    </edge>
+    <edge source="active_ingredient_amoxicilline" target="atc_code_j01ca04" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_j01ca04</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">J01CA04</data>
+    </edge>
+    <edge source="active_ingredient_amoxicilline" target="therapeutic_class_antibiotiques" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antibiotiques</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antibiotiques</data>
+    </edge>
+    <edge source="active_ingredient_amoxicilline" target="literal::500 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">500 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 500 mg, 1 g). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_amoxicilline" target="literal::1 g" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">1 g</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 500 mg, 1 g). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_amoxicilline" target="literal::gélule" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">gélule</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : gélule, poudre buvable, injectable</data>
+    </edge>
+    <edge source="active_ingredient_amoxicilline" target="literal::poudre buvable" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">poudre buvable</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : gélule, poudre buvable, injectable</data>
+    </edge>
+    <edge source="active_ingredient_amoxicilline" target="literal::injectable" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">injectable</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : gélule, poudre buvable, injectable</data>
+    </edge>
+    <edge source="medicament_biopamox" target="active_ingredient_amoxicilline" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_amoxicilline</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">AMOXYPEN, BIOPAMOX, CLAMOXYL</data>
+    </edge>
+    <edge source="medicament_clamoxyl" target="active_ingredient_amoxicilline" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_amoxicilline</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">AMOXYPEN, BIOPAMOX, CLAMOXYL</data>
+    </edge>
+    <edge source="medicament_clofenal" target="active_ingredient_diclofenac" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_diclofenac</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">CLOFENAL, DICLAMID, VOLTAFENE</data>
+    </edge>
+    <edge source="active_ingredient_diclofenac" target="atc_code_m01ab05" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_m01ab05</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">M01AB05</data>
+    </edge>
+    <edge source="active_ingredient_diclofenac" target="therapeutic_class_antalgiques_et_anti_inflammatoires" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antalgiques_et_anti_inflammatoires</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antalgiques et anti-inflammatoires</data>
+    </edge>
+    <edge source="active_ingredient_diclofenac" target="literal::25 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">25 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_diclofenac" target="literal::50 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">50 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_diclofenac" target="literal::75 mg/3ml" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">75 mg/3ml</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 25 mg, 50 mg, 75 mg/3ml). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_diclofenac" target="literal::comprimé gastro-résistant" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé gastro-résistant</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : comprimé gastro-résistant, injectable</data>
+    </edge>
+    <edge source="active_ingredient_diclofenac" target="literal::injectable" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">injectable</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : comprimé gastro-résistant, injectable</data>
+    </edge>
+    <edge source="active_ingredient_diclofenac" target="therapeutic_class_ains" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_ains</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">ANTI-INFLAMMATOIRES NON STÉROÏDIENS (aceclofenac, acide mefenamique, acide niflumique, acide tiaprofenique, alminoprofene, celecoxib, dexketoprofene trometamol, diclofenac, etodolac, étoricoxib, fenoprofene, flurbiprofene, ibuprofene, indometacine, ketoprofene, meloxicam, morniflumate, nabumetone, naproxene, nimesulide, parecoxib, piroxicam, rofecoxib, sulindac, tenoxicam)</data>
+    </edge>
+    <edge source="medicament_diclamid" target="active_ingredient_diclofenac" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_diclofenac</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">CLOFENAL, DICLAMID, VOLTAFENE</data>
+    </edge>
+    <edge source="medicament_voltafene" target="active_ingredient_diclofenac" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_diclofenac</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">CLOFENAL, DICLAMID, VOLTAFENE</data>
+    </edge>
+    <edge source="medicament_enalapril_mylan" target="active_ingredient_enalapril" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_enalapril</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ENALAPRIL MYLAN</data>
+    </edge>
+    <edge source="active_ingredient_enalapril" target="atc_code_c09aa02" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_c09aa02</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">C09AA02</data>
+    </edge>
+    <edge source="active_ingredient_enalapril" target="therapeutic_class_antihypertenseurs" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antihypertenseurs</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antihypertenseurs</data>
+    </edge>
+    <edge source="active_ingredient_enalapril" target="literal::5 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">5 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 5 mg, 20 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_enalapril" target="literal::20 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">20 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 5 mg, 20 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_enalapril" target="literal::comprimé sécable" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé sécable</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Forme : comprimé sécable</data>
+    </edge>
+    <edge source="active_ingredient_enalapril" target="therapeutic_class_iec" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_iec</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">INHIBITEURS DE L'ENZYME DE CONVERSION (benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, moexipril, périndopril, quinapril, ramipril, trandolapril, zofenopril)</data>
+    </edge>
+    <edge source="medicament_adfen" target="active_ingredient_ibuprofene" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_ibuprofene</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ADFEN, CALMOFEN, HUBIFEN</data>
+    </edge>
+    <edge source="active_ingredient_ibuprofene" target="atc_code_m01ae01" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_m01ae01</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">M01AE01</data>
+    </edge>
+    <edge source="active_ingredient_ibuprofene" target="therapeutic_class_antalgiques_et_anti_inflammatoires" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antalgiques_et_anti_inflammatoires</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antalgiques et anti-inflammatoires</data>
+    </edge>
+    <edge source="active_ingredient_ibuprofene" target="literal::200 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">200 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 200 mg, 400 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_ibuprofene" target="literal::400 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">400 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 200 mg, 400 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_ibuprofene" target="literal::comprimé" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : comprimé, gélule</data>
+    </edge>
+    <edge source="active_ingredient_ibuprofene" target="literal::gélule" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">gélule</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : comprimé, gélule</data>
+    </edge>
+    <edge source="active_ingredient_ibuprofene" target="therapeutic_class_ains" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_ains</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">ANTI-INFLAMMATOIRES NON STÉROÏDIENS (aceclofenac, acide mefenamique, acide niflumique, acide tiaprofenique, alminoprofene, celecoxib, dexketoprofene trometamol, diclofenac, etodolac, étoricoxib, fenoprofene, flurbiprofene, ibuprofene, indometacine, ketoprofene, meloxicam, morniflumate, nabumetone, naproxene, nimesulide, parecoxib, piroxicam, rofecoxib, sulindac, tenoxicam)</data>
+    </edge>
+    <edge source="medicament_calmofen" target="active_ingredient_ibuprofene" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_ibuprofene</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ADFEN, CALMOFEN, HUBIFEN</data>
+    </edge>
+    <edge source="medicament_hubifen" target="active_ingredient_ibuprofene" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_ibuprofene</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ADFEN, CALMOFEN, HUBIFEN</data>
+    </edge>
+    <edge source="medicament_angizar" target="active_ingredient_losartan" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_losartan</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ANGIZAR, BEKTAL, COZZAR</data>
+    </edge>
+    <edge source="active_ingredient_losartan" target="atc_code_c09ca01" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_c09ca01</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">C09CA01</data>
+    </edge>
+    <edge source="active_ingredient_losartan" target="therapeutic_class_antihypertenseurs" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antihypertenseurs</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antihypertenseurs</data>
+    </edge>
+    <edge source="active_ingredient_losartan" target="literal::50 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">50 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosage : 50 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_losartan" target="literal::comprimé pelliculé" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé pelliculé</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Forme : comprimé pelliculé</data>
+    </edge>
+    <edge source="active_ingredient_losartan" target="therapeutic_class_ara2" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_ara2</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">ANTAGONISTES DES RÉCEPTEURS DE L'ANGIOTENSINE II (azilsartan, candesartan cilexetil, eprosartan, irbesartan, losartan, olmesartan, telmisartan, valsartan)</data>
+    </edge>
+    <edge source="medicament_bektal" target="active_ingredient_losartan" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_losartan</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ANGIZAR, BEKTAL, COZZAR</data>
+    </edge>
+    <edge source="medicament_cozzar" target="active_ingredient_losartan" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_losartan</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ANGIZAR, BEKTAL, COZZAR</data>
+    </edge>
+    <edge source="medicament_naprolgic" target="active_ingredient_naproxene" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_naproxene</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">NAPROLGIC, NAPROX, NEXOPAIN</data>
+    </edge>
+    <edge source="active_ingredient_naproxene" target="atc_code_m01ae02" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_m01ae02</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">M01AE02</data>
+    </edge>
+    <edge source="active_ingredient_naproxene" target="therapeutic_class_antalgiques_et_anti_inflammatoires" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antalgiques_et_anti_inflammatoires</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antalgiques et anti-inflammatoires</data>
+    </edge>
+    <edge source="active_ingredient_naproxene" target="literal::275 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">275 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 275 mg, 550 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_naproxene" target="literal::550 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">550 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 275 mg, 550 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_naproxene" target="literal::comprimé pelliculé" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé pelliculé</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : comprimé pelliculé</data>
+    </edge>
+    <edge source="active_ingredient_naproxene" target="therapeutic_class_ains" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_ains</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">ANTI-INFLAMMATOIRES NON STÉROÏDIENS (aceclofenac, acide mefenamique, acide niflumique, acide tiaprofenique, alminoprofene, celecoxib, dexketoprofene trometamol, diclofenac, etodolac, étoricoxib, fenoprofene, flurbiprofene, ibuprofene, indometacine, ketoprofene, meloxicam, morniflumate, nabumetone, naproxene, nimesulide, parecoxib, piroxicam, rofecoxib, sulindac, tenoxicam)</data>
+    </edge>
+    <edge source="medicament_naprox" target="active_ingredient_naproxene" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_naproxene</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">NAPROLGIC, NAPROX, NEXOPAIN</data>
+    </edge>
+    <edge source="medicament_nexopain" target="active_ingredient_naproxene" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_naproxene</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">NAPROLGIC, NAPROX, NEXOPAIN</data>
+    </edge>
+    <edge source="medicament_perindopril_beker" target="active_ingredient_perindopril" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_perindopril</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">PERINDOPRIL BEKER, EVERYL</data>
+    </edge>
+    <edge source="active_ingredient_perindopril" target="atc_code_c09aa04" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_c09aa04</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">C09AA04</data>
+    </edge>
+    <edge source="active_ingredient_perindopril" target="therapeutic_class_antihypertenseurs" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antihypertenseurs</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antihypertenseurs</data>
+    </edge>
+    <edge source="active_ingredient_perindopril" target="literal::4 mg [ou en association]" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">4 mg [ou en association]</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 4 mg [ou en association]). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_perindopril" target="literal::comprimé sécable" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé sécable</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : comprimé sécable</data>
+    </edge>
+    <edge source="active_ingredient_perindopril" target="therapeutic_class_iec" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_iec</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">INHIBITEURS DE L'ENZYME DE CONVERSION (benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, moexipril, périndopril, quinapril, ramipril, trandolapril, zofenopril)</data>
+    </edge>
+    <edge source="medicament_everyl" target="active_ingredient_perindopril" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_perindopril</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">PERINDOPRIL BEKER, EVERYL</data>
+    </edge>
+    <edge source="medicament_ramipril_beker" target="active_ingredient_ramipril" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_ramipril</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">RAMIPRIL BEKER, RAMITRIM</data>
+    </edge>
+    <edge source="active_ingredient_ramipril" target="atc_code_c09aa05" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_c09aa05</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">C09AA05</data>
+    </edge>
+    <edge source="active_ingredient_ramipril" target="therapeutic_class_antihypertenseurs" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antihypertenseurs</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antihypertenseurs</data>
+    </edge>
+    <edge source="active_ingredient_ramipril" target="literal::2,5 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">2,5 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_ramipril" target="literal::5 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">5 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 2,5 mg, 5 mg). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_ramipril" target="literal::comprimé sécable" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé sécable</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : comprimé sécable, gélule</data>
+    </edge>
+    <edge source="active_ingredient_ramipril" target="literal::gélule" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">gélule</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : comprimé sécable, gélule</data>
+    </edge>
+    <edge source="active_ingredient_ramipril" target="therapeutic_class_iec" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_iec</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">INHIBITEURS DE L'ENZYME DE CONVERSION (benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, moexipril, périndopril, quinapril, ramipril, trandolapril, zofenopril)</data>
+    </edge>
+    <edge source="medicament_ramitrim" target="active_ingredient_ramipril" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_ramipril</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">RAMIPRIL BEKER, RAMITRIM</data>
+    </edge>
+    <edge source="medicament_aldactone" target="active_ingredient_spironolactone" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_spironolactone</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ALDACTONE, SPIRONOLONE, SPIROZIDE</data>
+    </edge>
+    <edge source="active_ingredient_spironolactone" target="atc_code_c03da01" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_c03da01</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">C03DA01</data>
+    </edge>
+    <edge source="active_ingredient_spironolactone" target="therapeutic_class_antihypertenseurs" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antihypertenseurs</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antihypertenseurs</data>
+    </edge>
+    <edge source="active_ingredient_spironolactone" target="literal::75 mg [ou associations]" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">75 mg [ou associations]</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 75 mg [ou associations]). Source : Nomenclature ANPP Déc. 2025.</data>
+    </edge>
+    <edge source="active_ingredient_spironolactone" target="literal::comprimé" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Forme : comprimé</data>
+    </edge>
+    <edge source="active_ingredient_spironolactone" target="therapeutic_class_diuretiques_epargneurs_de_potassium" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_diuretiques_epargneurs_de_potassium</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">DIURÉTIQUES ÉPARGNEURS DE POTASSIUM (SEULS OU ASSOCIÉS) (amiloride, canrenoate de potassium, eplerenone, spironolactone, triamterene)</data>
+    </edge>
+    <edge source="medicament_spironolone" target="active_ingredient_spironolactone" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_spironolactone</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ALDACTONE, SPIRONOLONE, SPIROZIDE</data>
+    </edge>
+    <edge source="medicament_spirozide" target="active_ingredient_spironolactone" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_spironolactone</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">ALDACTONE, SPIRONOLONE, SPIROZIDE</data>
+    </edge>
+    <edge source="medicament_dolex" target="active_ingredient_tramadol" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_tramadol</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">DOLEX, SUPRAMADOL, TRAMADIS</data>
+    </edge>
+    <edge source="active_ingredient_tramadol" target="atc_code_n02ax02" id="0">
+      <data key="d3">has_atc</data>
+      <data key="d4">atc_code_n02ax02</data>
+      <data key="d5">atc_code</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">N02AX02</data>
+    </edge>
+    <edge source="active_ingredient_tramadol" target="therapeutic_class_antalgiques_et_anti_inflammatoires" id="0">
+      <data key="d3">belongs_to</data>
+      <data key="d4">therapeutic_class_antalgiques_et_anti_inflammatoires</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Antalgiques et anti-inflammatoires</data>
+    </edge>
+    <edge source="active_ingredient_tramadol" target="literal::50 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">50 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025</data>
+    </edge>
+    <edge source="active_ingredient_tramadol" target="literal::100 mg" id="0">
+      <data key="d3">has_strength</data>
+      <data key="d4">100 mg</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Dosages : 50 mg, 100 mg). Source : Nomenclature ANPP Déc. 2025</data>
+    </edge>
+    <edge source="active_ingredient_tramadol" target="literal::gélule" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">gélule</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : gélule, comprimé LP, injectable</data>
+    </edge>
+    <edge source="active_ingredient_tramadol" target="literal::comprimé LP" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">comprimé LP</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : gélule, comprimé LP, injectable</data>
+    </edge>
+    <edge source="active_ingredient_tramadol" target="literal::injectable" id="0">
+      <data key="d3">has_form</data>
+      <data key="d4">injectable</data>
+      <data key="d5">literal</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">Formes : gélule, comprimé LP, injectable</data>
+    </edge>
+    <edge source="medicament_supramadol" target="active_ingredient_tramadol" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_tramadol</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">DOLEX, SUPRAMADOL, TRAMADIS</data>
+    </edge>
+    <edge source="medicament_tramadis" target="active_ingredient_tramadol" id="0">
+      <data key="d3">brand_of</data>
+      <data key="d4">active_ingredient_tramadol</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/medicaments_clean.csv</data>
+      <data key="d7">1</data>
+      <data key="d8" />
+      <data key="d9">DOLEX, SUPRAMADOL, TRAMADIS</data>
+    </edge>
+    <edge source="therapeutic_class_diuretiques_epargneurs_de_potassium" target="therapeutic_class_diuretiques_epargneurs_de_potassium" id="0">
+      <data key="d3">interacts_with:CI</data>
+      <data key="d4">therapeutic_class_diuretiques_epargneurs_de_potassium</data>
+      <data key="d5">therapeutic_class</data>
+      <data key="d6">data/text_clean/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">DIURÉTIQUES ÉPARGNEURS DE POTASSIUM (SEULS OU ASSOCIÉS) (amiloride, canrenoate de potassium, eplerenone, spironolactone, triamterene) + AUTRES DIURÉTIQUES ÉPARGNEURS DE POTASSIUM (SEULS OU ASSOCIÉS) Contre-indiqué sauf s'il existe une hypokaliémie. Hyperkaliémie potentiellement létale, notamment chez l'insuffisant rénal (addition des effets hyperkaliémiants).</data>
+    </edge>
+    <edge source="therapeutic_class_opiaces" target="active_ingredient_oxybate_de_sodium" id="0">
+      <data key="d3">interacts_with:CI</data>
+      <data key="d4">active_ingredient_oxybate_de_sodium</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/text_clean/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">entre l'oxybate de sodium et les opiacés ou les barbituriques (contreindication)</data>
+    </edge>
+    <edge source="therapeutic_class_barbituriques" target="active_ingredient_oxybate_de_sodium" id="0">
+      <data key="d3">interacts_with:CI</data>
+      <data key="d4">active_ingredient_oxybate_de_sodium</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/text_clean/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">entre l'oxybate de sodium et les opiacés ou les barbituriques (contreindication)</data>
+    </edge>
+    <edge source="therapeutic_class_medicaments_sedatifs" target="active_ingredient_oxybate_de_sodium" id="0">
+      <data key="d3">interacts_with:AD</data>
+      <data key="d4">active_ingredient_oxybate_de_sodium</data>
+      <data key="d5">active_ingredient</data>
+      <data key="d6">data/text_clean/ansm/ansm_thesaurus_interactions_2023-09.txt</data>
+      <data key="d7">3</data>
+      <data key="d8">2026-11-12</data>
+      <data key="d9">avec l'oxybate de sodium (association déconseillée)</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_hypersensibilite" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">• Hypersensibilité composés dérivés de l'acide acétylsalicylique ou à l'un des excipients mentionnés à la rubrique 6.1.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_grossesse" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_grossesse</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Dosage de plus de 100 mg par jour : Grossesse, à partir du début du 6ème mois (24 semaines d'aménorrhée) pour des doses d'aspirine supérieures à 100 mg par jour (voir rubrique 4.6).</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_asthme_induit_par_l_aspirine" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_asthme_induit_par_l_aspirine</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Antécédents d'asthme induit par l'administration d'acétylsalicylates ou de substances ayant une action similaire, en particulier les anti-inflammatoires non stéroïdiens.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_ulcere_gastroduodenal" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_ulcere_gastroduodenal</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Ulcère gastroduodénal actif ou antécédents d'ulcère gastroduodénal récurrent et/ou saignements gastriques/intestinaux, ou autres types de saignements, notamment hémorragies vasculaires cérébrales.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_saignement_gastrique_intestinaux" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_saignement_gastrique_intestinaux</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Ulcère gastroduodénal actif ou antécédents d'ulcère gastroduodénal récurrent et/ou saignements gastriques/intestinaux, ou autres types de saignements, notamment hémorragies vasculaires cérébrales.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_hemorragie_vasculaire_cerebrale" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hemorragie_vasculaire_cerebrale</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Ulcère gastroduodénal actif ou antécédents d'ulcère gastroduodénal récurrent et/ou saignements gastriques/intestinaux, ou autres types de saignements, notamment hémorragies vasculaires cérébrales.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_diathese_hemorragique" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_diathese_hemorragique</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Diathèse hémorragique ; troubles de la coagulation, notamment hémophilie et thrombocytopénie.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_trouble_de_la_coagulation" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_trouble_de_la_coagulation</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Diathèse hémorragique ; troubles de la coagulation, notamment hémophilie et thrombocytopénie.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_insuffisance_hepatique" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_insuffisance_hepatique</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Insuffisance hépatique sévère.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_insuffisance_renale" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_insuffisance_renale</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Insuffisance rénale sévère.</data>
+    </edge>
+    <edge source="medicament_aspirine_cardio_100_mg_en_gelules" target="contraindication_insuffisance_cardiaque" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_insuffisance_cardiaque</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_ACIDE_ACETYLSALICYLIQUE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Insuffisance cardiaque sévère.</data>
+    </edge>
+    <edge source="medicament_mibral_5_mg_gelule" target="contraindication_hypersensibilite_aux_derive_de_la_dihydropyridine_a_l_amlodipine_ou_aux_excipient" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_aux_derive_de_la_dihydropyridine_a_l_amlodipine_ou_aux_excipient</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_amlodipine.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-16</data>
+      <data key="d9">Une hypersensibilité aux dérivés de la dihydropyridine, à l'amlodipine ou à l'un des excipients mentionnés à la rubrique 6.1.</data>
+    </edge>
+    <edge source="medicament_mibral_5_mg_gelule" target="contraindication_hypotension_severe" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypotension_severe</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_amlodipine.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-16</data>
+      <data key="d9">Une hypotension sévère.</data>
+    </edge>
+    <edge source="medicament_mibral_5_mg_gelule" target="contraindication_choc" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_choc</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_amlodipine.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-16</data>
+      <data key="d9">Un choc (y compris choc cardiogénique).</data>
+    </edge>
+    <edge source="medicament_mibral_5_mg_gelule" target="contraindication_obstruction_de_la_voie_d_ejection_du_ventricule_gauche" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_obstruction_de_la_voie_d_ejection_du_ventricule_gauche</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_amlodipine.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-16</data>
+      <data key="d9">Une obstruction de la voie d'éjection du ventricule gauche (par exemple, sténose aortique de degré élevé).</data>
+    </edge>
+    <edge source="medicament_mibral_5_mg_gelule" target="contraindication_insuffisance_cardiaque_hemodynamiquement_instable_apre_un_infarctus_aigu_du_myocarde" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_insuffisance_cardiaque_hemodynamiquement_instable_apre_un_infarctus_aigu_du_myocarde</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_amlodipine.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-16</data>
+      <data key="d9">Une insuffisance cardiaque hémodynamiquement instable après un infarctus aigu du myocarde.</data>
+    </edge>
+    <edge source="medicament_cebrex_200_mg_gelule" target="contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_célécoxib.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-18</data>
+      <data key="d9">Hypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique 6.1.</data>
+    </edge>
+    <edge source="medicament_cebrex_200_mg_gelule" target="contraindication_hypersensibilite_connue_aux_sulfamide" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_connue_aux_sulfamide</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_célécoxib.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-18</data>
+      <data key="d9">Hypersensibilité connue aux sulfamides.</data>
+    </edge>
+    <edge source="medicament_cebrex_200_mg_gelule" target="contraindication_ulcere_peptique_evolutif_ou_saignement_gastro_intestinal" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_ulcere_peptique_evolutif_ou_saignement_gastro_intestinal</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_célécoxib.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-18</data>
+      <data key="d9">Ulcère peptique évolutif ou saignement gastro-intestinal (GI).</data>
+    </edge>
+    <edge source="medicament_cebrex_200_mg_gelule" target="contraindication_antecedent_d_asthme_de_rhinite_aigue_de_polype_nasaux_d_oedeme_de_quincke_d_urticaire_ou_autre_reaction_allergique_aux_ains" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_antecedent_d_asthme_de_rhinite_aigue_de_polype_nasaux_d_oedeme_de_quincke_d_urticaire_ou_autre_reaction_allergique_aux_ains</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_célécoxib.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-18</data>
+      <data key="d9">Antécédents d'asthme, de rhinite aiguë, de polypes nasaux, d'oedème de Quincke, d'urticaire ou autres réactions de type allergique déclenchées par la prise d'acide acétylsalicylique (aspirine) ou d'autres anti-inflammatoires non stéroïdiens (AINS), y compris les inhibiteurs de la COX-2.</data>
+    </edge>
+    <edge source="medicament_cebrex_200_mg_gelule" target="contraindication_grossesse_et_femme_en_age_de_procreer_sans_contraception_efficace" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_grossesse_et_femme_en_age_de_procreer_sans_contraception_efficace</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_célécoxib.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-18</data>
+      <data key="d9">Grossesse et femmes en âge de procréer, en l'absence d'une contraception efficace (voir rubrique 4.6).</data>
+    </edge>
+    <edge source="medicament_gelfen_5_gel" target="contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_IBUPRANE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Hypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique 6.1 " liste des excipients ".</data>
+    </edge>
+    <edge source="medicament_gelfen_5_gel" target="contraindication_grossesse" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_grossesse</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_IBUPRANE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">grossesse, à partir du début du 6ème mois (au-delà de 24 semaines d'aménorrhée) (voir rubrique 4.6)</data>
+    </edge>
+    <edge source="medicament_gelfen_5_gel" target="contraindication_peau_lesee" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_peau_lesee</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_IBUPRANE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">peau lésée, quelque soit la lésion: dermatoses suintantes, eczéma, lésion infectée, brûlure ou plaie.</data>
+    </edge>
+    <edge source="medicament_koprofen_2_5_gel" target="contraindication_reaction_de_photosensibilite" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_reaction_de_photosensibilite</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_KETOPROFENE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Antécédent de réactions de photosensibilité</data>
+    </edge>
+    <edge source="medicament_koprofen_2_5_gel" target="contraindication_reaction_d_hypersensibilite" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_reaction_d_hypersensibilite</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_KETOPROFENE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Réactions d'hypersensibilité connues telles que des symptômes d'asthme et de rhinite allergique au kétoprofène, au fénofibrate, à l'acide tiaprofénique, à l'acide acétylsalicylique ou à d'autres A.I.N.S.</data>
+    </edge>
+    <edge source="medicament_koprofen_2_5_gel" target="contraindication_allergie_cutanee" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_allergie_cutanee</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_KETOPROFENE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Antécédent d'allergie cutanée au kétoprofène, à l'acide tiaprofènique, au fénofibrate, aux écrans anti-U.V. ou aux parfums</data>
+    </edge>
+    <edge source="medicament_koprofen_2_5_gel" target="contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_KETOPROFENE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Hypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique 6.1</data>
+    </edge>
+    <edge source="medicament_koprofen_2_5_gel" target="contraindication_peau_lesee" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_peau_lesee</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_KETOPROFENE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Peau lésée, quelle que soit la lésion : dermatoses suintantes, eczéma, lésion infectée, brûlure ou plaie</data>
+    </edge>
+    <edge source="medicament_koprofen_2_5_gel" target="contraindication_grossesse" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_grossesse</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_KETOPROFENE.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">A partir du début du 6ème mois de la grossesse (au-delà de 24 semaines d'aménorrhée) (voir rubrique 4.6).</data>
+    </edge>
+    <edge source="medicament_lazartan_50_mg_comprime_pellicule_secables" target="contraindication_hypersensibilite_a_la_substance_active_ou_a_l_un_des_excipient" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_a_la_substance_active_ou_a_l_un_des_excipient</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_losartan.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-17</data>
+      <data key="d9">Hypersensibilité à la substance active ou à l'un des excipients cités dans la rubrique</data>
+    </edge>
+    <edge source="medicament_flagyl_250mg_comprime_pellicule" target="contraindication_hypersensibilite_au_metronidazole_ou_a_la_famille_des_imidazole_ou_a_l_un_des_excipient" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_au_metronidazole_ou_a_la_famille_des_imidazole_ou_a_l_un_des_excipient</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_métronidazole.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-19</data>
+      <data key="d9">Hypersensibilité au métronidazole ou à la famille des imidazolés ou à l'un des excipients.</data>
+    </edge>
+    <edge source="medicament_flagyl_250mg_comprime_pellicule" target="contraindication_allergie_au_ble" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_allergie_au_ble</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_métronidazole.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-19</data>
+      <data key="d9">Patient présentant une allergie au blé (autre que la maladie coeliaque).</data>
+    </edge>
+    <edge source="medicament_flagyl_250mg_comprime_pellicule" target="contraindication_enfant" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_enfant</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_métronidazole.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-19</data>
+      <data key="d9">Enfant âgé de moins de 6 ans, en raison de la forme pharmaceutique.</data>
+    </edge>
+    <edge source="medicament_doliprane_2_4_pour_cent_sans_sucre_suspension_buvable_a_la_saccharine_sodique" target="contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_a_la_substance_active_ou_aux_excipient</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_paracétamol_Doliprane 2.4%.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Hypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique " Liste des excipients ".</data>
+    </edge>
+    <edge source="medicament_doliprane_2_4_pour_cent_sans_sucre_suspension_buvable_a_la_saccharine_sodique" target="contraindication_insuffisance_hepatique" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_insuffisance_hepatique</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_paracétamol_Doliprane 2.4%.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Formes sévères d'insuffisance hépatique.</data>
+    </edge>
+    <edge source="medicament_doliprane_2_4_pour_cent_sans_sucre_suspension_buvable_a_la_saccharine_sodique" target="contraindication_hepatite_aigue" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hepatite_aigue</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_paracétamol_Doliprane 2.4%.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Hépatite aiguë.</data>
+    </edge>
+    <edge source="medicament_panadol_1g" target="contraindication_hypersensibilite_au_paracetamol_ou_a_l_un_des_autre_constituant" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite_au_paracetamol_ou_a_l_un_des_autre_constituant</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_paracétamol_Panadol 1g.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">Hypersensibilité au paracétamol ou à l'un des autres constituants (se référer à la rubrique 6.1 liste des excipients).</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_grossesse" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_grossesse</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">grossesse, à partir du début du 6ème mois (au-delà de 24 semaines d'aménorrhée) (voir rubrique 4.6)</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_hypersensibilite" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_hypersensibilite</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">hypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique 6.1</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_antecedent_d_allergie_ou_d_asthme" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_antecedent_d_allergie_ou_d_asthme</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">antécédents d'allergie ou d'asthme déclenché par la prise de piroxicam ou de substances d'activité proche telles qu'autres AINS, l'aspirine</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_antecedent_de_reaction_medicamenteuse_allergique_grave" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_antecedent_de_reaction_medicamenteuse_allergique_grave</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">antécédents de réactions médicamenteuses allergiques graves de tout type, en particulier réactions cutanées telles qu'érythème polymorphe, syndrome de Stevens-Johnson, nécrolyse épidermique toxique (syndrome de Lyell)</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_ulcere_hemorragie_ou_perforation_gastro_intestinale" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_ulcere_hemorragie_ou_perforation_gastro_intestinale</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">antécédents d'ulcère, d'hémorragie ou de perforation gastro-intestinale</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_rectocolite_hemorragique_maladie_de_crohn_cancer_gastrointestinaux_ou_diverticulite" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_rectocolite_hemorragique_maladie_de_crohn_cancer_gastrointestinaux_ou_diverticulite</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">patients présentant des antécédents de troubles gastro-intestinaux prédisposant à des troubles hémorragiques tels que rectocolite hémorragique, maladie de Crohn, cancers gastrointestinaux ou diverticulite</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_ulcere_peptique_evolutif_trouble_gastro_intestinal_inflammatoire_ou_hemorragie_gastro_intestinale" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_ulcere_peptique_evolutif_trouble_gastro_intestinal_inflammatoire_ou_hemorragie_gastro_intestinale</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">patients présentant un ulcère peptique évolutif, un trouble gastro-intestinal inflammatoire ou une hémorragie gastro-intestinale</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_insuffisance_hepatocellulaire" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_insuffisance_hepatocellulaire</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">insuffisance hépato-cellulaire sévère</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_insuffisance_cardiaque" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_insuffisance_cardiaque</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">insuffisance cardiaque sévère</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_insuffisance_renale" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_insuffisance_renale</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">insuffisance rénale sévère</data>
+    </edge>
+    <edge source="medicament_painoxam_suppositoire_a_20_mg" target="contraindication_rectite_ou_rectorragie" id="0">
+      <data key="d3">contraindicated_in</data>
+      <data key="d4">contraindication_rectite_ou_rectorragie</data>
+      <data key="d5">contraindication</data>
+      <data key="d6">data/text_clean/anpp/anpp_piroxicam.txt</data>
+      <data key="d7">1</data>
+      <data key="d8">2026-11-15</data>
+      <data key="d9">antécédents récents de rectites ou de rectorragies</data>
+    </edge>
+  </graph>
+</graphml>

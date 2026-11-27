@@ -9,3 +9,5 @@ rapidfuzz
 streamlit
 sentence-transformers
 faiss-cpu
+networkx
+matplotlib
