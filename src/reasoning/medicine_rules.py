@@ -3,7 +3,9 @@
 from __future__ import annotations
 
 import csv
-from dataclasses import dataclass
+import re
+import unicodedata
+from dataclasses import dataclass, field
 from pathlib import Path
 
 from src.normalize.normalizer import MedicineRecord, MedicineResolver, normalize_name
@@ -24,6 +26,44 @@ class R4Result:
     shared_classes: tuple[str, ...] = ()
 
 
+SEVERITY = {"CI": 4, "AD": 3, "PE": 2, "APEC": 1}
+LEVEL_LABEL = {
+    "CI": "Contre-indication",
+    "AD": "Association déconseillée",
+    "PE": "Précaution d'emploi",
+    "APEC": "À prendre en compte",
+}
+NOT_FOUND = (
+    "Non trouvé dans nos sources. L'absence d'information ne prouve pas "
+    "l'absence de risque : consultez le RCP et un professionnel de santé."
+)
+
+
+def _slug(text: str) -> str:
+    text = unicodedata.normalize("NFKD", text).encode(
+        "ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
+
+
+@dataclass(frozen=True)
+class Finding:
+    kind: str  # "interaction" or "contraindication"
+    level: str  # CI / AD / PE / APEC, empty for a contraindication
+    subject: str
+    object: str
+    class_level: bool
+    source_file: str
+    passage: str
+    authority_level: str
+
+
+@dataclass(frozen=True)
+class RuleAnswer:
+    status: str  # found | not_found_in_sources | unknown_medicine
+    message: str
+    findings: tuple[Finding, ...] = field(default_factory=tuple)
+
+
 class MedicineRules:
     """Apply brand resolution and drug-equivalence rules."""
 
@@ -37,6 +77,9 @@ class MedicineRules:
         self.brand_to_drug: dict[str, tuple[str, ...]] = {}
         self.drug_to_classes: dict[str, tuple[str, ...]] = {}
         self.drug_to_dci: dict[str, str] = {}
+        self.interaction_rows: list[dict[str, str]] = []
+        self.contraindication_rows: list[dict[str, str]] = []
+        self.known_ids: set[str] = set()
         self._load_triples()
 
     def _load_triples(self) -> None:
@@ -46,25 +89,34 @@ class MedicineRules:
             with vocab_path.open(encoding="utf-8-sig", newline="") as vocab_file:
                 for row in csv.DictReader(vocab_file):
                     if row["kind"].strip() == "entity" and row["name"].startswith("medicament_"):
-                        brand_labels[row["name"].strip()] = row["description"].strip()
+                        brand_labels[row["name"].strip(
+                        )] = row["description"].strip()
 
         with self.triples_path.open(encoding="utf-8-sig", newline="") as triples_file:
             for row in csv.DictReader(triples_file):
                 subject = row["subject"].strip()
                 relation = row["relation"].strip()
                 obj = row["object"].strip()
+                self.known_ids.update((subject, obj))
 
                 if relation == "brand_of":
                     normalized_label = self._normalize_brand_label(
-                        brand_labels.get(subject, subject.removeprefix("medicament_"))
+                        brand_labels.get(
+                            subject, subject.removeprefix("medicament_"))
                     )
-                    brand_drugs = self.brand_to_drug.setdefault(normalized_label, ())
+                    brand_drugs = self.brand_to_drug.setdefault(
+                        normalized_label, ())
                     if (subject, obj) not in brand_drugs:
-                        self.brand_to_drug[normalized_label] = brand_drugs + (subject + "|" + obj,)
+                        self.brand_to_drug[normalized_label] = brand_drugs + \
+                            (subject + "|" + obj,)
                 elif relation == "belongs_to":
                     classes = self.drug_to_classes.setdefault(subject, ())
                     if obj not in classes:
                         self.drug_to_classes[subject] = classes + (obj,)
+                elif relation.startswith("interacts_with:"):
+                    self.interaction_rows.append(row)
+                elif relation == "contraindicated_in":
+                    self.contraindication_rows.append(row)
 
     @staticmethod
     def _normalize_brand_label(label: str) -> str:
@@ -81,7 +133,8 @@ class MedicineRules:
             record = self._record_for(drug_id)
             if record is not None:
                 return R1Result("matched", drug_id, record.dci)
-            normalized_dci = drug_id.removeprefix("active_ingredient_").replace("_", " ")
+            normalized_dci = drug_id.removeprefix(
+                "active_ingredient_").replace("_", " ")
             return R1Result("matched", drug_id, normalized_dci)
 
         match = self.resolver.resolve(name)
@@ -132,7 +185,8 @@ class MedicineRules:
 
     def _record_for(self, name: str) -> MedicineRecord | None:
         if name.startswith("active_ingredient_"):
-            normalized = name.removeprefix("active_ingredient_").replace("_", " ")
+            normalized = name.removeprefix(
+                "active_ingredient_").replace("_", " ")
             for record in self.resolver.records:
                 if record.dci.lower().replace("-", " ") == normalized.lower().replace("-", " "):
                     return record
@@ -148,7 +202,8 @@ class MedicineRules:
                     return drug_id
 
         for drug_id in self.drug_to_classes:
-            suffix = normalize_name(drug_id.removeprefix("active_ingredient_").replace("_", " "))
+            suffix = normalize_name(drug_id.removeprefix(
+                "active_ingredient_").replace("_", " "))
             if suffix == normalized_name:
                 return drug_id
 
@@ -163,3 +218,72 @@ class MedicineRules:
                 if normalize_name(drug_id.removeprefix("active_ingredient_")) == normalized_dci:
                     return drug_id
         return ""
+
+    # ---- Week 4 rules: interactions, contraindications, explicit not-found ----
+
+    def _ingredient_ids(self, name: str) -> set[str]:
+        direct = f"active_ingredient_{_slug(name)}"
+        if direct in self.known_ids:
+            return {direct}
+        result = self.resolve_brand_to_drug(name)
+        if result.status == "matched" and result.drug_id:
+            return {result.drug_id}
+        return set()
+
+    def _endpoints(self, ingredient_id: str) -> set[str]:
+        return {ingredient_id} | set(self.drug_to_classes.get(ingredient_id, ()))
+
+    def check_interaction(self, name_a: str, name_b: str) -> RuleAnswer:
+        """Direct or class-level interaction, highest severity first.
+        A missing path is 'not found in our sources', never 'safe'."""
+        ids_a, ids_b = self._ingredient_ids(
+            name_a), self._ingredient_ids(name_b)
+        unknown = [n for n, ids in (
+            (name_a, ids_a), (name_b, ids_b)) if not ids]
+        if unknown:
+            return RuleAnswer(
+                "unknown_medicine",
+                "Médicament non trouvé dans nos sources : " +
+                ", ".join(unknown) + ".",
+            )
+        findings: list[Finding] = []
+        for ia in ids_a:
+            for ib in ids_b:
+                ends_a, ends_b = self._endpoints(ia), self._endpoints(ib)
+                for row in self.interaction_rows:
+                    s, o = row["subject"].strip(), row["object"].strip()
+                    if (s in ends_a and o in ends_b) or (s in ends_b and o in ends_a):
+                        findings.append(Finding(
+                            "interaction", row["relation"].split(":", 1)[
+                                1], s, o,
+                            s.startswith("therapeutic_class_") or o.startswith(
+                                "therapeutic_class_"),
+                            row["source_file"], row["passage"], row["authority_level"]))
+        if not findings:
+            return RuleAnswer("not_found_in_sources", NOT_FOUND)
+        findings.sort(key=lambda f: -SEVERITY.get(f.level, 0))
+        top = findings[0]
+        return RuleAnswer(
+            "found",
+            f"{LEVEL_LABEL.get(top.level, top.level)} ({top.subject} / {top.object}).",
+            tuple(findings),
+        )
+
+    def check_contraindications(self, product_name: str) -> RuleAnswer:
+        """Only the named product/form; never generalised to other formulations."""
+        key = f"medicament_{_slug(product_name)}"
+        findings = tuple(
+            Finding("contraindication", "", r["subject"].strip(), r["object"].strip(),
+                    False, r["source_file"], r["passage"], r["authority_level"])
+            for r in self.contraindication_rows
+            if r["subject"].strip() == key or r["subject"].strip().startswith(key + "_")
+        )
+        if not findings:
+            return RuleAnswer("not_found_in_sources", NOT_FOUND)
+        products = sorted({f.subject for f in findings})
+        return RuleAnswer(
+            "found",
+            f"{len(findings)} contre-indication(s) dans nos sources pour : " +
+            ", ".join(products) + ".",
+            findings,
+        )
