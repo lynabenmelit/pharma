@@ -26,9 +26,9 @@ COLLECTION_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 def load_vocabulary(
     vocabulary_path: Path,
-) -> tuple[set[str], dict[str, tuple[str, str]], dict[str, str]]:
+) -> tuple[set[str], dict[str, set[tuple[str, str]]], dict[str, str]]:
     entity_types: set[str] = set()
-    predicates: dict[str, tuple[str, str]] = {}
+    predicates: dict[str, set[tuple[str, str]]] = {}
     entities: dict[str, str] = {}
 
     with vocabulary_path.open(encoding="utf-8-sig", newline="") as vocabulary_file:
@@ -68,11 +68,14 @@ def load_vocabulary(
                 raise ValueError(
                     f"Vocabulary row {line_number}: {name} uses an undeclared entity type"
                 )
-            if name in predicates:
+            allowed_types = predicates.setdefault(name, set())
+            type_pair = (domain, object_range)
+            if type_pair in allowed_types:
                 raise ValueError(
-                    f"Vocabulary row {line_number}: duplicate predicate {name}"
+                    f"Vocabulary row {line_number}: duplicate predicate "
+                    f"{name} for {domain} -> {object_range}"
                 )
-            predicates[name] = (domain, object_range)
+            allowed_types.add(type_pair)
         elif kind == "entity":
             entity_type = (row.get("domain") or "").strip()
             if entity_type not in entity_types:
@@ -194,17 +197,29 @@ def validate_triples(
                 errors.append(f"Row {line_number}: unknown relation {relation}")
                 continue
 
-            expected_domain, expected_range = predicates[relation]
-            if subject_type != expected_domain:
-                errors.append(
-                    f"Row {line_number}: {relation} expects subject type "
-                    f"{expected_domain}, got {subject_type}"
-                )
-            if object_type != expected_range:
-                errors.append(
-                    f"Row {line_number}: {relation} expects object type "
-                    f"{expected_range}, got {object_type}"
-                )
+            allowed_types = predicates[relation]
+            if (subject_type, object_type) not in allowed_types:
+                if len(allowed_types) == 1:
+                    expected_domain, expected_range = next(iter(allowed_types))
+                    if subject_type != expected_domain:
+                        errors.append(
+                            f"Row {line_number}: {relation} expects subject type "
+                            f"{expected_domain}, got {subject_type}"
+                        )
+                    if object_type != expected_range:
+                        errors.append(
+                            f"Row {line_number}: {relation} expects object type "
+                            f"{expected_range}, got {object_type}"
+                        )
+                else:
+                    allowed = ", ".join(
+                        f"{domain} -> {object_range}"
+                        for domain, object_range in sorted(allowed_types)
+                    )
+                    errors.append(
+                        f"Row {line_number}: {relation} expects one of "
+                        f"[{allowed}], got {subject_type} -> {object_type}"
+                    )
             for value, entity_type, role in (
                 (row["subject"].strip(), subject_type, "subject"),
                 (row["object"].strip(), object_type, "object"),

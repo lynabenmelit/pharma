@@ -16,6 +16,22 @@ predicate,indicated_for,medicament,indication,An indication stated by a source.
 predicate,may_cause,medicament,adverse_effect,An adverse effect stated by a source.
 predicate,contraindicated_in,medicament,contraindication,A contraindication stated by a source.
 predicate,interacts_with,active_ingredient,active_ingredient,An interaction stated between active ingredients.
+predicate,interacts_with:CI,active_ingredient,active_ingredient,Contra-indication-level interaction.
+predicate,interacts_with:CI,active_ingredient,therapeutic_class,Contra-indication-level interaction.
+predicate,interacts_with:CI,therapeutic_class,active_ingredient,Contra-indication-level interaction.
+predicate,interacts_with:CI,therapeutic_class,therapeutic_class,Contra-indication-level interaction.
+predicate,interacts_with:AD,active_ingredient,active_ingredient,Discouraged-association-level interaction.
+predicate,interacts_with:AD,active_ingredient,therapeutic_class,Discouraged-association-level interaction.
+predicate,interacts_with:AD,therapeutic_class,active_ingredient,Discouraged-association-level interaction.
+predicate,interacts_with:AD,therapeutic_class,therapeutic_class,Discouraged-association-level interaction.
+predicate,interacts_with:PE,active_ingredient,active_ingredient,Precaution-level interaction.
+predicate,interacts_with:PE,active_ingredient,therapeutic_class,Precaution-level interaction.
+predicate,interacts_with:PE,therapeutic_class,active_ingredient,Precaution-level interaction.
+predicate,interacts_with:PE,therapeutic_class,therapeutic_class,Precaution-level interaction.
+predicate,interacts_with:APEC,active_ingredient,active_ingredient,Interaction to be taken into account.
+predicate,interacts_with:APEC,active_ingredient,therapeutic_class,Interaction to be taken into account.
+predicate,interacts_with:APEC,therapeutic_class,active_ingredient,Interaction to be taken into account.
+predicate,interacts_with:APEC,therapeutic_class,therapeutic_class,Interaction to be taken into account.
 entity,active_ingredient_acide_acetylsalicylique,active_ingredient,,acide acétylsalicylique
 entity,active_ingredient_amlodipine,active_ingredient,,amlodipine
 entity,active_ingredient_amoxicilline,active_ingredient,,amoxicilline
@@ -206,3 +222,7 @@ entity,therapeutic_class_ains,therapeutic_class,,Anti-inflammatoires non stéro�
 entity,therapeutic_class_iec,therapeutic_class,,"Inhibiteurs de l'enzyme de conversion (IEC)"
 entity,therapeutic_class_ara2,therapeutic_class,,"Antagonistes des récepteurs de l'angiotensine II (ARA II)"
 entity,therapeutic_class_diuretiques_epargneurs_de_potassium,therapeutic_class,,Diurétiques épargneurs de potassium
+entity,therapeutic_class_medicaments_sedatifs,therapeutic_class,,Médicaments sédatifs (ANSM Thesaurus)
+entity,therapeutic_class_opiaces,therapeutic_class,,Opiacés (ANSM Thesaurus)
+entity,therapeutic_class_barbituriques,therapeutic_class,,Barbituriques (ANSM Thesaurus)
+entity,active_ingredient_oxybate_de_sodium,active_ingredient,,oxybate de sodium

@@ -20,6 +20,7 @@ class LLMRetryTests(unittest.TestCase):
 
         with tempfile.TemporaryDirectory() as directory:
             cache_path = Path(directory) / "llm_cache.json"
+            usage = {}
             with (
                 patch.dict(os.environ, {"GROQ_API_KEY": "test-key"}),
                 patch.object(llm, "CACHE_FILE", cache_path),
@@ -32,11 +33,15 @@ class LLMRetryTests(unittest.TestCase):
                 ) as post,
                 patch("src.llm.time.sleep") as sleep,
             ):
-                self.assertEqual(llm.ask("test prompt"), "OK")
-                self.assertEqual(llm.ask("test prompt"), "OK")
+                self.assertEqual(llm.ask("test prompt", usage=usage), "OK")
+                self.assertEqual(llm.ask("test prompt", usage=usage), "OK")
 
         self.assertEqual(post.call_count, 2)
         sleep.assert_called_once_with(10)
+        self.assertEqual(
+            usage,
+            {"api_requests": 2, "successful_responses": 1, "cache_hits": 1},
+        )
 
     def test_stops_instead_of_waiting_for_long_retry_after(self):
         response = Mock()

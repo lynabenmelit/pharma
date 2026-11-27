@@ -22,12 +22,15 @@ def _load():
     return {}
 
 
-def ask(prompt, system="Tu es un assistant précis.", run=0, temperature=0.3):
+def ask(prompt, system="Tu es un assistant précis.", run=0, temperature=0.3,
+        usage=None):
     cache = _load()
     key = hashlib.sha256(
         f"{MODEL}|{system}|{prompt}|{run}|{temperature}".encode()
     ).hexdigest()
     if key in cache:
+        if usage is not None:
+            usage["cache_hits"] = usage.get("cache_hits", 0) + 1
         return cache[key]
     api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
@@ -35,6 +38,8 @@ def ask(prompt, system="Tu es un assistant précis.", run=0, temperature=0.3):
     attempts = 5
     retry_waited = 0.0
     for attempt in range(attempts):
+        if usage is not None:
+            usage["api_requests"] = usage.get("api_requests", 0) + 1
         try:
             r = requests.post(
                 URL,
@@ -85,6 +90,10 @@ def ask(prompt, system="Tu es un assistant précis.", run=0, temperature=0.3):
         CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(CACHE_FILE, "w", encoding="utf-8") as f:
             json.dump(cache, f, ensure_ascii=False)
+        if usage is not None:
+            usage["successful_responses"] = (
+                usage.get("successful_responses", 0) + 1
+            )
         return answer
     raise RuntimeError("Groq request failed after all retry attempts")
 

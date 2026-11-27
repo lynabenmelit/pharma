@@ -114,6 +114,41 @@ class GraphTripleValidatorTests(unittest.TestCase):
         self.assertEqual(errors, [])
         self.assertEqual(row_count, 89)
 
+    def test_p3_interaction_triples_match_the_vocabulary_and_sources(self):
+        triples_path = ROOT / "data" / "graph" / "triples_p3.csv"
+
+        errors, row_count = validate_triples(triples_path, DEFAULT_VOCABULARY)
+
+        self.assertEqual(errors, [])
+        self.assertEqual(row_count, 4)
+        with triples_path.open(encoding="utf-8-sig", newline="") as triples_file:
+            triples = list(csv.DictReader(triples_file))
+        self.assertIn(
+            (
+                "therapeutic_class_barbituriques",
+                "interacts_with:CI",
+                "active_ingredient_oxybate_de_sodium",
+            ),
+            {
+                (row["subject"], row["relation"], row["object"])
+                for row in triples
+            },
+        )
+
+    def test_p4_contraindication_triples_match_the_generated_vocabulary(self):
+        triples_path = ROOT / "data" / "graph" / "triples_p4.csv"
+        vocabulary_path = ROOT / "data" / "graph" / "vocab_p4_merged.csv"
+
+        errors, row_count = validate_triples(triples_path, vocabulary_path)
+
+        self.assertEqual(errors, [])
+        self.assertGreater(row_count, 0)
+        with triples_path.open(encoding="utf-8-sig", newline="") as triples_file:
+            triples = list(csv.DictReader(triples_file))
+        self.assertTrue(
+            all(row["relation"] == "contraindicated_in" for row in triples)
+        )
+
     def test_rejects_an_invalid_subject_type_and_entity_id(self):
         row = dict(self.valid_row, subject_type="active_ingredient")
         self.write_triples(row)

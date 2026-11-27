@@ -62,12 +62,25 @@ pharma/
 │   │   ├── vocab.csv            # graph entity and relation vocabulary
 │   │   ├── triples_template.csv # working triples for the graph
 │   │   ├── triples_sample.csv   # 10 sample triples from the nomenclature
-│   │   └── evidence_candidates.csv # source excerpts awaiting review
+│   │   ├── triples_p2.csv       # medicine identity and nomenclature slice
+│   │   ├── triples_p3.csv       # ANSM interactions with explicit levels
+│   │   ├── triples_p4.csv       # ANPP contraindications: RCP product to condition
+│   │   ├── triples_p4_rejected.csv # P4 model outputs rejected by source checks
+│   │   ├── vocab_p4_additions.csv # entities proposed by P4 extraction
+│   │   ├── vocab_p4_merged.csv  # base vocabulary plus P4 entities
+│   │   ├── evidence_candidates.csv # source excerpts awaiting review
+│   │   ├── triples_step3.csv    # extracted indications, effects, and contraindications
+│   │   ├── triples_step3_rejected.csv # candidates rejected during source checks
+│   │   ├── vocab_step3_additions.csv # entities proposed by Step 3 extraction
+│   │   └── vocab_step3_merged.csv # base vocabulary plus proposed entities
 │   ├── chunks.jsonl            # retrieval corpus: one JSON object per line
 │   └── chunks_report.json      # chunking statistics
 ├── src/
 │   ├── graph/
 │   │   ├── extract_evidence_candidates.py # extract source excerpts for review
+│   │   ├── extract_contraindications.py # P4 RCP product-to-condition extraction
+│   │   ├── extract_relations.py # LLM-assisted Step 3 relation extraction
+│   │   ├── verify_triples.py   # review extracted Step 3 triples
 │   │   └── check_triples.py    # validate triples against the vocabulary
 │   ├── reasoning/
 │   │   └── medicine_rules.py   # brand resolution and graph rule implementations
@@ -124,10 +137,44 @@ subject, subject_type, relation, object, object_type, source_file,
 authority_level, collected_on, passage
 ```
 
-Relations describe only the relationship itself; interaction severity is stored
-as part of the relation name. `source_file` is repository-relative, and every
-`passage` must appear in the referenced source. `authority_level` ranges from
-1 to 4. `collected_on` may be left blank when the collection date is unknown.
+`source_file` is repository-relative, and every `passage` must appear in the
+referenced source. `authority_level` ranges from 1 to 4. `collected_on` may be
+left blank when the collection date is unknown.
+
+Interaction severity is represented in the relation name, so the nine-column
+contract does not need an extra level field:
+
+| Relation suffix | ANSM level |
+|---|---|
+| `:CI` | Contre-indication |
+| `:AD` | Association déconseillée |
+| `:PE` | Précaution d'emploi |
+| `:APEC` | À prendre en compte |
+
+Interaction endpoints may be active ingredients or therapeutic classes. The
+vocabulary declares the allowed endpoint-type combinations for each
+level-specific relation. Keep the ANSM subject and object as single canonical
+IDs (lowercase, unaccented, underscore-separated); do not create a new entity
+for spelling, accent, or brand variants. Where ANSM explicitly describes a
+class-level interaction, record the class-level edge and retain its exact
+qualifier or dose condition in the cited passage. Assign a level only when the
+source explicitly supports it; a risk description by itself is not enough to
+infer CI, AD, PE, or APEC.
+
+The Week 3 P3 interaction slice is `data/graph/triples_p3.csv`. It uses the
+September 2023 ANSM interaction thesaurus, authority level `3`, and the
+collection date recorded for that source. The rows preserve the ANSM
+class-level statements rather than expanding them into unsupported drug-level
+claims. Validate the slice before merging it:
+
+```powershell
+python -m src.graph.check_triples data/graph/triples_p3.csv
+```
+
+The thesaurus itself notes that a missing interaction entry does not establish
+safety and that the product-specific RCP should also be consulted. Accordingly,
+the graph must report a missing path as “not found in our sources,” never as
+“safe.”
 
 The working nomenclature graph contains 318 triples covering 40 medicine
 records. It includes brand-to-active-ingredient mappings, ATC codes,
@@ -145,14 +192,14 @@ before inclusion in the working graph.
 
 Examples below illustrate the entity types only; the clinical examples do not
 assert that a particular medicine has that indication, adverse effect, or
-contraindication. `Interaction` is modeled as a relation between two active
-ingredients, not as a separate entity type.
+contraindication. Interactions are graph edges, not separate entity nodes;
+their endpoints can be active ingredients or therapeutic classes.
 
 | Type | Definition | Example | Possible relations |
 |---|---|---|---|
 | `medicament` | A commercial medicine or brand name found in a source. | DOLI-BIEN | Subject of `brand_of`, `indicated_for`, `may_cause`, `contraindicated_in`. |
-| `active_ingredient` | A medicine's active substance, usually identified by its DCI. | paracetamol | Object of `brand_of`; subject of `has_atc`, `belongs_to`, `has_form`, `has_strength`, `interacts_with`. |
-| `therapeutic_class` | A therapeutic class recorded in the nomenclature. | Antalgiques et anti-inflammatoires | Object of `belongs_to`. |
+| `active_ingredient` | A medicine's active substance, usually identified by its DCI. | paracetamol | Object of `brand_of`; subject of `has_atc`, `belongs_to`, `has_form`, `has_strength`, and interaction relations. |
+| `therapeutic_class` | A therapeutic class recorded in the nomenclature or ANSM thesaurus. | Anti-inflammatoires non stéroïdiens (AINS) | Object of `belongs_to` and endpoint of interaction relations. |
 | `indication` | A condition or symptom a source says a medicine is used for. | Pain (illustrative) | Object of `indicated_for`. |
 | `adverse_effect` | An unwanted effect reported by a source. | Nausea (illustrative) | Object of `may_cause`. |
 | `contraindication` | A condition or situation in which a source says a medicine must not be used. | Hypersensitivity (illustrative) | Object of `contraindicated_in`. |
@@ -169,7 +216,11 @@ ingredients, not as a separate entity type.
 | `indicated_for` | `medicament` | `indication` | A source states that the medicine is used for the indication. |
 | `may_cause` | `medicament` | `adverse_effect` | A source reports the adverse effect for the medicine. |
 | `contraindicated_in` | `medicament` | `contraindication` | A source says not to use the medicine in the situation. |
-| `interacts_with` | `active_ingredient` | `active_ingredient` | A source reports an interaction between the two ingredients. |
+| `interacts_with` | `active_ingredient` | `active_ingredient` | An interaction without an encoded level; use a level-specific predicate when the source provides one. |
+| `interacts_with:CI` | `active_ingredient` or `therapeutic_class` | `active_ingredient` or `therapeutic_class` | Contra-indication-level interaction. |
+| `interacts_with:AD` | `active_ingredient` or `therapeutic_class` | `active_ingredient` or `therapeutic_class` | Discouraged-association-level interaction. |
+| `interacts_with:PE` | `active_ingredient` or `therapeutic_class` | `active_ingredient` or `therapeutic_class` | Precaution-level interaction. |
+| `interacts_with:APEC` | `active_ingredient` or `therapeutic_class` | `active_ingredient` or `therapeutic_class` | Interaction to be taken into account. |
 
 Validate a triples CSV from the repository root with:
 
@@ -194,6 +245,73 @@ strengths. `source_check=quote_found` means the excerpt appears in the named
 source; it does not confirm the medical claim. Review and normalize candidates
 before adding them to the working triples file. The extractor does not decide
 whether a medical claim is correct.
+
+### Graph extraction workflows
+
+The graph folder contains separate deliverables; do not treat them as one
+interchangeable triples file:
+
+- `triples_p2.csv` records medicine names, active ingredients, classes, ATC
+  codes, strengths, and forms from the nomenclature.
+- `triples_p3.csv` records the sourced ANSM interaction levels described
+  above. Its endpoints use the vocabulary's canonical ingredient or class IDs.
+- `triples_p4.csv` is the focused Week 3 P4 extraction: `contraindicated_in`
+  edges from the commercial product and form named in an ANPP RCP to a
+  condition. This is not a drug-drug interaction dataset.
+- `triples_step3.csv` is the earlier LLM-assisted extraction of
+  medicine-to-indication, medicine-to-adverse-effect, and
+  medicine-to-contraindication relations from the chunk corpus. The extractor
+  also writes rejected candidates and vocabulary additions; rejection reasons
+  and exact-source passage checks must be reviewed before merging those rows.
+
+To regenerate Step 3 candidates for review:
+
+```powershell
+python -m src.graph.extract_relations --limit 20
+python -m src.graph.verify_triples
+```
+
+The extraction command writes `triples_step3.csv`,
+`triples_step3_rejected.csv`, `vocab_step3_additions.csv`, and
+`vocab_step3_merged.csv`. The verification command writes
+`triples_step3_verified.csv` and `triples_step3_flagged.csv`; these two files
+are generated outputs and may not exist until verification is run.
+
+Both scripts call the configured Groq model and can update
+`cache/llm_cache.json`; neither is required to validate or use the P3
+interaction CSV. Check with the cache owner before running or committing cache
+changes. A successful passage check establishes that a quote exists in the
+source, not that the extracted clinical relation is correct.
+
+### P4: RCP contraindications
+
+Run the dedicated P4 extractor from the repository root:
+
+```powershell
+python -m src.graph.extract_contraindications
+python -m src.graph.check_triples data/graph/triples_p4.csv --vocabulary data/graph/vocab_p4_merged.csv
+```
+
+The extractor reads contraindication sections from eligible ANPP product
+information registered in `data/provenance.csv`. Each subject is the commercial
+product and form named in that RCP, not a generic active ingredient, so
+product-specific contraindications are not applied to other formulations.
+Known combination products remain excluded. Its JSON prompt asks Groq for
+explicit product-to-condition contraindications only; medicine interactions,
+warnings, and precautions are excluded. It verifies each returned passage
+against both the candidate excerpt and its source file.
+
+Outputs are `triples_p4.csv`, `triples_p4_rejected.csv`,
+`vocab_p4_additions.csv`, and `vocab_p4_merged.csv`. Responses use the shared
+`cache/llm_cache.json`. The run summary reports Groq request attempts
+(including retries), cache hits, and successful responses separately; this
+distinguishes actual API usage from excerpts processed. Use `--drug NAME` to
+filter by the medicine name in provenance or `--limit N` to cap the excerpts.
+These options regenerate the P4 output files with only the selected subset;
+they do not append to an existing full extraction. The source check verifies
+quote presence, not the clinical correctness of an LLM-extracted relation;
+review triples before relying on them. These steps document and validate the
+P4 graph only; they do not describe an application-level safety lookup.
 
 ## Requirements
 
